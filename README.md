@@ -3,13 +3,14 @@
 [RIAT website]: https://riat.ac.at
 [RIAT activities archive]: https://riat.at/activities
 [Eventbrite page]: https://www.eventbrite.com/o/riat-academy-10768509578 "RIAT academy eventbrite page"
-[PDF event calendar]: https://github.com/parasew/riat-events/assets/RIAT-print-event-calendar.PDF
+[PDF overview & print event calendar]: https://github.com/parasew/riat-events/assets/RIAT-print-event-calendar.PDF
 
 # RIAT events
 Events, meetups, workshops and program in the RIAT space (Vienna, Austria). https://riat.ac.at
 
 * [RIAT Events on Facebook]
 * [ICS (iCal) calendar]
+* [PDF overview & print event calendar]
 
 ## 2019
 
