@@ -17,7 +17,7 @@ Events, meetups, workshops and program in the RIAT space (Vienna, Austria). http
 
 * 2019-02-15 [Ethereum Vienna Meetup: Constantinople and Petersburg](https://www.facebook.com/events/539687579870573/?acontext=%7B%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D)
 * 2019-02-16 [Tingel Tangel Flohmarkt](https://www.facebook.com/events/411670976243401/)
-* 2019-02-22 [Future Cryptoeconomics Magazine Genesis Block Event (MuseumsQuartier quartier21)] 
+* 2019-02-22 Future Cryptoeconomics Magazine Genesis Block Event (MuseumsQuartier quartier21)
 * 2019-02-25 [Vienna Digital Identity Meetup #2](https://www.facebook.com/events/239178996988956/?acontext=%7B%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D)
 * 2019-02-25 [Exhibition opening: DATA LOAM / AIL (Angewandte Innovation Laboratory) Franz Josefs Kai 3, 1010 Wien](http://www.ailab.at/upcoming/data-loam-sometimes-hard-usually-soft/)
 * 2019-02-28 [RIAT Academy: Smart Contract Development with Ethereum](https://www.facebook.com/events/319665308665747/?acontext=%7B%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D) 
