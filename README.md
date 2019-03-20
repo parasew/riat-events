@@ -23,7 +23,7 @@ Events, meetups, workshops and program in the RIAT space (Vienna, Austria). http
 * 2019-04-05 RIAT Essentials Program Launch
 * 2019-04-05 2600 Hacker Meeting
 * 2019-04-07 [RIAT Academy: Smart Contract Development with Ethereum](https://www.facebook.com/events/1983523535284837/?acontext=%7B%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D) 
-* 2019-04-10 [Tezos Vienna #1; Tezos protocol w/ Rust, ReasonML DAPPs, Protocol amendments](https://www.meetup.com/de-DE/Tezos-Vienna/events/259790083/)
+* 2019-04-10 [Tezos Vienna #1: Tezos protocol w/ Rust, ReasonML DAPPs, Protocol amendments](https://www.meetup.com/de-DE/Tezos-Vienna/events/259790083/)
 
 
 ## Past events
