@@ -18,14 +18,15 @@ Events, meetups, workshops and program in the RIAT space (Vienna, Austria). http
 
 * 2019-03-25 [Vienna Digital Identity Meetup #3: Rebooting the Web of Trust](https://www.meetup.com/de-DE/Vienna-Digital-Identity-Meetup/events/259683263/)
 * 2019-04-01 [Talk: RIAT Essentials - experiences from distributed research and innovation in decentral communities](https://www.blockchainsummitaustria.com/agenda)
+* 2019-04-02 [Ethereum Vienna Meetup](https://www.meetup.com/Ethereum-Vienna/)
 * 2019-04-03 [Deep Dive into Ethereum (Ralph Pichler)](https://www.blockchainsummitaustria.com/events/deep-dive-into-ethereum)
 * 2019-04-03 [Capacity Distributed Storage - Kickoff Event](https://www.meetup.com/de-DE/Capacity-Network/events/259902642/)
 * 2019-04-05 RIAT Essentials Program Launch
 * 2019-04-05 2600 Hacker Meeting
 * 2019-04-07 [RIAT Academy: Smart Contract Development with Ethereum](https://www.facebook.com/events/1983523535284837/?acontext=%7B%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D) 
 * 2019-04-10 [Tezos Vienna #1: Tezos protocol w/ Rust, ReasonML DAPPs, Protocol amendments](https://www.meetup.com/de-DE/Tezos-Vienna/events/259790083/)
-* 2019-04-12 Fjordchain.camp Meetup
-* 2019-04-18 Microservices Vienna
+* 2019-04-12 [Fjordchain.camp Meetup](https://fjordchain.camp/)
+* 2019-04-18 [Microservices Vienna](https://www.meetup.com/microservices-vienna/)
 
 
 ## Past events
