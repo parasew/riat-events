@@ -17,7 +17,7 @@ Events, meetups, workshops and program in the RIAT space (Vienna, Austria). http
 
 
 * 2019-03-25 [Vienna Digital Identity Meetup #3: Rebooting the Web of Trust](https://www.meetup.com/de-DE/Vienna-Digital-Identity-Meetup/events/259683263/)
-* 2019-04-01 [Talk: RIAT Essentials - experiences from distributed research and innovation in decentral communities](https://www.blockchainsummitaustria.com/agenda)
+* 2019-04-02 [Talk: RIAT Essentials - experiences from distributed research and innovation in decentral communities](https://www.blockchainsummitaustria.com/agenda)
 * 2019-04-02 [Ethereum Vienna Meetup](https://www.meetup.com/Ethereum-Vienna/)
 * 2019-04-03 [Deep Dive into Ethereum (Ralph Pichler)](https://www.blockchainsummitaustria.com/events/deep-dive-into-ethereum)
 * 2019-04-03 [Capacity Distributed Storage - Kickoff Event](https://www.meetup.com/de-DE/Capacity-Network/events/259902642/)
