@@ -28,7 +28,6 @@
 | 2019/01/03 | 70th Bitcoin Austria Meetup: 10 years of Bitcoin                                                                                                                      | Meetup     | RIAT Vienna                              |
 
 
-### 2018
 
 ## other sources
 
