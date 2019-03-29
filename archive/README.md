@@ -25,7 +25,7 @@
 | 2019/02/15 | [Ethereum Vienna Meetup: Constantinople and Petersburg](https://www.facebook.com/events/539687579870573/)                                                             | Meetup     | RIAT Vienna                              |
 | 2019/02/11 | Digital Identity Vienna Meetup: Launch Event                                                                                                                          | Meetup     | RIAT Vienna                              |
 | 2019/02/04 | Blender Usergroup                                                                                                                                                     | Usergroup  | RIAT Vienna                              |
-| 2019/01/03 | 70th Bitcoin Austria Meetup: 10 years of Bitcoin                                                                                                                      | Meetup     | RIAT Vienna                              |
+| 2019/01/03 | [70th Bitcoin Austria Meetup: 10 years of Bitcoin](https://www.meetup.com/Bitcoin-Austria/events/257292033/)                                                                                                                       | Meetup     | RIAT Vienna                              |
 
 
 
