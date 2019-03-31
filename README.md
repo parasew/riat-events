@@ -15,19 +15,18 @@ Events, meetups, workshops and program in the RIAT space (Vienna, Austria). http
 
 ## upcoming events at RIAT
 
-| Date       | Description                                                                                                                                             | Event Type     | Time  | Location                       |     |     |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----- | ------------------------------ | --- | --- |
-| 2019/04/02 | [Talk: RIAT Essentials - experiences from distributed research and innovation in decentral communities](https://www.blockchainsummitaustria.com/agenda) | Presentation   | 11:20 | ANON Blockchain Summit, Vienna |     |     |
-| 2019/04/02 | [Ethereum Vienna Meetup](https://www.meetup.com/Ethereum-Vienna/)                                                                                       | Meetup         | 19:00 | RIAT Vienna                    |     |     |
-| 2019/04/03 | [Deep Dive into Ethereum (Ralph Pichler)](https://www.blockchainsummitaustria.com/events/deep-dive-into-ethereum)                                       | Workshop       | 14:00 | ANON Blockchain Summit, Vienna |     |     |
-| 2019/04/03 | [Capacity Distributed Storage - Kickoff Event](https://www.meetup.com/de-DE/Capacity-Network/events/259902642/)                                         | Capacity       | 19:00 | RIAT Vienna                    |     |     |
-| 2019/04/04 | [RIAT Academy: Smart Contract Development with Ethereum](https://www.facebook.com/events/1983523535284837/)                                             | Academy        |       | RIAT Vienna                    |     |     |
-| 2019/04/05 | 2600 Hacker Meeting                                                                                                                                     | Meeting        | 17:00 | RIAT Vienna                    |     |     |
-| 2019/04/05 | [RIAT Essentials Program Launch](https://www.eventbrite.com/e/riat-essentials-program-launch-event-tickets-59535938595)                                 | Program Launch | 18:00 | RIAT Vienna                    |     |     |
-| 2019/04/10 | [Tezos Vienna #1: Tezos protocol w/ Rust, ReasonML DAPPs, Protocol amendments](https://www.meetup.com/de-DE/Tezos-Vienna/events/259790083/)             | Meetup         | 18:00 | RIAT Vienna                    |     |     |
-| 2019/04/12 | Fjordchain.camp Meetup                                                                                                                                  | Meetup         |       | RIAT Vienna                    |     |     |
-| 2019/04/18 | [Microservices Vienna](https://www.meetup.com/microservices-vienna/)                                                                                    |                |       | RIAT Vienna                    |     |     |
-
+| Date       | Description                                                                                                                                             | Event Type     | Time  | Location                       |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----- | ------------------------------ |
+| 2019/04/02 | [Talk: RIAT Essentials - experiences from distributed research and innovation in decentral communities](https://www.blockchainsummitaustria.com/agenda) | Presentation   | 11:20 | ANON Blockchain Summit, Vienna |
+| 2019/04/02 | [Ethereum Vienna Meetup](https://www.meetup.com/Ethereum-Vienna/)                                                                                       | Meetup         | 19:00 | RIAT Vienna                    |
+| 2019/04/03 | [Deep Dive into Ethereum (Ralph Pichler)](https://www.blockchainsummitaustria.com/events/deep-dive-into-ethereum)                                       | Workshop       | 14:00 | ANON Blockchain Summit, Vienna |
+| 2019/04/03 | [Capacity Distributed Storage - Kickoff Event](https://www.meetup.com/de-DE/Capacity-Network/events/259902642/)                                         | Capacity       | 19:00 | RIAT Vienna                    |
+| 2019/04/04 | [RIAT Academy: Smart Contract Development with Ethereum](https://www.facebook.com/events/1983523535284837/)                                             | Academy        |       | RIAT Vienna                    |
+| 2019/04/05 | 2600 Hacker Meeting                                                                                                                                     | Meeting        | 17:00 | RIAT Vienna                    |
+| 2019/04/05 | [RIAT Essentials Program Launch](https://www.eventbrite.com/e/riat-essentials-program-launch-event-tickets-59535938595)                                 | Program Launch | 18:00 | RIAT Vienna                    |
+| 2019/04/10 | [Tezos Vienna #1: Tezos protocol w/ Rust, ReasonML DAPPs, Protocol amendments](https://www.meetup.com/de-DE/Tezos-Vienna/events/259790083/)             | Meetup         | 18:00 | RIAT Vienna                    |
+| 2019/04/12 | Fjordchain.camp Meetup                                                                                                                                  | Meetup         |       | RIAT Vienna                    |
+| 2019/04/18 | [Microservices Vienna](https://www.meetup.com/microservices-vienna/)                                                                                    |                |       | RIAT Vienna                    | 
 
 
 ## Past events
