@@ -11,15 +11,30 @@
 ## historical archive of events at RIAT
 
 ### 2019
-| Date       | Description                                                                                                                                                      | Event Type        | Location               |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------------- |
-| 2019/04/02 | [Talk: RIAT Essentials - experiences from distributed research and innovation in decentral communities](https://www.blockchainsummitaustria.com/agenda) | Presentation   | 11:20 | ANON Blockchain Summit, Vienna |
+| Date       | Description                                                                                                                                             | Event Type     | Location |                                |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------- | ------------------------------ |
+| 2019/04/05 | [RIAT Essentials Program Launch](https://www.eventbrite.com/e/riat-essentials-program-launch-event-tickets-59535938595)                                 | Program Launch | 18:00    | RIAT Vienna                    |
+| 2019/04/05 | 2600 Hacker Meeting                                                                                                                                     | Meeting        | 17:00    | RIAT Vienna                    |
+| 2019/04/04 | [RIAT Academy: Smart Contract Development with Ethereum](https://www.facebook.com/events/1983523535284837/)                                             | Academy        |          | RIAT Vienna                    |
+| 2019/04/03 | [Capacity Distributed Storage - Kickoff Event](https://www.meetup.com/de-DE/Capacity-Network/events/259902642/)                                         | Capacity       | 19:00    | RIAT Vienna                    |
+| 2019/04/03 | [Deep Dive into Ethereum (Ralph Pichler)](https://www.blockchainsummitaustria.com/events/deep-dive-into-ethereum)                                       | Workshop       | 14:00    | ANON Blockchain Summit, Vienna |
+| 2019/04/02 | [Talk: RIAT Essentials - experiences from distributed research and innovation in decentral communities](https://www.blockchainsummitaustria.com/agenda) | Presentation   | 11:20    | ANON Blockchain Summit, Vienna |
 | 2019/04/02 | [Ethereum Vienna Meetup](https://www.meetup.com/Ethereum-Vienna/)                                                                                       | Meetup         | 19:00 | RIAT Vienna                    |
-| 2019/04/03 | [Deep Dive into Ethereum (Ralph Pichler)](https://www.blockchainsummitaustria.com/events/deep-dive-into-ethereum)                                       | Workshop       | 14:00 | ANON Blockchain Summit, Vienna |
-| 2019/04/03 | [Capacity Distributed Storage - Kickoff Event](https://www.meetup.com/de-DE/Capacity-Network/events/259902642/)                                         | Capacity       | 19:00 | RIAT Vienna                    |
-| 2019/04/04 | [RIAT Academy: Smart Contract Development with Ethereum](https://www.facebook.com/events/1983523535284837/)                                             | Academy        |       | RIAT Vienna                    |
-| 2019/04/05 | 2600 Hacker Meeting                                                                                                                                     | Meeting        | 17:00 | RIAT Vienna                    |
-| 2019/04/05 | [RIAT Essentials Program Launch](https://www.eventbrite.com/e/riat-essentials-program-launch-event-tickets-59535938595)                                 | Program Launch | 18:00 | RIAT Vienna                    |
+| 2019/03/25 | [Vienna Digital Identity Meetup #3: Rebooting the Web of Trust](https://www.meetup.com/de-DE/Vienna-Digital-Identity-Meetup/events/259683263/)                        | Meetup     | RIAT Vienna                              |
+| 2019/03/15 | [Ruby Crypto Meetup #6 - Code Your Own Smart Contracts with Ruby (sruby), Universum & Co.](https://www.facebook.com/events/1988745191426912/)                         | Meetup     | RIAT Vienna                              |
+| 2019/03/09 | [Monero Meetup 01/2019: Network Upgrade, 35c3 recap, Academy](https://www.facebook.com/events/2042824889349215/)                                                      | Meetup     | RIAT Vienna                              |
+| 2019/03/07 | [Microservices Vienna Meetup](https://www.facebook.com/events/293328437951583/)                                                                                       | Meetup     | RIAT Vienna                              |
+| 2019/03/01 | [2600 Hacker Meeting](https://www.facebook.com/events/306031676747864/)                                                                                               | Meeting    | RIAT Vienna                              |
+| 2019/02/28 | [RIAT Academy: Smart Contract Development with Ethereum](https://www.facebook.com/events/319665308665747/)                                                            | Academy    | RIAT Vienna                              |
+| 2019/02/25 | [DATA LOAM Exhibition](https://www.dieangewandte.at/jart/prj3/angewandte-2016/main.jart?rel=de&reserve-mode=active&content-id=1454062400291&artikel_id=1546414237711) | Exhibition | Angewandte Innovation Laboratory, Vienna |
+| 2019/02/25 | [Vienna Digital Identity Meetup #2](https://www.facebook.com/events/239178996988956/)                                                                                 | Meetup     | RIAT Vienna                              |
+| 2019/02/22 | [Future Cryptoeconomics: The Genesis Stack](https://web.facebook.com/events/1067229673468739/)                                                                        | Exhibition | RIAT Vienna                              |
+| 2019/02/15 | [Ethereum Vienna Meetup: Constantinople and Petersburg](https://www.facebook.com/events/539687579870573/)                                                             | Meetup     | RIAT Vienna                              |
+| 2019/02/11 | Digital Identity Vienna Meetup: Launch Event                                                                                                                          | Meetup     | RIAT Vienna                              |
+| 2019/02/04 | Blender Usergroup                                                                                                                                                     | Usergroup  | RIAT Vienna                              |
+| 2019/01/03 | [70th Bitcoin Austria Meetup: 10 years of Bitcoin](https://www.meetup.com/Bitcoin-Austria/events/257292033/)                                                          | Meetup     | RIAT Vienna                              |
+
+
 
 
 ### 2018
