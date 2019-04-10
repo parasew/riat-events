@@ -11,7 +11,6 @@
 ## historical archive of events at RIAT
 
 ### 2019
-### 2019
 | Date       | Description                                                                                                                                                      | Event Type        | Location               |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------------- |
 | 2019/04/02 | [Talk: RIAT Essentials - experiences from distributed research and innovation in decentral communities](https://www.blockchainsummitaustria.com/agenda) | Presentation   | 11:20 | ANON Blockchain Summit, Vienna |
@@ -21,8 +20,6 @@
 | 2019/04/04 | [RIAT Academy: Smart Contract Development with Ethereum](https://www.facebook.com/events/1983523535284837/)                                             | Academy        |       | RIAT Vienna                    |
 | 2019/04/05 | 2600 Hacker Meeting                                                                                                                                     | Meeting        | 17:00 | RIAT Vienna                    |
 | 2019/04/05 | [RIAT Essentials Program Launch](https://www.eventbrite.com/e/riat-essentials-program-launch-event-tickets-59535938595)                                 | Program Launch | 18:00 | RIAT Vienna                    |
-
-
 
 
 ### 2018
@@ -47,10 +44,6 @@
 | 2018/02/08 | [Ethereum Meetup - Education on the blockchain with ODEM + Etherchain] (https://www.meetup.com/de-DE/Ethereum-Vienna/events/247356260/)                          | Meetup            | RIAT Vienna            |
 | 2018/02/03 | [[Presentation] Cryptoeconomics as Data Loam] (https://2018.pastwebsites.transmediale.de/content/cryptoeconomics-as-data-loam)                                   | Presentation      | Transmediale,Berlin    |
 | 2018/02/02 | [[Forkshop] Fork-Politics in Post-Consensus Cryptoeconomics] (https://2018.pastwebsites.transmediale.de/content/fork-politics-in-post-consensus-cryptoeconomics) | Forkshop          | Transmediale, Berlin   |
-
-
-
-
 
 ## other sources
 
