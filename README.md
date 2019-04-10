@@ -19,7 +19,7 @@ Events, meetups, workshops and program in the RIAT space (Vienna, Austria). http
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- | ----------- |
 | 2019/04/10 | [Tezos Vienna #1: Tezos protocol w/ Rust, ReasonML DAPPs, Protocol amendments](https://www.meetup.com/de-DE/Tezos-Vienna/events/259790083/) | Meetup     | 18:00 | RIAT Vienna |
 | 2019/04/12 | Fjordchain.camp Meetup                                                                                                                      | Meetup     | 18:00 | RIAT Vienna |
-| 2019/04/18 | [5th Moneroversary: 5 years of Monero and RIAT Open Day](https://github.com/monero-project/meta/issues/324)                                                                        | All-day program     | *** | RIAT Vienna |
+| 2019/04/18 | [5th Moneroversary: 5 years of Monero and RIAT Open House](https://www.facebook.com/events/370653886870162/)                                                                        | All-day program     | *** | RIAT Vienna |
 | 2019/04/18 | [Microservices Vienna](https://www.meetup.com/microservices-vienna/)                                                                        | Meetup     | 18:30 | RIAT Vienna |
 | 2019/04/29 | [Vienna Digital Identity Meetup #4](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/260079899/)                                | Meetup     | 18:30 | RIAT Vienna | 
 
