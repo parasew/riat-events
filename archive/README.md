@@ -13,7 +13,7 @@
 ### 2019
 | Date       | Description                                                                                                                                             | Event Type     | Location |                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------- | ------------------------------ |
-| 2019/04/05 | [RIAT Essentials Program Launch](https://www.eventbrite.com/e/riat-essentials-program-launch-event-tickets-59535938595)                                 | Program Launch | 18:00    | RIAT Vienna                    |
+| 2019/04/05 | [RIAT Essentials Program Launch](https://www.eventbrite.com/e/riat-essentials-program-launch-event-tickets-59535938595#)                                 | Program Launch | 18:00    | RIAT Vienna                    |
 | 2019/04/05 | 2600 Hacker Meeting                                                                                                                                     | Meeting        | 17:00    | RIAT Vienna                    |
 | 2019/04/04 | [RIAT Academy: Smart Contract Development with Ethereum](https://www.facebook.com/events/1983523535284837/)                                             | Academy        |          | RIAT Vienna                    |
 | 2019/04/03 | [Capacity Distributed Storage - Kickoff Event](https://www.meetup.com/de-DE/Capacity-Network/events/259902642/)                                         | Capacity       | 19:00    | RIAT Vienna                    |
