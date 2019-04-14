@@ -56,9 +56,9 @@
 | 2018/02/27 | [Book Launch - Making.Artistic.Technology Presentation](https://www.facebook.com/events/1625427954212613/)                                                       | Book Presentation | RIAT Vienna            |
 | 2018/02/26 | [66. Bitcoin Austria Meetup](https://www.meetup.com/de-DE/Bitcoin-Austria/events/247950219/)                                                                     | Meetup            | RIAT Vienna            |
 | 2018/02/22 | [Ethereum Tech Meetup - Deep dive into Maker](https://www.meetup.com/de-DE/Ethereum-Vienna/events/247747028/)                                                    | Meetup            | RIAT Vienna            |
-| 2018/02/08 | [Ethereum Meetup - Education on the blockchain with ODEM + Etherchain] (https://www.meetup.com/de-DE/Ethereum-Vienna/events/247356260/)                          | Meetup            | RIAT Vienna            |
+| 2018/02/08 | [Ethereum Meetup - Education on the blockchain with ODEM + Etherchain](https://www.meetup.com/de-DE/Ethereum-Vienna/events/247356260/)                          | Meetup            | RIAT Vienna            |
 | 2018/02/03 | [[Presentation] Cryptoeconomics as Data Loam] (https://2018.pastwebsites.transmediale.de/content/cryptoeconomics-as-data-loam)                                   | Presentation      | Transmediale,Berlin    |
-| 2018/02/02 | [[Forkshop] Fork-Politics in Post-Consensus Cryptoeconomics] (https://2018.pastwebsites.transmediale.de/content/fork-politics-in-post-consensus-cryptoeconomics) | Forkshop          | Transmediale, Berlin   |
+| 2018/02/02 | [[Forkshop] Fork-Politics in Post-Consensus Cryptoeconomics](https://2018.pastwebsites.transmediale.de/content/fork-politics-in-post-consensus-cryptoeconomics) | Forkshop          | Transmediale, Berlin   |
 
 ## other sources
 
