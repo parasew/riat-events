@@ -17,9 +17,8 @@ Events, meetups, workshops and program in the RIAT space (Vienna, Austria). http
 
 | Date       | Description                                                                                                                                 | Event Type | Time  | Location    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- | ----------- |
-| 2019/04/18 | [5th Moneroversary: 5 years of Monero and RIAT Open House](https://www.facebook.com/events/370653886870162/)                                                                        | All-day program     | *** | RIAT Vienna |
-| 2019/04/18 | [Microservices Vienna](https://www.meetup.com/microservices-vienna/)                                                                        | Meetup     | 18:30 | RIAT Vienna |
-| 2019/04/29 | [Vienna Digital Identity Meetup #4](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/260079899/)                                | Meetup     | 18:30 | RIAT Vienna | 
+| 2019/06/04 | [Microservices ❤ Domain-Driven Design](https://www.meetup.com/ddd-vienna/events/261445946/)                                                                        | Meetup     | 18:30 | RIAT Vienna |
+| 2019/06/03 | [Vienna Digital Identity Meetup #5](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/261015488/)                                | Meetup     | 18:30 | RIAT Vienna | 
 
 ## Past events
 
