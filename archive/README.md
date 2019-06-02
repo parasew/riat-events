@@ -13,6 +13,9 @@
 ### 2019
 | Date       | Description                                                                                                                                                           | Event Type     | Location                         |             |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------- | ----------- |
+| 2019/04/18 | [5th Moneroversary: 5 years of Monero and RIAT Open House](https://www.facebook.com/events/370653886870162/)                                                                        | All-day program     | *** | RIAT Vienna |
+| 2019/04/17 | [Microservices Vienna](https://www.meetup.com/microservices-vienna/)                                                                        | Meetup     | 18:30 | RIAT Vienna |
+| 2019/04/29 | [Vienna Digital Identity Meetup #4](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/260079899/)                                | Meetup     | 18:30 | RIAT Vienna | 
 | 2019/04/10 | [Tezos Vienna #1: Tezos protocol w/ Rust, ReasonML DAPPs, Protocol amendments](https://www.meetup.com/de-DE/Tezos-Vienna/events/259790083/)                           | Meetup         | RIAT Vienna                      | RIAT Vienna |
 | 2019/04/12 | [Fjordchain.camp Meetup](https://www.facebook.com/events/2226827140867313/)                                                                                           | Event          | RIAT Vienna                      |             |
 | 2019/04/05 | [RIAT Essentials Program Launch](https://www.eventbrite.com/e/riat-essentials-program-launch-event-tickets-59535938595#)                                              | Program Launch | RIAT Vienna                      |             |
