@@ -1,4 +1,4 @@
-[RIAT Events on Facebook]: https://www.facebook.com/pg/riat.ac.at/events/ "RIAT Events on Facebook"
+
 [ICS (iCal) calendar]: https://calendar.google.com/calendar/ical/riat.at_nst52qhk2fca3u8dvhce8pepbg%40group.calendar.google.com/public/basic.ics "Online subscription to events by the RIAT Institute. Crypto, Blockchain, DLT"
 [RIAT website]: https://riat.ac.at
 [RIAT activities archive]: https://riat.at/activities
@@ -8,12 +8,10 @@
 
 # RIAT events
 Events, meetups, workshops and program in the RIAT space (Vienna, Austria). https://riat.ac.at
-
-* [RIAT Events on Facebook]
 * [ICS (iCal) calendar]
-* [PDF overview & print event calendar]
 
-## upcoming events at RIAT
+
+## upcoming events
 
 | Date                    | Description                                                                                                                            | Event Type | Time  | Location                                      | City   | Country | ISO |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- | --------------------------------------------- | ------ | ------- | --- |
