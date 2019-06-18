@@ -15,10 +15,11 @@ Events, meetups, workshops and program in the RIAT space (Vienna, Austria). http
 
 ## upcoming events at RIAT
 
-| Date       | Description                                                                                                                                 | Event Type | Time  | Location    |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- | ----------- |
-| 2019/06/04 | [Microservices ❤ Domain-Driven Design](https://www.meetup.com/ddd-vienna/events/261445946/)                                                                        | Meetup     | 18:30 | RIAT Vienna |
-| 2019/06/03 | [Vienna Digital Identity Meetup #5](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/261015488/)                                | Meetup     | 18:30 | RIAT Vienna | 
+| Date                    | Description                                                                                                                            | Event Type | Time  | Location                                      | City   | Country | ISO |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- | --------------------------------------------- | ------ | ------- | --- |
+| 2019/06/18              | [Ethereum Meetup [TECH] Microsoft Blockchain News / SW3 Update, Cryptostamp](https://www.meetup.com/Ethereum-Vienna/events/262006356/) | Meetup     | 18:30 | RIAT Vienna                                   | Vienna | Austria | AT  |
+| 2019/06/22              | [Monero Konferenco](https://www.facebook.com/parasew/posts/10156415223136824)                                                          | External   | *     | [The Curtis Hotel](https://www.thecurtis.com) | Denver | USA     | US  |
+| 2019/10/04 - 2019/10/06 | [HCPP: Hackers Congress Paralelni Polis](https://opt-out.hcpp.cz/#speakers) 6th annual Hackers Congress                                | External   | *     | Paralelni Polis, Prague                       | Prague | Czechia | CZ  |
 
 ## Past events
 
