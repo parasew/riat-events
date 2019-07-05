@@ -15,12 +15,9 @@ Events, meetups, workshops and program in the RIAT space (Vienna, Austria). http
 
 | Date                    | Description                                                                                                                            | Event Type | Time  | Location                                      | City   | Country | ISO |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- | --------------------------------------------- | ------ | ------- | --- |
-
 | 2019/07/23 | Bitcoin Austria Meetup | 18:00 | RIAT Vienna | Vienna  | Austria    | AT  |
 | 2019/07/?? | [Monero Austria Meetup](https://www.meetup.com/Monero-Austria/) | 18:00 | RIAT Vienna | Vienna  | Austria    | AT  |
 | 2019/08/02 | 2600 meeting  | 18:00 | RIAT Vienna | Vienna  | Austria    | AT  |
-
-
 | 2019/10/04 - 2019/10/06 | [HCPP: Hackers Congress Paralelni Polis](https://opt-out.hcpp.cz/#speakers) 6th annual Hackers Congress                                | External   | *     | Paralelni Polis, Prague                       | Prague | Czechia | CZ  |
 
 ## Past events
