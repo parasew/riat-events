@@ -13,17 +13,18 @@ Events, meetups, workshops and program in the RIAT space (Vienna, Austria). http
 
 ## upcoming events
 
-| Date                    | Description                                                                                                                              | Event Type | Time  | Location               | City      | Country | ISO |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- | ---------------------- | --------- | ------- | --- |
-| 2019/07/18 - 2019/07/19 | [Riddle and Code presents: Decentralised ID Authentication and Access Workshop](https://www.riddleandcode.com/workshop)                  | Workshop   | 9:30  | RIAT Vienna            | Vienna    | Austria | AT  |
-| 2019/07/19 - 2019/07/21 | [Hackatoshi's Flying Circuit](https://flyingcircuit.com)                                                                                 | Hackathon  | *     | Paralelní Polis        | Prague    | Czechia | CZ  |
-| 2019/07/22              | [Vienna Digital Identity Meetup: ](https://www.meetup.com/Vienna-Digital-Identity-Meetup)                                                | Meetup     | 18:00 | RIAT Vienna            | Vienna    | Austria | AT  |
-| 2019/07/23              | [71th Bitcoin Austria Meetup: Facebook Libra](https://www.meetup.com/Bitcoin-Austria/events/262952674/?eventId=262952674)                | Meetup     | 18:00 | RIAT Vienna            | Vienna    | Austria | AT  |
-| 2019/07/??              | [Monero Austria Meetup](https://www.meetup.com/Monero-Austria/)                                                                          | Meetup     | 18:00 | Vienna                 | Vienna    | Austria | AT  |
-| 2019/08/02              | 2600 meeting                                                                                                                             | Meeting    | 18:00 | RIAT Vienna            | Vienna    | Austria | AT  |
-| 2019/08/08 - 2019/08/11 | [Monero Village](https://monerovillage.com/about/) at [DEF CON 27](https://www.defcon.org/html/defcon-27/dc-27-index.html)               | Village    | *     | Las Vegas              | Las Vegas | USA     | US  |
-| 2019/10/04 - 2019/10/06 | [HCPP: Hackers Congress Paralelni Polis](https://opt-out.hcpp.cz/#speakers) 6th annual Hackers Congress                                  | External   | *     | Paralelni Polis        | Prague    | Czechia | CZ  |
-| 2020/03/13              | [10th Open Hardware Summit, NYC](https://twitter.com/ohsummit/status/1145713168498511872)                                                | Summit     | *     | NYU                    | New York  | USA     | US  |
+| Date                    | Description                                                                                                                | Event Type    | Time  | Location        | City      | Country | ISO |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------- | ----- | --------------- | --------- | ------- | --- |
+| 2019/07/18 - 2019/07/19 | [Riddle and Code presents: Decentralised ID Authentication and Access Workshop](https://www.riddleandcode.com/workshop)    | Workshop      | 9:30  | RIAT Vienna     | Vienna    | Austria | AT  |
+| 2019/07/18              | Riddle and Code workshop results presentation (public)                                                                     | Presentations | 16:00 | RIAT Vienna     | Vienna    | Austria | AT  |
+| 2019/07/19 - 2019/07/21 | [Hackatoshi's Flying Circuit](https://flyingcircuit.com)                                                                   | Hackathon     | *     | Paralelní Polis | Prague    | Czechia | CZ  |
+| 2019/07/22              | [Vienna Digital Identity Meetup: ](https://www.meetup.com/Vienna-Digital-Identity-Meetup)                                  | Meetup        | 18:00 | RIAT Vienna     | Vienna    | Austria | AT  |
+| 2019/07/23              | [71th Bitcoin Austria Meetup: Facebook Libra](https://www.meetup.com/Bitcoin-Austria/events/262952674/?eventId=262952674)  | Meetup        | 18:00 | RIAT Vienna     | Vienna    | Austria | AT  |
+| 2019/07/??              | [Monero Austria Meetup](https://www.meetup.com/Monero-Austria/)                                                            | Meetup        | 18:00 | Vienna          | Vienna    | Austria | AT  |
+| 2019/08/02              | 2600 meeting                                                                                                               | Meeting       | 18:00 | RIAT Vienna     | Vienna    | Austria | AT  |
+| 2019/08/08 - 2019/08/11 | [Monero Village](https://monerovillage.com/about/) at [DEF CON 27](https://www.defcon.org/html/defcon-27/dc-27-index.html) | Village       | *     | Las Vegas       | Las Vegas | USA     | US  |
+| 2019/10/04 - 2019/10/06 | [HCPP: Hackers Congress Paralelni Polis](https://opt-out.hcpp.cz/#speakers) 6th annual Hackers Congress                    | External      | *     | Paralelní Polis | Prague    | Czechia | CZ  |
+| 2020/03/13              | [10th Open Hardware Summit, NYC](https://twitter.com/ohsummit/status/1145713168498511872)                                  | Summit        | *     | NYU             | New York  | USA     | US  |
 
 ## Past events
 
