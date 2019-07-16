@@ -13,6 +13,7 @@
 ### 2019
 | Date                    | Description                                                                                                                                                           | Event Type      | Location                                      | 
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------------------------------------------- | 
+| 2019/07/11              | [Vienna Digital Identity Meetup #6: An Evening with Holochain](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/262809757/) | Meetup     | 18:00 | MQ Vienna / RIAT Booth | Vienna    | Austria | AT  |
 | 2019/06/18              | [Ethereum Meetup [TECH] Microsoft Blockchain News / SW3 Update, Cryptostamp](https://www.meetup.com/Ethereum-Vienna/events/262006356/)                                | Meetup          | RIAT Vienna                                   | 
 | 2019/06/22 - 2019/06/23 | [Monero Konferenco](https://www.facebook.com/parasew/posts/10156415223136824)                                                                                         | External        | [The Curtis Hotel](https://www.thecurtis.com) | 
 | 2019/06/04              | [Microservices ❤ Domain-Driven Design](https://www.meetup.com/ddd-vienna/events/261445946/)                                                                           | Meetup          | RIAT Vienna                                   | 
