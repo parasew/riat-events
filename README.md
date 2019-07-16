@@ -15,7 +15,6 @@ Events, meetups, workshops and program in the RIAT space (Vienna, Austria). http
 
 | Date                    | Description                                                                                                                              | Event Type | Time  | Location               | City      | Country | ISO |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- | ---------------------- | --------- | ------- | --- |
-| 2019/07/11              | [Vienna Digital Identity Meetup #6: An Evening with Holochain](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/262809757/) | Meetup     | 18:00 | MQ Vienna / RIAT Booth | Vienna    | Austria | AT  |
 | 2019/07/18 - 2019/07/19 | [Riddle and Code presents: Decentralised ID Authentication and Access Workshop](https://www.riddleandcode.com/workshop)                  | Workshop   | 9:30  | RIAT Vienna            | Vienna    | Austria | AT  |
 | 2019/07/19 - 2019/07/21 | [Hackatoshi's Flying Circuit](https://flyingcircuit.com)                                                                                 | Hackathon  | *     | Paralelní Polis        | Prague    | Czechia | CZ  |
 | 2019/07/22              | [Vienna Digital Identity Meetup: ](https://www.meetup.com/Vienna-Digital-Identity-Meetup)                                                | Meetup     | 18:00 | RIAT Vienna            | Vienna    | Austria | AT  |
