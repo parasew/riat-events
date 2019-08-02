@@ -23,6 +23,7 @@ Events, meetups, workshops and program in the RIAT space (Vienna, Austria). http
 | 2019/08/01              | [Monero Austria Meetup](https://www.meetup.com/Monero-Austria/)                                                            | Meetup        | 18:00 | Vienna          | Vienna    | Austria | AT  |
 | 2019/08/02              | 2600 meeting                                                                                                               | Meeting       | 18:00 | RIAT Vienna     | Vienna    | Austria | AT  |
 | 2019/08/08 - 2019/08/11 | [Monero Village](https://monerovillage.com/about/) at [DEF CON 27](https://www.defcon.org/html/defcon-27/dc-27-index.html) | Village       | *     | Las Vegas       | Las Vegas | USA     | US  |
+| 2019/08/27              | [Blender Community Meeting](https://www.meetup.com/vienna-libre-media/events/263621805/) / [Vienna Libre Media](https://www.meetup.com/vienna-libre-media/) | Meetup        | 18:30 | RIAT Vienna     | Vienna    | Austria | AT  |
 | 2019/10/04 - 2019/10/06 | [HCPP: Hackers Congress Paralelni Polis](https://opt-out.hcpp.cz/#speakers) 6th annual Hackers Congress                    | External      | *     | Paralelní Polis | Prague    | Czechia | CZ  |
 | 2020/03/13              | [10th Open Hardware Summit, NYC](https://twitter.com/ohsummit/status/1145713168498511872)                                  | Summit        | *     | NYU             | New York  | USA     | US  |
 
