@@ -2,6 +2,8 @@
 [ICS (iCal) calendar]: https://calendar.google.com/calendar/ical/riat.at_nst52qhk2fca3u8dvhce8pepbg%40group.calendar.google.com/public/basic.ics "online subscription to events in the RIAT space: crypto, blockchain, DLT"
 [RIAT website]: https://riat.ac.at
 [RIAT activities archive]: https://riat.at/activities
+[Activities 2017-2012]: https://github.com/parasew/riat-events/tree/master/archive/2017-2012.md
+[Activities 2003-2011]: https://github.com/parasew/riat-events/tree/master/archive/2003-2011.md
 [Eventbrite page]: https://www.eventbrite.com/o/riat-academy-10768509578 "RIAT academy eventbrite page"
 [PDF overview & print event calendar]: https://github.com/parasew/riat-events/raw/master/assets/RIAT_program_PDF_calendar_2019.pdf
 [events archive]: "https://github.com/parasew/riat-events/tree/master/archive"
@@ -84,7 +86,7 @@
 | 2018/02/02 | [[Forkshop] Fork-Politics in Post-Consensus Cryptoeconomics](https://2018.pastwebsites.transmediale.de/content/fork-politics-in-post-consensus-cryptoeconomics) | Forkshop          | Transmediale, Berlin   |
 
 ## other sources
-
-* [RIAT activities archive] (2003-2018)
+* [Activities 2017-2012] (Artistic Bokeh, RIAT)
+* [Activities 2003-2011] (5uper.net, Coded Cultures, Bitcoincloud)
 * [RIAT Events on Facebook] (RIAT facebook events archive)
 * [Eventbrite page]
