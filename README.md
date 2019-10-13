@@ -18,6 +18,7 @@ Events, meetups, workshops and program in the RIAT space (Vienna, Austria). http
 | 2019/10/01              | [Open Hardware Month Kick-Off: Apertus AXIOM](https://www.facebook.com/events/388949381797827/)         | Showcase   | 18:00 | RIAT Vienna     | Vienna   | Austria | AT  |
 | 2019/10/04 - 2019/10/06 | [HCPP: Hackers Congress Paralelni Polis](https://opt-out.hcpp.cz/#speakers) 6th annual Hackers Congress | External   | *     | Paralelní Polis | Prague   | Czechia | CZ  |
 | 2019/10/07 - 2019/10/15 | [Japan Blockchain Week](https://www.blockchainweek.jp)                                                  | External   | *     | *               | Tokyo    | Japan   | JP  |
+| 2019/10/24              | [CGmeet](https://www.facebook.com/PIXELvienna/) | Meetup   | 19:00 | RIAT Vienna     | Vienna   | Austria | AT  |
 | 2019/12/27 - 2019/12/30 | 36C3                                                                                                    | Congress   | *     |                 | Leipzig  | Germany | DE  |
 | 2020/03/13              | [10th Open Hardware Summit, NYC](https://twitter.com/ohsummit/status/1145713168498511872)               | Summit     | *     | NYU             | New York | USA     | US  |
 
