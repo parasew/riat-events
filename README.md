@@ -20,7 +20,7 @@ Events, meetups, workshops and program in the RIAT space (Vienna, Austria). http
 | 2019/10/07 - 2019/10/15 | [Japan Blockchain Week](https://www.blockchainweek.jp)                                                  | External   | *     | *               | Tokyo    | Japan   | JP  |
 | 2019/10/24              | [CGmeet](https://www.facebook.com/PIXELvienna/) | Meetup   | 19:00 | RIAT Vienna     | Vienna   | Austria | AT  |
 | 2019/11/14 | [Microservices, Reactive and Distributed Systems: How to move fast, deploy often, and minimize risk with microservices](https://www.meetup.com/reactive-vienna/events/265503655/)| Meetup   | 18:00     |                 | RIAT Vienna  | Austria | AT  |
-| 2019/12/27 - 2019/12/30 | 36C3                                                                                                    | Congress   | *     |                 | Leipzig  | Germany | DE  |
+| 2019/12/27 - 2019/12/30 | [36C3](https://www.ccc.de/en/updates/2019/36c3-in-leipzig)                                                                                                    | Congress   | *     |                 | Leipzig  | Germany | DE  |
 | 2020/03/13              | [10th Open Hardware Summit, NYC](https://twitter.com/ohsummit/status/1145713168498511872)               | Summit     | *     | NYU             | New York | USA     | US  |
 
 ## Past events
