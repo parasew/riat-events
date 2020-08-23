@@ -11,17 +11,10 @@ Events, meetups, workshops and program in the RIAT space (Vienna, Austria). http
 
 - [ICS (iCal) calendar]
 
-## upcoming events
+## Highlights from the past year
 
-| Date                    | Description                                                                                                                                                                                                                                  | Event Type | Time  | Location    | City     | Country     | ISO |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- | ----------- | -------- | ----------- | --- |
-| 2019/12/27 - 2019/12/30 | [36C3](https://36c3.info): [decentral.community](https://decentral.community)                                                                                                                                                                | Congress   | \*    | CCL         | Leipzig  | Germany     | DE  |
-| 2020/01/03              | [Bitcoin Austria: 11 Jahre Bitcoin Blockchain](https://www.meetup.com/Bitcoin-Austria/events/264931723/)                                                                                                                                     | Meetup     | 19:00 | RIAT Vienna | Vienna   | Austria     | AT  |
-| 2020/01/08              | [Elm Meetup January](https://www.meetup.com/Vienna-Elm-Meetup/events/266979403/)                                                                                                                                                             | Meetup     | 19:00 | RIAT Vienna | Vienna   | Austria     | AT  |
-| 2020/01/29              | [Animated Typography with Blender](https://www.meetup.com/vienna-libre-media/events/266903048/)                                                                                                                                              | Workshop   | 19:00 | RIAT Vienna | Vienna   | Austria     | AT  |
-| 2020/02/01              | [Bitcoin Austria: raspiblitz workshop](https://www.meetup.com/Bitcoin-Austria/events/266924962/)                                                                                                                                             | Workshop   | 14:00 | RIAT Vienna | Vienna   | Austria     | AT  |
-| 2020/03/13              | [10th Open Hardware Summit, NYC](https://twitter.com/ohsummit/status/1145713168498511872)                                                                                                                                                    | Summit     | \*    | NYU         | New York | USA         | US  |
-| 2020/03/04              | [Elm Meetup March](https://www.meetup.com/Vienna-Elm-Meetup/events/268211606/)                                                                                                                                                               | Meetup     | 18:30 | RIAT Vienna | Vienna   | Austria     | AT  |
+* [Open Hardware Summit 2020](https://oshwa.org)
+* [decentral.community](https://decentral.community) at 36C3
 
 ## Past events
 
