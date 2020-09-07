@@ -26,4 +26,5 @@ RIAT is home to projects such as:
 "We work with experimental artistic technology and open hardware. We explore and actively stress-test the role of research and development in the age of zero-trust, through novel forms of presentation, discussion and publication. Examining the global cryptoeconomic condition and its effects on culture and society, we foster an open and interdisciplinary discourse to improve crypto-literacy for the society of tomorrow and foster the adoption of cryptography and privacy technologies across disciplines."
 
 ## Resources
-*
+* https://www.facebook.com/events/1002168753301239/
+* https://www.meetup.com/Decentralization-Meetup/events/255908369
