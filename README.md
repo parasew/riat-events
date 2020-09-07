@@ -11,14 +11,15 @@ Events, meetups, workshops and program in the RIAT space (Vienna, Austria). http
 
 - [ICS (iCal) calendar]
 
-Upcoming events:
+Do you want to organise an event in one of our spaces?
+Get in contact with bt@riat.at
 
-* 2020-08-24 [Vienna Digital Identity Meetup #13](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272597365/)
+Our network can also help with organising, documentation and filming.
 
-## Highlights from the past year
+## Past highlights
 
 * [Open Hardware Summit 2020](https://oshwa.org)
-* [decentral.community](https://decentral.community) at 36C3
+* [decentral.community](https://decentral.community) at 36C3 (2019)
 
 ## Past events
 
