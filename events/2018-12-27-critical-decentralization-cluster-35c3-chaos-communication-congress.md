@@ -1,6 +1,6 @@
 ---
 title: "Critical Decentralisation Cluster at 35C3 Chaos Communication Congress"
-date: "2018-12-27T17:00+20:00"
+date: "2018-12-27T17:00+02:00"
 draft: false
 location: "Messehalle Leipzig"
 country: "Germany"
