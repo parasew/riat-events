@@ -99,6 +99,7 @@
 
 
 ### 2018
+
 | Date       | Description                                                                                                                                                     | Event Type        | Location               |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------------- |
 | 2018/12/27 | [Critical Decentralisation Cluster at 35C3 Chaos Communication Congress](https://decentral.community/)                                                          | Conference        | Messehalle Leipzig     |

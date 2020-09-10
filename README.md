@@ -23,4 +23,4 @@ Our network can also help with organising, documentation and filming.
 
 ## Past events
 
-Past events can be found in the [events archive].
+Past events can be found in the [events archive](archive)
