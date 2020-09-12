@@ -9,9 +9,9 @@ image: https://live.staticflickr.com/2857/12139100654_402717d9f8_k_d.jpg
 category: "digital identity"
 ---
 
-We continue the events for the Vienna Digital Identity Meetup, with the next one being Identity and IoT. The DIDs and Verifiable Credentials is starting to gain attention within the IoT sector. There is hope that with the security and crypto around DIDs and VCs there may be a cost effective way to get high assurance identity into the IoT space.
+In continuation of the *Vienna Digital Identity Meetup*, the thirteenth meetup has been focosing on the topic *Identity and IoT*. DIDs and Verifiable Credentials (VC) are starting to gain attention within the IoT (Internet of Things) sector. There is hope that with the security and crypto around DIDs and VCs there may be a cost effective way to get high assurance identity into the IoT space.
 
-We have two great speakers who will be Zooming in:
+This meetup has featured two speakers via ZOOM:
 
 **Micha Roon, CTO The Energy Web Foundation**
 
@@ -21,4 +21,7 @@ We have two great speakers who will be Zooming in:
 
 > Automation has only just started. More and more infrastructure will be digitized, allowing real-time interactions and data sharing. This will lead to Smart cities that can act as an organism, receiving information from edge devices, and responding to the data as a whole. This system requires a layer of trust, where devices can be identified and trusted, based on decentralized identifiers. Through trust, we can enable data selling and purchasing, negotiations, outsourcing, and much more.
 
-This will be both an in person and online event.
+Hybrid event: on-site in the RIAT space Neubaugasse and on-line via ZOOM.
+
+## References
+* https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272597365/
