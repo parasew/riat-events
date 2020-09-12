@@ -14,19 +14,19 @@
 
 ### 2020
 
-| Date       | Description                                                                                                   | Event Type       | Time  | Location     | City      | Country | ISO |
-| ---------- | -------------------------------------------------------------------------------------------------             | ---------------- | ----- | ------------ | --------- | ------- | --    |
-| 2020/08/24 | [Vienna Digital Identity Meetup #13](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272597365/) | Meetup           | 18:30 | RIAT Vienna  | Vienna    | Austria | AT  |
-| 2020/08/10 | [Vienna Digital Identity Meetup #12](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272384741/) | Meetup           | 18:30 | RIAT Vienna  | Vienna    | Austria | AT  |
-| 2020/07/27 | [Vienna Digital Identity Meetup #11](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272038026/) | Meetup           | 18:30 | RIAT Vienna  | Vienna    | Austria | AT  |
-| 2020/07/13 | [Vienna Digital Identity Meetup #10](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271801491/) | Meetup           | 18:30 | RIAT Vienna  | Vienna    | Austria | AT  |
-| 2020/06/22 | [Vienna Digital Identity Meetup #9](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271311363/)  | Meetup           | 18:30 | RIAT Vienna  | Vienna    | Austria | AT  |
-| 2020/03/04 | [Elm Meetup March](https://www.meetup.com/Vienna-Elm-Meetup/events/268211606/)                           | Meetup           | 18:30  | RIAT Vienna  | Vienna    | Austria | AT  |
-| 2020/03/13 | [10th Open Hardware Summit, NYC](https://twitter.com/ohsummit/status/1145713168498511872)                | Summit           | \*     | NYU          | New York  | USA     | US  |
-| 2020/02/01 | [Bitcoin Austria: raspiblitz workshop](https://www.meetup.com/Bitcoin-Austria/events/266924962/)         | Workshop         | 14:00  | RIAT Vienna  | Vienna    | Austria | AT  |
-| 2020/01/29 | [Animated Typography with Blender](https://www.meetup.com/vienna-libre-media/events/266903048/)          | Workshop         | 19:00  | RIAT Vienna  | Vienna    | Austria | AT  |
-| 2020/01/08 | [Elm Meetup January](https://www.meetup.com/Vienna-Elm-Meetup/events/266979403/)                         | Meetup           | 19:00  | RIAT Vienna  | vienna    | Austria | AT  |
-| 2020/01/03 | [Bitcoin Austria: 11 Jahre Bitcoin Blockchain](https://www.meetup.com/Bitcoin-Austria/events/264931723/) | Meetup           | 19:00  | RIAT Vienna  | Vienna    | Austria | AT  |
+| Date       | Description                                                                                                                                            | Event Type       | Time  | Location     | City      | Country | ISO |
+| ---------- | -------------------------------------------------------------------------------------------------                                                      | ---------------- | ----- | ------------ | --------- | ------- | --  |
+| 2020/08/24 | [Vienna Digital Identity Meetup #13](../events/https://github.com/parasew/riat-events/tree/master/events/2020-08-24-vienna-digital-identity-meetup-13) | Meetup           | 18:30 | RIAT Vienna  | Vienna    | Austria | AT  |
+| 2020/08/10 | [Vienna Digital Identity Meetup #12](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272384741/)                                          | Meetup           | 18:30 | RIAT Vienna  | Vienna    | Austria | AT  |
+| 2020/07/27 | [Vienna Digital Identity Meetup #11](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272038026/)                                          | Meetup           | 18:30 | RIAT Vienna  | Vienna    | Austria | AT  |
+| 2020/07/13 | [Vienna Digital Identity Meetup #10](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271801491/)                                          | Meetup           | 18:30 | RIAT Vienna  | Vienna    | Austria | AT  |
+| 2020/06/22 | [Vienna Digital Identity Meetup #9](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271311363/)                                           | Meetup           | 18:30 | RIAT Vienna  | Vienna    | Austria | AT  |
+| 2020/03/04 | [Elm Meetup March](https://www.meetup.com/Vienna-Elm-Meetup/events/268211606/)                                                                         | Meetup           | 18:30 | RIAT Vienna  | Vienna    | Austria | AT  |
+| 2020/03/13 | [10th Open Hardware Summit, NYC](https://twitter.com/ohsummit/status/1145713168498511872)                                                              | Summit           | \*    | NYU          | New York  | USA     | US  |
+| 2020/02/01 | [Bitcoin Austria: raspiblitz workshop](https://www.meetup.com/Bitcoin-Austria/events/266924962/)                                                       | Workshop         | 14:00 | RIAT Vienna  | Vienna    | Austria | AT  |
+| 2020/01/29 | [Animated Typography with Blender](https://www.meetup.com/vienna-libre-media/events/266903048/)                                                        | Workshop         | 19:00 | RIAT Vienna  | Vienna    | Austria | AT  |
+| 2020/01/08 | [Elm Meetup January](https://www.meetup.com/Vienna-Elm-Meetup/events/266979403/)                                                                       | Meetup           | 19:00 | RIAT Vienna  | vienna    | Austria | AT  |
+| 2020/01/03 | [Bitcoin Austria: 11 Jahre Bitcoin Blockchain](https://www.meetup.com/Bitcoin-Austria/events/264931723/)                                               | Meetup           | 19:00 | RIAT Vienna  | Vienna    | Austria | AT  |
 
 
 ### 2019
