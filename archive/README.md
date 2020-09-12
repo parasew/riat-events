@@ -16,7 +16,7 @@
 
 | Date       | Description                                                                                                                                            | Event Type       | Time  | Location     | City      | Country | ISO |
 | ---------- | -------------------------------------------------------------------------------------------------                                                      | ---------------- | ----- | ------------ | --------- | ------- | --  |
-| 2020/08/24 | [Vienna Digital Identity Meetup #13](../events/https://github.com/parasew/riat-events/tree/master/events/2020-08-24-vienna-digital-identity-meetup-13) | Meetup           | 18:30 | RIAT Vienna  | Vienna    | Austria | AT  |
+| 2020/08/24 | [Vienna Digital Identity Meetup #13](../events/2020-08-24-vienna-digital-identity-meetup-13) | Meetup           | 18:30 | RIAT Vienna  | Vienna    | Austria | AT  |
 | 2020/08/10 | [Vienna Digital Identity Meetup #12](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272384741/)                                          | Meetup           | 18:30 | RIAT Vienna  | Vienna    | Austria | AT  |
 | 2020/07/27 | [Vienna Digital Identity Meetup #11](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272038026/)                                          | Meetup           | 18:30 | RIAT Vienna  | Vienna    | Austria | AT  |
 | 2020/07/13 | [Vienna Digital Identity Meetup #10](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271801491/)                                          | Meetup           | 18:30 | RIAT Vienna  | Vienna    | Austria | AT  |
