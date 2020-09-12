@@ -1,6 +1,6 @@
 ---
 title: "Vienna Digital Identity Meetup #13"
-date: 2020-08-22T13:59:16+02:00
+date: 2020-08-24T13:59:16+02:00
 draft: false
 location: RIAT Vienna
 country: Austria
@@ -9,13 +9,13 @@ image: https://live.staticflickr.com/2857/12139100654_402717d9f8_k_d.jpg
 category: "digital identity"
 ---
 
-In continuation of the *Vienna Digital Identity Meetup*, the thirteenth meetup has been focosing on the topic *Identity and IoT*. DIDs and Verifiable Credentials (VC) are starting to gain attention within the IoT (Internet of Things) sector. There is hope that with the security and crypto around DIDs and VCs there may be a cost effective way to get high assurance identity into the IoT space.
+In continuation of the *Vienna Digital Identity Meetup*, the thirteenth meetup has been focusing on the topic *Identity and IoT*. DIDs and Verifiable Credentials (VC) are starting to gain attention within the IoT (Internet of Things) sector. There is hope that with the security and crypto around DIDs and VCs there may be a cost effective way to get high assurance identity into the IoT space.
 
 This meetup has featured two speakers via ZOOM:
 
 **Micha Roon, CTO The Energy Web Foundation**
 
-> As the physical electricity grid decentralizes, the devices on it need to be included in the electricity markets used to manage the grid. Historically, only big assets were onboarded because of the onboarding costs. In this presentation, I want to show how onboarding assets can be decentralized and made more efficient and hence cheaper.
+> As the physical electricity grid decentralizes, the devices on it need to be included in the electricity markets used to manage the grid. Historically, only big assets were on-boarded because of high costs. In this presentation, I want to show how on-boarding assets can be decentralized and made more efficient and hence cheaper.
 
 **Jelle Millenaar, Identity Lead for the IOTA Foundation**
 
