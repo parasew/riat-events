@@ -9,15 +9,14 @@ urls: ["https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/265564794/"
 category: digital identity
 ---
 
-Well, it's hard to believe it will be almost two months since we last met for our special event!
+In the 8th instance of the *Vienna Digital Identity Meetup* we have been covering the following upcoming events:
 
-In that time, there have been a bunch of big Identity Events.
-
-In this Meetup we will be giving a briefing on each of:
-
-- Rebooting the Web of Trust
+- Rebooting the Web of Trust (RWOT)
 - TPAC
 - MyData Global
 - Internet Identity Workshop
 
 Four of the more significant identity technology events in the calendar.
+
+## Resources
+* https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/265564794/

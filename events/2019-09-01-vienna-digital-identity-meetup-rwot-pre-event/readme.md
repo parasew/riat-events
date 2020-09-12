@@ -9,13 +9,9 @@ urls: ["https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/262359964/"
 category: digital identity
 ---
 
-Vienna Digital Identity Meetup in conjunction with DanubeTech are planning a special digital identity event 
+The special edition of the *Vienna Digital Identity Meetup*  called "on the road to prague" served as a pre-event to RWOT ("Rebooting the Web of Trust"), which took place in Prague September 3 -6.
 
-here in Vienna, on September 1 from 1100 - 1500.
-
-This is a pre-event for the 9th Rebooting-the-Web-of-Trust event that is happening in Prague on September 3 - 6.
-
-We have commitments from the following organizations for presentations:
+A large number of presentations have been given from
 
 - Lab10 Collective
 - Own Your Data
@@ -23,3 +19,5 @@ We have commitments from the following organizations for presentations:
 - Mastodon
 - Riddle & Code
 
+## Resources
+* https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/263159533/

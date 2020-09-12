@@ -9,18 +9,12 @@ image: https://secure.meetupstatic.com/photos/event/4/9/c/c/highres_491418892.jp
 category: "digital identity"
 ---
 
-We have in-person presentations from:
+The eleventh *Vienna Digital Identity Meetup* has been featuring two presentations and three speakers. This has been a hybrid event with both in person and on-line participation.
 
-Oliver Terbu from Consensys will be giving an update on DIDcomm v2.
+* Oliver Terbu from *Consensys* will be giving an update on DIDcomm v2.
+* Adam Martin and Juan Caballero from *Spherity*.
 
-and
+Michael Shea has been giving a brief update on the digital identity space and an gave an update on upcoming events at RIAT.
 
-Adam Martin from Spherity.
-
-Our half speaker ;-) will be our remote presenter Juan Caballero from Spherity.
-
-As usual I will give a brief update on what is going on within the space and an update on upcoming events.
-
-I am again running this as a hybrid event with both in person and online. If you are in Vienna, please come join us!
-
-We will keep the appropriate distancing of seating!
+## Resources
+* https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272038026/
