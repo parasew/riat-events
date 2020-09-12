@@ -11,8 +11,11 @@ category: digital identity
 
 Darrell O'Donnel, CTO of CU Ledger will be presenting the MemberPass solution. Darrell is also a founding Board Member of the Trust over IP Foundation.
 
-CU Ledger is a Credit Union Service Organization in the US that is owned by the member Credit Unions across the US and Canada. CU Ledger is a founding Steward of Sovrin Network and is in production with their MemberPass solution.
+CU Ledger is a Credit Union Service Organization in the US that is owned by the member Credit Unions across the US and Canada. CU Ledger is a founding Steward of *Sovrin Network* and is in production with their MemberPass solution.
 
 Darrell will be speaking on the development and learning process of building a decentralized identity solution to meet a specific business problem for the Credit Unions.
 
 This presentation will be a combination of business drivers and technical solution.
+
+## Resources
+* https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271801491/
