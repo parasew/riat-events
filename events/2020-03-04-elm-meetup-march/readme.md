@@ -10,7 +10,7 @@ category: meetups
 Are you interested in Elm? This meetup is for you! We are happy to help beginners getting started, setting up an elm development environment, discuss advanced topics and solve some exciting programming problems together.
 
 
-## Resources
+# References
 * https://www.meetup.com/Vienna-Elm-Meetup/events/268211606/
 * https://elmvienna.slack.com
 * https://github.com/ni-ko-o-kin/elm-meetups
