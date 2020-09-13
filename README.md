@@ -5,7 +5,7 @@ The main aim of this repo is to have a central point for past events, as the ins
 
 ## Extending the events archive
 
-If you find something online or missing in the list here, [please open an issue](https://github.com/parasew/riat-events/issues/new) or create a pull request. You can [read the howto](howto.md) in order to understand better how to contribute. The [events archive](https://github.com/parasew/riat-events/tree/master/archive) usually is a good starting point.
+If you find something online or missing in the list here, [please open an issue](https://github.com/parasew/riat-events/issues/new) or create a pull request. You can [read the howto](https://github.com/parasew/riat-events/blob/master/todo/howto.md) in order to understand better how to contribute. The [events archive](https://github.com/parasew/riat-events/tree/master/archive) usually is a good starting point.
 
 
 # Organizing an event with us
