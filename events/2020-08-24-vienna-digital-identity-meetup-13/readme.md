@@ -1,6 +1,5 @@
 ---
 title: "Vienna Digital Identity Meetup #13"
-date: 2020-08-24T13:59:16+02:00
 draft: false
 location: RIAT Vienna
 country: Austria
