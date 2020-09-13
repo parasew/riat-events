@@ -4,7 +4,7 @@ date: 2020-03-04T18:30:00+02:00
 draft: false
 location: "RIAT Vienna"
 startdate: "2020-03-04"
-image: https://unsplash.com/photos/JNz9bQD3Oio
+image: https://images.unsplash.com/photo-1542831371-32f555c86880?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
 category: elm
 ---
 
