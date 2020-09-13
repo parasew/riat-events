@@ -19,6 +19,6 @@ Our network can also help with organizing, documentation and filming.
 
 
 ## More information
-
+* [events archive](https://github.com/parasew/riat-events/tree/master/archive)
 * [Online subscription to events by the RIAT Institute](https://calendar.google.com/calendar/ical/riat.at_nst52qhk2fca3u8dvhce8pepbg%40group.calendar.google.com/public/basic.ics)
 * [RIAT Wikipedia](https://en.wikipedia.org/wiki/Research_Institute_for_Arts_and_Technology)
