@@ -20,8 +20,5 @@ Our network can also help with organizing, documentation and filming.
 
 ## More information
 
-[ics (ical) calendar]: https://calendar.google.com/calendar/ical/riat.at_nst52qhk2fca3u8dvhce8pepbg%40group.calendar.google.com/public/basic.ics "Online subscription to events by the RIAT Institute"
-[riat website]: https://riat.ac.at
-[riat activities archive]: https://riat.at/activities
-[eventbrite page]: https://www.eventbrite.com/o/riat-academy-10768509578 "RIAT academy eventbrite page"
-[RIAT Wikipedia]: https://en.wikipedia.org/wiki/Research_Institute_for_Arts_and_Technology
+* [Online subscription to events by the RIAT Institute](https://calendar.google.com/calendar/ical/riat.at_nst52qhk2fca3u8dvhce8pepbg%40group.calendar.google.com/public/basic.ics)
+* [RIAT Wikipedia](https://en.wikipedia.org/wiki/Research_Institute_for_Arts_and_Technology)
