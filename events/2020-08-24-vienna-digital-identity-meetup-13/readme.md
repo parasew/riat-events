@@ -1,11 +1,12 @@
 ---
-title: "Vienna Digital Identity Meetup #13"
 location: RIAT Vienna
 country: Austria
 startdate: 2020/08/24
 category: "meetups"
 tags: ["digital identity", "energyweb"]
 ---
+
+# Vienna Digital Identity Meetup #13
 
 ![image](https://live.staticflickr.com/2857/12139100654_402717d9f8_k_d.jpg)
 
@@ -23,5 +24,5 @@ This meetup has featured two speakers via ZOOM:
 
 Hybrid event: on-site in the RIAT space Neubaugasse and on-line via ZOOM.
 
-## References
+# References
 * https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272597365/
