@@ -1,19 +1,18 @@
 ---
-title: "Vienna Digital Identity Meetup #13"
-date: 2020-08-24T13:59:16+02:00
-draft: false
 location: RIAT Vienna
 country: Austria
 startdate: 2020/08/24
-image: https://live.staticflickr.com/2857/12139100654_402717d9f8_k_d.jpg
-category: "digital identity"
+category: "meetups"
+tags: ["digital identity", "energyweb"]
 ---
+
+# Vienna Digital Identity Meetup #13
 
 ![image](https://live.staticflickr.com/2857/12139100654_402717d9f8_k_d.jpg)
 
 In continuation of the *Vienna Digital Identity Meetup*, the thirteenth meetup has been focusing on the topic *Identity and IoT*. DIDs and Verifiable Credentials (VC) are starting to gain attention within the IoT (Internet of Things) sector. There is hope that with the security and crypto around DIDs and VCs there may be a cost effective way to get high assurance identity into the IoT space.
 
-This meetup has featured two speakers via ZOOM:
+This meetup has featured two speakers via ZOOM.
 
 **Micha Roon, CTO The Energy Web Foundation**
 
@@ -25,5 +24,5 @@ This meetup has featured two speakers via ZOOM:
 
 Hybrid event: on-site in the RIAT space Neubaugasse and on-line via ZOOM.
 
-## References
+# References
 * https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272597365/

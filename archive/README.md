@@ -10,7 +10,7 @@
 
 # RIAT events archive
 
-## historical archive of events at RIAT
+## Historical event archive of RIAT 
 
 ### 2020
 
