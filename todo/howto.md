@@ -21,7 +21,7 @@ Images are done like this: ![text](https://placekitten.com/200/287)
 
 ### Event overview
 
-1. once the event is created, please make sure it is mentioned and linked in the [event overview](https://github.com/parasew/riat-events/tree/master/archive)
+* once the event is created, please make sure it is mentioned and linked in the [event overview](https://github.com/parasew/riat-events/tree/master/archive)
 
 ### Suggested tech and tools for the Process
 
