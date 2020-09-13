@@ -23,3 +23,4 @@ A large number of presentations have been given from
 
 ## Resources
 * https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/263159533/
+* https://twitter.com/MattrGlobal/status/1168984373909229568
