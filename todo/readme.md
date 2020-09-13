@@ -6,3 +6,8 @@
 * [https://www.eventbrite.com/o/riat-academy-10768509578](Eventbrite)
 * [Timeline from Artistic Technology Research](https://web.archive.org/web/20180903135110/https://artistictechnology.at/timeline.html)
 * [Facebook Events from RIAT]()
+
+
+## Images
+
+* [Artisticboken Flickr](https://www.flickr.com/photos/artisticbokeh/albums)
