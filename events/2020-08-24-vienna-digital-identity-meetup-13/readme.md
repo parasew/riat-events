@@ -12,7 +12,7 @@ tags: ["digital identity", "energyweb"]
 
 In continuation of the *Vienna Digital Identity Meetup*, the thirteenth meetup has been focusing on the topic *Identity and IoT*. DIDs and Verifiable Credentials (VC) are starting to gain attention within the IoT (Internet of Things) sector. There is hope that with the security and crypto around DIDs and VCs there may be a cost effective way to get high assurance identity into the IoT space.
 
-This meetup has featured two speakers via ZOOM:
+This meetup has featured two speakers via ZOOM.
 
 **Micha Roon, CTO The Energy Web Foundation**
 
