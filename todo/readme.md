@@ -1,5 +1,5 @@
 This is the catchall file for things that are still to be done.
-If you find something online or missing in the list here, [please open an issue](https://github.com/parasew/riat-events/issues/new) or create a pull request.
+If you find something online or missing in the list here, [please open an issue](https://github.com/parasew/riat-events/issues/new) or create a pull request. You can [read the howto](howto.md) in order to understand better how to contribute.
 
 # List of things to be entered in the archive
 
