@@ -1,10 +1,8 @@
 ---
 title: "Vienna Digital Identity Meetup #13"
-draft: false
 location: RIAT Vienna
 country: Austria
 startdate: 2020/08/24
-image: https://live.staticflickr.com/2857/12139100654_402717d9f8_k_d.jpg
 category: "digital identity"
 ---
 
