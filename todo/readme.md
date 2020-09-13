@@ -6,7 +6,7 @@ This is a catch-all place for all things that still need work.
 The main aim is, is to have a central point for past events of the [RIAT Institute](https://riat.at). The institute exists since quite some time, and documentation is scattered in many places. This repo is here to help, and also feeds the RIAT website.
 
 # What can I do?
-If you find something online or missing, [please open an issue](https://github.com/parasew/riat-events/issues/new) or create a pull request. You can [read the howto](howto.md) in order to understand better how to contribute. The [events archive](https://github.com/parasew/riat-events/tree/master/archive) usually is a good starting point.
+If you find something missing, [please open an issue](https://github.com/parasew/riat-events/issues/new) or create a pull request. You can [read the howto](howto.md) in order to understand better how to contribute. The [events archive](https://github.com/parasew/riat-events/tree/master/archive) usually is a good starting point.
 
 ## Events
 Events are our main concern (but see the other places where you could help also listed below).
