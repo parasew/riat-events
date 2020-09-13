@@ -7,12 +7,15 @@
 
 # RIAT events
 
-Events, meetups, workshops and program in the RIAT space (Vienna, Austria). https://riat.ac.at
+Events, meetups, workshops and program of the [RIAT Institute](https://riat.ac.at).
+Past events can be found in the [events archive](archive)
 
 - [ICS (iCal) calendar]
 
+# Organizing an event with us
+
 Do you want to organise an event in one of our spaces?
-Get in contact with bt@riat.at
+Get in contact with events@riat.at
 
 Our network can also help with organising, documentation and filming.
 
@@ -21,6 +24,6 @@ Our network can also help with organising, documentation and filming.
 * [Open Hardware Summit 2020](https://oshwa.org)
 * [decentral.community](https://decentral.community) at 36C3 (2019)
 
-## Past events
+## Extending the events archive
 
-Past events can be found in the [events archive](archive)
+You can browse the [events archive](archive) and see if there is anything missing. Please get in contact or do a pull request should you see something missing or if you have materials we are missing.
