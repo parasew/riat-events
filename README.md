@@ -1,29 +1,27 @@
-[ics (ical) calendar]: https://calendar.google.com/calendar/ical/riat.at_nst52qhk2fca3u8dvhce8pepbg%40group.calendar.google.com/public/basic.ics "Online subscription to events by the RIAT Institute. Crypto, Blockchain, DLT"
-[riat website]: https://riat.ac.at
-[riat activities archive]: https://riat.at/activities
-[eventbrite page]: https://www.eventbrite.com/o/riat-academy-10768509578 "RIAT academy eventbrite page"
-[pdf overview & print event calendar]: https://github.com/parasew/riat-events/raw/master/assets/2019-04-RIAT_program_PDF_calendar_2019.pdf
-[events archive]: https://github.com/parasew/riat-events/tree/master/archive
-
 # RIAT events
 
-Events, meetups, workshops and program of the [RIAT Institute](https://riat.ac.at).
-Past events can be found in the [events archive](archive)
-
-- [ICS (iCal) calendar]
-
-# Organizing an event with us
-
-Do you want to organise an event in one of our spaces?
-Get in contact with events@riat.at
-
-Our network can also help with organising, documentation and filming.
-
-## Past highlights
-
-* [Open Hardware Summit 2020](https://oshwa.org)
-* [decentral.community](https://decentral.community) at 36C3 (2019)
+This is the Github for events and participations of the [RIAT Institute](https://riat.at).
+The main aim of this repo is to have a central point for past events, as the institute exists since quite some time, and documentation is scattered in many places. This repo also feeds the new RIAT website.
 
 ## Extending the events archive
 
-You can browse the [events archive](archive) and see if there is anything missing. Please get in contact or do a pull request should you see something missing or if you have materials we are missing.
+If you find something online or missing in the list here, [please open an issue](https://github.com/parasew/riat-events/issues/new) or create a pull request. You can [read the howto](howto.md) in order to understand better how to contribute. The [events archive](https://github.com/parasew/riat-events/tree/master/archive) usually is a good starting point.
+
+
+# Organizing an event with us
+
+Do you want to organize an event in one of our spaces?
+Get in contact with events@riat.at
+
+You can [Rent the Space in Vienna via Spacebase](https://www.spacebase.com/en/venue/eventlocation-atelier-tagu-8917/). For spaces in Cyprus, Greece as well as other locations, please get in contact via events@riat.at
+
+Our network can also help with organizing, documentation and filming.
+
+
+## More information
+
+[ics (ical) calendar]: https://calendar.google.com/calendar/ical/riat.at_nst52qhk2fca3u8dvhce8pepbg%40group.calendar.google.com/public/basic.ics "Online subscription to events by the RIAT Institute"
+[riat website]: https://riat.ac.at
+[riat activities archive]: https://riat.at/activities
+[eventbrite page]: https://www.eventbrite.com/o/riat-academy-10768509578 "RIAT academy eventbrite page"
+[RIAT Wikipedia]: https://en.wikipedia.org/wiki/Research_Institute_for_Arts_and_Technology
