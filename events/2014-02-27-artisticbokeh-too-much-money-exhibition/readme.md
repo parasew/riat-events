@@ -8,7 +8,7 @@ category: "exhibition"
 tags: ["artisticbokeh","experiments in art and value"]
 ---
 
-![Too much money](https://live.staticflickr.com/7373/12817078373_fbac1d9312_o_d.jpg)
+![Too much money](https://live.staticflickr.com/5509/12817002803_2e7d33bd8a_k_d.jpg)
 
 In a site-specific installation, Artistic Bokeh presents a collaboration with Georgios Papadopoulos (GR) and Société Réaliste (FR) thematizing the symbolic value of artistic production and its subordination by the valuation of markets.
 
