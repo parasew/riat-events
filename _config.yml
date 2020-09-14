@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: "RIAT Institute Event Archive"
+twitter_username: parasew
+plugins:
+  - jekyll-readme-index
