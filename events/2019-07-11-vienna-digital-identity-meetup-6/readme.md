@@ -15,5 +15,5 @@ The first part of their presentation will be on the DPKI, Holochain's identity m
 
 Art Brock, Holochain's founder and Eric Bear, Holochain Community Manager will be the featured presenters for Meetup #6.
 
-
-
+## Resources
+* https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/262809757/
