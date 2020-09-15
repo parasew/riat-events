@@ -1,7 +1,5 @@
 ---
 title: "36C3 Decentral.Community at Chaos Communication Congress"
-date: 2020-08-22T13:48:49+02:00
-draft: false
 location: C3 Leipzig
 country: Germany
 startdate: 2019-12-27
