@@ -1,7 +1,7 @@
 ---
 title: "73th Bitcoin Austria Meetup - 11 Years of Bitcoin Blockchain"
 location: "RIAT Vienna"
-startdate: "2020-03-01"
+startdate: "2020-01-03"
 category: "meetup"
 tags: ["bitcoin austria"]
 ---
@@ -20,4 +20,4 @@ Einen Ausblick auf das Bitcoin Jahr in 2020 von Robert Kofler
 Wir freuen Uns auf Euer Kommen!
 
 ## Resources
-* https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272597365/
+* https://www.meetup.com/Bitcoin-Austria/events/264931723/
