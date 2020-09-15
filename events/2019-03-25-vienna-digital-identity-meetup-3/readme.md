@@ -16,3 +16,6 @@ First, RWoT is one of the two premier deep technical events of the Digital Ident
 Second, Stephen will be doing a presentation of the Sovrin/Indy Ledger created by the Province of British Columbia (Verifiable Organization Network). Stephen will walk through the use case of VON and a demonstration of both OrgBook and AgentBook that they have put together.
 
 I hope you can join us, I know it will be a fascinating and engaging conversation.
+
+## Resources
+* https://www.meetup.com/de-DE/Vienna-Digital-Identity-Meetup/events/259683263/
