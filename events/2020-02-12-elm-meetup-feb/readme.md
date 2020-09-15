@@ -1,12 +1,11 @@
 ---
 title: "Elm Meetup February 2020"
-date: 2020-02-12T18:30:00+02:00
-draft: false
 location: "RIAT Vienna"
 startdate: "2020-02-12"
-image: https://unsplash.com/photos/k_T9Zj3SE8k
-category: elm
+category: "elm"
 ---
+
+![image](https://images.unsplash.com/photo-1497493292307-31c376b6e479?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80)
 
 Are you interested in Elm? This meetup is for you! We are happy to help beginners getting started, setting up an elm development environment, discuss advanced topics and solve some exciting programming problems together.
 
@@ -22,3 +21,5 @@ We are also on:
 https://elmvienna.slack.com (drop us a line to get invited)
 https://github.com/ni-ko-o-kin/elm-meetups
 
+## Resources
+* https://www.meetup.com/Vienna-Elm-Meetup/events/266979403/
