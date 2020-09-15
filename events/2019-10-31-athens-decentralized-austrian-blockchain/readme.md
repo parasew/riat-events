@@ -18,5 +18,5 @@ Session: Austrian Blockchain Center
 * Philipp Schindler, SBA Research
 
 
-References
+## Resources
 * https://mk0decentralizefr9if.kinstacdn.com/wp-content/uploads/2019/09/P1638-Agenda-v3.pdf
