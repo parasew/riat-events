@@ -5,7 +5,7 @@ startdate: "2020-03-01"
 category: "meetup"
 tags: ["bitcoin austria"]
 ---
-![image](https://live.staticflickr.com/2857/12139100654_402717d9f8_k_d.jpg)
+![image](https://cdn.pixabay.com/photo/2018/02/01/19/27/cryptocurrency-3123849_960_720.jpg)
 
 Wir öffnen unsere 1 Jahr alte Zeitkapsel vom Januar 2019 und diskutieren die Vorhersagen.
 
