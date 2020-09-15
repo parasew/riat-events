@@ -38,4 +38,3 @@ Uwe Friedrichsen travels the IT world for many years. As CTO and fellow of codec
 
 ## Resources
 * https://www.facebook.com/events/293328437951583/
-* 
