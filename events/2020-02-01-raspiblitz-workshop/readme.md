@@ -23,3 +23,6 @@ PS: Nicht zu lang warten. Manche Teile können lange Lieferzeiten haben. Besser 
 
 PSS: Es gibt jetzt einen kleinen Guide mit meinen Notizen um uns durch das meetup zu führen.
 https://github.com/PichlerD/raspiblitz_workshop_btcaustria/blob/master/README.md
+
+## Resources
+* https://www.meetup.com/Bitcoin-Austria/events/266924962/
