@@ -29,7 +29,7 @@ We are also using the setting at C3 in order to gain insights for future events 
 
 The Chaos Computer Club (CCC) is the largest (and oldest) hacker association in Europe and was founded in 1981. Originating from Germany, it has spread over Europe and organizes numerous events, such as the annual Chaos Communication Congress. The congress takes place between christmas and new years eve, since 1984. It is considered one of the largest (over 15,000 attendees) events of this kind, alongside the DEF CON in Las Vegas.
 
-# References
+## Resources
 * https://decentral.community
 * https://events.ccc.de/congress/2019/wiki/index.php/Assembly:CriticalDecentralisationCluster
 * https://www.reddit.com/r/Monero/comments/eg9k6h/36c3_cdc_critical_decentralisation_cluster/
