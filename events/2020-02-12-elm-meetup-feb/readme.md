@@ -1,9 +1,10 @@
 ---
-title: "Elm Meetup February 2020"
 location: "RIAT Vienna"
 startdate: "2020-02-12"
 category: "elm"
 ---
+
+# Elm Meetup February 2020
 
 ![image](https://images.unsplash.com/photo-1497493292307-31c376b6e479?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80)
 
