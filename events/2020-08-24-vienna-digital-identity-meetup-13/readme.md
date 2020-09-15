@@ -24,5 +24,5 @@ This meetup has featured two speakers via ZOOM.
 
 Hybrid event: on-site in the RIAT space Neubaugasse and on-line via ZOOM.
 
-# References
+## Resources
 * https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272597365/
