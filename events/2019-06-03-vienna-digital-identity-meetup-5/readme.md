@@ -13,3 +13,6 @@ Two presentations for this month.
 
 1. Review of the Internet Identity Workshop
 2. Digitalization and Identity
+
+## Resources
+* https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/261015488/
