@@ -18,3 +18,7 @@ Markus will be presenting on Decentralized Identifiers (DIDs); the idea, origin 
 Robert will be speaking on ID Proofing; using signals and artifacts to prove who you are.
 
 I would also like to announce that the meetup is sponsored by Danube Tech.
+
+
+## Resources
+* https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/260079899/
