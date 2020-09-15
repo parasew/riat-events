@@ -16,3 +16,6 @@ Philip Sheldrake from Euler Partners and Ashoka Foundation will be presenting on
 We will also be holding a wrap-up session for the Riddle&Code Decentralized IDs workshop. Jürgen Eckel will be presenting the what was produce during the workshop.
 
 I hope you can include this event into your busy schedule!
+
+## Resources
+* https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/263159533/
