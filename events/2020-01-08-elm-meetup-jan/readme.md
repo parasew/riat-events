@@ -16,3 +16,6 @@ This time:
 - Hands On: Mob Programming (Card Game 'Set')
 
 If somebody wants to present her or his project, has suggestions for a talk or is generally interested in a specific topic regarding Elm or functional programming, please drop us a line.
+
+## Resources
+* https://www.meetup.com/Vienna-Elm-Meetup/events/266979403/
