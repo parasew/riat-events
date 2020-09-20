@@ -41,6 +41,15 @@ We are collecting external links and references to events, so please make sure t
 * [RIAT Events on Facebook](https://www.facebook.com/pg/riat.ac.at/events/)
 * [Eventbrite page](https://www.eventbrite.com/o/riat-academy-10768509578)
 
+# Checklist of sites and projects (unsorted, to be filled in the repo)
+
+* http://artscience.uni-ak.ac.at/activities/axiom_
+* http://artscience.uni-ak.ac.at/activities/apertus_axiom
+* http://artscience.uni-ak.ac.at/jart/prj3/art_science/main.jart?rel=de&reserve-mode=active&content-id=1493818261919
+* https://2015.fiberfestival.nl/festival/programme/matthias-tarasiewicz/
+* http://artlinkart.com/en/artist/exh_yr/e37erAsj/65dgAvlo
+
+
 ## Images
 
 * [Artisticboken Flickr](https://www.flickr.com/photos/artisticbokeh/albums)
