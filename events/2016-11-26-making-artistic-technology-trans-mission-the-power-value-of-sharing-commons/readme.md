@@ -46,3 +46,4 @@ Further information contact workshops /at/ riat /dot/ at
 # References
 * https://www.eventbrite.com/e/transmission-the-power-value-of-sharing-commons-tickets-29387596091?aff=ehomecard
 * https://www.facebook.com/events/569788756549302/
+* https://www.andrewnewman.net/making-artistic-technology-workshop-with-victor-mazon-gardoqui/
