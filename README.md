@@ -13,8 +13,6 @@ If you find something online or missing in the list here, [please open an issue]
 Do you want to organize an event in one of our spaces?
 Get in contact with events@riat.at
 
-You can [Rent the Space in Vienna via Spacebase](https://www.spacebase.com/en/venue/eventlocation-atelier-tagu-8917/). For spaces in Cyprus, Greece as well as other locations, please get in contact via events@riat.at
-
 Our network can also help with organizing, documentation and filming.
 
 
