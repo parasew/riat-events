@@ -1,29 +1,20 @@
-[ics (ical) calendar]: https://calendar.google.com/calendar/ical/riat.at_nst52qhk2fca3u8dvhce8pepbg%40group.calendar.google.com/public/basic.ics "Online subscription to events by the RIAT Institute. Crypto, Blockchain, DLT"
-[riat website]: https://riat.ac.at
-[riat activities archive]: https://riat.at/activities
-[eventbrite page]: https://www.eventbrite.com/o/riat-academy-10768509578 "RIAT academy eventbrite page"
-[pdf overview & print event calendar]: https://github.com/parasew/riat-events/raw/master/assets/2019-04-RIAT_program_PDF_calendar_2019.pdf
-[events archive]: https://github.com/parasew/riat-events/tree/master/archive
-
 # RIAT events
 
-Events, meetups, workshops and program in the RIAT space (Vienna, Austria). https://riat.ac.at
+This is the Github for events and participations of the [RIAT Institute](https://riat.at). RIAT is a research institute working with future cryptoeconomics, open source hardware and privacy technologies. You can find current job offers and positions [here](https://riat.at/jobs).
 
-- [ICS (iCal) calendar]
+The main aim of this repo is to have a central point for past events, as the institute exists since quite some time, and documentation is scattered in many places. This repo also feeds the RIAT website. Please go and read our [Wikipedia entry](https://en.wikipedia.org/wiki/Research_Institute_for_Arts_and_Technology) if you don't know who we are.
 
-## upcoming events
 
-| Date                    | Description                                                                                                                                                                                                                                  | Event Type | Time  | Location    | City     | Country     | ISO |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- | ----------- | -------- | ----------- | --- |
-| 2019/12/27 - 2019/12/30 | [36C3](https://36c3.info): [decentral.community](https://decentral.community)                                                                                                                                                                | Congress   | \*    | CCL         | Leipzig  | Germany     | DE  |
-| 2020/01/03              | [Bitcoin Austria: 11 Jahre Bitcoin Blockchain](https://www.meetup.com/Bitcoin-Austria/events/264931723/)                                                                                                                                     | Meetup     | 19:00 | RIAT Vienna | Vienna   | Austria     | AT  |
-| 2020/01/08              | [Elm Meetup January](https://www.meetup.com/Vienna-Elm-Meetup/events/266979403/)                                                                                                                                                             | Meetup     | 19:00 | RIAT Vienna | Vienna   | Austria     | AT  |
-| 2020/01/29              | [Animated Typography with Blender](https://www.meetup.com/vienna-libre-media/events/266903048/)                                                                                                                                              | Workshop   | 19:00 | RIAT Vienna | Vienna   | Austria     | AT  |
-| 2020/02/01              | [Bitcoin Austria: raspiblitz workshop](https://www.meetup.com/Bitcoin-Austria/events/266924962/)                                                                                                                                             | Workshop   | 14:00 | RIAT Vienna | Vienna   | Austria     | AT  |
-| 2020/02/12              | [Elm Meetup February](https://www.meetup.com/Vienna-Elm-Meetup/events/268211606/)                                                                                                                                                            | Meetup     | 18:30 | RIAT Vienna | Vienna   | Austria     | AT  |
-| 2020/03/12              | [Going Serverless with Spring Cloud](https://www.meetup.com/reactive-vienna/)                                                                                                                                                                | Meetup     | 18:00 | RIAT Vienna | Vienna   | Austria     | AT  |
-| 2020/03/13              | [10th Open Hardware Summit, NYC](https://twitter.com/ohsummit/status/1145713168498511872)                                                                                                                                                    | Summit     | \*    | NYU         | New York | USA         | US  |
+## Extending the events archive
 
-## Past events
+If you find something online or missing in the list here, [please open an issue](https://github.com/parasew/riat-events/issues/new) or create a pull request. You can [read the howto](https://github.com/parasew/riat-events/blob/master/todo/readme.md) in order to understand better how to contribute. The [events archive](https://github.com/parasew/riat-events/tree/master/archive) usually is a good starting point.
 
-Past events can be found in the [events archive].
+# Organizing an event with us
+
+Do you want to organize an event with us?
+[Get in contact with RIAT](https://tally.so/r/nPdkQV)
+
+## More information
+* [events archive](https://github.com/parasew/riat-events/tree/master/archive)
+* [Online subscription to events by the RIAT Institute](https://calendar.google.com/calendar/ical/riat.at_nst52qhk2fca3u8dvhce8pepbg%40group.calendar.google.com/public/basic.ics)
+* [RIAT Wikipedia](https://en.wikipedia.org/wiki/Research_Institute_for_Arts_and_Technology)
