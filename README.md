@@ -11,11 +11,8 @@ If you find something online or missing in the list here, [please open an issue]
 
 # Organizing an event with us
 
-Do you want to organize an event in one of our spaces?
-Get in contact with events@riat.at
-
-Our network can also help with organizing, documentation and filming.
-
+Do you want to organize an event with us?
+[Get in contact with RIAT](https://tally.so/r/nPdkQV)
 
 ## More information
 * [events archive](https://github.com/parasew/riat-events/tree/master/archive)
