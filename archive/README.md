@@ -12,6 +12,17 @@
 
 ## Historical event archive of RIAT 
 
+### 2024
+| Date       | Description                                                                                                                                            | Event Type       | Time  | Location     | City      | Country | ISO |
+| ---------- | -------------------------------------------------------------------------------------------------                                                      | ---------------- | ----- | ------------ | --------- | ------- | --  |
+| 2024/12/27 | [38C3 Chaos Communication Congress](https://decentral.community) | Congress | 00:00 | 38C3 | Hamburg | Germany | DE  |
+| 2024/07/12 | [Vitalik Buterin, Zooko, Christopher Goes, Matthias Tarasiewicz & Alex G on the frontiers of privacy](https://www.youtube.com/watch?v=dOHPG0nniuA&t=181s) | Panel | 16:00 | Shielding Summit | Brussels | Belgium | BE  |
+
+### 2023
+| Date       | Description                                                                                                                                            | Event Type       | Time  | Location     | City      | Country | ISO |
+| ---------- | -------------------------------------------------------------------------------------------------                                                      | ---------------- | ----- | ------------ | --------- | ------- | --  |
+| 2023/12/27 | [37C3 Chaos Communication Congress](https://events.ccc.de/congress/2023/infos/index.html) | Congress | 00:00 | 37C3 | Hamburg | Germany | DE  |
+
 ### 2020
 
 | Date       | Description                                                                                                                                            | Event Type       | Time  | Location     | City      | Country | ISO |
