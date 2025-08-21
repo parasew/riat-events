@@ -12,6 +12,11 @@
 
 ## Historical event archive of RIAT 
 
+### 2025
+| Date       | Description                                                                                                                                            | Event Type       | Time  | Location     | City      | Country | ISO |
+| ---------- | -------------------------------------------------------------------------------------------------                                                      | ---------------- | ----- | ------------ | --------- | ------- | --  |
+| 2025/06/20 | [Monerokon 25](https://www.monerokon.org/blog/mk25-press-release.html) | Congress | 00:00 | Second Culture | Prague | Czechia | CZ  |
+
 ### 2024
 | Date       | Description                                                                                                                                            | Event Type       | Time  | Location     | City      | Country | ISO |
 | ---------- | -------------------------------------------------------------------------------------------------                                                      | ---------------- | ----- | ------------ | --------- | ------- | --  |
