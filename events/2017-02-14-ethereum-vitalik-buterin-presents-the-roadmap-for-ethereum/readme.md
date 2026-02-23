@@ -30,7 +30,7 @@ Tutor: Víctor Mazón Gardoqui
 Coordination: RIAT Research Institute for Arts & Technology
 Language: English
 15 Limited places, selected by order of registration
-More info: http://victormazon.com/signum
+More info on Signum workshop: https://web.archive.org/web/20170221061725/http://victormazon.com/wrks/workshops/signum
 Questions: rvx /at/ riseup /./ net
 Workshop fee: €15 (Paid at registration)
 Device fee: €85 (Paid in cash at workshop)
@@ -41,3 +41,4 @@ The device fee covers all extra electronic materials, industrially produced elec
 * https://www.meetup.com/Ethereum-Vienna/events/237133872/
 * https://www.facebook.com/events/182541302230635/
 * https://www.eventbrite.com/e/vitalik-buterin-discusses-ethereum-tickets-31934852002#
+* Signum Workshop Archive: https://web.archive.org/web/20170221061725/http://victormazon.com/wrks/workshops/signum/
