@@ -1,0 +1,72 @@
+{
+  "flickr_account": {
+    "name": "artistic bokeh",
+    "url": "https://www.flickr.com/photos/artisticbokeh/",
+    "photos_count": 2063,
+    "joined": 2012
+  },
+  "albums": [
+    {
+      "id": "72157632005969251",
+      "title": "2012 Artistic Technology Colloquium #1",
+      "description": "First colloquium on methods and practices of research in/within arts at the Artistic Technology Research Lab",
+      "url": "https://www.flickr.com/photos/artisticbokeh/albums/72157632005969251",
+      "artists": [
+        "Bernd Kräftner",
+        "Matthias Tarasiewicz",
+        "Lorenz Seidler",
+        "Roman Kirschner",
+        "Mirko T. Schäfer"
+      ],
+      "related_events": [
+        "2012-11-20-exhibition-documentation-of-artistic-research-and-practice",
+        "2013-11-13-artistic-technology-colloquium-bernd-kraftner-matthias-tarasiewicz-lorenz-seidler-roman-ki"
+      ]
+    },
+    {
+      "id": "72157631703295702",
+      "title": "2011 BitCoinCloud at Kuenstlerhaus, Vienna",
+      "description": "BitCoinCloud exhibition documentation",
+      "url": "https://www.flickr.com/photos/artisticbokeh/albums/72157631703295702",
+      "artists": ["Matthias Tarasiewicz", "Damian Stewart", "Max Gurresch"],
+      "related_events": ["2011-11-16-metamart-art-and-capital-featuring-bitcoincloud"]
+    },
+    {
+      "id": "72157641626930984",
+      "title": "Too much money...",
+      "description": "Exhibition documentation",
+      "url": "https://www.flickr.com/photos/artisticbokeh/albums/72157641626930984",
+      "artists": ["Artistic Bokeh collective"],
+      "related_events": ["2014-02-27-artisticbokeh-too-much-money-exhibition"]
+    },
+    {
+      "id": "72157637817410585",
+      "title": "Unknown (restricted access)",
+      "description": "Album requires authentication",
+      "url": "https://www.flickr.com/photos/artisticbokeh/albums/72157637817410585",
+      "access": "restricted",
+      "related_events": []
+    }
+  ],
+  "sample_images_downloaded": [
+    {
+      "name": "36c3-decentral-community",
+      "original_url": "https://live.staticflickr.com/8754/17300538715_718c57b25e_o_d.jpg",
+      "event": "2019-12-27-36C3-decentral-community",
+      "description": "Decentral Community at 36C3 Congress"
+    },
+    {
+      "name": "vienna-digital-identity-13",
+      "original_url": "https://live.staticflickr.com/2857/12139100654_402717d9f8_k_d.jpg",
+      "event": "2020-08-24-vienna-digital-identity-meetup-13",
+      "description": "Vienna Digital Identity Meetup"
+    },
+    {
+      "name": "too-much-money-exhibition",
+      "original_url": "https://live.staticflickr.com/5509/12817002803_2e7d33bd8a_k_d.jpg",
+      "event": "2014-02-27-artisticbokeh-too-much-money-exhibition",
+      "description": "\"Too much money\" exhibition installation shot"
+    }
+  ],
+  "notes": "Flickr account contains 2,063 photos documenting artisticbokeh/RIAT events, exhibitions, and artists-in-residence. Some albums may require authentication for full access."
+}
