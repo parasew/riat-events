@@ -1,6 +1,0 @@
-        <html>
-    <body>
-    <h1>File not found.</h1>
-    <h3>410</h3>
-        <li><b>Unknown</b>: <ul></ul></li>        <h3><a href="/8190/8457511011_8b8c8b8c8b_o.jpg?_accept=application/json">JSON</a> | <a href="/8190/8457511011_8b8c8b8c8b_o.jpg?_accept=application/json">PHP</a> | <a href="/8190/8457511011_8b8c8b8c8b_o.jpg?_accept=application/json">MsgPack</a></h3>        <pre>{"code":410,"message":"File not found."}</pre>    </body>
-        </html>
