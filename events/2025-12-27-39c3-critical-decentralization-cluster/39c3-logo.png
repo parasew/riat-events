@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="/congress/2025/infos/img/favicon.ico" />
+    <title>39th Chaos Communication Congress Infos</title>
+    <link rel="stylesheet" href="/congress/2025/infos/css/theme.css" />
+    <link rel="stylesheet" href="/congress/2025/infos/css/theme_extra.css" />
+        <link href="/congress/2025/infos/css/39c3.css" rel="stylesheet" />
+    
+    <!--[if lt IE 9]>
+      <script src="/congress/2025/infos/js/html5shiv.min.js"></script>
+    <![endif]--> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="/congress/2025/infos/index.html">
+          <img src="/congress/2025/infos/styleguide/latest/39C3-Design-Package/39C3-Logo/RGB/png/39C3-Logo-RGB_neon-green.png" class="logo" alt="Logo"/>
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="/congress/2025/infos//search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/index.html">39th Chaos Communication Congress</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/communication.html">Communication & Contact</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Newcomers</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/fundamentals-and-faq.html">Fundamentals and Frequently Asked Questions</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/junghackerinnentag.html">Junghacker*innen-Tag</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/azubi-tag.html">Azubi-Hacker*innen-Tag</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/mentors.html">Chaos Mentors / Chaospat:innen</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Prepare</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/tickets.html">Tickets</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/bildungsurlaub.html">Bildungsurlaub</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/travel.html">Getting there</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Contribute</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/assemblies.html">Assemblies</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/participate.html">Participate</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/lightning-talks.html">Lightning Talks</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/styleguide.html">Style Guide</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Experience and Visit</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/facilities.html">Facilities</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/map.html">Venue Map and Navigation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/drinks.html">Bars</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/hackertours.html">Hackertours</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/talks.html">Talks</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Support and Safety</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="" href="https://help.ccc.de/index.en.html">Get Help!</a>
+                  </li>
+                  <li class="toctree-l1"><a class="" href="https://help.ccc.de/principles.en.html">Principles of our event and community</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/accessibility.html">Accessibility</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/privacy.html">Cameras and Privacy</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/corona.html">COVID-19 &amp; Infection Protection</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Hub</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="" href="https://events.ccc.de/congress/2025/hub/schedule">Events (everything, including talks)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="" href="https://events.ccc.de/congress/2025/hub/event/list/so">Self-organized sessions (SoS)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="" href="https://events.ccc.de/congress/2025/hub/assembly/list">Assemblies</a>
+                  </li>
+                  <li class="toctree-l1"><a class="" href="https://events.ccc.de/congress/2025/hub/project/list">Projects</a>
+                  </li>
+                  <li class="toctree-l1"><a class="" href="https://events.ccc.de/congress/2025/hub/board/">Bulletin Board</a>
+                  </li>
+                  <li class="toctree-l1"><a class="" href="https://events.ccc.de/congress/2025/hub/wiki/start">Wiki</a>
+                  </li>
+                  <li class="toctree-l1"><a class="" href="https://events.ccc.de/congress/2025/hub/backoffice">Backoffice (Maschinenraum)</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Hub HowTo</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/hub-howto.html">What is the Hub?</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/hub-assembly.html">How to be an Assembly</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/hub-events.html">Events</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/hub-projects.html">Projects</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="/congress/2025/infos/hub-badges.html">Badges and you</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Quicklinks</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="" href="https://matrix.to/#/#39c3:events.ccc.de">Chat (Matrix)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="" href="https://guru3.eventphone.de/event/phonebook">Phonebook</a>
+                  </li>
+                  <li class="toctree-l1"><a class="" href="https://engel.events.ccc.de/">Engelsystem</a>
+                  </li>
+                  <li class="toctree-l1"><a class="" href="https://events.ccc.de/">Eventblog</a>
+                  </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="" href="https://legal.cccv.de">Legal Notice & Privacy Policy</a>
+                </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="/congress/2025/infos/index.html">39th Chaos Communication Congress Infos</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="/congress/2025/infos/index.html" class="icon icon-home" aria-label="Docs"></a></li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+
+  <h1 id="404-page-not-found">404</h1>
+
+  <p><strong>Page not found</strong></p>
+
+
+            </div>
+          </div><footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    <span>
+      <a href="https://git.cccv.de/infra/static-pages/39c3-infos" class="icon icon-gitlab" style="background-color: var(--color-accent-d); color: var(--color-highlight);"> Source</a>
+    </span>
+  </span>
+</div>
+    <script src="/congress/2025/infos/js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "/congress/2025/infos/";</script>
+    <script src="/congress/2025/infos/js/theme_extra.js"></script>
+    <script src="/congress/2025/infos/js/theme.js"></script>
+      <script src="/congress/2025/infos/search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+<div style="margin-bottom: 16px;"></div><div style="text-align: center; position: fixed; left: 0; bottom: 0; width: 100%; height: 16px; margin: 0; padding: 0; border: 0; color: black; background-color: white; font-size: 12px; font-family: sans-serif; line-height: normal; z-index: 99999;">Archived page - <a href="https://legal.cccv.de/" style="color: darkblue !important; text-decoration: none !important; border: 0;">Impressum/Datenschutz</a></div></body>
+</html>
