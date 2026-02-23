@@ -7,7 +7,7 @@
 | Organizers | RIAT, decentral.community |
 | Primary source | https://fosdem.org/2026/schedule/track/decentralized-internet-and-privacy/ |
 
-![FOSDEM 2026](fosdem-logo.png)
+![FOSDEM 2026](fosdem-logo.svg)
 
 ### Description
 The *Decentralized Internet and Privacy Devroom* at FOSDEM 2026 featured talks from technical projects and initiatives fostering decentralization and privacy on the Internet. The devroom covered topics such as ad-hoc and mesh networks, cryptography-based network stacks, anonymous overlay networks, and privacy-preserving browsers.
