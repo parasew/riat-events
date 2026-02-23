@@ -12,15 +12,22 @@
 
 ## Historical event archive of RIAT 
 
+### 2026
+| Date       | Description                                                                                                                                            | Event Type       | Time  | Location     | City      | Country | ISO |
+| ---------- | -------------------------------------------------------------------------------------------------                                                      | ---------------- | ----- | ------------ | --------- | ------- | --  |
+| 2026/02/01 | [FOSDEM 2026: Decentralized Internet and Privacy Devroom](../events/2026-02-01-fosdem-2026-decentralized-internet-and-privacy) | Devroom | 09:00 | ULB Solbosch | Brussels | Belgium | BE  |
+
 ### 2025
 | Date       | Description                                                                                                                                            | Event Type       | Time  | Location     | City      | Country | ISO |
 | ---------- | -------------------------------------------------------------------------------------------------                                                      | ---------------- | ----- | ------------ | --------- | ------- | --  |
+| 2025/12/27 | [39C3: Critical Decentralisation Cluster](../events/2025-12-27-39c3-critical-decentralization-cluster) | Congress | 00:00 | CCH | Hamburg | Germany | DE  |
 | 2025/06/20 | [Monerokon 25](https://www.monerokon.org/blog/mk25-press-release.html) | Congress | 00:00 | Second Culture | Prague | Czechia | CZ  |
 
 ### 2024
 | Date       | Description                                                                                                                                            | Event Type       | Time  | Location     | City      | Country | ISO |
 | ---------- | -------------------------------------------------------------------------------------------------                                                      | ---------------- | ----- | ------------ | --------- | ------- | --  |
 | 2024/12/27 | [38C3 Chaos Communication Congress](https://decentral.community) | Congress | 00:00 | 38C3 | Hamburg | Germany | DE  |
+| 2024/09/29 | [POW Summit 2024: Scaling Technology vs. Scaling Values](../events/2024-09-29-pow-summit-2024-scaling-technology-vs-scaling-values) | Summit | 10:00 | National House of Vinohrady | Prague | Czechia | CZ  |
 | 2024/07/12 | [Vitalik Buterin, Zooko, Christopher Goes, Matthias Tarasiewicz & Alex G on the frontiers of privacy](https://www.youtube.com/watch?v=dOHPG0nniuA&t=181s) | Panel | 16:00 | Shielding Summit | Brussels | Belgium | BE  |
 
 ### 2023
