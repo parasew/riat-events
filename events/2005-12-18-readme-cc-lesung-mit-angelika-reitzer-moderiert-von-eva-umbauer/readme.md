@@ -5,3 +5,9 @@ startdate: 2005/12/18
 
 # References
 * https://5uper.net/post/134.html
+
+
+## Archive snapshots
+- https://5uper.net/post/134.html
+  - https://web.archive.org/web/20260223025051/https://5uper.net/post/134.html
+
