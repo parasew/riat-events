@@ -6,3 +6,9 @@ startdate: 2012/02/29
 # References
 * https://transmediale.de/de/content/transmediale-2012-programm%C3%BCbersicht
 * https://transmediale.de/de/content/phd-workshop-2012-incompatible-research
+
+
+## Archive snapshots
+- https://transmediale.de/de/content/transmediale-2012-programm%C3%BCbersicht
+  - https://web.archive.org/web/20120109020814/https://transmediale.de/de/content/transmediale-2012-programm%C3%BCbersicht
+

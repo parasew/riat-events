@@ -5,3 +5,9 @@ startdate: 2012/11/01
 
 # References
 * http://www.q21.at/artists-in-residence/artists/artistinfo/setupnl/
+
+
+## Archive snapshots
+- http://www.q21.at/artists-in-residence/artists/artistinfo/setupnl/
+  - https://web.archive.org/web/20170726061535/http://www.q21.at/artists-in-residence/artists/artistinfo/setupnl/
+

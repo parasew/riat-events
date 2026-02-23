@@ -5,3 +5,9 @@ startdate: 2012/12/05
 
 # References
 * https://transmediale.de/archive/history/special/resource-001-006
+
+
+## Archive snapshots
+- https://transmediale.de/archive/history/special/resource-001-006
+  - https://web.archive.org/web/20170713161704/https://transmediale.de/archive/history/special/resource-001-006
+

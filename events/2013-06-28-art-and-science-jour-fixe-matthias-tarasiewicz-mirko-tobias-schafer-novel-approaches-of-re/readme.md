@@ -17,3 +17,11 @@ The Artistic Technology Research LAB cooperates with diverse international resea
 
 # References
 * http://artscience.uni-ak.ac.at/activities/jour_fixe_with_mirko_tobias_schaefer_and_mattias_tarasiewics
+
+
+## Archive snapshots
+- http://artscience.uni-ak.ac.at/jart/prj3/art_science/images/cache/13d33f5b63e1de8957ff5d7374738a93/0xF3A46DB2890416140C216464951B1CBF.jpeg
+  - https://web.archive.org/web/20200213153549/http://artscience.uni-ak.ac.at/jart/prj3/art_science/images/cache/13d33f5b63e1de8957ff5d7374738a93/0xF3A46DB2890416140C216464951B1CBF.jpeg
+- http://artscience.uni-ak.ac.at/activities/jour_fixe_with_mirko_tobias_schaefer_and_mattias_tarasiewics
+  - https://web.archive.org/web/20210116153235/http://artscience.uni-ak.ac.at/activities/jour_fixe_with_mirko_tobias_schaefer_and_mattias_tarasiewics
+

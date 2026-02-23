@@ -5,3 +5,9 @@ startdate: 2010/08/24
 
 # References
 * http://www.isea2010ruhr.org/conference/tuesday-24-august-2010-dortmund/p23-coded-cultures-and-japan-media-arts-festival-panel-session
+
+
+## Archive snapshots
+- http://www.isea2010ruhr.org/conference/tuesday-24-august-2010-dortmund/p23-coded-cultures-and-japan-media-arts-festival-panel-session
+  - https://web.archive.org/web/20100901215155/http://www.isea2010ruhr.org/conference/tuesday-24-august-2010-dortmund/p23-coded-cultures-and-japan-media-arts-festival-panel-session
+

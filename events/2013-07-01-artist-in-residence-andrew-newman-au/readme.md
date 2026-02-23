@@ -5,3 +5,9 @@ startdate: 2013/07/01
 
 # References
 * http://www.q21.at/artists-in-residence/artists/artistinfo/andrew-newman-1/
+
+
+## Archive snapshots
+- http://www.q21.at/artists-in-residence/artists/artistinfo/andrew-newman-1/
+  - https://web.archive.org/web/20170726061950/http://www.q21.at/artists-in-residence/artists/artistinfo/andrew-newman-1/
+
