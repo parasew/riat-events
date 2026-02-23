@@ -24,3 +24,9 @@ A lecture-performance of C.Lisecki / G.Papadopoulos will mark the opening on Thu
 * https://www.flickr.com/photos/artisticbokeh/12817002803
 * http://classic.rhizome.org/announce/events/60330/view/
 * https://www.facebook.com/events/mq-museumsquartier-wien/artistic-bokeh-soci%C3%A9t%C3%A9-r%C3%A9aliste-georgios-papadopoulos-too-much-money-opening-272/619848824747223/
+
+
+## Archive snapshots
+- https://www.facebook.com/events/mq-museumsquartier-wien/artistic-bokeh-soci%C3%A9t%C3%A9-r%C3%A9aliste-georgios-papadopoulos-too-much-money-opening-272/619848824747223/
+  - https://web.archive.org/web/20260223052206/https://www.facebook.com/events/mq-museumsquartier-wien/artistic-bokeh-soci%C3%A9t%C3%A9-r%C3%A9aliste-georgios-papadopoulos-too-much-money-opening-272/619848824747223/
+
