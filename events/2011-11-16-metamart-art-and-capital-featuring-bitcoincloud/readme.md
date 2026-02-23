@@ -7,6 +7,12 @@
 | Artists | Damian Stewart, Max Gurresch, Matthias Tarasiewicz |
 | Primary source | http://www.k-haus.at/de/ausstellung/57/metamart.html |
 
+![Bitcoincloud Setup](images/bitcoincloud-setup-esel.jpg)
+*Bitcoincloud installation setup at Künstlerhaus Wien (Photo: eSeL.at)*
+
+![METAmART Switchboard](images/metamart-switchboard-esel.jpg)
+*Switchboard installation at METAmART (Photo: eSeL.at)*
+
 ### Description
 BitCoinCloud is an interactive room installation that explores the (virtual) value of artistic products and alternative economies. The modular artwork consists of a "BitCoin Mining Rig" (modified computers for calculating the virtual currency "BitCoins") and an LED cloud (visualization). BitcoinCloud responds to today's attention-centered era with the direct dependency between attention and the value of the artwork: the more visitors turn to the sculpture (camera tracking), the more virtual currency units (BitCoins) are calculated, which in turn increases the total value of the installation.
 
@@ -19,6 +25,7 @@ Die Installation wurde vom 16. November 2011 bis 19. Februar 2012 im Künstlerha
 
 ### References
 - http://www.k-haus.at/de/ausstellung/57/metamart.html
+- Künstlerhaus Jahresbericht 2011 (Catalog): https://www.kuenstlerhaus.at/z/files/jahresberichte/jahresbericht_2011.pdf
 - http://bitcoincloud.at (archived)
 - http://metamart.at/about-metamart/ (archived)
 - http://artistictechnology.at/ (archived)
