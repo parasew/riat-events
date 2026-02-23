@@ -20,6 +20,7 @@ Bitcoincloud ist eine interaktive Rauminstallation, die den (virtuellen) Wert vo
 ### References
 - http://2015.fiberfestival.nl/festival/programme/bitcoincloud/
 - https://bitcoincloud.at/ (original project site)
+- Academic publication: Newman, A. (2015). "Experiments in art and value: burning Bitcoins to buy Ai Weiwei". ISEA 2015 submission. (Available in RIAT publications archive)
 - https://web.archive.org/web/20131101101537/http://bitcoincloud.at/
 
 ### Archive snapshots

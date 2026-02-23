@@ -22,6 +22,7 @@ Die Installation wurde vom 16. November 2011 bis 19. Februar 2012 im Künstlerha
 - http://bitcoincloud.at (archived)
 - http://metamart.at/about-metamart/ (archived)
 - http://artistictechnology.at/ (archived)
+- Academic publication: Newman, A. (2015). "Experiments in art and value: burning Bitcoins to buy Ai Weiwei". ISEA 2015 submission. (Available in RIAT publications archive)
 
 ### Archive snapshots
 - http://www.k-haus.at/de/ausstellung/57/metamart.html
