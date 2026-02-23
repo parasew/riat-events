@@ -1,17 +1,28 @@
----
-startdate: 2015/05/15
----
-# Bitcoincloud at Fiber Festival
-
 | Field | Value |
-| --- | --- |
+| :--- | :--- |
 | Date | 2015-05-15 |
+| Event | Fiber Festival 2015 |
+| Location | Amsterdam, Netherlands |
+| Title | Bitcoincloud at Fiber Festival |
+| Artists | Damian Stewart, Max Gurresch, Matthias Tarasiewicz (Artistic Bokeh) |
 | Primary source | http://2015.fiberfestival.nl/festival/programme/bitcoincloud/ |
 
-# References
-- http://2015.fiberfestival.nl/festival/programme/bitcoincloud/
+![Bitcoincloud installation at Fiber Festival](bitcoincloud-fiber-festival.jpg)
 
-## Archive snapshots
+### Description
+Bitcoincloud is an interactive media-arts installation and reactive sculpture thematizing artistic production as well as alternative economics. The modular artwork consists of a "Bitcoin Mining Rig" (modified computers for calculating the virtual currency "Bitcoins") and an LED cloud (visualization). Bitcoincloud reacts to today's attention-centered time with the direct dependence between attention and value of the artwork: the more visitors turn to the sculpture (camera tracking), the more virtual currency units (Bitcoins) are calculated, which in turn increase the total value of the installation.
+
+The sculpture acts as an interface to thematize the discourse on the market for new media artworks. By excluding itself from the actual art market, it creates its own logic while still being feasible, directly connecting the attention of the viewers to its calculated value.
+
+### Beschreibung (DE)
+Bitcoincloud ist eine interaktive Rauminstallation, die den (virtuellen) Wert von künstlerischen Produkten sowie alternative Ökonomien thematisiert. Das modulare Kunstwerk besteht aus einem "Bitcoin Mining Rig" (modifizierte Computer zur Errechnung der virtuellen Währung "Bitcoins") sowie einer LED-Cloud (Visualisierung). Bitcoincloud reagiert auf die aufmerksamkeitszentrierte heutige Zeit mit der direkten Abhängigkeit zwischen Beachtung und Wert des Kunstwerks: wenden sich mehr Besucher der Skulptur zu (Camera-Tracking), dann werden mehr virtuelle Währungseinheiten (Bitcoins) errechnet, die wiederum den Gesamtwert der Installation erhöhen.
+
+### References
+- http://2015.fiberfestival.nl/festival/programme/bitcoincloud/
+- https://bitcoincloud.at/ (original project site)
+- https://web.archive.org/web/20131101101537/http://bitcoincloud.at/
+
+### Archive snapshots
 - http://2015.fiberfestival.nl/festival/programme/bitcoincloud/
   - https://web.archive.org/web/20150327014247/http://2015.fiberfestival.nl/festival/programme/bitcoincloud/
   - Description (source): Bitcoincloud is an interactive installation by Artistic Bokeh in which modified LED fans, motion sensors, and a Bitcoin mining rig generate value in relation to audience attention.
