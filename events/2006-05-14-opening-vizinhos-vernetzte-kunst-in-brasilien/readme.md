@@ -27,6 +27,15 @@ additional_url: "http://vizinhos.5uper.net"
 
 "VIZINHOS: Vernetzte Kunst in Brasilien" (Neighbors: Networked Art in Brazil) is an exhibition presented by the group 5uper.net in the Freiraum of MuseumsQuartier Vienna. The exhibition showcases positions exploring the synergy between Situationism, media art and architecture from the Brazilian art project BASE.
 
+## Official MQW Archive
+- **MQW Event Page**: [V I Z I N H O S - Vernetzte Kunst in Brasilien](https://www.mqw.at/en/institutions/q21/program/2006/05/v-i-z-i-n-h-o-s-vernetzte-kunst-in-brasilien)
+- **Residency Details**:
+  - Part of MuseumsQuartier Wien's Artist in Residence program
+  - 5 Brazilian artists invited by 5uper.net
+  - Exhibition period: May 14-28, 2006
+  - Opening: May 14, 2006, 19:00 with concert by Mauricio Takara (mtakara)
+- **Project Focus**: Synergy between Situationism, media art and architecture from Brazilian art project BASE
+
 ## Context
 
 Timed with the 4th EU-Latin America Summit in Vienna, 5uper.net invited five Brazilian artists through the MuseumsQuartier Wien's Artist in Residence program. In addition to the exhibition, open workshops and research areas in the "5uper.net Cuisine Digitale" provide insights into the production processes of Brazilian artists. Theme-specific film screenings and music events complete the program.

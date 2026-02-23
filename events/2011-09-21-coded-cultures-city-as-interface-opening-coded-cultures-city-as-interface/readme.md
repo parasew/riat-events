@@ -36,6 +36,30 @@ The 2011 Coded Cultures festival focuses on (new) media and knowledge cultures f
 
 With the subtitle "City as Interface", special attention is paid to the city as a media-cultural territory and as an interface for a multitude of cultural codings, connections and abstractions. Intervention projects in urban space consequently form an essential part of the festival. This aims to create free spaces for new practices and organizational models of artistic-creative ideas.
 
+## Official MQW Archive Information
+
+### 2011 Artist-in-Residence (5uper.net recommended):
+
+**Prayas Abhinav** [India]
+- **MQW Artist Page**: [Prayas Abhinav](https://www.mqw.at/en/institutions/q21/artists-in-residence/2011/prayas-abhinav)
+- **Key Facts**:
+  - Nationality: India
+  - Area: Digital Culture
+  - Residence: Bangalore, India
+  - Recommending Institution: 5uper.net
+  - Time Period: September 2011
+- **Residency Project**: "OutResourcing"
+  - Part of Coded Cultures festival 2011 theme "City as Interface"
+  - Explores gaming culture, physical computing, communities, and commons-based exchange
+  - Connects to transmediale collaboration project with CEMA Bangalore
+  - Examines labor outsourcing from critical constructive perspective
+  - Links maker and developer groups in Berlin and Bangalore
+- **Background**:
+  - Teaches at Srishti School of Art, Design and Technology, Bangalore
+  - Researcher at Center for Experimental Media Arts (CEMA)
+  - Previously taught at Dutch Art Institute (DAI) and CEPT
+  - Fellowships: Sarai/CSDS (2005), Openspace India (2009), TED (2009), CMS (2006)
+
 ## About Coded Cultures
 
 Coded Cultures was founded in 2004 by the media artist-led organization 5uper.net and deals with the intersections of contemporary art, media, new technologies and their impact on culture and society through event series and experimental formats.

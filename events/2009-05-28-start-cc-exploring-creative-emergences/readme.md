@@ -46,19 +46,40 @@ The presented positions from Japan, Austria and Europe are distinguished by crea
 - BCL (Shiho Fukuhara & Georg Tremmel) (AT/JP)
 - exonemo (JP)
 - Ryota Kuwakubo (JP)
-- Walter Langelaar (NL)
+- Walter Langelaar (NL) - [MQW Artist Page](https://www.mqw.at/en/institutions/q21/artists-in-residence/2009/walter-langelaar)
 - Saita Kazuki / Soichiro Mihara / Hiroko Mugibayashi (JP)
 - Yuko Mohri (JP)
 - Martin Pichlmair & Fares Kayali (AT)
 - Saso Sedlacek (SLO)
 - SHIMURABROS. (JP)
 - Ludic Society (Margarete Jahrmann, Gordan Savicic, Phillip Lammer) (AT)
-- Tetsuya Umeda (JP)
-- Mamoru Okuno (JP)
+- Tetsuya Umeda (JP) - [MQW Event Page](https://www.mqw.at/en/institutions/q21/program/2009/05/air-base-nr-15-tetsuya-umeda-jap)
+- Mamoru Okuno (JP) - [MQW Artist Page](https://www.mqw.at/en/institutions/q21/artists-in-residence/2009/mamoru-okuno)
+
+## Official MQW Archive Information
+
+### Artist-in-Residence Participants (5uper.net recommended):
+1. **Mamoru Okuno** [Japan]
+   - Area: Sound Art
+   - Residence: Osaka, Japan
+   - Time Period: April 2009
+   - [MQW Artist Page](https://www.mqw.at/en/institutions/q21/artists-in-residence/2009/mamoru-okuno)
+
+2. **Walter Langelaar** [Netherlands]
+   - Area: Sound Art / Composition
+   - Residence: Rotterdam, Netherlands
+   - Time Period: April 2009
+   - [MQW Artist Page](https://www.mqw.at/en/institutions/q21/artists-in-residence/2009/walter-langelaar)
+
+3. **Tetsuya Umeda** [Japan]
+   - Area: Sound Art / Installation Art
+   - Residence: Osaka, Japan
+   - Time Period: May 2009 (AiR base Nr. 15)
+   - [MQW Event Page](https://www.mqw.at/en/institutions/q21/program/2009/05/air-base-nr-15-tetsuya-umeda-jap)
 
 ## Context
 
-Part of the CODED CULTURES festival exploring creative emergences at the intersection of media arts, technology, and cultural production.
+Part of the CODED CULTURES festival exploring creative emergences at the intersection of media arts, technology, and cultural production. The 2009 edition featured three 5uper.net recommended artists-in-residence as part of the quartier21 residency program.
 
 ## References
 * https://5uper.net/post/172.html
