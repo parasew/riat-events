@@ -1,3 +1,16 @@
+---
+startdate: 2011/11/16
+title: "METAmART – Art and Capital featuring BitcoinCloud"
+subtitle: "Exhibition featuring BitcoinCloud interactive installation exploring virtual value and alternative economies"
+location: "Künstlerhaus Wien"
+city: "Vienna"
+country: "Austria"
+organizer: "Künstlerhaus Wien / 5uper.net"
+type: "Exhibition"
+artists: "Damian Stewart, Max Gurresch, Matthias Tarasiewicz"
+website: "http://www.k-haus.at/de/ausstellung/57/metamart.html"
+---
+
 | Field | Value |
 | :--- | :--- |
 | Date | 2011-11-16 |
