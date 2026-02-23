@@ -12,27 +12,27 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 2026-02-01 | [FOSDEM 2026: Decentralized Internet and Privacy Devroom](../events/2026-02-01-fosdem-2026-decentralized-internet-and-privacy) | [Video](https://fosdem.org/2026/schedule/track/decentralized-internet-and-privacy/) | ULB (Campus Solbosch) | Brussels, Belgium |
 | 2025-12-27 | [39C3: Critical Decentralisation Cluster](../events/2025-12-27-39c3-critical-decentralization-cluster) | [Site](https://decentral.community/39C3/) | CCH | Hamburg, Germany |
-| 2025-06-20 | [Monerokon 25](https://www.monerokon.org/blog/mk25-press-release.html) |  | Second Culture | Prague, Czechia |
+| 2025-06-20 | [Monerokon 25](https://www.monerokon.org/blog/mk25-press-release.html) | [Site](https://www.monerokon.org/past_events/2025.html) | Second Culture | Prague, Czechia |
 | 2024-06-07 | [Monerokon 2024: Nurturing Decentralization in the Age of Digital Commons](https://www.monerokon.org/past_events/2024.html) | [Videos](https://www.youtube.com/playlist?list=PLsSYUeVwrHBk-C3zImaDAQLx453PL7dR-) | Paralelní Polis | Prague, Czechia |
 | 2024-12-27 | [38C3 Chaos Communication Congress](https://decentral.community) | [Site](https://events.ccc.de/congress/2024/hub/en/event/critical_decentralization_cluster/) | [CCH](https://www.cch.de/) | Hamburg, Germany |
 | 2024-10-05 | [HCPP24: Hardcore Cypherpunk Values](../events/2024-10-05-hcpp24-hardcore-cypherpunk-values) | [Video](https://www.youtube.com/watch?v=PhO7TflQjpg) | Paralelní Polis | Prague, Czechia |
-| 2024-09-29 | [POW Summit 2024: Scaling Technology vs. Scaling Values](../events/2024-09-29-pow-summit-2024-scaling-technology-vs-scaling-values) | [Slides](https://cfp.powsummit.com/2024/talk/TUHACY/) | Frankfurt | Germany |
-| 2024-07-12 | [Vitalik Buterin, Zooko, Christopher Goes, Matthias Tarasiewicz & Alex G on the frontiers of privacy](https://www.youtube.com/watch?v=dOHPG0nniuA&t=181s) | [Video](https://www.youtube.com/watch?v=dOHPG0nniuA&t=181s) | Shielding Summit | Brussels, Belgium |
-| 2023-12-27 | [37C3 Chaos Communication Congress](https://events.ccc.de/congress/2023/infos/index.html) |  | 37C3 | Hamburg, Germany |
+| 2024-09-29 | [POW Summit 2024: Scaling Technology vs. Scaling Values](../events/2024-09-29-pow-summit-2024-scaling-technology-vs-scaling-values) | [Slides](https://cfp.powsummit.com/2024/talk/TUHACY/) | Frankfurt | Frankfurt, Germany |
+| 2024-07-10 | [Shielding Summit 2024: The frontiers of privacy panel with Vitalik Buterin, Zooko, Christopher Goes, Matthias Tarasiewicz & Alex G](https://shieldingsummit.org/) | [Video](https://www.youtube.com/watch?v=dOHPG0nniuA&t=181s) [Forum](https://forum.zcashcommunity.com/t/shielding-summit-10-july-2024-download-links-inside/48225) [Luma](https://luma.com/5bljdmq2) | Shielding Summit | Brussels, Belgium |
+| 2023-12-27 | [37C3 Chaos Communication Congress](https://events.ccc.de/congress/2023/infos/index.html) | [Site](https://events.ccc.de/congress/2023/hub/en/event/cdc-critical-decentralization-cluster-cluster-reco/) | 37C3 | Hamburg, Germany |
 | 2020-08-24 | [Vienna Digital Identity Meetup #13](../events/2020-08-24-vienna-digital-identity-meetup-13) |  | RIAT Vienna | Vienna, Austria |
 | 2020-08-10 | [Vienna Digital Identity Meetup #12](../events/2020-08-10-vienna-digital-identity-meetup-12) |  | RIAT Vienna | Vienna, Austria |
 | 2020-07-27 | [Vienna Digital Identity Meetup #11](../events/2020-07-27-vienna-digital-identity-meetup-11) |  | RIAT Vienna | Vienna, Austria |
 | 2020-07-13 | [Vienna Digital Identity Meetup #10](../events/2020-07-13-vienna-digital-identity-meetup-10) |  | RIAT Vienna | Vienna, Austria |
 | 2020-06-22 | [Vienna Digital Identity Meetup #9](../events/2020-06-22-vienna-digital-identity-meetup-9) |  | RIAT Vienna | Vienna, Austria |
-| 2020-03-13 | [10th Open Hardware Summit, NYC](../events/2020-03-13-10th-ohs-nyc) |  | NYU | New York, USA |
+| 2020-03-13 | [10th Open Hardware Summit, NYC](../events/2020-03-13-10th-ohs-nyc) | [Site](https://2020.oshwa.org/) | NYU | New York, USA |
 | 2020-03-04 | [Elm Meetup March](../events/2020-03-04-elm-meetup-march) |  | RIAT Vienna | Vienna, Austria |
-| 2020-02-12 | [Elm Meetup February](../events/2020-02-12-elm-meetup-feb) |  | RIAT Vienna | vienna, Austria |
-| 2020-02-01 | [Bitcoin Austria: raspiblitz workshop](../events/2020-02-01-raspiblitz-workshop) |  | RIAT Vienna | Vienna, Austria |
+| 2020-02-12 | [Elm Meetup February](../events/2020-02-12-elm-meetup-feb) |  | RIAT Vienna | Vienna, Austria |
+| 2020-02-01 | [Bitcoin Austria: raspiblitz workshop](../events/2020-02-01-raspiblitz-workshop) | [YouTube](https://www.youtube.com/@BitcoinAustria/videos) | RIAT Vienna | Vienna, Austria |
 | 2020-01-29 | [Animated Typography with Blender](../events/2020-01-29-workshop-blender-typography) |  | RIAT Vienna | Vienna, Austria |
-| 2020-01-08 | [Elm Meetup January](../events/2020-01-08-elm-meetup-jan) |  | RIAT Vienna | vienna, Austria |
-| 2020-01-03 | [Bitcoin Austria: 11 Jahre Bitcoin Blockchain](../events/2020-03-01-73th-bitcoin-austria-meetup) |  | RIAT Vienna | Vienna, Austria |
+| 2020-01-08 | [Elm Meetup January](../events/2020-01-08-elm-meetup-jan) |  | RIAT Vienna | Vienna, Austria |
+| 2020-01-03 | [Bitcoin Austria: 11 Jahre Bitcoin Blockchain](../events/2020-03-01-73th-bitcoin-austria-meetup) | [YouTube](https://www.youtube.com/@BitcoinAustria/videos) | RIAT Vienna | Vienna, Austria |
 | 2019-12-27 | [36C3: decentral.community](../events/2019-12-27-36C3-decentral-community) | [Site](https://36c3.info) | CCL | Leipzig, Germany |
-| 2019-12-18 | [Bitcoin Austria: Atomic Swaps](../events/2019-12-18-bitcoin-austria-atomic-swaps) |  | RIAT Vienna | Vienna, Austria |
+| 2019-12-18 | [Bitcoin Austria: Atomic Swaps](../events/2019-12-18-bitcoin-austria-atomic-swaps) | [YouTube](https://www.youtube.com/@BitcoinAustria/videos) | RIAT Vienna | Vienna, Austria |
 | 2019-12-04 | [Elm Meetup December](../events/2019-12-04-elm-meetup-dec) |  | RIAT Vienna | Vienna, Austria |
 | 2019-11-14 | [Microservices, Reactive and Distributed Systems: How to move fast, deploy often, and minimize risk with microservices](../events/2019-11-14-microservices-reactive-distributed-systems-move-fast-deploy-often) |  | RIAT Vienna | Vienna, Austria |
 | 2019-11-11 | [Trust Square Lecture Series: Future of Open Hardware in a (Verifiable) Decentralised World](../events/2019-11-11-trust-square-lecture-open-hardware-decentralised-world) |  | Trustsquare | Zurich, Switzerland |
@@ -41,32 +41,32 @@
 | 2019-10-30 | [Decentralized Athens](../events/2019-10-31-athens-decentralized-austrian-blockchain) |  | decentralized conference | Athens, Greece |
 | 2019-10-28 | [Vienna Digital Identity Meetup #8](../events/2019-10-28-vienna-digital-identity-meetup-8) |  | RIAT Vienna | Vienna, Austria |
 | 2019-10-24 | [CGmeet](../events/2019-10-24-cgmeet-riat-vienna) |  | RIAT Vienna | Vienna, Austria |
-| 2019-10-10 | [Future of Open Hardware in a (Verifiable) Decentralised World](../events/2019-10-10-future-open-hardware-verifiable-decentralised-world-devcon5) |  | Ethereum Devcon Osaka | Osaka, Japan |
-| 2019-10-10 | [Open Hardware Panel at Ethereum Devcon5 (Paul Gardner-Stephen, Cameron Robertson, Matthias Tarasiewicz)](../events/2019-10-10-open-hardware-panel-devcon5) |  | Ethereum Devcon Osaka | Osaka, Japan |
+| 2019-10-10 | [Future of Open Hardware in a (Verifiable) Decentralised World](../events/2019-10-10-future-open-hardware-verifiable-decentralised-world-devcon5) | [Site](https://devcon.ethereum.org/archive/) | Ethereum Devcon Osaka | Osaka, Japan |
+| 2019-10-10 | [Open Hardware Panel at Ethereum Devcon5 (Paul Gardner-Stephen, Cameron Robertson, Matthias Tarasiewicz)](../events/2019-10-10-open-hardware-panel-devcon5) | [Site](https://devcon.ethereum.org/archive/) | Ethereum Devcon Osaka | Osaka, Japan |
 | 2019-10-05 | [Showcase: Materialities of Modern Cryptography](../events/2019-10-05-showcase-materialities-modern-cryptography) |  | HCPP Paralelni Polis | Prague, Czechia |
 | 2019-10-05 | [Black Crystal Workshop by RIAT and Riddle&Code (at HCPP: Hackers Congress Paralelni Polis)](../events/2019-10-05-black-crystal-workshop-from-riat-and-riddle-and-code/) |  | HCPP Paralelni Polis | Prague, Czechia |
 | 2019-10-04 | [Talk: The past, present and future of Opt-Out with Open and Libre Hardware](https://ohm.oshwa.org/event/talk-the-past-present-and-future-of-opt-out-with-open-and-libre-hardware/) |  | HCPP Paralelni Polis | Prague, Czechia |
-| 2018-12-27 | [Critical Decentralisation Cluster at 35C3 Chaos Communication Congress](https://decentral.community/) |  | Messehalle Leipzig | Leipzig, Germany |
+| 2018-12-27 | [Critical Decentralisation Cluster at 35C3 Chaos Communication Congress](../events/2018-12-27-critical-decentralization-cluster-35c3-chaos-communication-congress) | [Site](https://decentral.community/35C3/) | Messehalle Leipzig | Leipzig, Germany |
 | 2018-12-11 | [Xmr.mas & Hrvoje Hiršl Presentation](https://www.facebook.com/events/1792511447541919/) |  | RIAT Vienna | Vienna, Austria |
 | 2018-11-27 | [RIAT at Dezentrum Zurich](https://www.facebook.com/events/1002168753301239/) |  | TrustSquare Zürich | Zurich, Switzerland |
-| 2018-10-30 | [RIAT & Future Cryptoeconomics at Ethereum Devcon 4](https://devcon4.ethereum.org/) |  | Prague Congress Centre | Prague, Czechia |
-| 2017-12-27 | [[34c3] Bitcoin / Monero / RIAT at 34c3 Chaos Communication Congress](../events/2017-12-27-34c3-bitcoin-monero-riat-at-34c3-chaos-communication-congress) |  | Messehalle Leipzig | Leipzig, Germany |
+| 2018-10-30 | [RIAT & Future Cryptoeconomics at Ethereum Devcon 4](https://devcon4.ethereum.org/) | [Site](https://devcon4.ethereum.org/) | Prague Congress Centre | Prague, Czechia |
+| 2017-12-27 | [[34c3] Bitcoin / Monero / RIAT at 34c3 Chaos Communication Congress](../events/2017-12-27-34c3-bitcoin-monero-riat-at-34c3-chaos-communication-congress) | [CDC at 34C3](https://decentral.community/34C3/) | Messehalle Leipzig | Leipzig, Germany |
 | 2017-12-19 | [AustrianStartups Stammtisch #53 with Etherisc, Coinfinity and Startup300](../events/2017-12-19-austrianstartups-stammtisch-53-with-etherisc-coinfinity-and-startup300) |  |  | Vienna, Austria |
-| 2017-12-18 | [[Ethereum Meetup] Decentralised lending with ETHLend](../events/2017-12-18-ethereum-meetup-decentralised-lending-with-ethlend) |  | RIAT Vienna | Vienna, Austria |
+| 2017-12-18 | [[Ethereum Meetup] Decentralised lending with ETHLend](../events/2017-12-18-ethereum-meetup-decentralised-lending-with-ethlend) | [YouTube](https://www.youtube.com/results?search_query=Ethereum+meetup+Vienna) | RIAT Vienna | Vienna, Austria |
 | 2017-12-17 | [[Workshop] Tomu.im 2FA development day](../events/2017-12-17-workshop-tomu-im-2fa-development-day) |  | RIAT Vienna | Vienna, Austria |
 | 2017-12-16 | [[Free Code Camp] Free Code Camp Meetup](../events/2017-12-16-free-code-camp-free-code-camp-meetup) |  | RIAT Vienna | Vienna, Austria |
-| 2017-12-16 | [[Workshop] Monero Open Hardware Wallet Workshop (msvb-lab)](../events/2017-12-16-workshop-monero-open-hardware-wallet-workshop-msvb-lab) |  | RIAT Vienna | Vienna, Austria |
-| 2017-12-15 | [[Monero Meetup] Open Hardware Wallet, Traceability](../events/2017-12-15-monero-meetup-open-hardware-wallet-traceability) |  | RIAT Vienna | Vienna, Austria |
+| 2017-12-16 | [[Workshop] Monero Open Hardware Wallet Workshop (msvb-lab)](../events/2017-12-16-workshop-monero-open-hardware-wallet-workshop-msvb-lab) | [YouTube](https://www.youtube.com/results?search_query=Monero+meetup) | RIAT Vienna | Vienna, Austria |
+| 2017-12-15 | [[Monero Meetup] Open Hardware Wallet, Traceability](../events/2017-12-15-monero-meetup-open-hardware-wallet-traceability) | [YouTube](https://www.youtube.com/results?search_query=Monero+meetup) | RIAT Vienna | Vienna, Austria |
 | 2017-12-14 | [[Ruby & Rails] Bitcoin, Blockchain, Cryptocurrency and Ruby](../events/2017-12-14-ruby-rails-bitcoin-blockchain-cryptocurrency-and-ruby) |  | RIAT Vienna | Vienna, Austria |
 | 2017-12-13 | [[React] React December Meetup](../events/2017-12-13-react-react-december-meetup) |  | RIAT Vienna | Vienna, Austria |
-| 2017-12-12 | [[Bitcoin] Bitcoin Austria Meetup: Hardforks, Softforks](../events/2017-12-12-bitcoin-bitcoin-austria-meetup-hardforks-softforks) |  | RIAT Vienna | Vienna, Austria |
+| 2017-12-12 | [[Bitcoin] Bitcoin Austria Meetup: Hardforks, Softforks](../events/2017-12-12-bitcoin-bitcoin-austria-meetup-hardforks-softforks) | [YouTube](https://www.youtube.com/@BitcoinAustria/videos) | RIAT Vienna | Vienna, Austria |
 | 2017-12-05 | [[vue.js] vue.js Meetup December](../events/2017-12-05-vue-js-vue-js-meetup-december) |  | RIAT Vienna | Vienna, Austria |
-| 2017-12-04 | [[Ethereum Meetup] uPort: A Platform for self-sovereign identity](../events/2017-12-04-ethereum-meetup-uport-a-platform-for-self-sovereign-identity) |  | RIAT Vienna | Vienna, Austria |
+| 2017-12-04 | [[Ethereum Meetup] uPort: A Platform for self-sovereign identity](../events/2017-12-04-ethereum-meetup-uport-a-platform-for-self-sovereign-identity) | [YouTube](https://www.youtube.com/results?search_query=Ethereum+meetup+Vienna) | RIAT Vienna | Vienna, Austria |
 | 2017-12-01 | [[Monero Workgroup] Monero XMR December in Vienna](../events/2017-12-01-monero-workgroup-monero-xmr-december-in-vienna) |  | RIAT Vienna | Vienna, Austria |
 | 2017-11-23 | [[RIAT Academy] Smart Contract Development with Ethereum (23. – 26. October 2017)](../events/2017-11-23-riat-academy-smart-contract-development-with-ethereum-23-26-october-2017) |  | RIAT Vienna | Vienna, Austria |
 | 2017-11-22 | [[Golang] Vienna Go User Group November Meetup](../events/2017-11-22-golang-vienna-go-user-group-november-meetup) |  | RIAT Vienna | Vienna, Austria |
-| 2017-11-14 | [[Bitcoin] Bitcoin Austria Meetup](../events/2017-11-14-bitcoin-bitcoin-austria-meetup) |  | RIAT Vienna | Vienna, Austria |
-| 2017-11-10 | [[Ethereum] DEVCON-3 Recap](../events/2017-11-10-ethereum-devcon-3-recap) |  |  | Cancun, Mexico |
+| 2017-11-14 | [[Bitcoin] Bitcoin Austria Meetup](../events/2017-11-14-bitcoin-bitcoin-austria-meetup) | [YouTube](https://www.youtube.com/@BitcoinAustria/videos) | RIAT Vienna | Vienna, Austria |
+| 2017-11-10 | [[Ethereum] DEVCON-3 Recap](../events/2017-11-10-ethereum-devcon-3-recap) | [Devcon3](https://devcon3.ethereum.org/) |  | Cancun, Mexico |
 | 2017-11-08 | [[Performance] The Future of Demonstration: Proof-of-Burn](../events/2017-11-08-performance-the-future-of-demonstration-proof-of-burn) |  | RIAT Vienna | Vienna, Austria |
 | 2017-11-07 | [[vue.js] vue.js Meetup November](../events/2017-11-07-vue-js-vue-js-meetup-november) |  | RIAT Vienna | Vienna, Austria |
 | 2017-11-01 | [[Artist-in-residence] Laura Lotti [IT]](../events/2017-11-01-artist-in-residence-laura-lotti-it) |  | RIAT Vienna | Vienna, Austria |
@@ -83,7 +83,7 @@
 | 2017-09-26 | [[Bitcoin] Bit&Block Academy Week 10](../events/2017-09-26-bitcoin-bit-block-academy-week-10) |  | RIAT Vienna | Vienna, Austria |
 | 2017-09-22 | [[Presentation] Victor Papanek Foundation Symposium](../events/2017-09-22-presentation-victor-papanek-foundation-symposium) |  |  | Vienna, Austria |
 | 2017-09-14 | [Poietry Book Presentation(s): Solitude/Transition/Connection](../events/2017-09-14-poietry-book-presentation-s-solitude-transition-connection) |  | RIAT Vienna | Vienna, Austria |
-| 2017-09-12 | [[Bitcoin] 63. Bitcoin Austria Meetup Vienna: ICOs (sponsored by herocoin)](../events/2017-09-12-bitcoin-63-bitcoin-austria-meetup-vienna-icos-sponsored-by-herocoin) |  | RIAT Vienna | Vienna, Austria |
+| 2017-09-12 | [[Bitcoin] 63. Bitcoin Austria Meetup Vienna: ICOs (sponsored by herocoin)](../events/2017-09-12-bitcoin-63-bitcoin-austria-meetup-vienna-icos-sponsored-by-herocoin) | [YouTube](https://www.youtube.com/@BitcoinAustria/videos) | RIAT Vienna | Vienna, Austria |
 | 2017-09-07 | [[Exhibition] STARTS Prize](../events/2017-09-07-exhibition-starts-prize) |  |  | Linz, Austria |
 | 2017-09-01 | [[Artist-in-residence] Max Hampshire](../events/2017-09-01-artist-in-residence-max-hampshire) |  | RIAT Vienna | Vienna, Austria |
 | 2017-09-01 | [[Exhibition] Cryptoeconomic Artefacts](../events/2017-09-01-exhibition-cryptoeconomic-artefacts) |  | RIAT Vienna | Vienna, Austria |
@@ -99,33 +99,33 @@
 | 2017-07-04 | [[Ethereum] Microsoft and the Blockchain](../events/2017-07-04-ethereum-microsoft-and-the-blockchain) |  | RIAT Vienna | Vienna, Austria |
 | 2017-07-01 | [[Artist-in-residence] Selena Savic [SRB]](../events/2017-07-01-artist-in-residence-selena-savic-srb) |  | RIAT Vienna | Vienna, Austria |
 | 2017-06-23 | [[Research Cultures] Mitchel Cumming & Kenzee Patterson: # A dolphin in bronze / A dolphin out of bronze #](../events/2017-06-23-research-cultures-mitchel-cumming-kenzee-patterson-a-dolphin-in-bronze-a-dolphin-out-of-bronze) |  | RIAT Vienna | Vienna, Austria |
-| 2017-06-14 | [[ISEA 2017] Institutions in Crisis](../events/2017-06-14-isea-2017-institutions-in-crisis) |  |  | Manizales, Colombia |
-| 2017-06-14 | [[ISEA 2017] Poietic Strategies in Artistic Practice](../events/2017-06-14-isea-2017-poietic-strategies-in-artistic-practice) |  |  | Manizales, Colombia |
-| 2017-06-13 | [[ISEA 2017] Journal for Research Cultures](../events/2017-06-13-isea-2017-journal-for-research-cultures) |  |  | Manizales, Colombia |
+| 2017-06-14 | [[ISEA 2017] Institutions in Crisis](../events/2017-06-14-isea-2017-institutions-in-crisis) | [Site](https://isea-archives.org/) |  | Manizales, Colombia |
+| 2017-06-14 | [[ISEA 2017] Poietic Strategies in Artistic Practice](../events/2017-06-14-isea-2017-poietic-strategies-in-artistic-practice) | [Site](https://isea-archives.org/) |  | Manizales, Colombia |
+| 2017-06-13 | [[ISEA 2017] Journal for Research Cultures](../events/2017-06-13-isea-2017-journal-for-research-cultures) | [Site](https://isea-archives.org/) |  | Manizales, Colombia |
 | 2017-06-12 | [[Book Launch] Jürgen Kleft: Shellpunk Buchpräsentation](../events/2017-06-12-book-launch-jurgen-kleft-shellpunk-buchprasentation) |  | RIAT Vienna | Vienna, Austria |
-| 2017-06-09 | [[Ethereum] Meetup: Indorse.io and Blockchain in SEA (Attores)](../events/2017-06-09-ethereum-meetup-indorse-io-and-blockchain-in-sea-attores) |  | RIAT Vienna | Vienna, Austria |
+| 2017-06-09 | [[Ethereum] Meetup: Indorse.io and Blockchain in SEA (Attores)](../events/2017-06-09-ethereum-meetup-indorse-io-and-blockchain-in-sea-attores) | [YouTube](https://www.youtube.com/results?search_query=Ethereum+meetup+Vienna) | RIAT Vienna | Vienna, Austria |
 | 2017-06-03 | [[New Economy Movement] initial NEM Meetup Vienna ($XEM)](../events/2017-06-03-new-economy-movement-initial-nem-meetup-vienna-xem) |  | RIAT Vienna | Vienna, Austria |
 | 2017-06-01 | [[Artist-in-residence] Satoshi Nakomoto [JP]](../events/2017-06-01-artist-in-residence-satoshi-nakomoto-jp) |  | RIAT Vienna | Vienna, Austria |
 | 2017-05-27 | [[Ethereum] Advanced Workshop: From Idea to Contract](../events/2017-05-27-ethereum-advanced-workshop-from-idea-to-contract) |  | RIAT Vienna | Vienna, Austria |
-| 2017-05-25 | [[Ethereum] Meetup: Ksenya Bellman / DAO.Casino](../events/2017-05-25-ethereum-meetup-ksenya-bellman-dao-casino) |  | RIAT Vienna | Vienna, Austria |
+| 2017-05-25 | [[Ethereum] Meetup: Ksenya Bellman / DAO.Casino](../events/2017-05-25-ethereum-meetup-ksenya-bellman-dao-casino) | [YouTube](https://www.youtube.com/results?search_query=Ethereum+meetup+Vienna) | RIAT Vienna | Vienna, Austria |
 | 2017-05-24 | [[Research Cultures] Jasmine Powell: efflux/spatter](../events/2017-05-24-research-cultures-jasmine-powell-efflux-spatter) |  | RIAT Vienna | Vienna, Austria |
 | 2017-05-11 | [[Altcoins] Clash of Coins (Ethereum + Monero + Dogecoin)](../events/2017-05-11-altcoins-clash-of-coins-ethereum-monero-dogecoin) |  | RIAT Vienna | Vienna, Austria |
-| 2017-05-05 | [[Ethereum] Meetup: Meet Viktor Tron (Swarm, Ethereum)](../events/2017-05-05-ethereum-meetup-meet-viktor-tron-swarm-ethereum) |  | RIAT Vienna | Vienna, Austria |
+| 2017-05-05 | [[Ethereum] Meetup: Meet Viktor Tron (Swarm, Ethereum)](../events/2017-05-05-ethereum-meetup-meet-viktor-tron-swarm-ethereum) | [YouTube](https://www.youtube.com/results?search_query=Ethereum+meetup+Vienna) | RIAT Vienna | Vienna, Austria |
 | 2017-05-01 | [[Artist-in-residence] Jasmine Powell [AU]](../events/2017-05-01-artist-in-residence-jasmine-powell-au) |  | RIAT Vienna | Vienna, Austria |
 | 2017-04-28 | [[Workshop] SIGNUM_The invisible revealed: Presence, perception and noise.](../events/2017-04-28-workshop-signum_the-invisible-revealed-presence-perception-and-noise) |  | RIAT Vienna | Vienna, Austria |
-| 2017-04-25 | [[Ethereum] Meetup: Possibilities of homomorphic encryption](../events/2017-04-25-ethereum-meetup-possibilities-of-homomorphic-encryption) |  | RIAT Vienna | Vienna, Austria |
+| 2017-04-25 | [[Ethereum] Meetup: Possibilities of homomorphic encryption](../events/2017-04-25-ethereum-meetup-possibilities-of-homomorphic-encryption) | [YouTube](https://www.youtube.com/results?search_query=Ethereum+meetup+Vienna) | RIAT Vienna | Vienna, Austria |
 | 2017-04-18 | [[Edit-a-ton] Open Art & Technology Wikimedia Edit-a-thon at RIAT](../events/2017-04-18-edit-a-ton-open-art-technology-wikimedia-edit-a-thon-at-riat) |  | RIAT Vienna | Vienna, Austria |
 | 2017-04-17 | [[Artist-in-residence] Victor Mazón Gardoqui [ES]](../events/2017-04-17-artist-in-residence-victor-mazon-gardoqui-es) |  | RIAT Vienna | Vienna, Austria |
 | 2017-03-20 | [[Ethereum] Decentralised insurance with Etherisc](../events/2017-03-20-ethereum-decentralised-insurance-with-etherisc) |  | RIAT Vienna | Vienna, Austria |
 | 2017-03-19 | [[Artist-in-residence] Brett Scott [ZA]](../events/2017-03-19-artist-in-residence-brett-scott-za) |  | RIAT Vienna | Vienna, Austria |
 | 2017-03-15 | [[IoT Talks] IoT and the Blockchain with Open Hardware](../events/2017-03-15-iot-talks-iot-and-the-blockchain-with-open-hardware) |  | RIAT Vienna | Vienna, Austria |
-| 2017-02-14 | [[Ethereum] Vitalik Buterin presents the roadmap for ethereum](../events/2017-02-14-ethereum-vitalik-buterin-presents-the-roadmap-for-ethereum) |  | RIAT Vienna | Vienna, Austria |
+| 2017-02-14 | [[Ethereum] Vitalik Buterin presents the roadmap for ethereum](../events/2017-02-14-ethereum-vitalik-buterin-presents-the-roadmap-for-ethereum) | [Video](https://www.youtube.com/results?search_query=Vitalik+Buterin+ethereum+roadmap) | RIAT Vienna | Vienna, Austria |
 | 2017-02-14 | [[Showcase] On display: Bitcoincloud (2010), Brute-Force-Attack (DAO, 2016) and Crypto-Artefacts](../events/2017-02-14-showcase-on-display-bitcoincloud-2010-brute-force-attack-dao-2016-and-crypto-artefacts) |  | RIAT Vienna | Vienna, Austria |
 | 2017-02-01 | [[Artist-in-residence] Rachel-Rose O’Leary [IRL]](../events/2017-02-01-artist-in-residence-rachel-rose-o-leary-irl) |  | RIAT Vienna | Vienna, Austria |
 | 2017-01-26 | [[V&A Design Culture Salon] How does design create alternative economies in contemporary culture?](../events/2017-01-26-v-a-design-culture-salon-how-does-design-create-alternative-economies-in-contemporary-culture) |  |  | London, UK |
 | 2017-01-25 | [[Ethereum] Meet Simon De La Rouviere (Ujo Music, Consensys) and Paul Kohlhaas (9needs)](../events/2017-01-25-ethereum-meet-simon-de-la-rouviere-ujo-music-consensys-and-paul-kohlhaas-9needs) |  | RIAT Vienna | Vienna, Austria |
 | 2017-01-20 | [[Research Cultures] Lia Scarton Carreira: Fragments of [online] Existence](../events/2017-01-20-research-cultures-lia-scarton-carreira-fragments-of-online-existence) |  | RIAT Vienna | Vienna, Austria |
-| 2016-12-26 | [[Exhibition] RIAT Crypto Lab at 33C3 (CCC Hamburg)](../events/2016-12-26-exhibition-riat-crypto-lab-at-33c3-ccc-hamburg) |  | CCC Hamburg | Hamburg, Germany |
+| 2016-12-26 | [[Exhibition] RIAT Crypto Lab at 33C3 (CCC Hamburg)](../events/2016-12-26-exhibition-riat-crypto-lab-at-33c3-ccc-hamburg) | [Site](https://events.ccc.de/congress/2016/wiki/Assembly:RIAT) | CCC Hamburg | Hamburg, Germany |
 | 2016-12-18 | [[Workshop] Nina Prader: ZINE-CORE:_ File_Under_](../events/2016-12-18-workshop-nina-prader-zine-core-_-file_under_) |  | RIAT Vienna | Vienna, Austria |
 | 2016-12-17 | [[Ethereum] Spurious Dragon, Geth 1.5 and ENS](../events/2016-12-17-ethereum-spurious-dragon-geth-1-5-and-ens) |  | RIAT Vienna | Vienna, Austria |
 | 2016-12-15 | [[Artistic Bokeh] Andrew Newman in conversation with Patricia J. Reis and Anna T. from Mz* Baltazar’s Laboratory](../events/2016-12-15-artistic-bokeh-andrew-newman-in-conversation-with-patricia-j-reis-and-anna-t-from-mz-baltazar-s-laboratory) |  | RIAT Vienna | Vienna, Austria |
@@ -143,19 +143,19 @@
 | 2016-11-14 | [[Research Cultures] Pêdra Costa: Seduction at a Crossroads](../events/2016-11-14-research-cultures-pedra-costa-seduction-at-a-crossroads) |  | RIAT Vienna | Vienna, Austria |
 | 2016-11-12 | [[Making Artistic Technology] SIGNUM: Workshop by Víctor Mazón Gardoqui](../events/2016-11-12-making-artistic-technology-signum-workshop-by-victor-mazon-gardoqui) |  | RIAT Vienna | Vienna, Austria |
 | 2016-11-10 | [[Fintech Academy] Fintech Academy: disrupting advertising](../events/2016-11-10-fintech-academy-fintech-academy-disrupting-advertising) |  | RIAT Vienna | Vienna, Austria |
-| 2016-11-09 | [[Bitcoin] 58. Bitcoin Austria Meetup](../events/2016-11-09-bitcoin-58-bitcoin-austria-meetup) |  | RIAT Vienna | Vienna, Austria |
+| 2016-11-09 | [[Bitcoin] 58. Bitcoin Austria Meetup](../events/2016-11-09-bitcoin-58-bitcoin-austria-meetup) | [YouTube](https://www.youtube.com/@BitcoinAustria/videos) | RIAT Vienna | Vienna, Austria |
 | 2016-11-05 | [[Ethereum] The Age of ICOs / EIP-150 Hardfork](../events/2016-11-05-ethereum-the-age-of-icos-eip-150-hardfork) |  | RIAT Vienna | Vienna, Austria |
 | 2016-11-01 | [[Artist-in-residence] Víctor Mazón Gardoqui [ES]](../events/2016-11-01-artist-in-residence-victor-mazon-gardoqui-es) |  | RIAT Vienna | Vienna, Austria |
 | 2016-10-25 | [Conversations on Artistic Practice & Research](../events/2016-10-25-conversations-on-artistic-practice-research) |  | RIAT Vienna | Vienna, Austria |
 | 2016-10-19 | [[Making Artistic Technology] Spencer-Brown Eulogic](../events/2016-10-19-making-artistic-technology-split-imaginary-representation-spencer-brown-eulogic) |  | RIAT Vienna | Vienna, Austria |
-| 2016-10-07 | [[Open Hardware] Open Hardware Summit 2016 Portland](../events/2016-10-07-open-hardware-open-hardware-summit-2016-portland) |  |  | Portland, USA |
+| 2016-10-07 | [[Open Hardware] Open Hardware Summit 2016 Portland](../events/2016-10-07-open-hardware-open-hardware-summit-2016-portland) | [Site](https://2016.oshwa.org/) |  | Portland, USA |
 | 2016-10-07 | [[Research Cultures] Isabella Kohlhuber: NO NO NO (display)](../events/2016-10-07-research-cultures-isabella-kohlhuber-no-no-no-display) |  | RIAT Vienna | Vienna, Austria |
-| 2016-10-05 | [[Ethereum] DEVCON-2 Recap](../events/2016-10-05-ethereum-devcon-2-recap) |  | RIAT Vienna | Vienna, Austria |
+| 2016-10-05 | [[Ethereum] DEVCON-2 Recap](../events/2016-10-05-ethereum-devcon-2-recap) | [Devcon2](https://devcon2.ethereum.org/) | RIAT Vienna | Vienna, Austria |
 | 2016-10-01 | [[Open Hardware] Book Launch: OPENISM – Conversations in Open Hardware](../events/2016-10-01-open-hardware-book-launch-openism-conversations-in-open-hardware) |  | RIAT Vienna | Vienna, Austria |
 | 2016-09-30 | [[Research Cultures] Imperieum Anti-Naturae](../events/2016-09-30-research-cultures-imperieum-anti-naturae) |  | RIAT Vienna | Vienna, Austria |
-| 2016-09-19 | [[Ethereum] RIAT at Ethereum DEVCON2 Shanghai](../events/2016-09-19-ethereum-riat-at-ethereum-devcon2-shanghai) |  |  | Shanghai, China |
+| 2016-09-19 | [[Ethereum] RIAT at Ethereum DEVCON2 Shanghai](../events/2016-09-19-ethereum-riat-at-ethereum-devcon2-shanghai) | [Devcon2](https://devcon2.ethereum.org/) |  | Shanghai, China |
 | 2016-09-17 | [[Making Artistic Technology] Artist Talk: Marita Fraser](../events/2016-09-17-making-artistic-technology-artist-talk-marita-fraser) |  | RIAT Vienna | Vienna, Austria |
-| 2016-09-13 | [[Ethereum] 57th Bitcoin Austria Meetup](../events/2016-09-13-ethereum-57th-bitcoin-austria-meetup) |  | RIAT Vienna | Vienna, Austria |
+| 2016-09-13 | [[Ethereum] 57th Bitcoin Austria Meetup](../events/2016-09-13-ethereum-57th-bitcoin-austria-meetup) | [YouTube](https://www.youtube.com/results?search_query=Ethereum+meetup+Vienna) | RIAT Vienna | Vienna, Austria |
 | 2016-09-13 | [[Ethereum] Nick Dodson – Additional get-together](../events/2016-09-13-ethereum-nick-dodson-additional-get-together) |  | RIAT Vienna | Vienna, Austria |
 | 2016-09-12 | [[Ethereum] Meet Nick Dodson from Consensys! (Weifund and Boardroom)](../events/2016-09-12-ethereum-meet-nick-dodson-from-consensys-weifund-and-boardroom) |  | RIAT Vienna | Vienna, Austria |
 | 2016-09-10 | [[Ethereum] Contract Development for Beginners](../events/2016-09-10-ethereum-contract-development-for-beginners) |  | RIAT Vienna | Vienna, Austria |
@@ -224,19 +224,19 @@
 | 2016-03-15 | [[Ethereum] Homestead Release](../events/2016-03-15-ethereum-homestead-release) |  | RIAT Vienna | Vienna, Austria |
 | 2016-02-25 | [Artistic Use of Blockchain Technology](../events/2016-02-25-artistic-use-of-blockchain-technology) |  |  | Brussels, Belgium |
 | 2016-02-05 | [Josh Harle on Tactical Space](../events/2016-02-05-josh-harle-on-tactical-space) |  |  | Vienna, Austria |
-| 2016-02-01 | [Transmediale: Unmaking – 5 Anxieties](../events/2016-02-01-transmediale-unmaking-5-anxieties) |  |  | Berlin, Germany |
+| 2016-02-01 | [Transmediale: Unmaking – 5 Anxieties](../events/2016-02-01-transmediale-unmaking-5-anxieties) | [Site](https://transmediale.de/) |  | Berlin, Germany |
 | 2016-02-01 | [[Artist-in-residence] Adam Donovan [AU]](../events/2016-02-01-artist-in-residence-adam-donovan-au) |  | RIAT Vienna | Vienna, Austria |
 | 2016-01-31 | [[Ethereum] Simple contract development and deployment](../events/2016-01-31-ethereum-simple-contract-development-and-deployment) |  | RIAT Vienna | Vienna, Austria |
 | 2016-01-26 | [[Artist-in-residence] RIAT and Q21 Artist Residency Launch](../events/2016-01-26-artist-in-residence-riat-and-q21-artist-residency-launch) |  |  | Vienna, Austria |
 | 2016-01-01 | [[Artist-in-residence] Josh Harle [AU]](../events/2016-01-01-artist-in-residence-josh-harle-au) |  | RIAT Vienna | Vienna, Austria |
-| 2015-12-28 | [Participation at 32C3 Chaos Communication Congress](../events/2015-12-28-participation-at-32c3-chaos-communication-congress) |  | CCH | Hamburg, Germany |
+| 2015-12-28 | [Participation at 32C3 Chaos Communication Congress](../events/2015-12-28-participation-at-32c3-chaos-communication-congress) | [Site](https://events.ccc.de/congress/2015/wiki/Assembly:RIAT) | CCH | Hamburg, Germany |
 | 2015-12-19 | [[Ethereum] Almost Homestead](../events/2015-12-19-ethereum-almost-homestead) |  | RIAT Vienna | Vienna, Austria |
 | 2015-12-10 | [Awards for Research in Artistic Technology](../events/2015-12-10-awards-for-research-in-artistic-technology) |  |  | Vienna, Austria |
 | 2015-12-01 | [[Artist-in-residence] Mario de Vega [MX]](../events/2015-12-01-artist-in-residence-mario-de-vega-mx) |  | RIAT Vienna | Vienna, Austria |
 | 2015-12-01 | [[Artist-in-residence] Nicolas Maigret [FR]](../events/2015-12-01-artist-in-residence-nicolas-maigret-fr) |  | RIAT Vienna | Vienna, Austria |
 | 2015-12-01 | [[Artist-in-residence] Maria Roszkowska [PL]](../events/2015-12-01-artist-in-residence-maria-roszkowska-pl) |  | RIAT Vienna | Vienna, Austria |
 | 2015-11-22 | [[Research Cultures] Peter Moosgaard: Skafander (The Spiritual Cyborg)](../events/2015-11-22-research-cultures-peter-moosgaard-skafander-the-spiritual-cyborg) |  | RIAT Vienna | Vienna, Austria |
-| 2015-11-18 | [[Ethereum] DEVCON-1 and UI Wallet](../events/2015-11-18-ethereum-devcon-1-and-ui-wallet) |  |  | London, UK |
+| 2015-11-18 | [[Ethereum] DEVCON-1 and UI Wallet](../events/2015-11-18-ethereum-devcon-1-and-ui-wallet) | [Devcon1](https://devcon.ethereum.org/archive/) |  | London, UK |
 | 2015-10-29 | [Contemporary Code: Artistic Research](../events/2015-10-29-contemporary-code-artistic-research) |  |  | Vienna, Austria |
 | 2015-10-29 | [[Making Artistic Technology] Mobile Laboratory for the New Aesthetic of Digital Exchanges](../events/2015-10-29-making-artistic-technology-mobile-laboratory-for-the-new-aesthetic-of-digital-exchanges) |  |  | Vienna, Austria |
 | 2015-10-28 | [[Making Artistic Technology] Elizabeth Losh on FemTechNet](../events/2015-10-28-making-artistic-technology-elizabeth-losh-on-femtechnet) |  |  | Vienna, Austria |
@@ -248,8 +248,8 @@
 | 2015-09-24 | [Social Glitch – Radical aesthetics and the consequences of extreme events](../events/2015-09-24-social-glitch-radical-aesthetics-and-the-consequences-of-extreme-events) |  |  | Vienna, Austria |
 | 2015-09-19 | [Open Hardware Summit](../events/2015-09-19-open-hardware-summit) |  |  | Portland, USA |
 | 2015-09-11 | [[Research Cultures] Jenna Sutela: Orgs_ (Curated by Laura McLean)](../events/2015-09-11-research-cultures-jenna-sutela-orgs_-curated-by-laura-mclean) |  | RIAT Vienna | Vienna, Austria |
-| 2015-08-13 | [[Ethereum] Frontier Meetup](../events/2015-08-13-ethereum-frontier-meetup) |  | RIAT Vienna | Vienna, Austria |
-| 2015-08-01 | [ISEA Vancouver & PKP Meetup](../events/2015-08-01-isea-vancouver-pkp-meetup) |  |  | Vancouver, Canada |
+| 2015-08-13 | [[Ethereum] Frontier Meetup](../events/2015-08-13-ethereum-frontier-meetup) | [YouTube](https://www.youtube.com/results?search_query=Ethereum+meetup+Vienna) | RIAT Vienna | Vienna, Austria |
+| 2015-08-01 | [ISEA Vancouver & PKP Meetup](../events/2015-08-01-isea-vancouver-pkp-meetup) | [Site](https://isea-archives.org/) |  | Vancouver, Canada |
 | 2015-07-15 | [Salon für Kunstbuch: Library is Everywhere](../events/2015-07-15-salon-fur-kunstbuch-library-is-everywhere) |  |  | Vienna, Austria |
 | 2015-07-01 | [[Ethereum] 100 Ethereum Members and Augur](../events/2015-07-01-ethereum-100-ethereum-members-and-augur) |  | RIAT Vienna | Vienna, Austria |
 | 2015-07-01 | [[Artist-in-residence] Marcell Mars [HR]](../events/2015-07-01-artist-in-residence-marcell-mars-hr) |  | RIAT Vienna | Vienna, Austria |
@@ -264,12 +264,12 @@
 | 2015-03-26 | [Apertus AXIOM Kick-off](../events/2015-03-26-apertus-axiom-kick-off) |  |  | Vienna, Austria |
 | 2015-03-13 | [Matthias Tarasiewicz: Cryptocurrencies as Experimental Systems](../events/2015-03-13-matthias-tarasiewicz-cryptocurrencies-as-experimental-systems) |  |  | Vienna, Austria |
 | 2015-02-07 | [[Research Cultures] Josh Harle: Tactical Space Lab](../events/2015-02-07-research-cultures-josh-harle-tactical-space-lab) |  | RIAT Vienna | Vienna, Austria |
-| 2015-02-07 | [Capturing Experimental Research Cultures at Transmediale](../events/2015-02-07-capturing-experimental-research-cultures-at-transmediale) |  |  | Berlin, Germany |
+| 2015-02-07 | [Capturing Experimental Research Cultures at Transmediale](../events/2015-02-07-capturing-experimental-research-cultures-at-transmediale) | [Site](https://transmediale.de/) |  | Berlin, Germany |
 | 2014-11-21 | [[Research Cultures] Jai McKenzie: Never Forever](../events/2014-11-21-research-cultures-jai-mckenzie-never-forever) |  | RIAT Vienna | Vienna, Austria |
 | 2014-11-20 | [Launch: Runway Experimental Australian Arts Issue 26: Knowledge (Edited by Andrew Newman)](../events/2014-11-20-launch-runway-experimental-australian-arts-issue-26-knowledge-edited-by-andrew-newman) |  |  | Sydney, Australia |
 | 2014-11-01 | [[Artists-in-residence] Jai McKenzie](../events/2014-11-01-artists-in-residence-jai-mckenzie) |  | RIAT Vienna | Vienna, Austria |
 | 2014-09-29 | [[Research Cultures] Apertus & Artistic Bokeh: Open Source Cinema Lab](../events/2014-09-29-research-cultures-apertus-artistic-bokeh-open-source-cinema-lab) |  | RIAT Vienna | Vienna, Austria |
-| 2014-09-04 | [Ars Electronica with Andreas Leo Findeisen](../events/2014-09-04-ars-electronica-with-andreas-leo-findeisen) |  |  | Linz, Austria |
+| 2014-09-04 | [Ars Electronica with Andreas Leo Findeisen](../events/2014-09-04-ars-electronica-with-andreas-leo-findeisen) | [Site](https://ars.electronica.art/) |  | Linz, Austria |
 | 2014-08-20 | [[Research Cultures] dérive: Radical Utopia? La Revolution urbaine](../events/2014-08-20-research-cultures-derive-radical-utopia-la-revolution-urbaine) |  | RIAT Vienna | Vienna, Austria |
 | 2014-07-03 | [Urban Knights](../events/2014-07-03-urban-knights) |  |  | London, UK |
 | 2014-06-15 | [Giblinge Destruction](../events/2014-06-15-giblinge-destruction) |  |  | Vienna, Austria |
@@ -278,7 +278,7 @@
 | 2014-05-01 | [[Artist-in-residence] Dusan Barok [SK]](../events/2014-05-01-artist-in-residence-dusan-barok-sk) |  | RIAT Vienna | Vienna, Austria |
 | 2014-02-27 | [[Research Cultures] Artistic Bokeh, Société Réaliste & Georgios Papadopoulos: Too much money…](../events/2014-02-27-research-cultures-artistic-bokeh-societe-realiste-georgios-papadopoulos-too-much-money) |  | RIAT Vienna | Vienna, Austria |
 | 2014-02-01 | [[Artist-in-residence] Georgios Papadopoulos [GR]](../events/2014-02-01-artist-in-residence-georgios-papadopoulos-gr) |  | RIAT Vienna | Vienna, Austria |
-| 2014-01-29 | [Transmediale](../events/2014-01-29-transmediale) |  |  | Berlin, Germany |
+| 2014-01-29 | [Transmediale](../events/2014-01-29-transmediale) | [Site](https://transmediale.de/) |  | Berlin, Germany |
 | 2014-01-26 | [[Exhibition] Exhibtition: FACELESS](../events/2014-01-26-exhibition-exhibtition-faceless) |  |  | Vienna, Austria |
 | 2014-01-01 | [[Artist-in-residence] Paolo Cirio [IT]](../events/2014-01-01-artist-in-residence-paolo-cirio-it) |  | RIAT Vienna | Vienna, Austria |
 | 2013-11-30 | [Presentation on Artistic Technology Research](../events/2013-11-30-presentation-on-artistic-technology-research) |  |  | Vienna, Austria |
@@ -297,15 +297,15 @@
 | 2013-07-03 | [[Research Cultures] The Culture of Surveillance and the Poetics of Observation Technologies](../events/2013-07-03-research-cultures-the-culture-of-surveillance-and-the-poetics-of-observation-technologies) |  | RIAT Vienna | Vienna, Austria |
 | 2013-07-01 | [[Artist-in-residence] Andrew Newman [AU]](../events/2013-07-01-artist-in-residence-andrew-newman-au) |  | RIAT Vienna | Vienna, Austria |
 | 2013-06-28 | [Art and Science Jour Fixe: Matthias Tarasiewicz & Mirko Tobias Schäfer – Novel Approaches of Research in the Arts and the Humanities](../events/2013-06-28-art-and-science-jour-fixe-matthias-tarasiewicz-mirko-tobias-schafer-novel-approaches-of-re) |  |  | Vienna, Austria |
-| 2013-06-06 | [ISEA 2013: Andrew Newman & Matthias Tarasiewicz – Play as Method](../events/2013-06-06-isea-2013-andrew-newman-matthias-tarasiewicz-play-as-method) |  |  | Sydney, Australia |
+| 2013-06-06 | [ISEA 2013: Andrew Newman & Matthias Tarasiewicz – Play as Method](../events/2013-06-06-isea-2013-andrew-newman-matthias-tarasiewicz-play-as-method) | [Site](https://isea-archives.org/) |  | Sydney, Australia |
 | 2013-06-03 | [A personal view on Artistic Research projects of the University of Applied Arts](../events/2013-06-03-a-personal-view-on-artistic-research-projects-of-the-university-of-applied-arts) |  |  | Vienna, Austria |
 | 2013-05-05 | [Media in Transition 8: Public media, private media](../events/2013-05-05-media-in-transition-8-public-media-private-media) |  |  | Cambridge, USA |
 | 2013-04-27 | [Miasma: The-Merz-World-New-Construction Part II – Black Sea Washing Machine (metamorphosis)](../events/2013-04-27-miasma-the-merz-world-new-construction-part-ii-black-sea-washing-machine-metamorphosis) |  |  | Vienna, Austria |
-| 2013-01-29 | [Transmediale: Launch – A Peer-Reviewed Journal About #BWPWAP](../events/2013-01-29-transmediale-launch-a-peer-reviewed-journal-about-bwpwap) |  |  | Berlin, Germany |
+| 2013-01-29 | [Transmediale: Launch – A Peer-Reviewed Journal About #BWPWAP](../events/2013-01-29-transmediale-launch-a-peer-reviewed-journal-about-bwpwap) | [Site](https://transmediale.de/) |  | Berlin, Germany |
 | 2013-01-02 | [European Media Arts Cluster Meet](../events/2013-01-02-european-media-arts-cluster-meet) |  |  | Berlin, Germany |
-| 2012-12-05 | [Transmediale 2012: Incompatible Research / Trial Crack; Documentation, discussion and video interviews (Georgios Papadopoulos, Pit Schulz, Post Media Lab)](../events/2012-12-05-transmediale-2012-incompatible-research-trial-crack-documentation-discussion-and-video-int) |  |  | Berlin, Germany |
+| 2012-12-05 | [Transmediale 2012: Incompatible Research / Trial Crack; Documentation, discussion and video interviews (Georgios Papadopoulos, Pit Schulz, Post Media Lab)](../events/2012-12-05-transmediale-2012-incompatible-research-trial-crack-documentation-discussion-and-video-int) | [Site](https://transmediale.de/) |  | Berlin, Germany |
 | 2012-12-04 | [Launch: Runway Australian Experimental Art Issue 23 – Prototype](../events/2012-12-04-launch-runway-australian-experimental-art-issue-23-prototype) |  |  | Sydney, Australia |
-| 2012-11-22 | [Researching BWPWAP Transmediale Workshop](../events/2012-11-22-researching-bwpwap-transmediale-workshop) |  |  | Berlin, Germany |
+| 2012-11-22 | [Researching BWPWAP Transmediale Workshop](../events/2012-11-22-researching-bwpwap-transmediale-workshop) | [Site](https://transmediale.de/) |  | Berlin, Germany |
 | 2012-11-20 | [[Research Cultures] Mapping Artistic Technology Artefacts](../events/2012-11-20-research-cultures-mapping-artistic-technology-artefacts) |  | RIAT Vienna | Vienna, Austria |
 | 2012-11-19 | [Meet SETUP.NL](../events/2012-11-19-meet-setup-nl) |  | RIAT Vienna | Vienna, Austria |
 | 2012-11-10 | [Data Visualisations with SETUP.NL](../events/2012-11-10-data-visualisations-with-setup-nl) |  | RIAT Vienna | Vienna, Austria |
@@ -318,7 +318,7 @@
 | 2012-05-10 | [Cooperation: Urbanize! International Festival for Urban Exploration](../events/2012-05-10-cooperation-urbanize-international-festival-for-urban-exploration) |  |  | Vienna, Austria |
 | 2012-04-14 | [Presentation Soundframe Exhibition and networking strategies for near future laboratories](../events/2012-04-14-presentation-soundframe-exhibition-and-networking-strategies-for-near-future-laboratories) |  |  | Vienna, Austria |
 | 2012-03-16 | [Blinkofant: LEDmatrix – extraction of ~300 LED panels](../events/2012-03-16-blinkofant-ledmatrix-extraction-of-300-led-panels) |  |  | Vienna, Austria |
-| 2012-02-29 | [Transmediale 2012: Panel “Subcuratorship”; Presentation “Artistic Technology Research”, Participation: Journal for In/Compatible Research](../events/2012-02-29-transmediale-2012-panel-subcuratorship-presentation-artistic-technology-research-participa) |  |  | Berlin, Germany |
+| 2012-02-29 | [Transmediale 2012: Panel “Subcuratorship”; Presentation “Artistic Technology Research”, Participation: Journal for In/Compatible Research](../events/2012-02-29-transmediale-2012-panel-subcuratorship-presentation-artistic-technology-research-participa) | [Site](https://transmediale.de/) |  | Berlin, Germany |
 | 2012-01-09 | [[Research Cultures] 9am3](../events/2012-01-09-research-cultures-9am3) |  |  | Vienna, Austria |
 | 2011-11-16 | [METAmART – Art and Capital featuring BitcoinCloud](../events/2011-11-16-metamart-art-and-capital-featuring-bitcoincloud) |  |  | Vienna, Austria |
 
