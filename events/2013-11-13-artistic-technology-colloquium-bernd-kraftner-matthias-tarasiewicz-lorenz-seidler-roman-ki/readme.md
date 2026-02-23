@@ -5,3 +5,9 @@ startdate: 2013/11/13
 
 # References
 * https://www.flickr.com/photos/artisticbokeh/sets/72157632005969251/
+
+
+## Archive snapshots
+- https://www.flickr.com/photos/artisticbokeh/sets/72157632005969251/
+  - https://web.archive.org/web/20260223040237/https://www.flickr.com/photos/artisticbokeh/sets/72157632005969251/
+

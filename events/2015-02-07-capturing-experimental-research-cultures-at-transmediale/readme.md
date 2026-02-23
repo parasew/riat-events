@@ -5,3 +5,9 @@ startdate: 2015/02/07
 
 # References
 * https://transmediale.de/content/capturing-experimental-research-cultures
+
+
+## Archive snapshots
+- https://transmediale.de/content/capturing-experimental-research-cultures
+  - https://web.archive.org/web/20150202013647/https://transmediale.de/content/capturing-experimental-research-cultures
+
