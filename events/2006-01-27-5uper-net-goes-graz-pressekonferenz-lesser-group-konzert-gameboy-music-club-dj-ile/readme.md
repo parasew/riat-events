@@ -5,3 +5,9 @@ startdate: 2006/01/27
 
 # References
 * https://5uper.net/post/138.html
+
+
+## Archive snapshots
+- https://5uper.net/post/138.html
+  - https://web.archive.org/web/20260223025142/https://5uper.net/post/138.html
+
