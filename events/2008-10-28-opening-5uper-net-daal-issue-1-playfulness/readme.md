@@ -5,3 +5,9 @@ startdate: 2008/10/28
 
 # References
 * https://5uper.net/post/162.html
+
+
+## Archive snapshots
+- https://5uper.net/post/162.html
+  - https://web.archive.org/web/20150209182049/https://5uper.net/post/162.html
+
