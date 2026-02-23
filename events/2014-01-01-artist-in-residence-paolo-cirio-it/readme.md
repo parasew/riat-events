@@ -91,3 +91,11 @@ Cirio's work aligns with RIAT's research interests in:
 
 ## Note
 Specific details about Cirio's activities during the January 2014 residency require further research in RIAT archives or consultation with the artist. His work during this period likely contributed to ongoing RIAT investigations into digital economies and social systems.
+
+
+## Archive snapshots
+- https://paolocirio.net
+  - https://web.archive.org/web/20060709211443/https://paolocirio.net
+- https://paolocirio.net
+  - https://web.archive.org/web/20060709211443/https://paolocirio.net
+
