@@ -145,3 +145,7 @@ The workshop anticipated:
 - **Industry standards**: Emergence of professional standards for smart contract development
 
 The "From Idea to Contract" advanced workshop represented the maturation of Ethereum development education in Vienna, moving beyond basics to professional skill development and preparing local developers for serious work in the growing Ethereum ecosystem.
+
+## Archive snapshots
+- https://www.meetup.com/Ethereum-Vienna/events/238923032/
+  - https://web.archive.org/web/20260224202607/https://www.meetup.com/Ethereum-Vienna/events/238923032/

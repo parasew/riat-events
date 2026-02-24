@@ -35,3 +35,7 @@ Thomas Conté has been with Microsoft for 10 years, the last 6 of which have bee
 # References
 * https://www.meetup.com/Ethereum-Vienna/events/239268673/
 * https://www.meetup.com/Ethereum-Vienna/events/239268673/
+
+## Archive snapshots
+- https://www.meetup.com/Ethereum-Vienna/events/239268673/
+  - https://web.archive.org/web/20260224202610/https://www.meetup.com/Ethereum-Vienna/events/239268673/

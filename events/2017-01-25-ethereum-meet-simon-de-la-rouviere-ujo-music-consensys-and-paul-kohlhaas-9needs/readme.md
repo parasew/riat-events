@@ -5,3 +5,7 @@ startdate: 2017/01/25
 
 # References
 * https://www.meetup.com/Ethereum-Vienna/events/236791832/?rv=me1&_af=event&_af_eid=236791832&https=on
+
+## Archive snapshots
+- https://www.meetup.com/Ethereum-Vienna/events/236791832/?rv=me1&_af=event&_af_eid=236791832&https=on
+  - https://web.archive.org/web/20260224202600/https://www.meetup.com/Ethereum-Vienna/events/236791832/?rv=me1&_af=event&_af_eid=236791832&https=on
