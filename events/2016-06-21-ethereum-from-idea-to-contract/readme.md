@@ -119,3 +119,7 @@ The workshop strengthened Vienna's position as:
 - **Innovation preparation**: Building capabilities for working with new technologies
 
 The "From Idea to Contract" workshop captured a moment of optimistic skill-building in Vienna's Ethereum community, occurring just before the DAO crisis would test the community's resilience and fundamentally change discussions about Ethereum development, security, and governance.
+
+## Archive snapshots
+- http://www.meetup.com/de-DE/Ethereum-Vienna/events/229661710/
+  - https://web.archive.org/web/20260224202001/http://www.meetup.com/de-DE/Ethereum-Vienna/events/229661710/

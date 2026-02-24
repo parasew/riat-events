@@ -5,3 +5,7 @@ startdate: 2016/09/08
 
 # References
 * http://www.meetup.com/Fintech-Academy-Meetup/events/233416003/
+
+## Archive snapshots
+- http://www.meetup.com/Fintech-Academy-Meetup/events/233416003/
+  - https://web.archive.org/web/20260224202005/http://www.meetup.com/Fintech-Academy-Meetup/events/233416003/

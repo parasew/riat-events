@@ -5,3 +5,7 @@ startdate: 2016/04/16
 
 # References
 * http://www.meetup.com/de-DE/Ethereum-Vienna/events/229661705/
+
+## Archive snapshots
+- http://www.meetup.com/de-DE/Ethereum-Vienna/events/229661705/
+  - https://web.archive.org/web/20260224202000/http://www.meetup.com/de-DE/Ethereum-Vienna/events/229661705/

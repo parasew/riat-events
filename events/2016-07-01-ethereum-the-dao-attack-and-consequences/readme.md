@@ -146,3 +146,7 @@ This event demonstrated Vienna's Ethereum community's:
 - **Historical awareness**: Understanding events' significance for ecosystem development
 
 The DAO attack meetup represents a pivotal moment in Ethereum's history and Vienna's engagement with blockchain technology, capturing both the technical challenges and philosophical debates that shaped Ethereum's development.
+
+## Archive snapshots
+- http://www.meetup.com/de-DE/Ethereum-Vienna/events/231984000
+  - https://web.archive.org/web/20260224202002/http://www.meetup.com/de-DE/Ethereum-Vienna/events/231984000

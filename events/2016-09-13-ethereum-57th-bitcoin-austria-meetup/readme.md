@@ -23,3 +23,7 @@ The Bitcoin Austria community meets at RIAT Research Institute for Arts & Techno
 * http://www.meetup.com/de-DE/Bitcoin-Austria/events/233943077/
 * https://www.meetup.com/Bitcoin-Austria/events/233943077/
 * https://eprint.iacr.org/2016/555.pdf
+
+## Archive snapshots
+- http://www.meetup.com/de-DE/Bitcoin-Austria/events/233943077/
+  - https://web.archive.org/web/20260224202008/http://www.meetup.com/de-DE/Bitcoin-Austria/events/233943077/
