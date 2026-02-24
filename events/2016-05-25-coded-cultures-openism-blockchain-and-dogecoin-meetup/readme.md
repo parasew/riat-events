@@ -130,3 +130,8 @@ The workshop occurred as Dogecoin was transitioning from:
 - **Later developments**: Continued community growth, Elon Musk attention (2021), and ongoing cultural significance
 
 The Blockchain and Dogecoin meetup exemplified Coded Cultures' innovative approach to technology education, using internet culture and humor to make complex blockchain concepts accessible and engaging while maintaining critical perspective on technology and finance.
+
+
+## Archive snapshots
+- https://codedcultures.com/program/Workshop-doge-coin/
+  - https://web.archive.org/web/20260224201000/https://codedcultures.com/program/Workshop-doge-coin/

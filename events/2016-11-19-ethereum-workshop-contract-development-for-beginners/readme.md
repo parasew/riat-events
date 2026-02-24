@@ -130,3 +130,8 @@ The workshop strengthened Vienna's position as:
 - **Innovation catalyst**: Supporting new projects and ideas
 
 The beginner smart contract workshop exemplified the practical, hands-on approach to blockchain education that characterized Vienna's Ethereum community in 2016, focusing on making complex technology accessible and building real skills.
+
+
+## Archive snapshots
+- https://www.meetup.com/Ethereum-Vienna/events/234693718/
+  - https://web.archive.org/web/20260224200400/https://www.meetup.com/Ethereum-Vienna/events/234693718/
