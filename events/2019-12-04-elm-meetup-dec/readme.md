@@ -26,3 +26,7 @@ Mob programming (Tic-Tac-Toe)
 
 
 
+
+## Archive snapshots
+- https://www.meetup.com/Vienna-Elm-Meetup/events/266283835/
+  - https://web.archive.org/web/20260224204104/https://www.meetup.com/Vienna-Elm-Meetup/events/266283835/

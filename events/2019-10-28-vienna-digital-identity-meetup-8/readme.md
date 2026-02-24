@@ -20,3 +20,7 @@ Four of the more significant identity technology events in the calendar.
 
 ## Resources
 * https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/265564794/
+
+## Archive snapshots
+- https://secure.meetupstatic.com/photos/event/e/3/0/0/highres_485638112.jpeg
+  - https://web.archive.org/web/20260224204102/https://secure.meetupstatic.com/photos/event/e/3/0/0/highres_485638112.jpeg

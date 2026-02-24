@@ -26,3 +26,7 @@ In our talk we will dive into the future of tokenization, what role Bitpanda and
 
 ## Resources
 * https://www.meetup.com/Bitcoin-Austria/events/266381417/
+
+## Archive snapshots
+- https://www.meetup.com/Bitcoin-Austria/events/266381417/
+  - https://web.archive.org/web/20260224204105/https://www.meetup.com/Bitcoin-Austria/events/266381417/

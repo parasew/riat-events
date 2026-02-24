@@ -27,3 +27,7 @@ Everyone
 ## Resources
 * https://www.meetup.com/Vienna-Elm-Meetup/events/265369697/
 
+
+## Archive snapshots
+- https://www.meetup.com/Vienna-Elm-Meetup/events/265369697/
+  - https://web.archive.org/web/20260224204103/https://www.meetup.com/Vienna-Elm-Meetup/events/265369697/

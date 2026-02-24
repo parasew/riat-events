@@ -35,3 +35,7 @@ Thanks to Cake Wallet for supporting and sponsoring the event!
 ## Resources
 * https://www.reddit.com/r/Monero/comments/ckbqgp/monero_austria_meetup_1august_2019_1800_cest/
 * https://www.meetup.com/Monero-Austria/events/263317607/
+
+## Archive snapshots
+- https://www.reddit.com/r/Monero/comments/ckbqgp/monero_austria_meetup_1august_2019_1800_cest/
+  - https://web.archive.org/web/20260224204100/https://www.reddit.com/r/Monero/comments/ckbqgp/monero_austria_meetup_1august_2019_1800_cest/
