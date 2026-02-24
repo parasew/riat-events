@@ -131,3 +131,7 @@ Featuring 9am3 demonstrated Artistic Bokeh's:
 
 The Research Cultures presentation by 9am3 in January 2012 represented an early moment in the development of both the Research Cultures series and Vienna's community around research-based artistic practice, showcasing digital art within a research context and helping establish patterns of knowledge sharing and community discussion that would characterize Artistic Bokeh's programming in the years to come.
 
+
+## Archive snapshots
+- http://9am3.net/
+  - https://web.archive.org/web/20260224202800/http://9am3.net/
