@@ -119,3 +119,9 @@ The event demonstrated RIAT's early involvement with:
 - **Community building**: Creating space for Vienna's blockchain ecosystem
 
 The Frontier meetup captured an important moment in Ethereum's history and Vienna's growing engagement with blockchain technology, occurring just weeks after one of the most significant milestones in cryptocurrency and smart contract platform development.
+
+
+## Archive snapshots
+- http://www.meetup.com/de-DE/Ethereum-Vienna/events/224475428/
+  - https://web.archive.org/web/20260224105500/http://www.meetup.com/de-DE/Ethereum-Vienna/events/224475428/
+

@@ -103,3 +103,10 @@ By 2006, 5uper.net was:
 ## Note on Research
 The minimal documentation for this event is typical of early 5uper.net events. The title suggests an exhibition exploring self-representation and gift economy themes, combined with a musical performance. More detailed information would require access to original 5uper.net archives or contemporary documentation.
 
+
+## Archive snapshots
+- https://5uper.net/post/136.html
+  - https://web.archive.org/web/20260223025117/https://5uper.net/post/136.html
+- https://5uper.net/post/136.html
+  - https://web.archive.org/web/20260223025117/https://5uper.net/post/136.html
+

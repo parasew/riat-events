@@ -127,3 +127,9 @@ The residency program demonstrated Artistic Bokeh's evolution into:
 - **Knowledge infrastructure**: Creating conditions for meaningful research production
 
 Josh Harle's artist-in-residence stay at the beginning of 2016 represented Artistic Bokeh's ongoing commitment to international artistic exchange and research-based practice, strengthening Vienna's connections with Australia's art scene and contributing to the city's growing reputation as a center for thoughtful, research-oriented artistic work.
+
+
+## Archive snapshots
+- http://www.q21.at/artists-in-residence/artists/artistinfo/josh-harle/
+  - https://web.archive.org/web/20170726014402/http://www.q21.at/artists-in-residence/artists/artistinfo/josh-harle/
+
