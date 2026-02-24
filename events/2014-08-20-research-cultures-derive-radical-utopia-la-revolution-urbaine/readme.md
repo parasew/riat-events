@@ -83,3 +83,7 @@ Museumsplatz 1
 ## Significance
 This exhibition represented Artistic Bokeh's engagement with urban research and activism, connecting artistic practice with social and spatial investigations of the city. It showcased long-term research and cultural production focused on urban society and participatory city-making.
 
+
+## Archive snapshots
+- https://www.quartier21.at/programm/programmdetail/derive-radical-utopia-la-revolution-urbaine/
+  - https://web.archive.org/web/20260224204205/https://www.quartier21.at/programm/programmdetail/derive-radical-utopia-la-revolution-urbaine/

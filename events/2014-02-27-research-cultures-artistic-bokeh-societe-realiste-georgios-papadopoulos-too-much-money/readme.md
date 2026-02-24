@@ -85,3 +85,7 @@ RIAT founder and Artistic Bokeh coordinator, providing introduction and context.
 ## Significance
 This opening event launched a significant exhibition exploring the complex relationship between art, money, and market systems. It brought together artists, researchers, and theorists to examine how economic systems shape artistic production and how art can critically engage with economic realities.
 
+
+## Archive snapshots
+- https://artisticbokeh.com/post/artistic-bokeh-societe-realiste-georgios-papadopoulos-too-much-money-opening-27-2-2014
+  - https://web.archive.org/web/20260224204200/https://artisticbokeh.com/post/artistic-bokeh-societe-realiste-georgios-papadopoulos-too-much-money-opening-27-2-2014
