@@ -135,3 +135,7 @@ The meetup helped Vienna's community:
 - **Community positioning**: Establishing Vienna as knowledgeable about scaling challenges
 
 The blockchain scaling meetup captured a critical moment in cryptocurrency development, addressing one of the most pressing technical challenges while both Bitcoin and Ethereum ecosystems were undergoing significant scaling debates and implementations.
+
+## Archive snapshots
+- https://www.meetup.com/Ethereum-Vienna/events/241575174/
+  - https://web.archive.org/web/20260224201700/https://www.meetup.com/Ethereum-Vienna/events/241575174/
