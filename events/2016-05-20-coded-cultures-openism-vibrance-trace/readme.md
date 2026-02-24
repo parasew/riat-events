@@ -134,3 +134,7 @@ Including "Trace" demonstrated commitment to:
 - **Public engagement**: Making critical issues accessible through art
 
 The "Vibrance – Trace" event exemplified Coded Cultures' serious engagement with the political and social dimensions of digital technology, using art to examine how digital traces shape our lives, identities, and societies in the age of pervasive data collection and surveillance.
+
+## Archive snapshots
+- https://codedcultures.com/program/Vibrance-Trace/
+  - https://web.archive.org/web/20260224204700/https://codedcultures.com/program/Vibrance-Trace/
