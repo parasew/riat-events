@@ -150,3 +150,7 @@ SIGNUM represented the series' maturation into:
 - **Project-oriented learning**: Supporting development of complete artistic works
 
 The SIGNUM workshop exemplified the depth and quality of the Making Artistic Technology series, providing serious technical training while maintaining artistic and conceptual sophistication, and contributing to Vienna's growing community of artists working critically with technology.
+
+## Archive snapshots
+- https://www.facebook.com/events/245326779203674/
+  - https://web.archive.org/web/20260224204502/https://www.facebook.com/events/245326779203674/

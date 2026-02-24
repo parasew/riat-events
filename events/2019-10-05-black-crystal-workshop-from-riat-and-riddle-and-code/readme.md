@@ -32,3 +32,7 @@ RIDDLE&CODE is a Vienna based company for blockchain interface solutions. Its ha
 
 ## Resources
 * https://www.eventbrite.com/e/black-crystal-workshop-from-riat-and-riddlecode-tickets-74826146017#
+
+## Archive snapshots
+- https://www.eventbrite.com/e/black-crystal-workshop-from-riat-and-riddlecode-tickets-74826146017#
+  - https://web.archive.org/web/20260224204514/https://www.eventbrite.com/e/black-crystal-workshop-from-riat-and-riddlecode-tickets-74826146017#

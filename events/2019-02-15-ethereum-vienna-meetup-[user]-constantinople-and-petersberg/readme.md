@@ -31,3 +31,7 @@ Afterwards feel free to chat with other cryptocurrency enthusiasts about Ethereu
 
 ## Resources
 * https://www.eventbrite.com/e/ethereum-vienna-meetup-user-constantinople-and-petersburg-tickets-56642346784#
+
+## Archive snapshots
+- https://www.eventbrite.com/e/ethereum-vienna-meetup-user-constantinople-and-petersburg-tickets-56642346784#
+  - https://web.archive.org/web/20260224204507/https://www.eventbrite.com/e/ethereum-vienna-meetup-user-constantinople-and-petersburg-tickets-56642346784#

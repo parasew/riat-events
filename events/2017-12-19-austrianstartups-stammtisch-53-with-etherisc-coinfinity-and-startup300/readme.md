@@ -136,3 +136,7 @@ The event represented increasing integration between:
 - **Global technology and local application**: International blockchain trends applied in Austrian context
 
 The AustrianStartups Stammtisch #53 captured a moment of intersection between Austria's growing startup ecosystem and the blockchain/cryptocurrency boom of 2017, showcasing how innovative Austrian companies were applying blockchain technology to real-world problems while building community connections across technical and entrepreneurial domains.
+
+## Archive snapshots
+- https://www.facebook.com/events/150772205684486/?notif_t=plan_user_joined&notif_id=1512458241606716
+  - https://web.archive.org/web/20260224204510/https://www.facebook.com/events/150772205684486/?notif_t=plan_user_joined&notif_id=1512458241606716

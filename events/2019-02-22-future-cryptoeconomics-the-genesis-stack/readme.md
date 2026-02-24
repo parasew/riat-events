@@ -136,3 +136,7 @@ The Genesis Stack event demonstrated RIAT's evolution into:
 - **Institutional presence**: Operating at scale within major cultural institutions
 
 The event marked a significant moment in RIAT's development, showcasing both conceptual depth and technical innovation in the emerging field of cryptoeconomics.
+
+## Archive snapshots
+- https://www.facebook.com/events/1067229673468739/
+  - https://web.archive.org/web/20260224204509/https://www.facebook.com/events/1067229673468739/

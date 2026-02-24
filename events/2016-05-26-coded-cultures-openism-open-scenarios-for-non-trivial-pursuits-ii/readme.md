@@ -34,3 +34,7 @@ Day III https://www.facebook.com/events/970599456391968/
 # Resources
 * https://www.facebook.com/events/606668406160374/
 *
+
+## Archive snapshots
+- https://www.facebook.com/events/606668406160374/
+  - https://web.archive.org/web/20260224204500/https://www.facebook.com/events/606668406160374/

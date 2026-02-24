@@ -134,3 +134,7 @@ The presentation strengthened Artistic Bokeh's:
 - **Network expansion**: Connections within academic as well as artistic communities
 
 Josh Harle's presentation at the University of Applied Arts Vienna represented the fruitful intersection of international artistic exchange, academic-art community collaboration, and serious engagement with artistic research methodologies, strengthening Vienna's position as a global center for thoughtful, research-based artistic practice.
+
+## Archive snapshots
+- https://www.facebook.com/events/1117163915011703/
+  - https://web.archive.org/web/20260224204504/https://www.facebook.com/events/1117163915011703/

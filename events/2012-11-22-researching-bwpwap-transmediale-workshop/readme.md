@@ -140,3 +140,7 @@ The event strengthened:
 
 The BWPWAP workshop at Transmediale represented serious engagement with internet research methodologies, demonstrating Artistic Technology Research's commitment to both producing knowledge about digital culture and developing the methods to study it effectively.
 
+
+## Archive snapshots
+- https://transmediale.de/content/researching-bwpwap-programme-events
+  - https://web.archive.org/web/20260224204501/https://transmediale.de/content/researching-bwpwap-programme-events
