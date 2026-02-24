@@ -138,3 +138,7 @@ The event demonstrated RIAT's role as:
 - **Research-practice bridge**: Linking academic cryptoeconomics with practical development
 
 The meetup exemplified the technical depth and community focus of Vienna's Ethereum ecosystem in early 2018, with RIAT serving as a key venue for education, discussion, and network building around blockchain technology.
+
+## Archive snapshots
+- https://secure.meetupstatic.com/photos/event/4/d/d/c/600_339079932.jpeg
+  - https://web.archive.org/web/20260224203900/https://secure.meetupstatic.com/photos/event/4/d/d/c/600_339079932.jpeg

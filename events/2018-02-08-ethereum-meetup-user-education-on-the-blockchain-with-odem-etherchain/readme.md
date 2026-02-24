@@ -5,3 +5,7 @@ startdate: 2018/02/08
 
 # References
 * https://www.meetup.com/Ethereum-Vienna/events/247356260/
+
+## Archive snapshots
+- https://www.meetup.com/Ethereum-Vienna/events/247356260/
+  - https://web.archive.org/web/20260224203901/https://www.meetup.com/Ethereum-Vienna/events/247356260/

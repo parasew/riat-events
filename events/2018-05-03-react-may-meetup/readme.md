@@ -46,3 +46,7 @@ https://github.com/reactvienna/code-of-conduct
 
 ## Resources
 * https://www.meetup.com/de-DE/ReactVienna/events/248813567/
+
+## Archive snapshots
+- https://secure.meetupstatic.com/photos/event/1/8/7/9/600_470766265.jpeg
+  - https://web.archive.org/web/20260224203912/https://secure.meetupstatic.com/photos/event/1/8/7/9/600_470766265.jpeg

@@ -22,3 +22,7 @@ Sprache: Deutsch
 ## Resources
 * https://www.meetup.com/de-DE/Bitcoin-Austria/events/249296061/
 * https://anitaposch.com/bitcoin-buch/
+
+## Archive snapshots
+- https://www.meetup.com/de-DE/Bitcoin-Austria/events/249296061/
+  - https://web.archive.org/web/20260224203910/https://www.meetup.com/de-DE/Bitcoin-Austria/events/249296061/

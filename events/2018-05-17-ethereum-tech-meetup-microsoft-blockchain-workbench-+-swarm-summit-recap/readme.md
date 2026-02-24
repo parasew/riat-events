@@ -31,3 +31,7 @@ A quick recap about what happened at the presently ongoing Swarm Orange Summit 2
 ## Resources
 * https://www.meetup.com/de-DE/Ethereum-Vienna/events/250573068/
 * https://github.com/christophwille/meetupazurewien/tree/master/Meetup%202018-05-17
+
+## Archive snapshots
+- https://secure.meetupstatic.com/photos/event/4/d/d/c/highres_339079932.jpeg
+  - https://web.archive.org/web/20260224203914/https://secure.meetupstatic.com/photos/event/4/d/d/c/highres_339079932.jpeg

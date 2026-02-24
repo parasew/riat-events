@@ -14,3 +14,7 @@ Talking about Bitcoin and the current development. Also Rami Spasov will talk ab
 
 ## Resources
 * https://www.meetup.com/de-DE/Bitcoin-Austria/events/247950219/
+
+## Archive snapshots
+- https://secure.meetupstatic.com/photos/event/6/1/0/0/600_434184832.jpeg
+  - https://web.archive.org/web/20260224203904/https://secure.meetupstatic.com/photos/event/6/1/0/0/600_434184832.jpeg
