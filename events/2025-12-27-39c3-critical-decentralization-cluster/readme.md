@@ -19,3 +19,7 @@ Participating assemblies included RIAT, Monero Community, Namecoin, I2P, Radicle
 * https://decentral.community/39C3/
 * https://pretalx.riat.at/39c3/schedule
 * https://events.ccc.de/congress/2025/hub/en/assembly/detail/cdc
+
+## Archive snapshots
+- https://decentral.community/39C3/
+  - https://web.archive.org/web/20260224204604/https://decentral.community/39C3/

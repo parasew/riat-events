@@ -135,3 +135,7 @@ The event exemplified Artistic Bokeh's commitment to:
 - **International perspectives**: Bringing global thinkers to Vienna
 
 The presentation on "Skafander (The Spiritual Cyborg)" represented the depth and interdisciplinary range of the Research Cultures series, exploring profound questions about human identity, technology, and spirituality through artistic research practice.
+
+## Archive snapshots
+- http://www.q21.at/programm//programmdetail/peter-moosgaard-skafander-the-spiritual-cyborg/
+  - https://web.archive.org/web/20260224204601/http://www.q21.at/programm//programmdetail/peter-moosgaard-skafander-the-spiritual-cyborg/

@@ -18,3 +18,7 @@ Big thanks to riat.at for hosting us at their place!
 
 ## Resources
 * https://www.meetup.com/vienna-libre-media/events/266903048/
+
+## Archive snapshots
+- https://secure.meetupstatic.com/photos/event/e/4/2/1/highres_487618401.jpeg
+  - https://web.archive.org/web/20260224204600/https://secure.meetupstatic.com/photos/event/e/4/2/1/highres_487618401.jpeg

@@ -132,3 +132,7 @@ The event demonstrated Artistic Bokeh's evolution toward:
 - **Public relevance**: Connecting artistic research with societal concerns
 
 The exhibition represented important development in Artistic Bokeh's focus on digital privacy, anonymity, and the political dimensions of technology, responding to urgent contemporary issues through artistic and research practice.
+
+## Archive snapshots
+- https://www.mqw.at/en/program//programmdetail/faceless-part-ii-1/
+  - https://web.archive.org/web/20260224204605/https://www.mqw.at/en/program//programmdetail/faceless-part-ii-1/

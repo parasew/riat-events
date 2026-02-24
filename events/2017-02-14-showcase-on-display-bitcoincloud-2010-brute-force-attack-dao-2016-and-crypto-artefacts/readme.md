@@ -26,3 +26,6 @@ This showcase highlighted the evolution of cryptographic and blockchain-based ar
 - Academic publication: Newman, A. (2015). "Experiments in art and value: burning Bitcoins to buy Ai Weiwei". ISEA 2015 submission. (Available in RIAT publications archive)
 - https://web.archive.org/web/20131101101537/http://bitcoincloud.at/
 - DAO Attack Documentation: https://www.coindesk.com/understanding-dao-hack-journalists
+## Archive snapshots
+- http://bitcoincloud.at/
+  - https://web.archive.org/web/20260224204602/http://bitcoincloud.at/

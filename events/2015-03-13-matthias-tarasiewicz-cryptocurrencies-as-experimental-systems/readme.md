@@ -137,3 +137,7 @@ The event elevated Vienna's cryptocurrency discussions by:
 
 The "Cryptocurrencies as Experimental Systems" presentation marked an important moment in both Matthias Tarasiewicz's intellectual development and Artistic Bokeh's evolution toward serious cryptoeconomics research, establishing a thoughtful, academic approach to understanding cryptocurrency's significance beyond market speculation.
 
+
+## Archive snapshots
+- https://www.academia.edu/9622400/Cryptocurrencies_as_Distributed_Community_Experiments
+  - https://web.archive.org/web/20260224204603/https://www.academia.edu/9622400/Cryptocurrencies_as_Distributed_Community_Experiments
