@@ -54,3 +54,7 @@ Thank you jumio!
 
 ## Resources
 * https://www.meetup.com/de-DE/reactive-vienna/events/251276266/
+
+## Archive snapshots
+- https://secure.meetupstatic.com/photos/event/7/a/c/600_471601964.jpeg
+  - https://web.archive.org/web/20260224204404/https://secure.meetupstatic.com/photos/event/7/a/c/600_471601964.jpeg

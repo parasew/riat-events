@@ -18,3 +18,7 @@ As gas prices continue to remain high, bringing offchain scaling solutions into 
 
 ## Resources
 * https://www.meetup.com/de-DE/Ethereum-Vienna/events/253448252/
+
+## Archive snapshots
+- https://www.meetup.com/de-DE/Ethereum-Vienna/events/253448252/
+  - https://web.archive.org/web/20260224204406/https://www.meetup.com/de-DE/Ethereum-Vienna/events/253448252/
