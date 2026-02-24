@@ -142,3 +142,7 @@ The presentation featured a project that would:
 - **Shape DeFi standards**: Influencing development of entire DeFi ecosystem
 
 The ETHLend meetup captured an early moment in the decentralized finance revolution, introducing Vienna's Ethereum community to concepts and technologies that would transform cryptocurrency and traditional finance in the coming years.
+
+## Archive snapshots
+- https://www.meetup.com/Ethereum-Vienna/events/245183673/
+  - https://web.archive.org/web/20260224203819/https://www.meetup.com/Ethereum-Vienna/events/245183673/

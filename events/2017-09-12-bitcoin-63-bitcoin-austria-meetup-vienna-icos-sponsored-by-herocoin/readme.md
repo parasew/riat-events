@@ -128,3 +128,7 @@ The meetup demonstrated Vienna's crypto community's:
 - **Long-term perspective**: Considering sustainable development of crypto ecosystem
 
 The 63rd Bitcoin Austria meetup on ICOs captured a pivotal moment in cryptocurrency history, documenting Vienna's community response to one of the most significant and controversial developments in the 2017 crypto boom.
+
+## Archive snapshots
+- https://www.meetup.com/preview/Bitcoin-Austria/events/242932495?rv=riat
+  - https://web.archive.org/web/20260224203802/https://www.meetup.com/preview/Bitcoin-Austria/events/242932495?rv=riat

@@ -5,3 +5,7 @@ startdate: 2017/11/07
 
 # References
 * https://www.meetup.com/Vue-js-Vienna/
+
+## Archive snapshots
+- https://www.meetup.com/Vue-js-Vienna/
+  - https://web.archive.org/web/20260224203808/https://www.meetup.com/Vue-js-Vienna/

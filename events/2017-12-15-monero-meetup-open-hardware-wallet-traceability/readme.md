@@ -151,3 +151,7 @@ The meetup reflected RIAT's expanding interests in:
 - **Interdisciplinary dialogue**: Connecting technical, social, and political aspects of privacy
 
 The Monero meetup on open hardware wallets and traceability captured important discussions about the intersection of hardware security, privacy technology, and cryptocurrency that were particularly relevant in late 2017's rapidly evolving digital currency landscape.
+
+## Archive snapshots
+- https://www.meetup.com/Monero-Austria/events/245306598/
+  - https://web.archive.org/web/20260224203817/https://www.meetup.com/Monero-Austria/events/245306598/
