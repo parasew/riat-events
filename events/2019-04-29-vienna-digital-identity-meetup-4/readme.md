@@ -19,3 +19,7 @@ I would also like to announce that the meetup is sponsored by Danube Tech.
 
 ## Resources
 * https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/260079899/
+
+## Archive snapshots
+- https://secure.meetupstatic.com/photos/event/e/6/f/d/highres_480299133.jpeg
+  - https://web.archive.org/web/20260224204006/https://secure.meetupstatic.com/photos/event/e/6/f/d/highres_480299133.jpeg

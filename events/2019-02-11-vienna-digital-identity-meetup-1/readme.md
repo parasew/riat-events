@@ -30,3 +30,7 @@ Agenda for the evening:
 
 ## Resources
 * https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/258289897/
+
+## Archive snapshots
+- https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/258289897/
+  - https://web.archive.org/web/20260224204001/https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/258289897/

@@ -139,3 +139,7 @@ The meetup demonstrated RIAT's value as:
 - **Educational platform**: Supporting ongoing learning about emerging technologies
 
 The 5th Vienna Digital Identity Meetup exemplified the serious, technical community building happening around digital identity in Vienna, with RIAT serving as both physical host and intellectual contributor to these important discussions about one of the foundational technologies of digital society.
+
+## Archive snapshots
+- https://secure.meetupstatic.com/photos/event/9/a/9/highres_481622473.jpeg
+  - https://web.archive.org/web/20260224204007/https://secure.meetupstatic.com/photos/event/9/a/9/highres_481622473.jpeg

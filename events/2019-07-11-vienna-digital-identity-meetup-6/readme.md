@@ -17,3 +17,7 @@ Art Brock, Holochain's founder and Eric Bear, Holochain Community Manager will b
 
 ## Resources
 * https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/262809757/
+
+## Archive snapshots
+- https://secure.meetupstatic.com/photos/event/5/1/e/6/highres_482780966.jpeg
+  - https://web.archive.org/web/20260224204008/https://secure.meetupstatic.com/photos/event/5/1/e/6/highres_482780966.jpeg
