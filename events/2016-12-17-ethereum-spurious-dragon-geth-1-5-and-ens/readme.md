@@ -146,3 +146,7 @@ The topics discussed represented Ethereum's:
 - **Technical sophistication**: Increasingly complex and capable network
 
 The Spurious Dragon, Geth 1.5, and ENS meetup captured an important moment in Ethereum's technical development, discussing both crisis response (post-DAO security improvements) and positive infrastructure building (ENS development), while educating Vienna's community about their role in network health and development.
+
+## Archive snapshots
+- https://www.meetup.com/Ethereum-Vienna/events/235671348/
+  - https://web.archive.org/web/20260224202506/https://www.meetup.com/Ethereum-Vienna/events/235671348/

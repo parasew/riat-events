@@ -5,3 +5,7 @@ startdate: 2016/11/09
 
 # References
 * http://www.meetup.com/Bitcoin-Austria/events/235303933/?rv=ea1&_xtd=gatlbWFpbF9jbGlja9oAJGViMmNlZWFmLTU5NGItNGQ2Zi05ZjkwLWNjN2VmNDNjNjJhMA&_af=event&_af_eid=235303933&https=off
+
+## Archive snapshots
+- http://www.meetup.com/Bitcoin-Austria/events/235303933/?rv=ea1&_xtd=gatlbWFpbF9jbGlja9oAJGViMmNlZWFmLTU5NGItNGQ2Zi05ZjkwLWNjN2VmNDNjNjJhMA&_af=event&_af_eid=235303933&https=off
+  - https://web.archive.org/web/20260224202501/http://www.meetup.com/Bitcoin-Austria/events/235303933/?rv=ea1&_xtd=gatlbWFpbF9jbGlja9oAJGViMmNlZWFmLTU5NGItNGQ2Zi05ZjkwLWNjN2VmNDNjNjJhMA&_af=event&_af_eid=235303933&https=off
