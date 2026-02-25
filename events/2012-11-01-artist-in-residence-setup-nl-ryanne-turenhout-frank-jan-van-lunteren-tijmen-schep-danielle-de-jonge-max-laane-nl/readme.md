@@ -159,3 +159,7 @@ The SETUP.NL residency and presentation exemplified the international exchange a
   - https://web.archive.org/web/20260225054130/https://web.archive.org/web/20260223032335/https://www.facebook.com/events/280938985359609/
 - https://www.facebook.com/events/280938985359609/
   - https://web.archive.org/web/20260225054130/https://www.facebook.com/events/280938985359609/
+- http://www.q21.at/artists-in-residence/artists/artistinfo/setupnl/
+- http://setup.nl
+- http://artistictechnology.at
+- http://artisticbokeh.com

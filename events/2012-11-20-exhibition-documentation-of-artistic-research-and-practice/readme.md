@@ -18,7 +18,7 @@ Eine kleine Ausstellung von Prozessartefakten repräsentiert die Arbeiten und ko
 - http://artistictechnology.at/ (archived)
 - Academic publication: Newman, A. (2015). "Experiments in art and value: burning Bitcoins to buy Ai Weiwei". ISEA 2015 submission. (Available in RIAT publications archive)
 
-### Archive snapshots
+## Archive snapshots
 - http://artistictechnology.at/ (2012-11-22)
   - https://web.archive.org/web/20121122011239/http://artistictechnology.at/
 - Flickr photo documentation: https://www.flickr.com/photos/artisticbokeh/sets/72157632005969251/

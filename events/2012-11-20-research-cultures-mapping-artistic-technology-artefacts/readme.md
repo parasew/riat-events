@@ -26,7 +26,7 @@ Die Veranstaltung umfasste auch das **2012 Artistic Technology Colloquium #1** m
 - http://artistictechnology.at/ (archived)
 - Flickr photo documentation (Colloquium): https://www.flickr.com/photos/artisticbokeh/sets/72157632005969251/
 
-### Archive snapshots
+## Archive snapshots
 - http://artistictechnology.at/ (2012-11-22)
   - https://web.archive.org/web/20121122011239/http://artistictechnology.at/
 

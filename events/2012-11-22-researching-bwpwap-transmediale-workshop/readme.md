@@ -144,3 +144,4 @@ The BWPWAP workshop at Transmediale represented serious engagement with internet
 ## Archive snapshots
 - https://transmediale.de/content/researching-bwpwap-programme-events
   - https://web.archive.org/web/20260224204501/https://transmediale.de/content/researching-bwpwap-programme-events
+- https://web.archive.org/web/20130319104243/https://transmediale.de/content/researching-bwpwap-programme-events
