@@ -24,4 +24,4 @@ Big thanks to riat.at for hosting us at their place!
   - https://web.archive.org/web/20260224204600/https://secure.meetupstatic.com/photos/event/e/4/2/1/highres_487618401.jpeg
 - https://www.meetup.com/vienna-libre-media/events/266903048/
 
-![Archive Image](../../images/2020-01-29-workshop-blender-typography/20200129_1.jpg)
+![Archive Image](./images/20200129_1.jpg)

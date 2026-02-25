@@ -118,7 +118,7 @@ LIMEN exemplified the "Artistic Technology" methodology:
 
 *Image from the Artistic Technology Research website showing workshop materials or participants working on devices.*
 
-**Local Archive:** ![LIMEN workshop](../../images/2015-04-21-making-artistic-technology-limen-workshop-with-mario-de-vega-and-victor-mazon-gardoqui/20150421_limen_workshop_1.jpg) - Workshop image preserved in local archive
+**Local Archive:** ![LIMEN workshop](./images/20150421_limen_workshop_1.jpg) - Workshop image preserved in local archive
 
 ## References
 

@@ -32,4 +32,4 @@ Speakers include world renowned leaders from industry, academia, the arts and ma
 - https://www.evilmadscientist.com/2020/open-hardware-summit-2020/
   - https://web.archive.org/web/20260225053712/https://www.evilmadscientist.com/2020/open-hardware-summit-2020/
 
-![Archive Image](../../images/2020-10-31-10th-ohs-nyc/20201031_1.jpg)
+![Archive Image](./images/20201031_1.jpg)

@@ -30,4 +30,4 @@ The Chaos Computer Club (CCC) is the largest (and oldest) hacker association in 
 - https://www.youtube.com/watch?v=Xu_QH6oi7oA&list=PLsSYUeVwrHBn07zTBg7fGHRW5Kn_Z3FJL
   - https://web.archive.org/web/20260225053709/https://www.youtube.com/watch?v=Xu_QH6oi7oA&list=PLsSYUeVwrHBn07zTBg7fGHRW5Kn_Z3FJL
 
-![Archive Image](../../images/2018-12-27-critical-decentralization-cluster-35c3-chaos-communication-congress/20181227_1.png)
+![Archive Image](./images/20181227_1.png)
