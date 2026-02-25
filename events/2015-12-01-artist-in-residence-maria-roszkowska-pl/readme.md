@@ -1,5 +1,5 @@
 ---
-startdate: 2015/12/01
+startdate: 2015-12-01
 ---
 # [Artist-in-residence] Maria Roszkowska [PL]
 

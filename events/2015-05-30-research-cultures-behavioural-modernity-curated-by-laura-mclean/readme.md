@@ -1,5 +1,5 @@
 ---
-startdate: 2015/05/30
+startdate: 2015-05-30
 title: "[Research Cultures] Behavioural Modernity (curated by Laura McLean)"
 subtitle: "Research presentation and discussion curated by Australian artist-researcher Laura McLean"
 location: "Artistic Bokeh Showroom, MuseumsQuartier Vienna"

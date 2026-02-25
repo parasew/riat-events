@@ -1,5 +1,5 @@
 ---
-startdate: 2016/02/01
+startdate: 2016-02-01
 ---
 # [Artist-in-residence] Adam Donovan [AU]
 

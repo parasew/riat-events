@@ -1,5 +1,5 @@
 ---
-startdate: 2016/11/12
+startdate: 2016-11-12
 title: "[Making Artistic Technology] SIGNUM: Workshop by Víctor Mazón Gardoqui"
 subtitle: "Making Artistic Technology workshop on signal processing and electromagnetic art"
 location: "Artistic Bokeh space, Vienna"

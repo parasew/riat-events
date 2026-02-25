@@ -1,5 +1,5 @@
 ---
-startdate: 2012/11/22
+startdate: 2012-11-22
 title: "Researching BWPWAP Transmediale Workshop"
 subtitle: "Workshop at Transmediale festival exploring BWPWAP (Back When Pluto Was a Planet) research project"
 location: "Transmediale festival, Berlin"

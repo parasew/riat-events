@@ -1,5 +1,5 @@
 ---
-startdate: 2017/12/16
+startdate: 2017-12-16
 ---
 # [Free Code Camp] Free Code Camp Meetup
 

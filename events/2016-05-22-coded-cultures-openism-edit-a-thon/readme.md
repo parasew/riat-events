@@ -1,5 +1,5 @@
 ---
-startdate: 2016/05/22
+startdate: 2016-05-22
 title: "[Coded Cultures Openism] Edit-a-thon"
 subtitle: "Feminist Wikipedia edit-a-thon hosted by Mz* Baltazar's Laboratory"
 location: "Coded Cultures Central"

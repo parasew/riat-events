@@ -1,5 +1,5 @@
 ---
-startdate: 2015/10/28
+startdate: 2015-10-28
 ---
 # [Making Artistic Technology] Elizabeth Losh on FemTechNet
 

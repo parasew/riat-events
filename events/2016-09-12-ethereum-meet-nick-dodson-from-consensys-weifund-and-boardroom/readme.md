@@ -1,5 +1,5 @@
 ---
-startdate: 2016/09/12
+startdate: 2016-09-12
 ---
 # [Ethereum] Meet Nick Dodson from Consensys! (Weifund and Boardroom)
 

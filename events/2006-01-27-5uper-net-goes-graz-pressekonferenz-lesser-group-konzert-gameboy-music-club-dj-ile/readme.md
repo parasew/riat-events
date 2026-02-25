@@ -1,5 +1,5 @@
 ---
-startdate: 2006/01/27
+startdate: 2006-01-27
 title: "5uper.net goes Graz! Pressekonferenz LESSER GROUP, Konzert GAMEBOY MUSIC CLUB, DJ ILE"
 subtitle: "Exhibition and work presentation under new auspices: medien.KUNSTLABOR Kunsthaus Graz presents 5uper.net in cooperation with Lesser Group"
 location: "Lendkai 1, 8020 Graz"

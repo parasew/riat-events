@@ -1,5 +1,5 @@
 ---
-startdate: 2017/08/11
+startdate: 2017-08-11
 ---
 # [NEM] Blockchain for Startups – How NEM Can Kickstart Your Blockchain Business
 

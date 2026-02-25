@@ -4,7 +4,7 @@ date: 2020-07-27T18:30:16+02:00
 draft: false
 location: RIAT Vienna
 country: Austria
-startdate: 2020/07/27
+startdate: 2020-07-27
 image: https://secure.meetupstatic.com/photos/event/4/9/c/c/highres_491418892.jpeg
 category: "digital identity"
 ---

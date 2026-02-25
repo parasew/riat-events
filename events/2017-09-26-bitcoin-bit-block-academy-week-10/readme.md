@@ -1,5 +1,5 @@
 ---
-startdate: 2017/09/26
+startdate: 2017-09-26
 ---
 # [Bitcoin] Bit&Block Academy Week 10
 

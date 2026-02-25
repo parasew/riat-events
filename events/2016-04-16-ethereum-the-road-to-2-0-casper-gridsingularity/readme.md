@@ -1,5 +1,5 @@
 ---
-startdate: 2016/04/16
+startdate: 2016-04-16
 ---
 # [Ethereum] The Road to 2.0: Casper / GridSingularity
 

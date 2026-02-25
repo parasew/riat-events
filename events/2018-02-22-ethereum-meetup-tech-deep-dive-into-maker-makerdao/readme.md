@@ -1,5 +1,5 @@
 ---
-startdate: 2018/02/22
+startdate: 2018-02-22
 ---
 # [Ethereum Meetup] (Tech) Deep Dive into Maker (MakerDAO)
 

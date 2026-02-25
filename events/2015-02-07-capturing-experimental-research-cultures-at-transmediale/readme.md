@@ -1,5 +1,5 @@
 ---
-startdate: 2015/02/07
+startdate: 2015-02-07
 ---
 # Capturing Experimental Research Cultures at Transmediale
 

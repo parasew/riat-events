@@ -1,5 +1,5 @@
 ---
-startdate: 2017/09/01
+startdate: 2017-09-01
 ---
 # [Artist-in-residence] Max Hampshire
 

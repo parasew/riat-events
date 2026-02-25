@@ -1,5 +1,5 @@
 ---
-startdate: 2015/05/01
+startdate: 2015-05-01
 ---
 # [Artist-in-residence] Laura McLean [AU]
 

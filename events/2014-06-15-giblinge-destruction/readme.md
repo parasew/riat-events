@@ -1,5 +1,5 @@
 ---
-startdate: 2014/06/15
+startdate: 2014-06-15
 ---
 # Giblinge Destruction
 

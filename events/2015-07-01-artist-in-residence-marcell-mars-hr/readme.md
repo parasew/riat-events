@@ -1,5 +1,5 @@
 ---
-startdate: 2015/07/01
+startdate: 2015-07-01
 ---
 # [Artist-in-residence] Marcell Mars [HR]
 

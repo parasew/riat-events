@@ -1,5 +1,5 @@
 ---
-startdate: 2005/11/13
+startdate: 2005-11-13
 title: "readme.cc-Lesung von Kirstin Breitenfellner"
 subtitle: "readme.cc experts read from a book they have recommended - monthly event series"
 location: "5uper.net Cuisine Digitale, MuseumsQuartier Vienna"

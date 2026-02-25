@@ -1,5 +1,5 @@
 ---
-startdate: 2015/09/11
+startdate: 2015-09-11
 ---
 # [Research Cultures] Jenna Sutela: Orgs_ (Curated by Laura McLean)
 

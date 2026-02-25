@@ -1,5 +1,5 @@
 ---
-startdate: 2016/12/14
+startdate: 2016-12-14
 ---
 # [Lecture] Alessandro Ludovico: The Library of the Future
 

@@ -1,5 +1,5 @@
 ---
-startdate: 2017/12/18
+startdate: 2017-12-18
 title: "[Ethereum Meetup] Decentralised lending with ETHLend"
 subtitle: "Ethereum Vienna meetup featuring ETHLend presentation on decentralized lending protocols"
 location: "Likely RIAT Vienna or Vienna tech venue"

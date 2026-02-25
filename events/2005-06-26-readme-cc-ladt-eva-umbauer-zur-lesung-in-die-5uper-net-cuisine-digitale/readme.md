@@ -1,5 +1,5 @@
 ---
-startdate: 2005/06/26
+startdate: 2005-06-26
 title: "readme.cc lädt Eva Umbauer zur Lesung in die 5uper.net Cuisine Digitale"
 subtitle: "Literary reading event featuring Eva Umbauer at 5uper.net's Cuisine Digitale space"
 location: "Cuisine Digitale, MuseumsQuartier Vienna"

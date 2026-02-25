@@ -1,5 +1,5 @@
 ---
-startdate: 2016/03/28
+startdate: 2016-03-28
 ---
 # Pornographer or Warrior: A Discussion
 

@@ -1,5 +1,5 @@
 ---
-startdate: 2017/10/02
+startdate: 2017-10-02
 ---
 # [Presentation] The Rise of ICO
 

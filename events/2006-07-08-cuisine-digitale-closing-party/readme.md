@@ -1,5 +1,5 @@
 ---
-startdate: 2006/07/08
+startdate: 2006-07-08
 title: "Cuisine Digitale ABSCHLUSSVERANSTALTUNG"
 subtitle: "Closing party for the 5uper.net Cuisine Digitale project space after two years of operation"
 location: "5uper.net Cuisine Digitale, Freiraum MuseumsQuartier Wien"

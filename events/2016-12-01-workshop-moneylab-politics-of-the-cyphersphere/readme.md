@@ -1,5 +1,5 @@
 ---
-startdate: 2016/12/01
+startdate: 2016-12-01
 ---
 # [Workshop] MoneyLab: Politics of the Cyphersphere
 

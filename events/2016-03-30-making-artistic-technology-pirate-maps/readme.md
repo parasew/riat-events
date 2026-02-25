@@ -1,5 +1,5 @@
 ---
-startdate: 2016/03/30
+startdate: 2016-03-30
 ---
 # [Making Artistic Technology] Pirate Maps
 

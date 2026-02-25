@@ -1,5 +1,5 @@
 ---
-startdate: 2016/05/25
+startdate: 2016-05-25
 title: "[Coded Cultures Openism] Blockchain and Dogecoin Meetup"
 subtitle: "Coded Cultures festival workshop exploring blockchain technology through Dogecoin lens"
 location: "Coded Cultures festival venue, Vienna"

@@ -1,5 +1,5 @@
 ---
-startdate: 2017/12/04
+startdate: 2017-12-04
 ---
 # [Ethereum Meetup] uPort: A Platform for self-sovereign identity
 

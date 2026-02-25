@@ -1,5 +1,5 @@
 ---
-startdate: 2016/05/21
+startdate: 2016-05-21
 title: "[Coded Cultures Openism] Recycled Percussion and Distortion Systems"
 subtitle: "Coded Cultures festival event exploring DIY music instruments and sound systems"
 location: "Coded Cultures festival venue, Vienna"

@@ -1,5 +1,5 @@
 ---
-startdate: 2005/11/16
+startdate: 2005-11-16
 title: "ROBÖXOTICA - Festival für Cocktailrobotik"
 subtitle: "The first and therefore leading festival for cocktail robotics"
 location: "Freiraum and 5uper.net Cuisine Digitale, MuseumsQuartier Vienna"

@@ -1,5 +1,5 @@
 ---
-startdate: 2006/03/31
+startdate: 2006-03-31
 ---
 # Opening: Niki Passath – “Ein Wesen, spinnenähnlich…”
 

@@ -1,5 +1,5 @@
 ---
-startdate: 2012/01/09
+startdate: 2012-01-09
 title: "[Research Cultures] 9am3"
 subtitle: "Research Cultures presentation featuring 9am3 project or collective"
 location: "Artistic Bokeh / Q21 space, Vienna"

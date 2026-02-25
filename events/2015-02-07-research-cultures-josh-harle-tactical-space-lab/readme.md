@@ -1,5 +1,5 @@
 ---
-startdate: 2015/02/07
+startdate: 2015-02-07
 title: "[Research Cultures] Josh Harle: Tactical Space Lab"
 subtitle: "Research presentation by Australian artist and researcher Dr. Joshua Harle"
 location: "Artistic Bokeh Showroom, MuseumsQuartier Vienna"

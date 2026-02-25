@@ -1,5 +1,5 @@
 ---
-startdate: 2013/07/01
+startdate: 2013-07-01
 ---
 # [Artist-in-residence] Andrew Newman [AU]
 

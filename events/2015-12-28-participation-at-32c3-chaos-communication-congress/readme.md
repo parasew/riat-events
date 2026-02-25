@@ -1,5 +1,5 @@
 ---
-startdate: 2015/12/28
+startdate: 2015-12-28
 ---
 # Participation at 32C3 Chaos Communication Congress
 

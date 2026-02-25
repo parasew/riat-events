@@ -1,5 +1,5 @@
 ---
-startdate: 2009/05/17
+startdate: 2009-05-17
 title: "DORKBOT VIENNA #8: Tetsuya Umeda"
 subtitle: "5uper.net artist-in-residence presents his sound installations and performances"
 location: "Metalab Vienna"

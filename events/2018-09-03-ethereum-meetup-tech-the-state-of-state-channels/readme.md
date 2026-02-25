@@ -1,5 +1,5 @@
 ---
-startdate: 2018/09/03
+startdate: 2018-09-03
 ---
 # [Ethereum Meetup] (Tech) The State of State Channels
 

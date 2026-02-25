@@ -1,5 +1,5 @@
 ---
-startdate: 2009/05/03
+startdate: 2009-05-03
 title: "DORKBOT VIENNA #7: Walter Langelaar: nOtbOt"
 subtitle: "Automated game-player controlled by reactions to its own virtual environment"
 location: "Metalab Vienna"

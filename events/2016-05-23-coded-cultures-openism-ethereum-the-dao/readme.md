@@ -1,5 +1,5 @@
 ---
-startdate: 2016/05/23
+startdate: 2016-05-23
 ---
 # [Coded Cultures Openism] Ethereum & the DAO
 

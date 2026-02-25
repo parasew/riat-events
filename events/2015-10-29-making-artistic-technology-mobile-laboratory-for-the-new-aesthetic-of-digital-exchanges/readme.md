@@ -1,5 +1,5 @@
 ---
-startdate: 2015/10/29
+startdate: 2015-10-29
 ---
 # [Making Artistic Technology] Mobile Laboratory for the New Aesthetic of Digital Exchanges
 

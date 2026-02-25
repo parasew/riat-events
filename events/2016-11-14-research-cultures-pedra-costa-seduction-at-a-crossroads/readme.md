@@ -1,5 +1,5 @@
 ---
-startdate: 2016/11/14
+startdate: 2016-11-14
 ---
 # [Research Cultures] Pêdra Costa: Seduction at a Crossroads
 

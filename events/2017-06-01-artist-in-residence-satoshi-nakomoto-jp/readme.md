@@ -1,5 +1,5 @@
 ---
-startdate: 2017/06/01
+startdate: 2017-06-01
 ---
 # [Artist-in-residence] Satoshi Nakomoto [JP]
 

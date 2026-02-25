@@ -1,5 +1,5 @@
 ---
-startdate: 2018/08/23
+startdate: 2018-08-23
 ---
 # [Meetup] Microservices Meetup
 

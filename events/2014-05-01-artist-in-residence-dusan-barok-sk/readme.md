@@ -1,5 +1,5 @@
 ---
-startdate: 2014/05/01
+startdate: 2014-05-01
 ---
 # [Artist-in-residence] Dusan Barok [SK]
 

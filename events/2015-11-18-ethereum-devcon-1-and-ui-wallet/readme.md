@@ -1,5 +1,5 @@
 ---
-startdate: 2015/11/18
+startdate: 2015-11-18
 ---
 # [Ethereum] DEVCON-1 and UI Wallet
 

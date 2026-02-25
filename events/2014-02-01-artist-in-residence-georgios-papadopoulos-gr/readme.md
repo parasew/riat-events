@@ -1,5 +1,5 @@
 ---
-startdate: 2014/02/01
+startdate: 2014-02-01
 title: "[Artist-in-residence] Georgios Papadopoulos [GR]"
 subtitle: "Artist and researcher exploring economics, philosophy, and money through artistic practice"
 location: "RIAT Vienna / quartier21"

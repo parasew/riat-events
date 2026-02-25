@@ -1,5 +1,5 @@
 ---
-startdate: 2013/11/29
+startdate: 2013-11-29
 enddate: 2014/01/05
 title: "Out of the Box – 10 Questions on Artistic Research"
 subtitle: "Exhibition presenting recent research practices where knowledge is produced through artistic approaches"

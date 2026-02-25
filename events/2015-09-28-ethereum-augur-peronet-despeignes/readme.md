@@ -1,5 +1,5 @@
 ---
-startdate: 2015/09/28
+startdate: 2015-09-28
 ---
 # [Ethereum] Augur: Peronet Despeignes
 

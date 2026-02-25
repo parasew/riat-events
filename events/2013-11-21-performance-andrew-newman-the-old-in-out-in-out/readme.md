@@ -1,5 +1,5 @@
 ---
-startdate: 2013/11/21
+startdate: 2013-11-21
 ---
 # Performance: Andrew Newman – The Old In Out In Out
 

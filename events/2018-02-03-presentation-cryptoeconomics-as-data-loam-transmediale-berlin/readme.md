@@ -1,5 +1,5 @@
 ---
-startdate: 2018/02/03
+startdate: 2018-02-03
 ---
 # [Presentation] Cryptoeconomics as Data Loam (Transmediale, Berlin)
 

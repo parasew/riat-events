@@ -1,5 +1,5 @@
 ---
-startdate: 2015/05/27
+startdate: 2015-05-27
 title: "[Making Artistic Technology] Workshop/Sweatshop"
 subtitle: "Making Artistic Technology workshop exploring labor, production, and technology through 'sweatshop' concept"
 location: "Artistic Bokeh space, Vienna"

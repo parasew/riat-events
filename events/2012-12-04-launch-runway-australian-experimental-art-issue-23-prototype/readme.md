@@ -1,5 +1,5 @@
 ---
-startdate: 2012/12/04
+startdate: 2012-12-04
 ---
 # Launch: Runway Australian Experimental Art Issue 23 – Prototype
 

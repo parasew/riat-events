@@ -1,5 +1,5 @@
 ---
-startdate: 2017/06/09
+startdate: 2017-06-09
 ---
 # [Ethereum] Meetup: Indorse.io and Blockchain in SEA (Attores)
 

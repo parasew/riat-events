@@ -1,5 +1,5 @@
 ---
-startdate: 2013/11/20
+startdate: 2013-11-20
 title: "[Presentation] Vienna Art Week 2013 Presentation: Community currencies, cryptocurrencies and alternative economies in art and society"
 subtitle: "Vienna Art Week presentation exploring alternative economic systems and their relationship to art"
 location: "Quartier21, MuseumsQuartier Vienna"

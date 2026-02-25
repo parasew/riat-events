@@ -1,5 +1,5 @@
 ---
-startdate: 2016/11/10
+startdate: 2016-11-10
 ---
 # [Fintech Academy] Fintech Academy: disrupting advertising
 

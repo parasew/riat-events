@@ -1,5 +1,5 @@
 ---
-startdate: 2016/04/09
+startdate: 2016-04-09
 ---
 # Making Use – Life in Postartistic Times
 

@@ -1,5 +1,5 @@
 ---
-startdate: 2019/02/22
+startdate: 2019-02-22
 title: "Future Cryptoeconomics: The Genesis Stack"
 subtitle: "Inaugural event for RIAT's decentral archive for process artefacts - NFT inscription of first Future Cryptoeconomics magazine prints"
 location: "Q21, MuseumsQuartier Vienna"

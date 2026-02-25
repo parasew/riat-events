@@ -1,5 +1,5 @@
 ---
-startdate: 2017/02/01
+startdate: 2017-02-01
 ---
 # [Artist-in-residence] Rachel-Rose O’Leary [IRL]
 

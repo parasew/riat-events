@@ -1,5 +1,5 @@
 ---
-startdate: 2014/01/26
+startdate: 2014-01-26
 ---
 # [Exhibition] Exhibtition: FACELESS
 

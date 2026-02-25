@@ -1,5 +1,5 @@
 ---
-startdate: 2013/07/04
+startdate: 2013-07-04
 ---
 # Faceless Part I
 

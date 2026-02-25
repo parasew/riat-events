@@ -1,7 +1,7 @@
 ---
 location: RIAT Vienna
 country: Austria
-startdate: 2019/11/06
+startdate: 2019-11-06
 category: "meetups"
 tags: ["elm"]
 ---

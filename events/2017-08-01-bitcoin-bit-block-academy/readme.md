@@ -1,5 +1,5 @@
 ---
-startdate: 2017/08/01
+startdate: 2017-08-01
 ---
 # [Bitcoin] Bit&Block Academy
 

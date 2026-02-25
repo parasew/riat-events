@@ -1,5 +1,5 @@
 ---
-startdate: 2014/06/06
+startdate: 2014-06-06
 ---
 # Philip Leitner & Stephan Pircher: braindump
 

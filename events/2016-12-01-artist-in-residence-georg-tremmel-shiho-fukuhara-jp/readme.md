@@ -1,5 +1,5 @@
 ---
-startdate: 2016/12/01
+startdate: 2016-12-01
 title: "[Artist-in-residence] Georg Tremmel & Shiho Fukuhara [JP]"
 subtitle: "Japanese artist duo Georg Tremmel and Shiho Fukuhara in residence at Artistic Bokeh/Q21"
 location: "Artistic Bokeh / Q21, MuseumsQuartier Vienna"

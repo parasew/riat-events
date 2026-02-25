@@ -1,5 +1,5 @@
 ---
-startdate: 2013/11/19
+startdate: 2013-11-19
 ---
 # [Presentation] Vienna Art Week 2013 Presentation: Applied individuality – positions and discourses in artistic research
 

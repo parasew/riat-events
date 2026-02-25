@@ -1,5 +1,5 @@
 ---
-startdate: 2005/12/16
+startdate: 2005-12-16
 title: "Rounding Error - Installationen von Toby Heys (Battery Operated, KIT)"
 subtitle: "Audio and video installations by artist-in-residence Toby Heys with 5uper.net party and First Austrian Air Scratch Competition"
 location: "5uper.net Cuisine Digitale, MuseumsQuartier Vienna"

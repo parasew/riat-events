@@ -1,5 +1,5 @@
 ---
-startdate: 2016/05/24
+startdate: 2016-05-24
 ---
 # [Research Cultures] Patricia J. Reis: Penetrating the Black Box
 

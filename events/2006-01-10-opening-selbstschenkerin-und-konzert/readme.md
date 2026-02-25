@@ -1,5 +1,5 @@
 ---
-startdate: 2006/01/10
+startdate: 2006-01-10
 title: "Opening: 'Selbstschenkerin' und Konzert"
 subtitle: "Exhibition opening and concert event organized by 5uper.net"
 location: "Likely Cuisine Digitale, MuseumsQuartier Vienna"

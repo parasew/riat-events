@@ -1,5 +1,5 @@
 ---
-startdate: 2015/10/10
+startdate: 2015-10-10
 ---
 # [Making Artistic Technology] Make_Kit: Zine
 

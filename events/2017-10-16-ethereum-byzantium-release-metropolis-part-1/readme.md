@@ -1,5 +1,5 @@
 ---
-startdate: 2017/10/16
+startdate: 2017-10-16
 ---
 # [Ethereum] Byzantium Release (Metropolis Part 1)
 

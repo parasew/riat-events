@@ -1,5 +1,5 @@
 ---
-startdate: 2015/09/26
+startdate: 2015-09-26
 ---
 # [Ethereum] Augur: The decentralized prediction market
 

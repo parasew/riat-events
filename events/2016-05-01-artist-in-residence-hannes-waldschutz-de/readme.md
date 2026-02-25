@@ -1,5 +1,5 @@
 ---
-startdate: 2016/05/01
+startdate: 2016-05-01
 ---
 # [Artist-in-residence] Hannes Waldschütz [DE]
 

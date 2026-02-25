@@ -1,5 +1,5 @@
 ---
-startdate: 2006/03/04
+startdate: 2006-03-04
 ---
 # Audio Audience Session und Afterparty
 

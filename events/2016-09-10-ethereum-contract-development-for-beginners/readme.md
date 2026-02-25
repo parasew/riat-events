@@ -1,5 +1,5 @@
 ---
-startdate: 2016/09/10
+startdate: 2016-09-10
 ---
 # [Ethereum] Contract Development for Beginners
 

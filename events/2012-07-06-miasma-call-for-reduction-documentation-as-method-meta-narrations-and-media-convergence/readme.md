@@ -1,5 +1,5 @@
 ---
-startdate: 2012/07/06
+startdate: 2012-07-06
 title: "Miasma-Call for Reduction: Documentation as method, meta-narrations and media convergence"
 subtitle: "Initial prototype combining theatre and film formats, developed with Artistic Bokeh technology"
 location: "Donaufestival, Ankerbrotfabrik"

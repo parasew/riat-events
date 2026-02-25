@@ -1,5 +1,5 @@
 ---
-startdate: 2012/10/01
+startdate: 2012-10-01
 title: "[Artist-in-residence] Mirko Tobias Schäfer [DE][NL]"
 subtitle: "First RIAT artist-in-residence, media scholar and researcher"
 location: "RIAT Vienna / quartier21"

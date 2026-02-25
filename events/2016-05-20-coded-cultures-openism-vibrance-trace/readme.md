@@ -1,5 +1,5 @@
 ---
-startdate: 2016/05/20
+startdate: 2016-05-20
 title: "[Coded Cultures Openism] Vibrance – Trace"
 subtitle: "Coded Cultures festival event exploring traces, tracking, and digital footprints"
 location: "Coded Cultures festival venue, Vienna"

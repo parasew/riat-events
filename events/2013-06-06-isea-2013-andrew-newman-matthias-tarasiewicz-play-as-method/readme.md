@@ -1,5 +1,5 @@
 ---
-startdate: 2013/06/06
+startdate: 2013-06-06
 ---
 # ISEA 2013: Andrew Newman & Matthias Tarasiewicz – Play as Method
 

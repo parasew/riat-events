@@ -1,5 +1,5 @@
 ---
-startdate: 2009/05/27
+startdate: 2009-05-27
 ---
 # CC Associated Event: Japan Media Arts Festival – Anime Screenings
 

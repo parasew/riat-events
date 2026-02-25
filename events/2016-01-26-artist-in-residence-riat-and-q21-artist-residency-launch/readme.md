@@ -1,5 +1,5 @@
 ---
-startdate: 2016/01/26
+startdate: 2016-01-26
 ---
 # [Artist-in-residence] RIAT and Q21 Artist Residency Launch
 

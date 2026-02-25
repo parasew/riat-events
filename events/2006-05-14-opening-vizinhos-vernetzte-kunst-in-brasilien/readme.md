@@ -1,5 +1,5 @@
 ---
-startdate: 2006/05/14
+startdate: 2006-05-14
 title: "VIZINHOS - vernetzte Kunst in Brasilien"
 subtitle: "Exhibition presenting Brazilian art project BASE exploring synergy between Situationism, media art and architecture"
 location: "Freiraum, MuseumsQuartier Wien"

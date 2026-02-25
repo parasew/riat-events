@@ -1,5 +1,5 @@
 ---
-startdate: 2014/02/27
+startdate: 2014-02-27
 title: "[Research Cultures] Artistic Bokeh, Société Réaliste & Georgios Papadopoulos: Too much money…"
 subtitle: "Opening event for the 'Too much money' exhibition with presentations and film screening"
 location: "Artistic Bokeh Showroom, Electric Avenue, MuseumsQuartier Vienna"

@@ -1,5 +1,5 @@
 ---
-startdate: 2006/01/27
+startdate: 2006-01-27
 ---
 # Bull and Bear – 50:50
 

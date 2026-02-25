@@ -1,5 +1,5 @@
 ---
-startdate: 2017/05/01
+startdate: 2017-05-01
 ---
 # [Artist-in-residence] Jasmine Powell [AU]
 

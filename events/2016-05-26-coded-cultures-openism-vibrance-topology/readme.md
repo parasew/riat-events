@@ -1,5 +1,5 @@
 ---
-startdate: 2016/05/26
+startdate: 2016-05-26
 ---
 # [Coded Cultures Openism] Vibrance – Topology
 

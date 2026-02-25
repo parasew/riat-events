@@ -1,5 +1,5 @@
 ---
-startdate: 2013/07/20
+startdate: 2013-07-20
 ---
 # Addie Wagenknecht and Stefan Hechenberger – Asymmetric Love Nr. 2
 

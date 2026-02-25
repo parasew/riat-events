@@ -1,5 +1,5 @@
 ---
-startdate: 2005/11/06
+startdate: 2005-11-06
 title: "Map of Meanings III: Artist Talk"
 subtitle: "Exhibition and discussion exploring meanings and practices of everyday life across cultures"
 location: "5uper.net Cuisine Digitale, MuseumsQuartier Vienna"

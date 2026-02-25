@@ -1,5 +1,5 @@
 ---
-startdate: 2014/09/04
+startdate: 2014-09-04
 title: "Ars Electronica with Andreas Leo Findeisen"
 subtitle: "Participation in Ars Electronica festival featuring Andreas Leo Findeisen"
 location: "Ars Electronica festival, Linz"

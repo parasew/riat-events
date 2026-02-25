@@ -1,5 +1,5 @@
 ---
-startdate: 2014/11/22
+startdate: 2014-11-22
 enddate: 2015/02/20
 title: "[Research Cultures] Jai McKenzie: Never Forever"
 subtitle: "Exhibition examining creation and destruction, remembering and forgetting, and the improbability of permanence"

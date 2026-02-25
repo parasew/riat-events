@@ -1,5 +1,5 @@
 ---
-startdate: 2016/03/15
+startdate: 2016-03-15
 ---
 # [Ethereum] Homestead Release
 

@@ -1,5 +1,5 @@
 ---
-startdate: 2013/11/30
+startdate: 2013-11-30
 ---
 # Presentation on Artistic Technology Research
 

@@ -1,5 +1,5 @@
 ---
-startdate: 2016/02/05
+startdate: 2016-02-05
 title: "Josh Harle on Tactical Space"
 subtitle: "Presentation and discussion on tactical spatial practices by Australian artist-researcher Joshua Harle"
 location: "Likely Artistic Bokeh Showroom or University of Applied Arts Vienna"

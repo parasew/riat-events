@@ -1,5 +1,5 @@
 ---
-startdate: 2016/12/01
+startdate: 2016-12-01
 ---
 # [Artist-in-residence] Nina Prader [USA]
 

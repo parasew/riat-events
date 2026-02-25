@@ -1,5 +1,5 @@
 ---
-startdate: 2017/06/14
+startdate: 2017-06-14
 ---
 # [ISEA 2017] Poietic Strategies in Artistic Practice
 

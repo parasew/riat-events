@@ -1,5 +1,5 @@
 ---
-startdate: 2005/06/16
+startdate: 2005-06-16
 title: "Digitale Kunst"
 subtitle: "Digital art event or exhibition likely associated with 5uper.net early activities"
 location: "Likely Cuisine Digitale or MuseumsQuartier Vienna"

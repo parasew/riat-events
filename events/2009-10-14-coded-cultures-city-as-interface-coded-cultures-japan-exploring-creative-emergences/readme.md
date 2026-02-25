@@ -1,5 +1,5 @@
 ---
-startdate: 2009/10/14
+startdate: 2009-10-14
 title: "Coded Cultures Japan - Exploring Creative Emergences"
 subtitle: "Binational festival examining artistic-creative skill profiles in media-integrated design cultures"
 location: "Yokohama, Tokyo, Japan"

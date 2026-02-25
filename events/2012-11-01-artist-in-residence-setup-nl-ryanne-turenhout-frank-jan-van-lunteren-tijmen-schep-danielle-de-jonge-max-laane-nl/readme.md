@@ -1,5 +1,5 @@
 ---
-startdate: 2012/11/01
+startdate: 2012-11-01
 title: "Artist-in-residence: SETUP.NL – Ryanne Turenhout, Frank-Jan van Lunteren, Tijmen Schep, Danielle de Jonge, Max Laane [NL]"
 subtitle: "Artistic Technology Research: Meet SETUP.NL - Discussion event at Metalab Wien"
 location: "Metalab Wien"

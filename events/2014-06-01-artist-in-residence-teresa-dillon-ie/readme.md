@@ -1,5 +1,5 @@
 ---
-startdate: 2014/06/01
+startdate: 2014-06-01
 ---
 # [Artist-in-residence] Teresa Dillon [IE]
 

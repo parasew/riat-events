@@ -1,5 +1,5 @@
 ---
-startdate: 2014/01/01
+startdate: 2014-01-01
 title: "[Artist-in-residence] Paolo Cirio [IT]"
 subtitle: "Conceptual artist working with legal, economic, and cultural systems of information society"
 location: "RIAT Vienna / quartier21"

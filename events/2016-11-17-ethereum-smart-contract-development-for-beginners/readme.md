@@ -1,5 +1,5 @@
 ---
-startdate: 2016/11/17
+startdate: 2016-11-17
 ---
 # [Ethereum] Smart Contract Development for Beginners
 

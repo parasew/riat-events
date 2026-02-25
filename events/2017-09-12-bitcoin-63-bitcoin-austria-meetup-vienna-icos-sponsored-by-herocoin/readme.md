@@ -1,5 +1,5 @@
 ---
-startdate: 2017/09/12
+startdate: 2017-09-12
 title: "[Bitcoin] 63. Bitcoin Austria Meetup Vienna: ICOs (sponsored by herocoin)"
 subtitle: "Bitcoin Austria meetup discussing Initial Coin Offerings (ICOs) during the 2017 ICO boom"
 location: "Likely RIAT Vienna or Vienna crypto venue"

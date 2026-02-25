@@ -1,5 +1,5 @@
 ---
-startdate: 2015/07/01
+startdate: 2015-07-01
 ---
 # [Ethereum] 100 Ethereum Members and Augur
 

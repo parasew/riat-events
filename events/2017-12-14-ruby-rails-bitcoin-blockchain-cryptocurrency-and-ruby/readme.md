@@ -1,5 +1,5 @@
 ---
-startdate: 2017/12/14
+startdate: 2017-12-14
 ---
 # [Ruby & Rails] Bitcoin, Blockchain, Cryptocurrency and Ruby
 

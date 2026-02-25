@@ -1,5 +1,5 @@
 ---
-startdate: 2013/11/13
+startdate: 2013-11-13
 ---
 # Artistic Technology Colloquium: Bernd Kräftner, Matthias Tarasiewicz, Lorenz Seidler, Roman Kirschner, and Mirko T. Schäfer
 

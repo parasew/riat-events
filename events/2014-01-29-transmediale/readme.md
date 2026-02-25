@@ -1,5 +1,5 @@
 ---
-startdate: 2014/01/29
+startdate: 2014-01-29
 ---
 # Transmediale
 

@@ -1,5 +1,5 @@
 ---
-startdate: 2016/05/19
+startdate: 2016-05-19
 ---
 # [Coded Cultures Openism] AXIOM Open Cinema Lab
 

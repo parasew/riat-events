@@ -1,5 +1,5 @@
 ---
-startdate: 2015/08/13
+startdate: 2015-08-13
 title: "[Ethereum] Frontier Meetup"
 subtitle: "Ethereum Vienna meetup celebrating the Frontier release - Ethereum's first live network launch"
 location: "Likely RIAT Vienna or Vienna tech venue"

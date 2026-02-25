@@ -1,5 +1,5 @@
 ---
-startdate: 2017/07/01
+startdate: 2017-07-01
 ---
 # [Artist-in-residence] Selena Savic [SRB]
 

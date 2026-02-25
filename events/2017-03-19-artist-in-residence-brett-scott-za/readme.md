@@ -1,5 +1,5 @@
 ---
-startdate: 2017/03/19
+startdate: 2017-03-19
 ---
 # [Artist-in-residence] Brett Scott [ZA]
 

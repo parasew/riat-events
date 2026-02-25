@@ -1,5 +1,5 @@
 ---
-startdate: 2017/09/29
+startdate: 2017-09-29
 ---
 # [Presentation] Startup.Live Linz: Focus Blockchain
 

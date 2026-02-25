@@ -1,5 +1,5 @@
 ---
-startdate: 2006/02/12
+startdate: 2006-02-12
 ---
 # LIFE MUSIC – lecture von Günther Albrecht
 

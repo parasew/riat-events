@@ -1,5 +1,5 @@
 ---
-startdate: 2018/04/17
+startdate: 2018-04-17
 ---
 # [Bitcoin Meetup] 67. Bitcoin Austria Meetup
 

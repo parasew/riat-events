@@ -1,5 +1,5 @@
 ---
-startdate: 2019/06/03
+startdate: 2019-06-03
 title: "Vienna Digital Identity Meetup #5"
 subtitle: "Fifth Vienna Digital Identity Meetup featuring Internet Identity Workshop review and digitalization discussion"
 location: "RIAT Vienna"

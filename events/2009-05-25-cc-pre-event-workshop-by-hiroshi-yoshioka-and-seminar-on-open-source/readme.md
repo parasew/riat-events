@@ -1,5 +1,5 @@
 ---
-startdate: 2009/05/25
+startdate: 2009-05-25
 ---
 # CC Pre-event: Workshop by Hiroshi Yoshioka and seminar on Open Source
 

@@ -1,5 +1,5 @@
 ---
-startdate: 2016/05/22
+startdate: 2016-05-22
 ---
 # [Coded Cultures Openism] Life in Postdemocratic times
 

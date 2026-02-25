@@ -1,5 +1,5 @@
 ---
-startdate: 2006/03/05
+startdate: 2006-03-05
 title: "PD-Radio Workshop"
 subtitle: "Workshop on Pure Data (PD) for radio and audio streaming applications"
 location: "Cuisine Digitale, MuseumsQuartier Vienna"

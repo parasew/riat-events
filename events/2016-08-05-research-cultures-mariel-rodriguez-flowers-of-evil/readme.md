@@ -1,5 +1,5 @@
 ---
-startdate: 2016/08/05
+startdate: 2016-08-05
 ---
 # [Research Cultures] Mariel Rodríguez: Flowers of Evil:
 

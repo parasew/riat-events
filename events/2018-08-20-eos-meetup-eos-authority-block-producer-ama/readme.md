@@ -1,5 +1,5 @@
 ---
-startdate: 2018/08/20
+startdate: 2018-08-20
 ---
 # [EOS Meetup] EOS Authority Block Producer AMA
 

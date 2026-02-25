@@ -1,5 +1,5 @@
 ---
-startdate: 2005/12/16
+startdate: 2005-12-16
 ---
 # Rounding Error – Installationen von Toby Heys (Battery Operated, KIT)
 

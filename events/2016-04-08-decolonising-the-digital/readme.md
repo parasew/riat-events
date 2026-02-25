@@ -1,5 +1,5 @@
 ---
-startdate: 2016/04/08
+startdate: 2016-04-08
 ---
 # Decolonising the Digital
 

@@ -1,5 +1,5 @@
 ---
-startdate: 2015/06/18
+startdate: 2015-06-18
 ---
 # ELIA Conference: Economies of Aesthetics
 

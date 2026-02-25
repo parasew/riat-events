@@ -1,5 +1,5 @@
 ---
-startdate: 2016/09/01
+startdate: 2016-09-01
 ---
 # [Artists-in-residence] Marita Fraser [AU]
 

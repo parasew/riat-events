@@ -1,5 +1,5 @@
 ---
-startdate: 2016/06/01
+startdate: 2016-06-01
 ---
 # [Artists-in-residence] Alessandro Ludovico [IT]
 

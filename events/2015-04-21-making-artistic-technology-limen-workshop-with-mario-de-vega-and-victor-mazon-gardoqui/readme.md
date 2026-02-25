@@ -1,5 +1,5 @@
 ---
-startdate: 2015/04/21
+startdate: 2015-04-21
 title: "[Making Artistic Technology] LIMEN Workshop with Mario de Vega and Víctor Mazón Gardoqui"
 subtitle: "Workshop about data traffic and wireless telecommunication - building analogue devices to make electromagnetic activity audible"
 location: "Artistic Technology Research / Artistic Bokeh space"

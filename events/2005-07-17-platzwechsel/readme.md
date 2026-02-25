@@ -1,5 +1,5 @@
 ---
-startdate: 2005/07/17
+startdate: 2005-07-17
 title: "PLATZWECHSEL"
 subtitle: "Exhibition or event with title 'Platzwechsel' (Changing Places/Space Exchange)"
 location: "Cuisine Digitale, MuseumsQuartier Vienna"

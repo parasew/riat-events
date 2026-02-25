@@ -1,5 +1,5 @@
 ---
-startdate: 2014/11/20
+startdate: 2014-11-20
 title: "Launch: Runway Experimental Australian Arts Issue 26: Knowledge (Edited by Andrew Newman)"
 subtitle: "Launch of Australian experimental art journal alongside Austria Australia Arts Alliance exhibition program"
 location: "MuseumsQuartier Vienna"

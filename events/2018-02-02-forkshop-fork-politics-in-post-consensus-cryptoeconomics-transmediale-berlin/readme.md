@@ -1,5 +1,5 @@
 ---
-startdate: 2018/02/02
+startdate: 2018-02-02
 ---
 # [Forkshop] Fork-Politics in Post-Consensus Cryptoeconomics (Transmediale, Berlin)
 

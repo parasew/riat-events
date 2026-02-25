@@ -1,5 +1,5 @@
 ---
-startdate: 2017/10/01
+startdate: 2017-10-01
 ---
 # [Artist-in-residence] Jaya Klara Brekke [UK]
 

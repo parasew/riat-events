@@ -1,5 +1,5 @@
 ---
-startdate: 2016/11/19
+startdate: 2016-11-19
 title: "[Ethereum] Workshop: Contract Development for Beginners"
 subtitle: "Introductory smart contract development workshop for Ethereum beginners"
 location: "Likely RIAT Vienna or Vienna tech venue"

@@ -1,5 +1,5 @@
 ---
-startdate: 2005/05/29
+startdate: 2005-05-29
 title: "INSERT COIN"
 subtitle: "Kompexitätsbewährung im neoliberalen Kontext - 9 Arkade-Spielautomaten im Freiraum/ MQ Wien"
 location: "Freiraum, MuseumsQuartier Wien"

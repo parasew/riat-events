@@ -1,5 +1,5 @@
 ---
-startdate: 2016/05/18
+startdate: 2016-05-18
 ---
 # [Research Cultures] Terra Aura Finissage
 

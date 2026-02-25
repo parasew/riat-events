@@ -1,5 +1,5 @@
 ---
-startdate: 2018/02/08
+startdate: 2018-02-08
 title: "Ethereum Meetup - Education on the blockchain with ODEM + Etherchain"
 subtitle: "First Ethereum Vienna meetup of 2018 focusing on blockchain education and Ethereum metrics"
 location: "RIAT Vienna"

@@ -1,5 +1,5 @@
 ---
-startdate: 2017/10/25
+startdate: 2017-10-25
 ---
 # [Golang] Vienna Go User Group October Meetup
 

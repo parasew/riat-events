@@ -1,5 +1,5 @@
 ---
-startdate: 2015/09/25
+startdate: 2015-09-25
 title: "Social Glitch: Radical aesthetics and the consequences of extreme events"
 subtitle: "Presentation or event exploring glitch aesthetics in social and political contexts"
 location: "Kunstraum, Vienna"

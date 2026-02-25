@@ -1,5 +1,5 @@
 ---
-startdate: 2013/11/11
+startdate: 2013-11-11
 title: "[Research Cultures] Tetsuya Umeda – Project A"
 subtitle: "Research Cultures presentation by Japanese artist Tetsuya Umeda discussing Project A"
 location: "Artistic Bokeh / Q21 space, Vienna"

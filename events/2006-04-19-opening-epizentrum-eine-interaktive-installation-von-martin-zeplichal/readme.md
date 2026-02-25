@@ -1,5 +1,5 @@
 ---
-startdate: 2006/04/19
+startdate: 2006-04-19
 ---
 # Opening: Epizentrum – Eine interaktive Installation von Martin Zeplichal
 

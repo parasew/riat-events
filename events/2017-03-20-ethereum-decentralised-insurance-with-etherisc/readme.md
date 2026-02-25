@@ -1,5 +1,5 @@
 ---
-startdate: 2017/03/20
+startdate: 2017-03-20
 ---
 # [Ethereum] Decentralised insurance with Etherisc
 

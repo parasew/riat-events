@@ -1,5 +1,5 @@
 ---
-startdate: 2017/06/03
+startdate: 2017-06-03
 ---
 # [New Economy Movement] initial NEM Meetup Vienna ($XEM)
 

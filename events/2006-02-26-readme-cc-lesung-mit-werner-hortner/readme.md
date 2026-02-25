@@ -1,5 +1,5 @@
 ---
-startdate: 2006/02/26
+startdate: 2006-02-26
 ---
 # readme.cc-Lesung mit Werner Hörtner
 

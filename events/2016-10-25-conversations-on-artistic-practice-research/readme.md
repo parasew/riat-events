@@ -1,5 +1,5 @@
 ---
-startdate: 2016/10/25
+startdate: 2016-10-25
 ---
 # Conversations on Artistic Practice & Research
 

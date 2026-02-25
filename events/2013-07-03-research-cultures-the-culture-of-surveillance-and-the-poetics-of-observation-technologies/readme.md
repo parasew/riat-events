@@ -1,5 +1,5 @@
 ---
-startdate: 2013/07/03
+startdate: 2013-07-03
 enddate: 2013/11/24
 title: "[Research Cultures] The Culture of Surveillance and the Poetics of Observation Technologies"
 subtitle: "Exhibition and installation exploring surveillance work, observation technologies, and anonymity"

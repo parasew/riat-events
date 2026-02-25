@@ -1,5 +1,5 @@
 ---
-startdate: 2016/01/31
+startdate: 2016-01-31
 ---
 # [Ethereum] Simple contract development and deployment
 

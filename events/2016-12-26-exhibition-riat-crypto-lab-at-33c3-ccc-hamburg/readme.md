@@ -1,5 +1,5 @@
 ---
-startdate: 2016/12/26
+startdate: 2016-12-26
 ---
 # [Exhibition] RIAT Crypto Lab at 33C3 (CCC Hamburg)
 

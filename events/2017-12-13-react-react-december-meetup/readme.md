@@ -1,5 +1,5 @@
 ---
-startdate: 2017/12/13
+startdate: 2017-12-13
 ---
 # [React] React December Meetup
 

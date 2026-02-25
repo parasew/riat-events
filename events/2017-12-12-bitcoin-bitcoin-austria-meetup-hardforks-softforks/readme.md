@@ -1,5 +1,5 @@
 ---
-startdate: 2017/12/12
+startdate: 2017-12-12
 ---
 # [Bitcoin] Bitcoin Austria Meetup: Hardforks, Softforks
 

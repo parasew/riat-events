@@ -1,5 +1,5 @@
 ---
-startdate: 2017/04/25
+startdate: 2017-04-25
 ---
 # [Ethereum] Meetup: Possibilities of homomorphic encryption
 

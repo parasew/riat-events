@@ -1,5 +1,5 @@
 ---
-startdate: 2015/12/10
+startdate: 2015-12-10
 title: "Awards for Research in Artistic Technology"
 subtitle: "Award ceremony recognizing outstanding research in artistic technology at Gartenbaukino Vienna"
 location: "Gartenbaukino, Vienna"

@@ -1,5 +1,5 @@
 ---
-startdate: 2018/02/26
+startdate: 2018-02-26
 ---
 # [Bitcoin Meetup] 66. Bitcoin Austria Meetup: Ethearnal
 

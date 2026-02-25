@@ -1,5 +1,5 @@
 ---
-startdate: 2016/10/07
+startdate: 2016-10-07
 ---
 # [Open Hardware] Open Hardware Summit 2016 Portland
 

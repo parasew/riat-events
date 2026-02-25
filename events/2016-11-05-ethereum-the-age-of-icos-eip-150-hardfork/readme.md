@@ -1,5 +1,5 @@
 ---
-startdate: 2016/11/05
+startdate: 2016-11-05
 ---
 # [Ethereum] The Age of ICOs / EIP-150 Hardfork
 

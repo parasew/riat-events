@@ -1,5 +1,5 @@
 ---
-startdate: 2014/07/03
+startdate: 2014-07-03
 title: "Urban Knights Vienna"
 subtitle: "Programme provoking practical approaches to urban change, focusing on new urban governance, commons, and shared civic resources"
 location: "paradocks, Marxergasse 24, 1030 Vienna"

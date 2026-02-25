@@ -1,5 +1,5 @@
 ---
-startdate: 2016/05/27
+startdate: 2016-05-27
 ---
 # [Coded Cultures Openism] Publication and Public Making
 

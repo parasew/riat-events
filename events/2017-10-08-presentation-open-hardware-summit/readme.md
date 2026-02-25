@@ -1,5 +1,5 @@
 ---
-startdate: 2017/10/08
+startdate: 2017-10-08
 ---
 # [Presentation] Open Hardware Summit
 

@@ -1,5 +1,5 @@
 ---
-startdate: 2017/01/25
+startdate: 2017-01-25
 ---
 # [Ethereum] Meet Simon De La Rouviere (Ujo Music, Consensys) and Paul Kohlhaas (9needs)
 

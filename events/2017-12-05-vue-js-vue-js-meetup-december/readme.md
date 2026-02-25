@@ -1,5 +1,5 @@
 ---
-startdate: 2017/12/05
+startdate: 2017-12-05
 ---
 # [vue.js] vue.js Meetup December
 

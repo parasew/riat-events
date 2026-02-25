@@ -1,5 +1,5 @@
 ---
-startdate: 2016/04/02
+startdate: 2016-04-02
 ---
 # [Research Cultures] Adam Donovan: Terra Aura
 

@@ -1,5 +1,5 @@
 ---
-startdate: 2016/05/19
+startdate: 2016-05-19
 title: "[Coded Cultures Openism] Dries Depoorter: Sheriff Software"
 subtitle: "Coded Cultures festival presentation by Belgian artist Dries Depoorter on surveillance and software art"
 location: "Coded Cultures festival venue, Vienna"

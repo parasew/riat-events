@@ -4,7 +4,7 @@ date: 2025-12-27T10:00:00+01:00
 draft: false
 location: CCH, Hamburg
 country: Germany
-startdate: 2025/12/27
+startdate: 2025-12-27
 image: 39c3-logo.png
 category: "decentralization"
 ---
