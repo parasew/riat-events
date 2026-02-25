@@ -1,5 +1,6 @@
 ---
 startdate: 2015-05-30
+category: meetup
 title: "[Research Cultures] Behavioural Modernity (curated by Laura McLean)"
 subtitle: "Research presentation and discussion curated by Australian artist-researcher Laura McLean"
 location: "Artistic Bokeh Showroom, MuseumsQuartier Vienna"
@@ -92,7 +93,7 @@ This event represented the Research Cultures series' engagement with interdiscip
 
 ## Archive snapshots
 - https://web.archive.org/web/20150821102040/https://www.facebook.com/events/796218167127367/
-  - https://web.archive.org/web/20260225054129/https://web.archive.org/web/20150821102040/https://www.facebook.com/events/796218167127367/
+  - https://web.archive.org/web/20260225054129/https://www.facebook.com/events/796218167127367/
 - https://www.facebook.com/events/796218167127367/
   - https://web.archive.org/web/20260225054129/https://www.facebook.com/events/796218167127367/
 - https://www.facebook.com/events/796218167127367/"

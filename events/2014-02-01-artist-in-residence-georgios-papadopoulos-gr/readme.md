@@ -1,5 +1,6 @@
 ---
 startdate: 2014-02-01
+category: meetup
 title: "[Artist-in-residence] Georgios Papadopoulos [GR]"
 subtitle: "Artist and researcher exploring economics, philosophy, and money through artistic practice"
 location: "RIAT Vienna / quartier21"

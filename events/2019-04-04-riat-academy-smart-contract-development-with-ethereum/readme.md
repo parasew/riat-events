@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2019-04-04"
 enddate:   "2019-04-07"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/51502994_2221640581231899_4011670132169375744_o.jpg?_nc_cat=104&_nc_sid=b386c4&_nc_ohc=CRCpa9xuGx8AX_J015u&_nc_ht=scontent-vie1-1.xx&oh=db99061c13479c0c16ce623e69ffcd02&oe=5F8669F2
-category: meetup, RIAT vienna, ethereum, development
+category: meetup
 ---
 
 Description

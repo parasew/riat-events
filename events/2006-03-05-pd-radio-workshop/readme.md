@@ -1,5 +1,6 @@
 ---
 startdate: 2006-03-05
+category: workshop
 title: "PD-Radio Workshop"
 subtitle: "Workshop on Pure Data (PD) for radio and audio streaming applications"
 location: "Cuisine Digitale, MuseumsQuartier Vienna"
@@ -143,4 +144,4 @@ The PD-Radio workshop captured 5uper.net's commitment to practical technical edu
 - https://5uper.net/post/143.html
   - https://web.archive.org/web/20260225054128/https://5uper.net/post/143.html
 - https://web.archive.org/web/20260223030034/https://5uper.net/post/143.html
-  - https://web.archive.org/web/20260225054128/https://web.archive.org/web/20260223030034/https://5uper.net/post/143.html
+  - https://web.archive.org/web/20260225054128/https://5uper.net/post/143.html

@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2016-05-25"
 enddate:   "2016-05-25"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/13217189_1132772823440759_4580551179776328714_o.jpg?_nc_cat=102&_nc_sid=b386c4&_nc_ohc=lS6iOQqakgEAX_ORVqa&_nc_ht=scontent-vie1-1.xx&tp=6&oh=6c8ff7f1c508f851f958419e3cfdd5d3&oe=5F8E75AE
-category: workshop, RIAT, coded-cultures
+category: workshop
 ---
 
 # [Coded Cultures Openism] Open Scenarios for Non-Trivial Pursuits I: Proposals, Prescriptions & Possibilities

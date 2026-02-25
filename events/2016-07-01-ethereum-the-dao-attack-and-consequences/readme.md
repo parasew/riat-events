@@ -1,5 +1,6 @@
 ---
 startdate: 2016-07-01
+category: meetup
 title: "[Ethereum] The DAO Attack and Consequences"
 subtitle: "Emergency Ethereum Vienna meetup discussing the DAO hack and its implications for Ethereum"
 location: "Likely RIAT Vienna or emergency meeting venue"

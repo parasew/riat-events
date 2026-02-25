@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2018-03-06"
 enddate:   "2018-03-06"
 image: https://secure.meetupstatic.com/photos/event/4/d/d/c/600_339079932.jpeg
-category: Ethereum, Meetup, RIAT
+category: meetup
 ---
 
 Swarm, one of the three major protocols of ethereums web3 platform, is a distributed storage platform and content distribution service with an upcoming ethereum-based incentive layer for bandwidth as well as insurance for long term storage.

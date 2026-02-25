@@ -5,7 +5,7 @@ draft: false
 location: "RIAT Vienna"
 country: "Austria"
 startdate: "2017-02-14"
-category: "event"
+category: meetup"
 ---
 
 ## Archive snapshots

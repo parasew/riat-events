@@ -6,7 +6,7 @@ location: "HCPP / Paralelní Polis"
 city: Prague
 country: Czechia
 startdate: "2019-10-05"
-category: Exhibition
+category: exhibition
 ---
 
 Showcase/exhibition entry listed in the RIAT events archive during HCPP (Hackers Congress Paralelní Polis) in Prague.

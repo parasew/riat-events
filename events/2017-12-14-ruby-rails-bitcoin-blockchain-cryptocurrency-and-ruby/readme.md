@@ -1,5 +1,6 @@
 ---
 startdate: 2017-12-14
+category: meetup
 title: "[Ruby & Rails] Bitcoin, Blockchain, Cryptocurrency and Ruby"
 ---
 # [Ruby & Rails] Bitcoin, Blockchain, Cryptocurrency and Ruby

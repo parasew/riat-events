@@ -5,7 +5,7 @@ draft: false
 location: "Paralelní Polis, Prague"
 country: "Czech Republic"
 startdate: "2024-10-05"
-category: "event"
+category: meetup"
 ---
 
 ### Description

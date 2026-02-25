@@ -1,5 +1,6 @@
 ---
 startdate: 2017-08-01
+category: meetup
 title: "[Ethereum] Scaling Blockchain (Bitcoin + Ethereum)"
 subtitle: "Ethereum Vienna meetup discussing scaling solutions for Bitcoin and Ethereum blockchains"
 location: "Likely RIAT Vienna or Vienna tech venue"

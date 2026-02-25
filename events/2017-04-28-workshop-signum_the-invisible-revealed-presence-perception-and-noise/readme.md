@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2017-04-28"
 enddate:   "2017-04-28"
 image:
-category: workshop, signum, RIAT Vienna
+category: workshop
 ---
 
 # [Workshop] SIGNUM_The invisible revealed: Presence, perception and noise.

@@ -1,5 +1,6 @@
 ---
 startdate: 2015-10-29
+category: residency
 title: "[Making Artistic Technology] Mobile Laboratory for the New Aesthetic of Digital Exchanges"
 ---
 # [Making Artistic Technology] Mobile Laboratory for the New Aesthetic of Digital Exchanges

@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2016-11-26"
 enddate:   "2016-11-27"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/14993547_1279100132152620_1287999755129202644_n.jpg?_nc_cat=111&_nc_sid=b386c4&_nc_ohc=Q-nujDUQaL0AX_ELFd3&_nc_ht=scontent-vie1-1.xx&oh=4387c0777ad4816ce88ead5b735621ca&oe=5F8AA7E2
-category: workshop, RIAT Vienna
+category: workshop
 ---
 
 # [Making Artistic Technology] Trans/mission: The power & value of sharing commons

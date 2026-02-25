@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-20
+category: workshop
 title: "[Coded Cultures Openism] Open Maps Workshop"
 ---
 # [Coded Cultures Openism] Open Maps Workshop

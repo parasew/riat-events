@@ -1,5 +1,6 @@
 ---
 startdate: 2016-04-08
+category: meetup
 title: "Decolonising the Digital"
 ---
 # Decolonising the Digital

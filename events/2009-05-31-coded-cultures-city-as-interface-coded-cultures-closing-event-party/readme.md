@@ -1,5 +1,6 @@
 ---
 startdate: 2009-05-31
+category: talk
 title: "CODED CULTURES Closing Event/ Party"
 subtitle: "Pecha Kucha Night, Tetsuya Umeda Live Performance, Minimal Tokyo & Trust Records"
 location: "MQ Hofstallungen (MUMOK), MuseumsQuartier Vienna"

@@ -5,7 +5,7 @@ draft: false
 location: "ULB (Campus Solbosch), Brussels, Belgium"
 country: "Austria"
 startdate: "2026-02-01"
-category: "event"
+category: meetup"
 ---
 
 ### Description

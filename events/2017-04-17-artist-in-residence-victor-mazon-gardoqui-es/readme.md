@@ -1,5 +1,6 @@
 ---
 startdate: 2017-04-17
+category: meetup
 title: "[Artist-in-residence] Victor Mazón Gardoqui [ES]"
 ---
 # [Artist-in-residence] Victor Mazón Gardoqui [ES]

@@ -1,5 +1,6 @@
 ---
 startdate: 2013-11-13
+category: meetup
 title: "Artistic Technology Colloquium: Bernd Kräftner, Matthias Tarasiewicz, Lorenz Seidler, Roman Kirschner, and Mirko T. Schäfer"
 ---
 # Artistic Technology Colloquium: Bernd Kräftner, Matthias Tarasiewicz, Lorenz Seidler, Roman Kirschner, and Mirko T. Schäfer

@@ -1,5 +1,6 @@
 ---
 startdate: 2017-10-05
+category: meetup
 title: "[RIAT Academy] Smart Contract Development with Ethereum (05. – 08. October 2017)"
 ---
 # [RIAT Academy] Smart Contract Development with Ethereum (05. – 08. October 2017)

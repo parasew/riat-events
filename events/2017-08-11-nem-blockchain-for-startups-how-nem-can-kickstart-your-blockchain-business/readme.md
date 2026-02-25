@@ -1,5 +1,6 @@
 ---
 startdate: 2017-08-11
+category: meetup
 title: "[NEM] Blockchain for Startups – How NEM Can Kickstart Your Blockchain Business"
 ---
 # [NEM] Blockchain for Startups – How NEM Can Kickstart Your Blockchain Business

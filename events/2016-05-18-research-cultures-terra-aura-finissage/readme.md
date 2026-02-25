@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-18
+category: meetup
 title: "[Research Cultures] Terra Aura Finissage"
 ---
 # [Research Cultures] Terra Aura Finissage

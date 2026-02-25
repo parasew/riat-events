@@ -1,5 +1,6 @@
 ---
 startdate: 2016-12-03
+category: workshop
 title: "[Ethereum] Advanced Workshop: From Idea to Smart Contract"
 ---
 # [Ethereum] Advanced Workshop: From Idea to Smart Contract

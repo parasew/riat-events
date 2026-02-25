@@ -1,6 +1,7 @@
 ---
 title: "ELIA Conference: Economies of Aesthetics"
 startdate: 2015-06-18
+category: conference
 location: "Basel"
 country: "Switzerland"
 ---

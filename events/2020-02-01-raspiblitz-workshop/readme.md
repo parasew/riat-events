@@ -5,7 +5,7 @@ draft: false
 location: "RIAT Vienna"
 startdate: 2020-02-01
 image: https://unsplash.com/photos/yJPtjTjrMXk
-category: bitcoin austria
+category: meetup
 ---
 
 Beschreibung:

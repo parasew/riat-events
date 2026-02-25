@@ -1,5 +1,6 @@
 ---
 startdate: 2013-11-28
+category: meetup
 enddate: 2014-01-05
 title: "Out of the Box – 10 Questions on Artistic Research"
 subtitle: "Exhibition presenting recent research practices where knowledge is produced through artistic approaches"
@@ -70,9 +71,9 @@ Artistic Bokeh documented the exhibition with photos available in their Flickr s
 - http://digitalsynesthesia.net/wp/events/exhibition-out-of-the-box-10-questions-about-artistic-research/
   - https://web.archive.org/web/20260225054133/http://digitalsynesthesia.net/wp/events/exhibition-out-of-the-box-10-questions-about-artistic-research/
 - https://web.archive.org/web/20140821132610/https://www.flickr.com/photos/artisticbokeh/sets/72157638145584125/
-  - https://web.archive.org/web/20260225054133/https://web.archive.org/web/20140821132610/https://www.flickr.com/photos/artisticbokeh/sets/72157638145584125/
+  - https://web.archive.org/web/20260225054133/https://www.flickr.com/photos/artisticbokeh/sets/72157638145584125/
 - https://web.archive.org/web/20170820122938/http://digitalsynesthesia.net/wp/events/exhibition-out-of-the-box-10-questions-about-artistic-research/
-  - https://web.archive.org/web/20260225054133/https://web.archive.org/web/20170820122938/http://digitalsynesthesia.net/wp/events/exhibition-out-of-the-box-10-questions-about-artistic-research/
+  - https://web.archive.org/web/20260225054133/http://digitalsynesthesia.net/wp/events/exhibition-out-of-the-box-10-questions-about-artistic-research/
 - https://www.flickr.com/photos/artisticbokeh/sets/72157638145584125/
   - https://web.archive.org/web/20260225054133/https://www.flickr.com/photos/artisticbokeh/sets/72157638145584125/
 - https://www.mak.at/en/program/exhibitions/out_of_the_box

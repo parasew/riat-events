@@ -5,7 +5,7 @@ draft: false
 location: "Colorado, USA"
 country: "USA"
 startdate: "2019-06-23"
-category: "monero,conference"
+category: meetup"
 ---
 
 Matthias Tarasiewicz presented at MoneroKon Colorado 2019, discussing Monero and privacy technologies.

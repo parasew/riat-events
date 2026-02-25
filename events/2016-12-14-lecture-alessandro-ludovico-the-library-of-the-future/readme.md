@@ -1,5 +1,6 @@
 ---
 startdate: 2016-12-14
+category: talk
 title: "[Lecture] Alessandro Ludovico: The Library of the Future"
 ---
 # [Lecture] Alessandro Ludovico: The Library of the Future

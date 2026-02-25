@@ -5,7 +5,7 @@ draft: false
 location: "Prague, Czech Republic"
 country: "Czech Republic"
 startdate: "2025-10-04"
-category: "sovereign-computing,conference"
+category: conference"
 ---
 
 Presentation 'Verifiable or Void: Hacking Our Way Back to Sovereign Computing' at the Dark Prague event, exploring verifiable computing and digital sovereignty.

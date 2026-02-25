@@ -1,5 +1,6 @@
 ---
 startdate: 2017-09-26
+category: meetup
 title: "[Bitcoin] Bit&Block Academy Week 10"
 ---
 # [Bitcoin] Bit&Block Academy Week 10

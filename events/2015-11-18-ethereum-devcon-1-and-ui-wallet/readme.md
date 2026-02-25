@@ -1,5 +1,6 @@
 ---
 startdate: 2015-11-18
+category: meetup
 title: "[Ethereum] DEVCON-1 and UI Wallet"
 ---
 # [Ethereum] DEVCON-1 and UI Wallet

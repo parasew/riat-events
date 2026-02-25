@@ -12,7 +12,7 @@ series: "Coded Cultures Openism"
 year: 2016
 time: "13:00+02:00"
 image: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21073444%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C62%2C1024%2C512&s=f503641a66aacc892bd5d579ecb1e1f9"
-category: "coded-cultures, workshop"
+category: exhibition"
 audience: "Women*, Inter*, Trans* (FLIT) folk only (safer space workshop)"
 ---
 

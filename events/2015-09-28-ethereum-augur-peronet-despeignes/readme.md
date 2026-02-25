@@ -1,5 +1,6 @@
 ---
 startdate: 2015-09-28
+category: meetup
 title: "[Ethereum] Augur: Peronet Despeignes"
 ---
 # [Ethereum] Augur: Peronet Despeignes

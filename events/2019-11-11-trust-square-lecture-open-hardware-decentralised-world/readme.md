@@ -6,7 +6,7 @@ location: "Trust Square"
 city: Zurich
 country: Switzerland
 startdate: "2019-11-11"
-category: Lecture
+category: talk
 ---
 
 Lecture entry listed in the RIAT activities/events archive for Trust Square (Zurich).

@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-21
+category: meetup
 title: "[Coded Cultures Openism] Vienna RISO Convention"
 subtitle: "Coded Cultures festival event celebrating RISO printing and DIY publishing culture"
 location: "Coded Cultures festival venue, Vienna"

@@ -1,5 +1,6 @@
 ---
 startdate: 2012-08-21
+category: meetup
 title: "IFK Sommerakademie: The Experiment in Art and Humanities – Matthias Tarasiewicz"
 ---
 # IFK Sommerakademie: The Experiment in Art and Humanities – Matthias Tarasiewicz

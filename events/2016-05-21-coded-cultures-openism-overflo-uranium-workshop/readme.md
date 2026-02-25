@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-21
+category: workshop
 title: "[Coded Cultures Openism] Overflo Uranium Workshop"
 ---
 # [Coded Cultures Openism] Overflo Uranium Workshop

@@ -7,7 +7,7 @@ country: "Austria"
 startdate: 2019-04-02
 enddate:   "2019-04-04"
 image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F59072469%2F148777297672%2F1%2Foriginal.20190325-155826?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C29%2C960%2C480&s=d06aa1eab618e196959bf245f6c04ed7
-category: meetup, RIAT vienna, ethereum, development, dexs
+category: meetup
 ---
 
 This time we will look at what kinds of ethereum-based DEXs (decentralized exchanges) are around these days and how they function.

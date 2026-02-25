@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2016-05-25"
 enddate:   "2016-05-25"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/13173598_1132876836763691_7453415962137315646_o.jpg?_nc_cat=102&_nc_sid=b386c4&_nc_ohc=Q0JYN6AaEwMAX_JCS2d&_nc_ht=scontent-vie1-1.xx&tp=6&oh=89a501c021c4438dfad4974f61e75bec&oe=5F907926
-category: workshop, RIAT, coded-cultures
+category: workshop
 ---
 
 # [Coded Cultures Openism] Vibrance – Electric Indigo

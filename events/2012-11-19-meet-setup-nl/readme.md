@@ -5,7 +5,7 @@ draft: false
 location: "Metalab, Vienna, Austria"
 country: "Austria"
 startdate: "2012-11-19"
-category: "event"
+category: meetup"
 ---
 
 ### Description

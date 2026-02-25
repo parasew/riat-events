@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2017-09-07"
 enddate:   "2017-09-07"
 image: https://www.facebook.com/riat.ac.at/photos/gm.216764762187970/1572424086153555/?type=3&eid=ARC5cM3OTRf0F8kljSEeYZjZpdUlPg8NZxQkNmrzn-5FdbKdkpNj-XDYzi4ZtIBaF9q9otFvVyLBSeRv&__xts__%5B0%5D=68.ARAZ7iq7_2Vhel_ITMU5D_eBeaeOuBeodqWeu8ytl1Y6h8U5NE4ryBxsT95016f2dITPvyogWjsg8jMv4i8dIG86T5oZDQ7qn7BxJSqNjOpvCM9BpL40E-8wgw7-nik7hYOvwodQ_bNWAnomT-ICY8I8a2qYt6oub1gcng6rWE13OoYgaOgfn7Q1ZfZTTyQv7zZAspLVwU4azrjm8wwDgb79EB0ObQ4_5mbgqNqOPkGB8M1J9aE3LvQJeRcXpNnB0a8IpWV9VMASp-ev189atuWXAYFt1a6ULkS9wVtP48TUnWq_&__tn__=EHH-R
-category: Exhibition, starts prize
+category: exhibition
 ---
 
 RIAT Research Institute for Arts & Technology continues its Cryptoeconomics: Infrastructures & Artefacts program with an installation of 'Proof-of-Presence' from DARC at its exhibition space for the STARTS Prize at the Ars Electronica Festival 2017.

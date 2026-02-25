@@ -5,7 +5,7 @@ draft: false
 location: "Q21, MuseumsQuartier Vienna, Austria"
 country: "Austria"
 startdate: "2016-05-23"
-category: "event"
+category: meetup"
 ---
 
 ### Description

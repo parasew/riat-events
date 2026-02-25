@@ -1,5 +1,6 @@
 ---
 startdate: 2011-09-21
+category: talk
 title: "Eröffnung Coded Cultures: City as Interface"
 subtitle: "Opening of the 2011 Coded Cultures festival focusing on the city as media-cultural territory"
 location: "Odeon (Serapionstheater), Wiener Getreidebörse"

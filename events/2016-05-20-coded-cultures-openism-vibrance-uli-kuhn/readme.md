@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-20
+category: meetup
 title: "[Coded Cultures Openism] Vibrance – Uli Kühn"
 ---
 # [Coded Cultures Openism] Vibrance – Uli Kühn

@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-23
+category: meetup
 title: "[Coded Cultures Openism] AXIOM Hands On"
 ---
 # [Coded Cultures Openism] AXIOM Hands On

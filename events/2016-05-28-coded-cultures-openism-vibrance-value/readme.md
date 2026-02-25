@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2016-05-28"
 enddate:   "2016-05-29"
 image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21070523%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C80%2C960%2C480&s=d7602597c76229a65826083333fdb855
-category: performance, RIAT, openism
+category: performance
 ---
 
 # [Coded Cultures Openism] Vibrance: Value

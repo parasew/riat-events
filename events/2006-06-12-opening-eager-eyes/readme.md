@@ -1,5 +1,6 @@
 ---
 startdate: 2006-06-12
+category: meetup
 title: "Opening: Eager Eyes"
 ---
 # Opening: Eager Eyes

@@ -1,5 +1,6 @@
 ---
 startdate: 2015-12-01
+category: meetup
 title: "[Artist-in-residence] Maria Roszkowska [PL]"
 ---
 # [Artist-in-residence] Maria Roszkowska [PL]

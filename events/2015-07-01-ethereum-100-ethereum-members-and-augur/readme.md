@@ -1,5 +1,6 @@
 ---
 startdate: 2015-07-01
+category: meetup
 title: "[Ethereum] 100 Ethereum Members and Augur"
 ---
 # [Ethereum] 100 Ethereum Members and Augur

@@ -1,5 +1,6 @@
 ---
 startdate: 2016-09-10
+category: meetup
 title: "[Ethereum] Contract Development for Beginners"
 ---
 # [Ethereum] Contract Development for Beginners

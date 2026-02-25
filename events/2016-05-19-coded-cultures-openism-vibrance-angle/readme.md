@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-19
+category: meetup
 title: "[Coded Cultures Openism] Vibrance – Angle"
 ---
 # [Coded Cultures Openism] Vibrance – Angle

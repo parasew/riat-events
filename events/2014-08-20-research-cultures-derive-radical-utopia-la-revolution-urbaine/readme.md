@@ -1,5 +1,6 @@
 ---
 startdate: 2014-08-20
+category: meetup
 enddate: 2014-09-22
 title: "[Research Cultures] dérive: Radical Utopia? La Revolution urbaine"
 subtitle: "Exhibition showcasing dérive magazine and urbanize festival's urban research"
@@ -58,8 +59,8 @@ Artistic Bokeh invited dérive to present their work as part of the Research Cul
 ## References and Links
 
 ### Primary Sources
-- **Artistic Bokeh Post**: [Radical Utopia? La Revolution urbaine](https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/derive-radical-utopia
-- **quartier21 Event Page**: [dérive: Radical Utopia? La Revolution urbaine](https://www.quartier21.at/programm/programmdetail/derive-radical-utopia-la-revolution-urbaine/)
+- **Artistic Bokeh Post**: [Radical Utopia? La Revolution urbaine](https://web.archive.org/web/20160304034444/http://artisticbokeh.com/)
+- **quartier21 Event Page**: [dérive: Radical Utopia? La Revolution urbaine](https://www.quartier21.at/programm/programmdetail/derive-radical-utopia-la-revolution-urbaine/))
 - **Facebook Event**: [801564356530352](https://www.facebook.com/events/801564356530352/)
 
 ### Project Links
@@ -87,7 +88,7 @@ This exhibition represented Artistic Bokeh's engagement with urban research and 
 - https://www.quartier21.at/programm/programmdetail/derive-radical-utopia-la-revolution-urbaine/
   - https://web.archive.org/web/20260224204205/https://www.quartier21.at/programm/programmdetail/derive-radical-utopia-la-revolution-urbaine/
 
-- https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/derive-radical-utopia
+- https://web.archive.org/web/20160304034444/http://artisticbokeh.com/
 - https://www.facebook.com/events/801564356530352/
 - https://www.derive.at
 - https://www.urbanize.at

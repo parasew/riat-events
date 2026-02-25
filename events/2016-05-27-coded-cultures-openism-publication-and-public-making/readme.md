@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-27
+category: meetup
 title: "[Coded Cultures Openism] Publication and Public Making"
 ---
 # [Coded Cultures Openism] Publication and Public Making

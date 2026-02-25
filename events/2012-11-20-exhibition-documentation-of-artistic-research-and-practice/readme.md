@@ -5,7 +5,7 @@ draft: false
 location: "Electric Avenue, quartier21, MuseumsQuartier Vienna, Austria"
 country: "Austria"
 startdate: "2012-11-20"
-category: "event"
+category: meetup"
 ---
 
 ### Description

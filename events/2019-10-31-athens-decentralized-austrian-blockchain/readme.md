@@ -6,7 +6,7 @@ location: "Decentralized Athens"
 country: Greece
 startdate: "2019-10-31"
 image: https://www.unic.ac.cy/iff/wp-content/uploads/sites/5/2019/07/DECENTRALIZED-2019-The-%E2%80%98Father%E2%80%99-of-Blockchain-to-present-at-Athens-Conference4.jpg
-category: RIAT Labs
+category: meetup
 ---
 
 Session: Austrian Blockchain Center

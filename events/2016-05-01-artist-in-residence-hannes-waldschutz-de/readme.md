@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-01
+category: meetup
 title: "[Artist-in-residence] Hannes Waldschütz [DE]"
 ---
 # [Artist-in-residence] Hannes Waldschütz [DE]

@@ -1,5 +1,6 @@
 ---
 startdate: 2012-11-01
+category: meetup
 title: "Artist-in-residence: SETUP.NL – Ryanne Turenhout, Frank-Jan van Lunteren, Tijmen Schep, Danielle de Jonge, Max Laane [NL]"
 subtitle: "Artistic Technology Research: Meet SETUP.NL - Discussion event at Metalab Wien"
 location: "Metalab Wien"
@@ -126,7 +127,7 @@ The "Meet SETUP.NL" event at Metalab likely included:
 - **Metalab event page**: https://metalab.at/wiki/Meet_setup.nl
 - **SETUP.NL website**: http://setup.nl
 - **Artistic Technology Research**: http://artistictechnology.at
-- **Artistic Bokeh**: https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//
+- **Artistic Bokeh**: https://web.archive.org/web/20160304034444/http://artisticbokeh.com/
 
 ### Archive Snapshots
 - **quartier21 page**: https://web.archive.org/web/20170726061535/http://www.q21.at/artists-in-residence/artists/artistinfo/setupnl/
@@ -154,13 +155,13 @@ The SETUP.NL residency and presentation exemplified the international exchange a
 - https://metalab.at/wiki/Meet_setup.nl
   - https://web.archive.org/web/20260225054130/https://metalab.at/wiki/Meet_setup.nl
 - https://web.archive.org/web/20170726061535/http://www.q21.at/artists-in-residence/artists/artistinfo/setupnl/
-  - https://web.archive.org/web/20260225054130/https://web.archive.org/web/20170726061535/http://www.q21.at/artists-in-residence/artists/artistinfo/setupnl/
+  - https://web.archive.org/web/20260225054130/http://www.q21.at/artists-in-residence/artists/artistinfo/setupnl/
 - https://web.archive.org/web/20260223032335/https://www.facebook.com/events/280938985359609/
-  - https://web.archive.org/web/20260225054130/https://web.archive.org/web/20260223032335/https://www.facebook.com/events/280938985359609/
+  - https://web.archive.org/web/20260225054130/https://www.facebook.com/events/280938985359609/
 - https://www.facebook.com/events/280938985359609/
   - https://web.archive.org/web/20260225054130/https://www.facebook.com/events/280938985359609/
 - http://www.q21.at/artists-in-residence/artists/artistinfo/setupnl/
 - http://setup.nl
 - http://artistictechnology.at
-- https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//
+- https://web.archive.org/web/20160304034444/http://artisticbokeh.com/
 

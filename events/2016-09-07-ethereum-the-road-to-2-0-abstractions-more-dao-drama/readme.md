@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2016-09-07"
 enddate:   "2016-09-07"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/s960x960/14068538_1200277053368262_2701903296013897853_o.jpg?_nc_cat=111&_nc_sid=b386c4&_nc_ohc=FCEQQEiwhioAX8e6dtT&_nc_ht=scontent-vie1-1.xx&tp=7&oh=0929777022999fbca37e664454b4510a&oe=5F8E0781
-category: meetup, Ethereum, RIAT Vienna
+category: meetup
 ---
 
 # [Ethereum] The Road to 2.0: Abstractions / More DAO drama

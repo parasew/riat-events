@@ -1,5 +1,6 @@
 ---
 startdate: 2014-01-01
+category: meetup
 title: "[Artist-in-residence] Paolo Cirio [IT]"
 subtitle: "Conceptual artist working with legal, economic, and cultural systems of information society"
 location: "RIAT Vienna / quartier21"

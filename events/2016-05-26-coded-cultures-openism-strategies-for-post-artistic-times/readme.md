@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2016-05-26"
 enddate:   "2016-05-26"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/13305210_1141274842590557_5242776554724125214_o.jpg?_nc_cat=102&_nc_sid=b386c4&_nc_ohc=bJvRV8or4f4AX9xN4PV&_nc_ht=scontent-vie1-1.xx&oh=e26693a6596949a0a2a35fce48dfd7f3&oe=5F8F68E5
-category: panel, RIAT, coded-cultures
+category: panel
 ---
 
 # [Coded Cultures Openism] Strategies for Post-artistic times

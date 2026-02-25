@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-20
+category: residency
 title: "[Coded Cultures Openism] Open Publishing Lab"
 ---
 # [Coded Cultures Openism] Open Publishing Lab

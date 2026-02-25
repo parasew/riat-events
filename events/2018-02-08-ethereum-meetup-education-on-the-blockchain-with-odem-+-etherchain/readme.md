@@ -10,7 +10,7 @@ type: "Meetup / Technical Presentation"
 time: "18:00+02:00"
 year: 2018
 image: "https://secure.meetupstatic.com/photos/event/4/d/d/c/600_339079932.jpeg"
-category: "Ethereum Austria"
+category: meetup"
 speakers:
   - Emilie Raffo (ODEM / Blockchain 4 Good)
   - Peter (Bitfly / Etherchain)

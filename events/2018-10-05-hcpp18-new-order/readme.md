@@ -5,7 +5,7 @@ draft: false
 location: "Paralelní Polis, Prague"
 country: "Czech Republic"
 startdate: "2018-10-05"
-category: "hcpp,conference"
+category: meetup"
 ---
 
 Presentation titled 'New Order' at the Hackers Congress Paralelní Polis 2018 (HCPP18), exploring new paradigms in decentralized systems.

@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "Making Artistic Technology Circuit Bending With Studio Praxistest"
 date: 2015-05-10T12:00:00+01:00
 draft: false
 location: ""
 country: "Austria"
 startdate: "2015-05-10"
-category: "event"
+category: meetup"
 ---
 
 ## Archive snapshots

@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2019-03-12"
 enddate:   "2019-03-12"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-0/p640x640/52021594_2226550484074242_6871468724616953856_o.jpg?_nc_cat=100&_nc_sid=b386c4&_nc_ohc=RCnThnrk4OIAX9Ud-FW&_nc_ht=scontent-vie1-1.xx&tp=6&oh=8beb4d002810c03d09110a1400035ab8&oe=5F84917A
-category: meetup, RIAT vienna, ruby, sruby
+category: meetup
 ---
 
 Ruby Crypto Meetup #6 - Code Your Own Contracts w/ Ruby (sruby), Universum & Co.

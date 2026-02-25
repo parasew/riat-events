@@ -6,7 +6,7 @@ location: "RIAT Vienna"
 city: Vienna
 country: Austria
 startdate: "2019-10-24"
-category: Meetup
+category: meetup
 ---
 
 CGmeet meetup entry listed in the RIAT archive.

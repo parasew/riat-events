@@ -1,7 +1,7 @@
 ---
 location: "RIAT Vienna"
 startdate: "2020-03-04"
-category: meetups
+category: meetup
 title: "Elm Meetup March 2020"
 ---
 

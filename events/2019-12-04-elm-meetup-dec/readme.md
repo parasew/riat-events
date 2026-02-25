@@ -2,7 +2,7 @@
 location: RIAT Vienna
 country: Austria
 startdate: 2019-12-04
-category: "meetups"
+category: meetup"
 tags: ["elm"]
 title: "Elm Meetup December 2019"
 ---

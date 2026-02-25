@@ -5,7 +5,7 @@ draft: false
 location: "Frankfurt, Germany"
 country: "Germany"
 startdate: "2024-09-29"
-category: "event"
+category: meetup"
 ---
 
 ### Description

@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-26
+category: meetup
 title: "Tracing Repairability – from analysis to designing parts"
 ---
 # Tracing Repairability – from analysis to designing parts

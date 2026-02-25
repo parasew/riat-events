@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2018-02-22"
 enddate:   "2018-02-22"
 image: https://secure.meetupstatic.com/photos/event/4/d/d/c/600_339079932.jpeg
-category: Ethereum Austria 
+category: meetup
 ---
 
 Dai is a Stablecoin implemented as an ERC-20 token on top of Ethereum which was launched last December by the MakerDAO platform (https://makerdao.com/). Its purpose is to maintain a stable price of about 1$ (USD). Up until now the token always has returned to that value.

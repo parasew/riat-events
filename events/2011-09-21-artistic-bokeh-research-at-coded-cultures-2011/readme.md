@@ -1,5 +1,6 @@
 ---
 startdate: 2011-09-21
+category: meetup
 title: "Artistic Bokeh Research at Coded Cultures 2011"
 subtitle: "Experimental documentation research exploring aesthetic parameters and redefining new media arts"
 location: "MuseumsQuartier Vienna"

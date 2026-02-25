@@ -1,5 +1,6 @@
 ---
 startdate: 2016-12-01
+category: meetup
 title: "[Artist-in-residence] Nina Prader [USA]"
 ---
 # [Artist-in-residence] Nina Prader [USA]

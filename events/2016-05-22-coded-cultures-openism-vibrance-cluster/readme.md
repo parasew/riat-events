@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2016-05-22"
 enddate:   "2016-05-22"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/13116457_1130835003634541_3260422182668089310_o.jpg?_nc_cat=106&_nc_sid=b386c4&_nc_ohc=EF8MZA2PgTAAX_QLdY3&_nc_ht=scontent-vie1-1.xx&tp=6&oh=873bb3e36586f6fa30e410a02fb807fd&oe=5F8F191A
-category: performances, coded-cultures
+category: performance
 ---
 
 # [Coded Cultures Openism] Vibrance – Cluster

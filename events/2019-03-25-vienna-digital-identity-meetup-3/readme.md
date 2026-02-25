@@ -6,7 +6,7 @@ location: "RIAT Vienna"
 startdate: "2019-03-25"
 image: https://secure.meetupstatic.com/photos/event/8/b/d/6/highres_479495798.jpeg
 urls: ["one","two"]
-category: digital identity
+category: workshop
 ---
 
 A change of plan, we will be going over the some of the papers from the recent 8th Rebooting the Web of Trust (RWoT) and a special guest, Stephen Curran, will be Zoom'ing in.

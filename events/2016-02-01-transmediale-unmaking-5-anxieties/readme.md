@@ -1,5 +1,6 @@
 ---
 startdate: 2016-02-01
+category: meetup
 title: "Transmediale: Unmaking – 5 Anxieties"
 subtitle: "Discussion session on maker culture, its exhaustion and exploitation at transmediale festival"
 location: "Haus der Kulturen der Welt Berlin, Room K2"

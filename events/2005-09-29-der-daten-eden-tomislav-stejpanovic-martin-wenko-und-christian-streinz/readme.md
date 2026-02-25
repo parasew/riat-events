@@ -1,5 +1,6 @@
 ---
 startdate: 2005-09-29
+category: meetup
 title: "“Der Daten Eden” – Tomislav Stejpanovic, Martin Wenko und Christian Streinz"
 ---
 # “Der Daten Eden” – Tomislav Stejpanovic, Martin Wenko und Christian Streinz

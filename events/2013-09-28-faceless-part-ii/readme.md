@@ -1,5 +1,6 @@
 ---
 startdate: 2013-09-28
+category: meetup
 title: "Faceless Part II"
 subtitle: "Exhibition and event series exploring anonymity, privacy, and identity in digital culture"
 location: "MuseumsQuartier Vienna (likely Q21 or Electric Avenue)"

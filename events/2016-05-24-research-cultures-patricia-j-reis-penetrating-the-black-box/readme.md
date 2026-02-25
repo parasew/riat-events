@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-24
+category: meetup
 title: "[Research Cultures] Patricia J. Reis: Penetrating the Black Box"
 ---
 # [Research Cultures] Patricia J. Reis: Penetrating the Black Box

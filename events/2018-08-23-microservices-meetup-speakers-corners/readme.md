@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2018-08-23"
 enddate:   "2018-08-23"
 image: https://secure.meetupstatic.com/photos/event/7/a/c/600_471601964.jpeg
-category: microservices, RIAT Labs, speakers corners
+category: meetup
 ---
 
 Hi all!

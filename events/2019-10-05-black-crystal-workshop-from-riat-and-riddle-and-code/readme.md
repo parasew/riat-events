@@ -7,7 +7,7 @@ country: "Czech Republic"
 startdate: "2019-10-05"
 enddate:   "2019-10-05"
 image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F75024561%2F148777297672%2F1%2Foriginal.20191001-143656?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C282%2C1390%2C695&s=5789e56609af01eab26f9c2ecfd88cb3
-category: black crystal, Paralelni Polis, Shamir Secret Sharing
+category: workshop
 ---
 
 “Black Crystal” is a cryptography+hardware workshop organised by RIAT and Riddle+Code as part of HCPP (Hackers Congress Paralelni Polis).

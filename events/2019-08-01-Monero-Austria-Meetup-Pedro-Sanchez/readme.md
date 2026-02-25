@@ -4,7 +4,7 @@ date: 2019-08-01T18:30:00+02:00
 draft: false
 location: "RIAT Vienna"
 startdate: 2019-08-01
-category: [monero, privacy, cryptography, meetup]
+category: meetup
 ---
 We invite everyone to the Monero Austria Meetup on 1.August 2019, 18:00 CEST.
 

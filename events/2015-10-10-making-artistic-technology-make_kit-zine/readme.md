@@ -1,5 +1,6 @@
 ---
 startdate: 2015-10-10
+category: meetup
 title: "[Making Artistic Technology] Make_Kit: Zine"
 ---
 # [Making Artistic Technology] Make_Kit: Zine

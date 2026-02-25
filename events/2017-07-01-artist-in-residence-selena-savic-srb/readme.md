@@ -1,5 +1,6 @@
 ---
 startdate: 2017-07-01
+category: meetup
 title: "[Artist-in-residence] Selena Savic [SRB]"
 ---
 # [Artist-in-residence] Selena Savic [SRB]

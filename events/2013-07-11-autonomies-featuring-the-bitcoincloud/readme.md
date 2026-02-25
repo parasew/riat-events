@@ -5,7 +5,7 @@ draft: false
 location: "Vienna, Austria"
 country: "Austria"
 startdate: "2013-07-11"
-category: "event"
+category: meetup"
 ---
 
 ### Description

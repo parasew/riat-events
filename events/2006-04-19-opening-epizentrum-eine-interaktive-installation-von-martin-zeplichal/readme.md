@@ -1,5 +1,6 @@
 ---
 startdate: 2006-04-19
+category: meetup
 title: "Opening: Epizentrum – Eine interaktive Installation von Martin Zeplichal"
 ---
 # Opening: Epizentrum – Eine interaktive Installation von Martin Zeplichal

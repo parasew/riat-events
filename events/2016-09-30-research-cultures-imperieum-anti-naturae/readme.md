@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Research Cultures Imperieum Anti Naturae"
 date: 2016-09-30T18:00+02:00
 draft: false
 location: "Artistic Bokeh MuseumsQuartier Wien"
@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2016-09-30"
 enddate:   "2016-09-30"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/14324361_1218832791512688_8851299220071650276_o.jpg?_nc_cat=110&_nc_sid=b386c4&_nc_ohc=6Mh8zqmS3wYAX9wJ3EP&_nc_ht=scontent-vie1-1.xx&tp=6&oh=05495f40ade0b3c6bf7e852ac82e08bd&oe=5F8EFFBB
-category: exhibition, Artistic Bokeh
+category: exhibition
 ---
 
 # [Research Cultures] Imperieum Anti-Naturae

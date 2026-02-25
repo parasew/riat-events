@@ -1,5 +1,6 @@
 ---
 startdate: 2015-11-22
+category: meetup
 title: "[Research Cultures] Peter Moosgaard: Skafander (The Spiritual Cyborg)"
 subtitle: "Research Cultures presentation exploring spiritual dimensions of cyborg identity and technology"
 location: "Q21, MuseumsQuartier Vienna"

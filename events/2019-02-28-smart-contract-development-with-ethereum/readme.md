@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2019-02-28"
 enddate:   "2019-03-03"
 image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F57053774%2F148777297672%2F1%2Foriginal.20190213-130732?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C30%2C960%2C480&s=d7fc1cccfe274fc793901712823c36a1
-category: RIAT vienna, ethereum, development, dexs
+category: meetup
 ---
 
 This 4-day course teaches the basics of smart contract development on the Ethereum platform using Solidity and the Truffle Framework. It covers the full workflow of developing, testing and deploying contracts as well as interacting with them afterwards. In addition you will learn about common contract patterns and potential security issues.

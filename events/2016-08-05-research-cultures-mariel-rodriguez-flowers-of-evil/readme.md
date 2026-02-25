@@ -1,5 +1,6 @@
 ---
 startdate: 2016-08-05
+category: meetup
 title: "[Research Cultures] Mariel Rodríguez: Flowers of Evil:"
 ---
 # [Research Cultures] Mariel Rodríguez: Flowers of Evil:

@@ -1,5 +1,6 @@
 ---
 startdate: 2017-10-01
+category: meetup
 title: "[Artist-in-residence] Jaya Klara Brekke [UK]"
 ---
 # [Artist-in-residence] Jaya Klara Brekke [UK]

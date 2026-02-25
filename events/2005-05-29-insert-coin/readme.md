@@ -9,6 +9,7 @@ organizer: "5uper.net"
 type: "Exhibition Opening"
 time: "19:00"
 website: "http://insertcoin.biz"
+category: "exhibition"
 ---
 
 # "INSERT COIN"

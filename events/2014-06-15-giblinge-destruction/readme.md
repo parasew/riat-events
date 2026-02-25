@@ -1,5 +1,6 @@
 ---
 startdate: 2014-06-15
+category: meetup
 title: "Giblinge Destruction"
 ---
 # Giblinge Destruction

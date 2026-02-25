@@ -1,5 +1,6 @@
 ---
 startdate: 2017-12-01
+category: meetup
 title: "[Monero Workgroup] Monero XMR December in Vienna"
 ---
 # [Monero Workgroup] Monero XMR December in Vienna

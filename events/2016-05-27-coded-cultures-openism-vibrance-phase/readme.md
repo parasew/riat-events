@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2016-05-27"
 enddate:   "2016-05-27"
 image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21071049%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C321%2C2662%2C1331&s=ea15aa253e15c1180508ea71e308bb52
-category: performance, RIAT, openism
+category: performance
 ---
 
 # [Coded Cultures Openism] Vibrance – Phase

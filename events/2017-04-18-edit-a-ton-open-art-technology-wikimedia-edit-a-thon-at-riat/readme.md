@@ -1,5 +1,6 @@
 ---
 startdate: 2017-04-18
+category: meetup
 title: "[Edit-a-ton] Open Art & Technology Wikimedia Edit-a-thon at RIAT"
 subtitle: "Wikipedia edit-a-thon focused on improving coverage of open art and technology topics"
 location: "RIAT Vienna"

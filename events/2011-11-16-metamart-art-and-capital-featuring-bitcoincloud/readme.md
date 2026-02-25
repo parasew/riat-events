@@ -5,7 +5,7 @@ draft: false
 location: "Künstlerhaus Wien"
 country: "Austria"
 startdate: "2011-11-16"
-category: "event"
+category: meetup"
 ---
 
 ### Description

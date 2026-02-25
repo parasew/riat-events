@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "Apertus Axiom Kick Off"
 date: 2015-03-26T12:00:00+01:00
 draft: false
 location: ""
 country: "Austria"
 startdate: "2015-03-26"
-category: "event"
+category: meetup"
 ---
 
 ## Archive snapshots

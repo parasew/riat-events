@@ -5,7 +5,7 @@ draft: false
 location: "Athens, Greece"
 country: "Greece"
 startdate: "2019-11-02"
-category: "zero-trust,conference"
+category: meetup"
 ---
 
 Presentation 'Tales of Zero Trust' at an event in Athens featuring David Chaum and Adam Back, discussing zero-trust architectures and cryptographic foundations.

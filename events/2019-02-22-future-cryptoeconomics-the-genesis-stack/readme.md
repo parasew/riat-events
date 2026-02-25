@@ -10,7 +10,7 @@ type: "Launch Event / Exhibition Opening"
 time: "19:00+02:00"
 year: 2019
 image: "https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/51710756_2229225317140092_118524093594075136_o.jpg?_nc_cat=108&_nc_sid=b386c4&_nc_ohc=8LLspmDo8h0AX885INU&_nc_ht=scontent-vie1-1.xx&oh=9317602349593566ad6b8c8efcddf16f&oe=5F87F120"
-category: "meetup, q21, future cryptoeconomics"
+category: meetup"
 exhibition_context: "Data Loam: on the future of knowledge systems and the materiality of information"
 publication: "Future Cryptoeconomics magazine (Issue #1)"
 ---

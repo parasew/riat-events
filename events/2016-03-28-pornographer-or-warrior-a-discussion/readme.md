@@ -1,5 +1,6 @@
 ---
 startdate: 2016-03-28
+category: panel
 title: "Pornographer or Warrior: A Discussion"
 ---
 # Pornographer or Warrior: A Discussion

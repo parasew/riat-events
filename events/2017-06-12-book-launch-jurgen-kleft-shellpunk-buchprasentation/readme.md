@@ -1,5 +1,6 @@
 ---
 startdate: 2017-06-12
+category: launch
 title: "[Book Launch] Jürgen Kleft: Shellpunk Buchpräsentation"
 ---
 # [Book Launch] Jürgen Kleft: Shellpunk Buchpräsentation

@@ -1,5 +1,6 @@
 ---
 startdate: 2015-09-11
+category: meetup
 title: "[Research Cultures] Jenna Sutela: Orgs_ (Curated by Laura McLean)"
 ---
 # [Research Cultures] Jenna Sutela: Orgs_ (Curated by Laura McLean)

@@ -1,5 +1,6 @@
 ---
 startdate: 2017-06-03
+category: meetup
 title: "[New Economy Movement] initial NEM Meetup Vienna ($XEM)"
 ---
 # [New Economy Movement] initial NEM Meetup Vienna ($XEM)

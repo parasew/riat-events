@@ -4,9 +4,9 @@ date: 2020-03-13T18:00:00+02:00
 draft: false
 location: "NYU School of Law"
 country: U.S.A.
-startdate: "20-10-31"
+startdate: "2020-10-31"
 image: https://2020.oshwa.org/files/2019/06/cropped-header2.jpg
-category: open hardware summit
+category: conference
 ---
 
 The Open Hardware Summit is the annual conference organized by the Open Source Hardware Association a 501(c)(3) not for profit charity. It is the world’s first comprehensive conference on open hardware; a venue and community in which we discuss and draw attention to the rapidly growing Open Source Hardware movement.

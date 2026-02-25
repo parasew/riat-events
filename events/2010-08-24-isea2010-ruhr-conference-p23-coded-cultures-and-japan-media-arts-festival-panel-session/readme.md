@@ -1,5 +1,6 @@
 ---
 startdate: 2010-08-24
+category: panel
 title: "ISEA2010 RUHR Conference P23: Coded Cultures and Japan Media Arts Festival Panel Session"
 subtitle: "Panel discussion at ISEA2010 exploring creative emergences in media-integrated project cultures"
 location: "Volkshochschule Dortmund, L 102"

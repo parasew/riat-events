@@ -1,5 +1,6 @@
 ---
 startdate: 2006-06-02
+category: meetup
 title: "Deutz Air Special (Köln) — 02.-06.06. + Party!"
 subtitle: "Three Cologne projects present in Vienna under the name of the venue Deutz Air"
 location: "5uper.net Cuisine Digitale, MuseumsQuartier Vienna"

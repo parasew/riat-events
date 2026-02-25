@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2018-05-17"
 enddate:   "2018-05-17"
 image: https://secure.meetupstatic.com/photos/event/4/d/d/c/highres_339079932.jpeg
-category: RIAT Labs, microsoft, azure
+category: meetup
 ---
 
 This time we will hear again about Microsofts involvement with blockchain technology, specifically the Azure Blockchain Workbench. Afterwards there will be a brief recap of the currently ongoing Swarm Summit.

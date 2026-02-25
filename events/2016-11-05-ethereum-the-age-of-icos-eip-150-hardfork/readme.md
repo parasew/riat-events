@@ -1,5 +1,6 @@
 ---
 startdate: 2016-11-05
+category: meetup
 title: "[Ethereum] The Age of ICOs / EIP-150 Hardfork"
 ---
 # [Ethereum] The Age of ICOs / EIP-150 Hardfork

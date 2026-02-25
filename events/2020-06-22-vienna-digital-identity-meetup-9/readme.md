@@ -6,7 +6,7 @@ location: "RIAT Vienna"
 startdate: "2020-06-22"
 image: https://secure.meetupstatic.com/photos/event/8/0/d/highres_490862061.jpeg
 urls: ["https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271311363/"]
-category: digital identity
+category: workshop
 ---
 
 We will be meeting at both RIAT and online through Zoom.

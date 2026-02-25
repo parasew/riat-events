@@ -1,5 +1,6 @@
 ---
 startdate: 2008-10-28
+category: meetup
 title: "5uper.net/DAAL Issue #1 PLAYFULNESS"
 subtitle: "Symposium exploring ludic interfaces, device mods, and DIY culture in digital arts"
 location: "Universität für angewandte Kunst, Expositur Vordere Zollamtsstraße 3"

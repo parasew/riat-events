@@ -1,5 +1,6 @@
 ---
 startdate: 2018-03-06
+category: meetup
 title: "[Ethereum Meetup] (Tech) Swarm Week Results, Data Fund"
 ---
 # [Ethereum Meetup] (Tech) Swarm Week Results, Data Fund

@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2016-05-27"
 enddate:   "2016-05-27"
 image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21024052%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C340%2C4078%2C2039&s=49504ce0ea091bcee32c5b29606f2aa3
-category: workshop, RIAT, open hardware
+category: workshop
 ---
 
 # [Coded Cultures Openism] Open Scenarios for Non-Trivial Pursuits III: Rituals of Friendship & Scholarship

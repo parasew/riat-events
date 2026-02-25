@@ -1,5 +1,6 @@
 ---
 startdate: 2009-05-28
+category: exhibition
 title: "CODED CULTURES Exhibition: Exploring Creative Emergences"
 subtitle: "International exhibition presenting artworks related to Designing Complexity, Assembling Things, Expanding Locality and Creating Proto-Culture"
 location: "Freiraum/quartier21, MuseumsQuartier Vienna"

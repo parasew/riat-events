@@ -7,7 +7,7 @@ country: "UK"
 startdate: "2017-09-22"
 enddate:   "2017-09-22"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/s960x960/21125311_1571603449568952_2406681868789241561_o.jpg?_nc_cat=110&_nc_sid=b386c4&_nc_ohc=Q5glOUeApxIAX--Ay2k&_nc_ht=scontent-vie1-1.xx&tp=7&oh=c4c0c990983f82dd5f02636cbabe7c63&oe=5F86F0AB
-category: Austrian Embassy, Symposium
+category: conference
 ---
 
 Matthias Tarasiewicz from RIAT Research Institute for Arts & Technology will be speaking at the biennial Victor Papanek Symposium in London.

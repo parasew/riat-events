@@ -5,7 +5,7 @@ draft: false
 location: "Paralelní Polis, Prague"
 country: "Czech Republic"
 startdate: "2024-06-07"
-category: "monero,conference"
+category: meetup"
 ---
 
 Presentation 'Nurturing Decentralization in the Age of Digital Commons' at MoneroKon 2024 in Prague, discussing the sustainability of decentralized systems and community governance.

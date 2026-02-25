@@ -1,5 +1,6 @@
 ---
 startdate: 2012-04-14
+category: meetup
 title: "Presentation Soundframe | Exhibition and networking strategies for near future laboratories"
 subtitle: "Presentation at Soundframe festival discussing exhibition strategies and networking for future-oriented labs"
 location: "Soundframe Festival venue (likely Vienna)"

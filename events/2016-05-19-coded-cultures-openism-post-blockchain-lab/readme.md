@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-19
+category: residency
 title: "[Coded Cultures Openism] Post Blockchain Lab"
 ---
 # [Coded Cultures Openism] Post Blockchain Lab

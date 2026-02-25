@@ -1,5 +1,6 @@
 ---
 startdate: 2017-10-02
+category: talk
 title: "[Presentation] The Rise of ICO"
 ---
 # [Presentation] The Rise of ICO

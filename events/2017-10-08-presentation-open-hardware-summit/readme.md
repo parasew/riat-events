@@ -1,5 +1,6 @@
 ---
 startdate: 2017-10-08
+category: talk
 title: "[Presentation] Open Hardware Summit"
 ---
 # [Presentation] Open Hardware Summit

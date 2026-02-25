@@ -1,5 +1,6 @@
 ---
 startdate: 2016-04-09
+category: meetup
 title: "Making Use – Life in Postartistic Times"
 ---
 # Making Use – Life in Postartistic Times

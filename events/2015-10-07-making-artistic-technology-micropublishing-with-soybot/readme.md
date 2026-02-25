@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "Making Artistic Technology Micropublishing With Soybot"
 date: 2015-10-07T12:00:00+01:00
 draft: false
 location: ""
 country: "Austria"
 startdate: "2015-10-07"
-category: "event"
+category: meetup"
 ---
 
 ## Archive snapshots

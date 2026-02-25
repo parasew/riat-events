@@ -6,7 +6,7 @@ location: "MQ Vienna"
 startdate: "2019-07-11"
 image: https://secure.meetupstatic.com/photos/event/5/1/e/6/highres_482780966.jpeg
 urls: ["one","two"]
-category: digital identity
+category: workshop
 ---
 
 We are going to have a slightly different format for Meetup #6, the guys from Holochain are going to be presenting. 

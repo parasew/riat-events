@@ -6,7 +6,7 @@ location: RIAT Vienna
 country: Austria
 startdate: 2020-07-27
 image: https://secure.meetupstatic.com/photos/event/4/9/c/c/highres_491418892.jpeg
-category: "digital identity"
+category: workshop"
 ---
 
 The eleventh *Vienna Digital Identity Meetup* has been featuring two presentations and three speakers. This has been a hybrid event with both in person and on-line participation.

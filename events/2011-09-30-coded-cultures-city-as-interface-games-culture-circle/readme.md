@@ -1,5 +1,6 @@
 ---
 startdate: 2011-09-30
+category: panel
 title: "[Coded Cultures: City as Interface] Games Culture Circle"
 subtitle: "Fuck the Magic Circle – We need Game Ethics!? - Discussion on game ethics and the boundaries between games and real life"
 location: "Urania Eingang Turmstiege, Uraniastrasse 1"

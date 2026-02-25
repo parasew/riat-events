@@ -1,5 +1,6 @@
 ---
 startdate: 2013-11-30
+category: talk
 title: "Presentation on Artistic Technology Research"
 ---
 # Presentation on Artistic Technology Research

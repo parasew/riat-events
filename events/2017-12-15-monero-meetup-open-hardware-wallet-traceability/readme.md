@@ -1,5 +1,6 @@
 ---
 startdate: 2017-12-15
+category: meetup
 title: "[Monero Meetup] Open Hardware Wallet, Traceability"
 subtitle: "Monero Austria meetup discussing open hardware wallets and privacy/traceability in cryptocurrency"
 location: "Likely RIAT Vienna or Vienna privacy/tech venue"

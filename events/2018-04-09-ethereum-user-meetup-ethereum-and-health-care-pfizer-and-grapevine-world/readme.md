@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2018-04-09"
 enddate:   "2018-04-09"
 image: https://secure.meetupstatic.com/photos/event/4/d/d/c/600_339079932.jpeg
-category: Ethereum, Meetup, RIAT
+category: meetup
 ---
 
 This time will be all about health care. We'll have two companies (Pfizer and a startup) presenting about using blockchain in this sector.

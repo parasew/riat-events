@@ -1,5 +1,6 @@
 ---
 startdate: 2014-06-01
+category: meetup
 title: "[Artist-in-residence] Teresa Dillon [IE]"
 ---
 # [Artist-in-residence] Teresa Dillon [IE]

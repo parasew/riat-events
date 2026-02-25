@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-22
+category: meetup
 title: "[Coded Cultures Openism] Life in Postdemocratic times"
 ---
 # [Coded Cultures Openism] Life in Postdemocratic times

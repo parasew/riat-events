@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2019-04-10"
 enddate:   "2019-04-10"
 image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F59129960%2F148777297672%2F1%2Foriginal.20190326-115257?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C21%2C678%2C339&s=e6d7579f2f7da969b7f979dfd16bf03e
-category: tezos, meetup, RIAT vienna
+category: meetup
 ---
 
 Who is this meetup for?

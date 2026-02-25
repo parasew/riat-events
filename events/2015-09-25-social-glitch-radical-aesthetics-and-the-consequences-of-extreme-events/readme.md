@@ -1,5 +1,6 @@
 ---
 startdate: 2015-09-25
+category: meetup
 title: "Social Glitch: Radical aesthetics and the consequences of extreme events"
 subtitle: "Presentation or event exploring glitch aesthetics in social and political contexts"
 location: "Kunstraum, Vienna"
@@ -122,7 +123,7 @@ The event strengthened Vienna's position as:
 
 ## Archive snapshots
 - https://web.archive.org/web/20151130014640/http://www.kunstraum.net/de/programm/217-social-glitch
-  - https://web.archive.org/web/20260225054129/https://web.archive.org/web/20151130014640/http://www.kunstraum.net/de/programm/217-social-glitch
+  - https://web.archive.org/web/20260225054129/http://www.kunstraum.net/de/programm/217-social-glitch
 - https://www.kunstraum.net/de/programm/217-social-glitch
   - https://web.archive.org/web/20260225054129/https://www.kunstraum.net/de/programm/217-social-glitch
 - http://www.kunstraum.net/de/programm/217-social-glitch

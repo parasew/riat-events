@@ -1,5 +1,6 @@
 ---
 startdate: 2006-01-27
+category: meetup
 title: "Bull and Bear – 50:50"
 ---
 # Bull and Bear – 50:50

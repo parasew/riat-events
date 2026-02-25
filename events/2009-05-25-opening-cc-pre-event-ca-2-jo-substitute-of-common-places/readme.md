@@ -1,5 +1,6 @@
 ---
 startdate: 2009-05-25
+category: exhibition
 title: "CODED CULTURES Pre-event: ca. 2 jō – substitute of common places"
 subtitle: "Exhibition exploring binational cooperation between Austrian and Japanese artists"
 location: "University of Applied Arts, Transmedia Arts Department"

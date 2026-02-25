@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2019-03-09"
 enddate:   "2019-03-09"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/51632674_2227266637335960_7820625156656594944_o.jpg?_nc_cat=100&_nc_sid=b386c4&_nc_ohc=9NjPwd8n_hgAX9fXD6I&_nc_ht=scontent-vie1-1.xx&oh=7850941cb6bd289fdea26f46433820a6&oe=5F87C5F4
-category: meetup, RIAT vienna, Monero, 35c3
+category: meetup
 ---
 
 In this first public Monero Meetup in 2019 at RIAT we will look at news from the Monero project as well as the RIAT Monero workgroup, such as the upcoming Monero Academy. We will be watching and discussing the Monero network upgrade, recap of decentral.community at 35c3 and will discuss planned events of 2019 (Monero Workshops, DEFCON and 36c3).

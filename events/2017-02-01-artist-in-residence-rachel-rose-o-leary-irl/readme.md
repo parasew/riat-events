@@ -1,5 +1,6 @@
 ---
 startdate: 2017-02-01
+category: meetup
 title: "[Artist-in-residence] Rachel-Rose O’Leary [IRL]"
 ---
 # [Artist-in-residence] Rachel-Rose O’Leary [IRL]

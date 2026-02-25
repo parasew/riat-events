@@ -1,5 +1,6 @@
 ---
 startdate: 2009-10-14
+category: meetup
 title: "Coded Cultures Japan - Exploring Creative Emergences"
 subtitle: "Binational festival examining artistic-creative skill profiles in media-integrated design cultures"
 location: "Yokohama, Tokyo, Japan"

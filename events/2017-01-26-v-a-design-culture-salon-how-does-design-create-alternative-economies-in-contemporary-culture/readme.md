@@ -1,5 +1,6 @@
 ---
 startdate: 2017-01-26
+category: meetup
 title: "[V&A Design Culture Salon] How does design create alternative economies in contemporary culture?"
 subtitle: "Discussion exploring the role of design in creating and shaping alternative economic systems"
 location: "Likely in Vienna or London (V&A reference suggests connection to Victoria and Albert Museum)"

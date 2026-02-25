@@ -11,7 +11,7 @@ type: "Presentation / Exhibition"
 time: "21:00+02:00"
 year: 2017
 image: "https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-1/20952934_1567158593346771_7438742267180585978_n.png?_nc_cat=101&_nc_sid=dbb9e7&_nc_ohc=FdvoOmfXeM0AX-uhlzO&_nc_ht=scontent-vie1-1.xx&oh=112bec53ff3127beed3e5f20a7e769a0&oe=5F89506E"
-category: "cryptoeconomics, Exhibition"
+category: talk"
 program: "Cryptoeconomics: Infrastructures & Artefacts"
 ---
 

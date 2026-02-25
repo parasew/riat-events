@@ -1,5 +1,6 @@
 ---
 startdate: 2017-10-18
+category: meetup
 title: "[Blockchainers Meetup] Cognitive Analytics in Support of Governmental Execution"
 ---
 # [Blockchainers Meetup] Cognitive Analytics in Support of Governmental Execution

@@ -1,5 +1,6 @@
 ---
 startdate: 2014-11-21
+category: meetup
 enddate: 2015-02-20
 title: "[Research Cultures] Jai McKenzie: Never Forever"
 subtitle: "Exhibition examining creation and destruction, remembering and forgetting, and the improbability of permanence"
@@ -64,8 +65,8 @@ The exhibition opening was part of **Vienna Art Week 2014**, connecting Australi
 ## References and Links
 
 ### Primary Sources
-- **Artistic Bokeh Post**: [Jai McKenzie: Never Forever](https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/jai-mckenzie-never-forever-november-22nd-2014-february-20th-2015
-- **Artist Website**: [jaimckenzie.com](https://jaimckenzie.com)
+- **Artistic Bokeh Post**: [Jai McKenzie: Never Forever](https://web.archive.org/web/20160304034444/http://artisticbokeh.com/)
+- **Artist Website**: [jaimckenzie.com](https://jaimckenzie.com))
 - **quartier21 Event Page**: [Jai McKenzie: Never Forever](https://www.quartier21.at/programm/programmdetail/jai-mckenzie-aus-never-forever/)
 
 ### Related Events
@@ -73,7 +74,7 @@ The exhibition opening was part of **Vienna Art Week 2014**, connecting Australi
 - **Josh Harle presentation** - Part of the launch program
 
 ### Archive Snapshots
-- https://web.archive.org/web/20150124103106/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/jai-mckenzie-never-forever-november-22nd-2014-february-20th-2015
+- https://web.archive.org/web/20150124103106/http://artisticbokeh.com/
 
 ## Significance
 "Never Forever" represented the beginning of the Austria Australia Arts Alliance program at Artistic Bokeh, fostering international artistic exchange and presenting Australian experimental art in Vienna. The exhibition explored themes of impermanence, memory, and architectural decay through light-based installations and sculptural works.
@@ -83,6 +84,6 @@ The exhibition opening was part of **Vienna Art Week 2014**, connecting Australi
 - https://www.quartier21.at/programm/programmdetail/jai-mckenzie-aus-never-forever/
   - https://web.archive.org/web/20260224204208/https://www.quartier21.at/programm/programmdetail/jai-mckenzie-aus-never-forever/
 
-- https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/jai-mckenzie-never-forever-november-22nd-2014-february-20th-2015
+- https://web.archive.org/web/20160304034444/http://artisticbokeh.com/
 - https://jaimckenzie.com
-- https://web.archive.org/web/20150124103106/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/jai-mckenzie-never-forever-november-22nd-2014-february-20th-2015
+- https://web.archive.org/web/20150124103106/http://artisticbokeh.com/

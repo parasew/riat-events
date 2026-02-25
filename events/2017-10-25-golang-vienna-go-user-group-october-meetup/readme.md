@@ -1,5 +1,6 @@
 ---
 startdate: 2017-10-25
+category: meetup
 title: "[Golang] Vienna Go User Group October Meetup"
 ---
 # [Golang] Vienna Go User Group October Meetup

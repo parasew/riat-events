@@ -1,6 +1,7 @@
 ---
 title: "[Coded Cultures Openism] Angewandte Praxis – AXIOM Gamma Project"
 startdate: 2016-05-25
+category: meetup
 location: "Am Hof 3–4, 1010 Wien"
 country: "Austria"
 ---

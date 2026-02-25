@@ -1,5 +1,6 @@
 ---
 startdate: 2006-03-31
+category: meetup
 title: "Opening: Niki Passath – “Ein Wesen, spinnenähnlich…”"
 ---
 # Opening: Niki Passath – “Ein Wesen, spinnenähnlich…”

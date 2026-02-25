@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-23
+category: meetup
 title: "[Coded Cultures Openism] Ethereum & the DAO"
 ---
 # [Coded Cultures Openism] Ethereum & the DAO

@@ -1,5 +1,6 @@
 ---
 startdate: 2017-11-14
+category: meetup
 title: "[Bitcoin] Bitcoin Austria Meetup"
 ---
 # [Bitcoin] Bitcoin Austria Meetup

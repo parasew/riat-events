@@ -1,5 +1,6 @@
 ---
 startdate: 2016-06-21
+category: meetup
 title: "[Ethereum] From Idea to Contract"
 subtitle: "Ethereum workshop guiding participants through complete smart contract development process"
 location: "Likely RIAT Vienna or Vienna tech venue"

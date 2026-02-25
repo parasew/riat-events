@@ -6,7 +6,7 @@ location: "RIAT Vienna"
 startdate: "2019-10-28"
 image: https://secure.meetupstatic.com/photos/event/e/3/0/0/highres_485638112.jpeg
 urls: ["https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/265564794/"]
-category: digital identity
+category: workshop
 ---
 
 In the 8th instance of the *Vienna Digital Identity Meetup* we have been covering the following upcoming events:

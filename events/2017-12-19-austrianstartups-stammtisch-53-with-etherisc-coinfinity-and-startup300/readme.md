@@ -1,5 +1,6 @@
 ---
 startdate: 2017-12-19
+category: meetup
 title: "AustrianStartups Stammtisch #53 with Etherisc, Coinfinity and Startup300"
 subtitle: "53rd AustrianStartups networking event featuring blockchain startups Etherisc and Coinfinity, plus Startup300"
 location: "Likely Vienna startup venue or RIAT"

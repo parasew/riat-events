@@ -1,5 +1,6 @@
 ---
 startdate: 2016-09-08
+category: launch
 title: "[Fintech Academy] AppCoins and launch of the waggawagga gaming portal"
 ---
 # [Fintech Academy] AppCoins and launch of the waggawagga gaming portal

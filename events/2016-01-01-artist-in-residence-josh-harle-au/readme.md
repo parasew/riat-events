@@ -1,5 +1,6 @@
 ---
 startdate: 2016-01-01
+category: meetup
 title: "[Artist-in-residence] Josh Harle [AU]"
 subtitle: "Australian artist-researcher Josh Harle in residence at Artistic Bokeh/Q21"
 location: "Artistic Bokeh / Q21, MuseumsQuartier Vienna"

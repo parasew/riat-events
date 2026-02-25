@@ -1,5 +1,6 @@
 ---
 startdate: 2016-10-19
+category: meetup
 title: "[Making Artistic Technology] Spencer-Brown Eulogic"
 ---
 # [Making Artistic Technology] Spencer-Brown Eulogic

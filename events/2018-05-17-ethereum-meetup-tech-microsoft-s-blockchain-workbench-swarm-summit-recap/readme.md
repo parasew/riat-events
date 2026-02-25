@@ -1,5 +1,6 @@
 ---
 startdate: 2018-05-17
+category: meetup
 title: "[Ethereum Meetup] (Tech) Microsoft’s Blockchain Workbench + Swarm Summit Recap"
 ---
 # [Ethereum Meetup] (Tech) Microsoft’s Blockchain Workbench + Swarm Summit Recap

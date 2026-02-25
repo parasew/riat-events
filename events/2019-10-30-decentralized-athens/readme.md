@@ -5,7 +5,7 @@ draft: false
 location: "Athens, Greece"
 country: "Greece"
 startdate: "2019-10-30"
-category: "research,austria,conference"
+category: meetup"
 ---
 
 Presentation showcasing young and upcoming research talent from Austria at the Decentralized Athens conference, highlighting Austrian contributions to blockchain and decentralized technologies.

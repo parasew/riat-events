@@ -1,5 +1,6 @@
 ---
 startdate: 2017-08-01
+category: meetup
 title: "[Bitcoin] The Bitcoin Scaling Crisis"
 ---
 # [Bitcoin] The Bitcoin Scaling Crisis

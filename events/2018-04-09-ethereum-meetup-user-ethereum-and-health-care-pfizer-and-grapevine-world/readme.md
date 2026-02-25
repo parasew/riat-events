@@ -1,5 +1,6 @@
 ---
 startdate: 2018-04-09
+category: meetup
 title: "[Ethereum Meetup] (User) Ethereum and Health Care (Pfizer and Grapevine World)"
 ---
 # [Ethereum Meetup] (User) Ethereum and Health Care (Pfizer and Grapevine World)

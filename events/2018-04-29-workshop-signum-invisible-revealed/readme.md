@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2018-04-29"
 enddate:   "2018-04-30"
 image: https://www.facebook.com/riat.ac.at/photos/gm.277838909422436/1803075723088389/?type=3
-category: RIAT Lab, SIGNUM
+category: workshop
 ---
 
 A two-day workshop theory and praxis on hidden signals reception and amplification. Experimental trans/communicative techniques with artist Víctor Mazón Gardoqui (ES/DE).

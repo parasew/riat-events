@@ -1,5 +1,6 @@
 ---
 startdate: 2006-02-26
+category: meetup
 title: "readme.cc-Lesung mit Werner Hörtner"
 ---
 # readme.cc-Lesung mit Werner Hörtner

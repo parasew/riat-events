@@ -1,5 +1,6 @@
 ---
 startdate: 2017-05-27
+category: workshop
 title: "[Ethereum] Advanced Workshop: From Idea to Contract"
 subtitle: "Advanced Ethereum workshop guiding participants through complete smart contract development process"
 location: "Likely RIAT Vienna or Vienna tech venue"

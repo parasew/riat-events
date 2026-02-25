@@ -6,7 +6,7 @@ location: "RIAT Vienna"
 startdate: "2020-08-10"
 image: https://images.unsplash.com/photo-1521477378290-00b044a957dc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80
 urls: ["one","two"]
-category: digital identity
+category: workshop
 ---
 
 We will have Dr. Oskar van Deventer from TNO in the Netherlands speaking on "Self-Sovereign Identity - The Good, The Bad, and The Ugly".

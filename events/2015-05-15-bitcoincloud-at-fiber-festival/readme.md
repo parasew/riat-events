@@ -5,7 +5,7 @@ draft: false
 location: "Amsterdam, Netherlands"
 country: "Netherlands"
 startdate: "2015-05-15"
-category: "event"
+category: meetup"
 ---
 
 ### Description

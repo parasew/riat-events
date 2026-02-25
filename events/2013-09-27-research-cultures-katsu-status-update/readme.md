@@ -1,5 +1,6 @@
 ---
 startdate: 2013-09-27
+category: meetup
 enddate: 2014-02-24
 title: "[Research Cultures] KATSU – Status Update"
 subtitle: "Exhibition featuring NYC graffiti artist KATSU's work 'Status Update' in context of Faceless II exhibition"
@@ -58,8 +59,8 @@ The exhibition was part of the larger "Faceless II" exhibition exploring anonymi
 ## References and Links
 
 ### Primary Sources
-- **Artistic Bokeh Post**: [KATSU: Status Update](https://web.archive.org/web/20260225054128/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/katsu-status-update
-- **MQW Event Page**: [KATSU: Status Update](https://www.mqw.at/en/program/programmdetail/katsu-status-update-1/)
+- **Artistic Bokeh Post**: [KATSU: Status Update](https://web.archive.org/web/20260225054128/http://artisticbokeh.com/post/katsu-status-update)
+- **MQW Event Page**: [KATSU: Status Update](https://www.mqw.at/en/program/programmdetail/katsu-status-update-1/))
 - **Gizmodo Coverage**: [Mark Zuckerberg Pummeled and Posterized](https://www.gizmodo.com/5993320/mark-zuckerberg-pummeled-and-posterized)
 
 ### Archive Snapshots
@@ -76,12 +77,12 @@ The exhibition was part of the larger "Faceless II" exhibition exploring anonymi
 This exhibition represented Artistic Bokeh's engagement with contemporary street art and its intersection with digital culture, privacy issues, and social media critique. KATSU's work provided a provocative commentary on the power dynamics of digital platforms.
 
 ## Archive snapshots
-- https://web.archive.org/web/20260225054128/https://web.archive.org/web/20260225054128/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/katsu-status-update
+- https://web.archive.org/web/20260225054128/http://artisticbokeh.com//post/katsu-status-update
 - https://en.wikipedia.org/wiki/KATSU
   - https://web.archive.org/web/20260225054128/https://en.wikipedia.org/wiki/KATSU
-- https://web.archive.org/web/20260225054128/https://web.archive.org/web/20140913040141/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/katsu-status-update
+- https://web.archive.org/web/20260225054128/http://artisticbokeh.com//post/katsu-status-update
 
-- https://web.archive.org/web/20260225054128/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/katsu-status-update
+- https://web.archive.org/web/20260225054128/http://artisticbokeh.com//post/katsu-status-update
 - https://www.mqw.at/en/program/programmdetail/katsu-status-update-1/
 - https://www.gizmodo.com/5993320/mark-zuckerberg-pummeled-and-posterized
 - https://web.archive.org/web/20140913040141/http://www.mqw.at/no_cache/ru/programm/?tx_mqprogramm_pi1%5Beventid%5D=10979&cHash=d60a25f9fa7294a1f65a5f0e5056f21a

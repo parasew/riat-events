@@ -1,5 +1,6 @@
 ---
 startdate: 2005-12-18
+category: meetup
 title: "readme.cc Lesung mit Angelika Reitzer, moderiert von Eva Umbauer"
 subtitle: "Angelika Reitzer reads from a book that is special to her in the readme.cc series"
 location: "5uper.net Cuisine Digitale, MuseumsQuartier Vienna"

@@ -7,7 +7,7 @@ country: "Switzerland"
 startdate: "2018-11-27"
 enddate:   "2018-11-27"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-0/p180x540/46486313_2326307097398611_4052450017716207616_o.jpg?_nc_cat=100&_nc_sid=b386c4&_nc_ohc=1EPwHUbJxhwAX-VFe2l&_nc_ht=scontent-vie1-1.xx&tp=6&oh=e17669d15f917faa4d3fcdb1e9e30623&oe=5F7CB0DF
-category: RIAT Labs, Dezentrum
+category: meetup
 ---
 
 Join us for a talk by our partner institute RIAT from Vienna.

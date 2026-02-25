@@ -1,5 +1,6 @@
 ---
 startdate: 2013-07-20
+category: meetup
 title: "Addie Wagenknecht and Stefan Hechenberger – Asymmetric Love Nr. 2"
 ---
 # Addie Wagenknecht and Stefan Hechenberger – Asymmetric Love Nr. 2

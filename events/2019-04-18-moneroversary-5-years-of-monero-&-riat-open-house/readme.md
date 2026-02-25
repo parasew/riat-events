@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2019-04-18"
 enddate:   "2019-04-19"
 image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F60456477%2F148777297672%2F1%2Foriginal.20190416-115431?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=54%2C0%2C720%2C360&s=a279426eefe8b981ade1796710a1c74f
-category: Monero, anniversary, RIAT
+category: meetup
 ---
 
 It is 5 years of Monero at 2019-04-18 10:50 UTC (6:50 ET) and there are celebrations and events all over the world.

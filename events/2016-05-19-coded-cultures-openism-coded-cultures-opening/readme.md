@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-19
+category: meetup
 title: "[Coded Cultures Openism] Coded Cultures Opening"
 ---
 # [Coded Cultures Openism] Coded Cultures Opening

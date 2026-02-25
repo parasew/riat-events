@@ -12,7 +12,7 @@ meetup_number: "5"
 year: 2019
 time: "18:00:00+02:00"
 image: "https://secure.meetupstatic.com/photos/event/9/a/9/highres_481622473.jpeg"
-category: "digital identity"
+category: workshop"
 presentations:
   - "Review of the Internet Identity Workshop"
   - "Digitalization and Identity"

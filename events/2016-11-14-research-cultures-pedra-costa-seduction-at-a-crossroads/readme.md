@@ -1,5 +1,6 @@
 ---
 startdate: 2016-11-14
+category: meetup
 title: "[Research Cultures] Pêdra Costa: Seduction at a Crossroads"
 ---
 # [Research Cultures] Pêdra Costa: Seduction at a Crossroads

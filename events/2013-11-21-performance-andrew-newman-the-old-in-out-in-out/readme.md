@@ -1,5 +1,6 @@
 ---
 startdate: 2013-11-21
+category: performance
 title: "Performance: Andrew Newman – The Old In Out In Out"
 ---
 # Performance: Andrew Newman – The Old In Out In Out

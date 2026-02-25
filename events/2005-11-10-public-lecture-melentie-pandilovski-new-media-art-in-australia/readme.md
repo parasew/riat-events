@@ -1,5 +1,6 @@
 ---
 startdate: 2005-11-10
+category: talk
 title: "Public Lecture: Melentie Pandilovski - New Media Art in Australia"
 subtitle: "Director of Experimental Art Foundation Adelaide presents on Australian new media art and Art of the Biotech Era"
 location: "5uper.net Cuisine Digitale, MuseumsQuartier Vienna"

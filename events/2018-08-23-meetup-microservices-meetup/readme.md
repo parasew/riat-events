@@ -1,5 +1,6 @@
 ---
 startdate: 2018-08-23
+category: meetup
 title: "[Meetup] Microservices Meetup"
 ---
 # [Meetup] Microservices Meetup

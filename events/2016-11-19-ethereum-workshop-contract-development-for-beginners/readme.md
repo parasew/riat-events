@@ -1,5 +1,6 @@
 ---
 startdate: 2016-11-19
+category: workshop
 title: "[Ethereum] Workshop: Contract Development for Beginners"
 subtitle: "Introductory smart contract development workshop for Ethereum beginners"
 location: "Likely RIAT Vienna or Vienna tech venue"

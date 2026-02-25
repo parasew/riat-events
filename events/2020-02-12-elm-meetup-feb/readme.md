@@ -2,7 +2,7 @@
 location: "RIAT Vienna"
 country: Austria
 startdate: "2020-02-12"
-category: "meetups"
+category: meetup"
 tags: ["elm"]
 title: "Elm Meetup February 2020"
 ---

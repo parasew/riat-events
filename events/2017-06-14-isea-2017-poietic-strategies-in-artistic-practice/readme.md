@@ -1,5 +1,6 @@
 ---
 startdate: 2017-06-14
+category: meetup
 title: "[ISEA 2017] Poietic Strategies in Artistic Practice"
 ---
 # [ISEA 2017] Poietic Strategies in Artistic Practice

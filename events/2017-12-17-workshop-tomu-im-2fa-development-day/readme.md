@@ -1,5 +1,6 @@
 ---
 startdate: 2017-12-17
+category: workshop
 title: "[Workshop] Tomu.im 2FA development day"
 ---
 # [Workshop] Tomu.im 2FA development day

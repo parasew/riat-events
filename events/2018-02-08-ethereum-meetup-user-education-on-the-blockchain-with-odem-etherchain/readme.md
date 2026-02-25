@@ -1,5 +1,6 @@
 ---
 startdate: 2018-02-08
+category: meetup
 title: "[Ethereum Meetup] (User) Education on the Blockchain with ODEM + Etherchain"
 ---
 # [Ethereum Meetup] (User) Education on the Blockchain with ODEM + Etherchain

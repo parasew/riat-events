@@ -1,5 +1,6 @@
 ---
 startdate: 2014-11-20
+category: launch
 title: "Launch: Runway Experimental Australian Arts Issue 26: Knowledge (Edited by Andrew Newman)"
 subtitle: "Launch of Australian experimental art journal alongside Austria Australia Arts Alliance exhibition program"
 location: "MuseumsQuartier Vienna"
@@ -70,7 +71,7 @@ The event was part of **Vienna Art Week 2014**, positioning Australian experimen
 ## References and Links
 
 ### Primary Sources
-- **Artistic Bokeh Post**: [Jai McKenzie - Runway Australian Exhibition](https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/jai-mckenzie-runway-australian-exhibition
+- **Artistic Bokeh Post**: [Jai McKenzie - Runway Australian Exhibition](https://web.archive.org/web/20160304034444/http://artisticbokeh.com/)
 - **Facebook Event**: [Runway Launch & AAAA Exhibition](https://www.facebook.com/events/1006015856079121/)
 - **Runway Journal**: [runway.org.au](https://runway.org.au)
 
@@ -79,7 +80,7 @@ The event was part of **Vienna Art Week 2014**, positioning Australian experimen
 - **Josh Harle presentation** as part of the launch
 
 ### Archive Snapshots
-- https://web.archive.org/web/20150124103106/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/jai-mckenzie-runway-australian-exhibition
+- https://web.archive.org/web/20150124103106/http://artisticbokeh.com/post/jai-mckenzie-runway-australian-exhibition
 
 ## Significance
 This launch event represented Artistic Bokeh's engagement with international artistic exchange, particularly between Austria and Australia, and its support for experimental art practices and publications. The event connected artistic research, publication, and exhibition within the context of Vienna Art Week.
@@ -89,6 +90,6 @@ This launch event represented Artistic Bokeh's engagement with international art
 - https://www.facebook.com/events/1006015856079121/
   - https://web.archive.org/web/20260224204207/https://www.facebook.com/events/1006015856079121/
 
-- https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/jai-mckenzie-runway-australian-exhibition
+- https://web.archive.org/web/20160304034444/http://artisticbokeh.com/
 - https://runway.org.au
-- https://web.archive.org/web/20150124103106/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/jai-mckenzie-runway-australian-exhibition
+- https://web.archive.org/web/20150124103106/http://artisticbokeh.com/post/jai-mckenzie-runway-australian-exhibition

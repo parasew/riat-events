@@ -1,5 +1,6 @@
 ---
 startdate: 2015-03-13
+category: meetup
 title: "Matthias Tarasiewicz: Cryptocurrencies as Experimental Systems"
 subtitle: "Research presentation framing cryptocurrencies as distributed community experiments"
 location: "Likely Artistic Bokeh / Q21 space or academic venue"

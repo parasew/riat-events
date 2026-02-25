@@ -1,5 +1,6 @@
 ---
 startdate: 2017-11-07
+category: meetup
 title: "[vue.js] vue.js Meetup November"
 ---
 # [vue.js] vue.js Meetup November

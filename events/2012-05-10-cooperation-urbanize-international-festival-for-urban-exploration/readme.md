@@ -1,5 +1,6 @@
 ---
 startdate: 2012-05-10
+category: meetup
 title: "Cooperation: Urbanize! International Festival for Urban Exploration"
 ---
 # Cooperation: Urbanize! International Festival for Urban Exploration

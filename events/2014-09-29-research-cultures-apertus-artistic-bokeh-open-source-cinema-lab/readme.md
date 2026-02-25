@@ -1,5 +1,6 @@
 ---
 startdate: 2014-09-29
+category: residency
 title: "[Research Cultures] Apertus & Artistic Bokeh: Open Source Cinema Lab"
 subtitle: "Exhibition and opening event featuring the Apertus AXIOM alpha camera prototype"
 location: "Artistic Bokeh Showroom, Electronic Avenue, MuseumsQuartier Vienna"
@@ -62,8 +63,8 @@ The event was part of the Artistic Technology Research project at the University
 ## References and Links
 
 ### Primary Sources
-- **Artistic Bokeh Post**: [Apertus Axiom - Open Source Cinema Lab](https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/apertus-axiom-open-cinema-lab
-- **MQW Event Page**: [Apertus Axiom - Open Source Cinema Lab](https://www.mqw.at/programm/programmdetail/apertus-axiom-open-source-cinema-lab/)
+- **Artistic Bokeh Post**: [Apertus Axiom - Open Source Cinema Lab](https://web.archive.org/web/20160304034444/http://artisticbokeh.com/)
+- **MQW Event Page**: [Apertus Axiom - Open Source Cinema Lab](https://www.mqw.at/programm/programmdetail/apertus-axiom-open-source-cinema-lab/))
 - **Facebook Event**: [371876792974595](https://www.facebook.com/events/371876792974595/)
 
 ### Project Links
@@ -84,7 +85,7 @@ This event represents Artistic Bokeh/RIAT's ongoing engagement with open source 
 - https://www.mqw.at/programm/programmdetail/apertus-axiom-open-source-cinema-lab/
   - https://web.archive.org/web/20260224204206/https://www.mqw.at/programm/programmdetail/apertus-axiom-open-source-cinema-lab/
 
-- https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/apertus-axiom-open-cinema-lab
+- https://web.archive.org/web/20160304034444/http://artisticbokeh.com/
 - https://www.facebook.com/events/371876792974595/
 - https://apertus.org
 - https://www.indiegogo.com/projects/axiom-beta-the-first-open-digital-cinema-camera

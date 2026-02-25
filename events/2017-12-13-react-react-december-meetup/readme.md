@@ -1,5 +1,6 @@
 ---
 startdate: 2017-12-13
+category: meetup
 title: "[React] React December Meetup"
 ---
 # [React] React December Meetup

@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "Salon Fur Kunstbuch Library Is Everywhere"
 date: 2015-07-15T12:00:00+01:00
 draft: false
 location: ""
 country: "Austria"
 startdate: "2015-07-15"
-category: "event"
+category: meetup"
 ---
 
 ## Archive snapshots

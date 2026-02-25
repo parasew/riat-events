@@ -1,5 +1,6 @@
 ---
 startdate: 2005-08-28
+category: meetup
 title: "'Map of Meanings II': Artist Talk (Moderation: Dieter Buchhart)"
 subtitle: "Artist talk as part of 'Map of Meanings II' exhibition series, moderated by curator Dieter Buchhart"
 location: "Cuisine Digitale, MuseumsQuartier Vienna"

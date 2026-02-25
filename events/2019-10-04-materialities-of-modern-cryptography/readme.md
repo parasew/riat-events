@@ -5,7 +5,7 @@ draft: false
 location: "Paralelní Polis, Prague"
 country: "Czech Republic"
 startdate: "2019-10-04"
-category: "crypto-hardware,exhibition"
+category: meetup"
 ---
 
 Pop-up exhibition at HCPP Paralelní Polis featuring early cryptographic hardware prototypes and artefacts. The showcase presented the physical materiality of cryptographic systems, from early encryption devices to modern hardware wallets.

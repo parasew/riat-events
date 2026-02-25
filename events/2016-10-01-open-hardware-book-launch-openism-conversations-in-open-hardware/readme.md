@@ -1,5 +1,6 @@
 ---
 startdate: 2016-10-01
+category: launch
 title: "[Open Hardware] Book Launch: OPENISM – Conversations in Open Hardware"
 ---
 # [Open Hardware] Book Launch: OPENISM – Conversations in Open Hardware

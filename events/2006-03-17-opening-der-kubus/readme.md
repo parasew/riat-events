@@ -1,5 +1,6 @@
 ---
 startdate: 2006-03-17
+category: meetup
 title: "Opening: Der Kubus"
 ---
 # Opening: Der Kubus

@@ -1,5 +1,6 @@
 ---
 startdate: 2017-08-01
+category: meetup
 title: "[Bitcoin] Bit&Block Academy"
 ---
 # [Bitcoin] Bit&Block Academy

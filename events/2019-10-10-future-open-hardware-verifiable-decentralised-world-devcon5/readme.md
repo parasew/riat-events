@@ -6,7 +6,7 @@ location: "Ethereum Devcon 5"
 city: Osaka
 country: Japan
 startdate: "2019-10-10"
-category: Lecture
+category: talk
 ---
 
 RIAT archive lecture entry at Devcon 5 (Osaka), presented by Matthias Tarasiewicz.

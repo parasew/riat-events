@@ -1,5 +1,6 @@
 ---
 startdate: 2016-12-17
+category: meetup
 title: "[Ethereum] Spurious Dragon, Geth 1.5 and ENS"
 subtitle: "Ethereum Vienna meetup discussing Spurious Dragon hard fork, Geth 1.5 client update, and Ethereum Name Service"
 location: "Likely RIAT Vienna or Vienna tech venue"

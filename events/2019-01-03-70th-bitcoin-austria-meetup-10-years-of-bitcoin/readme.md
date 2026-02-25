@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2019-01-03"
 enddate:   "2019-01-03"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/48395076_1419329948201686_6262531370946396160_n.jpg?_nc_cat=106&_nc_sid=b386c4&_nc_ohc=CbvJQSckVnsAX9coN1U&_nc_ht=scontent-vie1-1.xx&oh=0505b362d1c069844b3cc71e8871da38&oe=5F7BF258
-category: bitcoin
+category: meetup
 ---
 
 Wir feiern 10 Jahre Genesis Block in der Bitcoin Blockchain!

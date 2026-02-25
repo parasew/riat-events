@@ -5,7 +5,7 @@ country: Germany
 startdate: 2019-12-27
 enddate:   2019-12-30
 image: https://live.staticflickr.com/8754/17300538715_718c57b25e_o_d.jpg
-category: RIAT Labs
+category: meetup
 ---
 
 ![Decentral Community at 36C3](https://live.staticflickr.com/8754/17300538715_718c57b25e_o_d.jpg)

@@ -1,5 +1,6 @@
 ---
 startdate: 2016-09-01
+category: meetup
 title: "[Artists-in-residence] Marita Fraser [AU]"
 ---
 # [Artists-in-residence] Marita Fraser [AU]

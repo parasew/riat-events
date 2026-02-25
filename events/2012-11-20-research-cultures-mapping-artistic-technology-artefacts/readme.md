@@ -5,7 +5,7 @@ draft: false
 location: "MQ (Artist Studios, Court 7), Vienna, Austria"
 country: "Austria"
 startdate: "2012-11-20"
-category: "event"
+category: meetup"
 ---
 
 ### Description

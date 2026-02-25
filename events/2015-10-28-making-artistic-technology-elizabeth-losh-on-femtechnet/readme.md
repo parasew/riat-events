@@ -1,5 +1,6 @@
 ---
 startdate: 2015-10-28
+category: meetup
 title: "[Making Artistic Technology] Elizabeth Losh on FemTechNet"
 ---
 # [Making Artistic Technology] Elizabeth Losh on FemTechNet

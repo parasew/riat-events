@@ -1,5 +1,6 @@
 ---
 startdate: 2016-04-21
+category: meetup
 title: "Josh Harle at the University of Applied Arts"
 subtitle: "Presentation by Australian artist-researcher Josh Harle at University of Applied Arts Vienna"
 location: "University of Applied Arts Vienna (Die Angewandte)"

@@ -1,5 +1,6 @@
 ---
 startdate: 2013-07-04
+category: meetup
 title: "Faceless Part I"
 ---
 # Faceless Part I

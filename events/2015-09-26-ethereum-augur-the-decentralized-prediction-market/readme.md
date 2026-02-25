@@ -1,5 +1,6 @@
 ---
 startdate: 2015-09-26
+category: meetup
 title: "[Ethereum] Augur: The decentralized prediction market"
 ---
 # [Ethereum] Augur: The decentralized prediction market

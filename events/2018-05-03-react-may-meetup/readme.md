@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2018-05-03"
 enddate:   "2018-05-03"
 image: https://secure.meetupstatic.com/photos/event/1/8/7/9/600_470766265.jpeg
-category: react
+category: meetup
 ---
 
 Talks

@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2018-12-11"
 enddate:   "2018-12-11"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-0/p640x640/47579887_2136424359753522_9219577527738040320_o.jpg?_nc_cat=100&_nc_sid=b386c4&_nc_ohc=30grHf4pF-IAX92ng9o&_nc_ht=scontent-vie1-1.xx&tp=6&oh=b629e10ec817643e18fbd97665c980ac&oe=5F7A76F4
-category: RIAT Labs
+category: meetup
 ---
 
 RIAT will celebrate the end of the year with a small party and a talk from Hrvoje Hiršl, moderated by Aner Barzilay.

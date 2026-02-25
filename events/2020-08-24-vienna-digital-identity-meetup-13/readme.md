@@ -2,7 +2,7 @@
 location: RIAT Vienna
 country: Austria
 startdate: 2020-08-24
-category: "meetups"
+category: meetup"
 tags: ["digital identity", "energyweb"]
 title: "Vienna Digital Identity Meetup #13"
 ---

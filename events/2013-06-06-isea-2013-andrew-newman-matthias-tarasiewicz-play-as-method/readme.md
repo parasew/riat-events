@@ -1,5 +1,6 @@
 ---
 startdate: 2013-06-06
+category: meetup
 title: "ISEA 2013: Andrew Newman & Matthias Tarasiewicz – Play as Method"
 ---
 # ISEA 2013: Andrew Newman & Matthias Tarasiewicz – Play as Method

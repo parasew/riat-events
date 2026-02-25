@@ -1,5 +1,6 @@
 ---
 startdate: 2016-02-01
+category: meetup
 title: "[Artist-in-residence] Adam Donovan [AU]"
 ---
 # [Artist-in-residence] Adam Donovan [AU]

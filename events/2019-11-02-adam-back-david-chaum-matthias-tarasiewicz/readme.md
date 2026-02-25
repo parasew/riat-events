@@ -6,7 +6,7 @@ location: "The Cube Athens"
 city: Athens
 country: Greece
 startdate: "2019-11-02"
-category: Talk Series
+category: talk
 ---
 
 Talk series / meetup appearance in Athens featuring:

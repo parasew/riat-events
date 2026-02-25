@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2018-09-03"
 enddate:   "2018-09-03"
 image:
-category: RIAT Labs
+category: meetup
 ---
 
 After a bit of a break it is time for the next meetup! Starting September the meetup will take place (at least) once a month again.

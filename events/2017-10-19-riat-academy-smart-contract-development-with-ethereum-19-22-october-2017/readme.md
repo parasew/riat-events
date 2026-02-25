@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2017-10-19"
 enddate:   "2017-10-19"
 image: https://www.facebook.com/riat.ac.at/videos/1614107071985256/?t=2
-category: RIAT Academy, smart contract, development
+category: workshop
 ---
 
 The RIAT Blockchain Academy offers extensive and professional training for Ethereum-based Smart Contract development. Register early, as places are very limited.

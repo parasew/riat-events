@@ -7,7 +7,7 @@ country: "Germany"
 startdate: "2018-02-03"
 enddate:   "2018-02-03"
 image: 
-category: Ethereum Austria
+category: meetup
 ---
 
 This presentation features the outcomes of the workshop Fork-Politics in Post-Consensus Cryptoeconomics, within the context of the project Data Loam.

@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2016-05-21"
 enddate:   "2016-05-21"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/13123287_1130812610303447_4224549297951627547_o.jpg?_nc_cat=109&_nc_sid=b386c4&_nc_ohc=i2kqbt2pVIgAX-8tHfS&_nc_ht=scontent-vie1-1.xx&oh=aa905c3e08cc50a232c79c52567564b7&oe=5F8CBC68
-category: coded-cultures, panel
+category: exhibition
 ---
 
 # [Coded Cultures Openism] Immersive Arts Discussion

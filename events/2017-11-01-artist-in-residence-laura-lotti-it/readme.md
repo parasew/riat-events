@@ -1,5 +1,6 @@
 ---
 startdate: 2017-11-01
+category: meetup
 title: "[Artist-in-residence] Laura Lotti [IT]"
 subtitle: "Italian researcher and artist Laura Lotti in residence at Artistic Bokeh/RIAT"
 location: "Artistic Bokeh / Q21, MuseumsQuartier Vienna"

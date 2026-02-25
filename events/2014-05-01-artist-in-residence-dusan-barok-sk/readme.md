@@ -1,5 +1,6 @@
 ---
 startdate: 2014-05-01
+category: meetup
 title: "[Artist-in-residence] Dusan Barok [SK]"
 ---
 # [Artist-in-residence] Dusan Barok [SK]

@@ -6,7 +6,7 @@ location: "Ethereum Devcon 5"
 city: Osaka
 country: Japan
 startdate: "2019-10-10"
-category: Panel
+category: panel
 ---
 
 Panel entry listed in the RIAT archive for Devcon 5 (Osaka).

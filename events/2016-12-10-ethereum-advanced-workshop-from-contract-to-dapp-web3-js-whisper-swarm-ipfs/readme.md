@@ -1,5 +1,6 @@
 ---
 startdate: 2016-12-10
+category: workshop
 title: "[Ethereum] Advanced Workshop: From Contract to DApp (web3.js / Whisper / Swarm / IPFS)"
 ---
 # [Ethereum] Advanced Workshop: From Contract to DApp (web3.js / Whisper / Swarm / IPFS)

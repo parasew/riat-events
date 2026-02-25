@@ -1,5 +1,6 @@
 ---
 startdate: 2015-12-19
+category: meetup
 title: "[Ethereum] Almost Homestead"
 ---
 # [Ethereum] Almost Homestead

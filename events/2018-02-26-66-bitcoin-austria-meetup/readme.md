@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2018-02-26"
 enddate:   "2018-02-26"
 image: https://secure.meetupstatic.com/photos/event/6/1/0/0/600_434184832.jpeg
-category: Bitcoin Austria
+category: meetup
 ---
 
 Talking about Bitcoin and the current development. Also Rami Spasov will talk about Ethearnal. Afterwards socializing and networking.

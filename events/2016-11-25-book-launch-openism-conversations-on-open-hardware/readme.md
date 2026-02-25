@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2016-11-25"
 enddate:   "2016-11-25"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/15123466_1280699611992672_6297353785441866201_o.jpg?_nc_cat=108&_nc_sid=b386c4&_nc_ohc=-5sjlza-kzUAX9lwzUr&_nc_ht=scontent-vie1-1.xx&oh=e0ad5a7ea0d626d9c9b1eed346b96777&oe=5F8DCEC9
-category: book launch, RIAT Vienna
+category: launch
 ---
 
 # [Book Launch] Openism: Conversations on Open Hardware

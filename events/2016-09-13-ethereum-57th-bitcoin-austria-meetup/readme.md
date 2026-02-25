@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2016-09-13"
 enddate:   "2016-09-13"
 image:
-category: meetup, Bitcoin, RIAT Vienna
+category: meetup
 ---
 
 # [Ethereum] 57th Bitcoin Austria Meetup

@@ -1,5 +1,6 @@
 ---
 startdate: 2014-06-06
+category: meetup
 title: "Philip Leitner & Stephan Pircher: braindump"
 ---
 # Philip Leitner & Stephan Pircher: braindump

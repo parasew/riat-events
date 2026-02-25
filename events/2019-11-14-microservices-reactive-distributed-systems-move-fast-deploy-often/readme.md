@@ -6,7 +6,7 @@ location: "RIAT Vienna"
 city: Vienna
 country: Austria
 startdate: "2019-11-14"
-category: Meetup
+category: meetup
 ---
 
 Meetup entry listed in the RIAT archive for the MRDS Vienna series (Microservices, Reactive and Distributed Systems).

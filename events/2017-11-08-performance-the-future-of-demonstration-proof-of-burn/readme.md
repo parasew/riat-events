@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2017-11-08"
 enddate:   "2017-11-08"
 image: https://www.facebook.com/thefutureofdemonstration/videos/1904806862868785/?t=1
-category: cryptoeconomics, RIAT Vienna, performance
+category: talk
 ---
 
 Prove your presence.

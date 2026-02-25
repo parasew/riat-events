@@ -7,7 +7,7 @@ country: "Austria"
 startdate: "2019-03-07"
 enddate:   "2019-03-07"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/51547952_2221607977901826_6906281109588279296_o.jpg?_nc_cat=106&_nc_sid=b386c4&_nc_ohc=yEZuP674hvIAX-ko4Yc&_nc_ht=scontent-vie1-1.xx&oh=d4c5dd381fa9c02a36da46ebb5c6c11d&oe=5F85D1C2
-category: meetup, RIAT vienna, microservices
+category: meetup
 ---
 
 Our next guest likes to cite Werner Vogels: "Everything fails, all the time." :-) Even though this citation "works for me" (!), does this mean we have to give up? Well ... it could also mean: we have to adapt to this fundamental truth.

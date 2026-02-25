@@ -1,5 +1,6 @@
 ---
 startdate: 2016-10-25
+category: meetup
 title: "Conversations on Artistic Practice & Research"
 ---
 # Conversations on Artistic Practice & Research
