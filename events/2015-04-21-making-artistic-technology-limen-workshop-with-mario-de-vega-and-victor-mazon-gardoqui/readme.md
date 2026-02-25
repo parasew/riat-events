@@ -149,9 +149,7 @@ The workshop exemplified the hands-on, critical approach that characterized Arti
 
 ## Local Archive
 
-- **Image**: [artistictechnology_at_1_limen.jpg](../../documents/artistictechnology/images/artistictechnology_at_1_limen.jpg)
 
-- **Image**: [artistictechnology_at_4_limen.jpg](../../documents/artistictechnology/images/artistictechnology_at_4_limen.jpg)
 ## Archive snapshots
 - https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
   - https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
