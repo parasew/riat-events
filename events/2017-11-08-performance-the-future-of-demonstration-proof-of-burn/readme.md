@@ -34,6 +34,7 @@ Film / live-broadcast: Jan Groos
 
 ## References
 * http://thefutureofdemonstration.net/de/e05.html
+* https://thefutureofdemonstration.net/e05/seminar.html
 * https://www.facebook.com/events/281746665650989/
 
 ## Archive snapshots

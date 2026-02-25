@@ -20,6 +20,7 @@ Die Veranstaltung "Autonomies" untersuchte wahrscheinlich Themen wie Autonomie, 
 
 ### References
 - http://bitcoincloud.at/
+- https://renewable.rixc.lv/autonomies/
 - Related BitcoinCloud exhibitions:
   - 2011-11-16: METAmART – Art and Capital featuring BitcoinCloud
   - 2015-05-15: Bitcoincloud at Fiber Festival
