@@ -1,5 +1,5 @@
 ---
-startdate: 2017-08-21
+startdate: 2017-08-23
 title: "[Presentation] Cryptoeconomics: Infrastructures & Artefacts"
 subtitle: "RIAT presentation at Blockchain evening in Alpbach, showcasing Austrian blockchain art and research 2011-2017"
 location: "Hallenbad Alpbach"

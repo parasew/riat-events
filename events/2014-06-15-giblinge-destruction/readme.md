@@ -1,5 +1,6 @@
 ---
 startdate: 2014-06-15
+title: "Giblinge Destruction"
 ---
 # Giblinge Destruction
 

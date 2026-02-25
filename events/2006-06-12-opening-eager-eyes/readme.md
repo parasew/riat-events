@@ -1,5 +1,6 @@
 ---
 startdate: 2006-06-12
+title: "Opening: Eager Eyes"
 ---
 # Opening: Eager Eyes
 

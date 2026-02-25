@@ -1,5 +1,6 @@
 ---
 startdate: 2017-12-16
+title: "[Workshop] Monero Open Hardware Wallet Workshop (msvb-lab)"
 ---
 # [Workshop] Monero Open Hardware Wallet Workshop (msvb-lab)
 

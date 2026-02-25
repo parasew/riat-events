@@ -1,5 +1,6 @@
 ---
 startdate: 2016-03-15
+title: "[Ethereum] Homestead Release"
 ---
 # [Ethereum] Homestead Release
 

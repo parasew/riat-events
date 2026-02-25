@@ -1,5 +1,6 @@
 ---
 startdate: 2018-08-20
+title: "[EOS Meetup] EOS Authority Block Producer AMA"
 ---
 # [EOS Meetup] EOS Authority Block Producer AMA
 

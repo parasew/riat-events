@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-19
+title: "[Coded Cultures Openism] Coded Cultures Opening"
 ---
 # [Coded Cultures Openism] Coded Cultures Opening
 

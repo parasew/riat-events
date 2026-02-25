@@ -1,5 +1,6 @@
 ---
 startdate: 2016-02-25
+title: "Artistic Use of Blockchain Technology"
 ---
 # Artistic Use of Blockchain Technology
 

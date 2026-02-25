@@ -1,5 +1,6 @@
 ---
 startdate: 2017-12-05
+title: "[vue.js] vue.js Meetup December"
 ---
 # [vue.js] vue.js Meetup December
 

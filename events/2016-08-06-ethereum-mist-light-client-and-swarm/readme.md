@@ -1,5 +1,6 @@
 ---
 startdate: 2016-08-06
+title: "[Ethereum] Mist, Light Client and Swarm"
 ---
 # [Ethereum] Mist, Light Client and Swarm
 

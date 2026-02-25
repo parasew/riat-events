@@ -1,5 +1,6 @@
 ---
 startdate: 2015-05-01
+title: "[Artist-in-residence] Laura McLean [AU]"
 ---
 # [Artist-in-residence] Laura McLean [AU]
 

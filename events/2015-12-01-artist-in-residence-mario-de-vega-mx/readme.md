@@ -1,5 +1,6 @@
 ---
 startdate: 2015-12-01
+title: "[Artist-in-residence] Mario de Vega [MX]"
 ---
 # [Artist-in-residence] Mario de Vega [MX]
 

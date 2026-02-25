@@ -1,5 +1,6 @@
 ---
 startdate: 2017-03-19
+title: "[Artist-in-residence] Brett Scott [ZA]"
 ---
 # [Artist-in-residence] Brett Scott [ZA]
 

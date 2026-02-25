@@ -1,5 +1,6 @@
 ---
 startdate: 2015-09-24
+title: "Social Glitch – Radical aesthetics and the consequences of extreme events"
 ---
 # Social Glitch – Radical aesthetics and the consequences of extreme events
 

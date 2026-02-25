@@ -4,6 +4,7 @@ country: Austria
 startdate: "2020-02-12"
 category: "meetups"
 tags: ["elm"]
+title: "Elm Meetup February 2020"
 ---
 
 # Elm Meetup February 2020

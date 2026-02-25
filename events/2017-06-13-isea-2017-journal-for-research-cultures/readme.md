@@ -1,5 +1,6 @@
 ---
 startdate: 2017-06-13
+title: "[ISEA 2017] Journal for Research Cultures"
 ---
 # [ISEA 2017] Journal for Research Cultures
 

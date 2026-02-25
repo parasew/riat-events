@@ -1,5 +1,6 @@
 ---
 startdate: 2018-07-28
+title: "[Ethereum Meetup] Monero Austria Meetup"
 ---
 # [Ethereum Meetup] Monero Austria Meetup
 

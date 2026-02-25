@@ -1,5 +1,6 @@
 ---
 startdate: 2016-11-01
+title: "[Artist-in-residence] Víctor Mazón Gardoqui [ES]"
 ---
 # [Artist-in-residence] Víctor Mazón Gardoqui [ES]
 

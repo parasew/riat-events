@@ -1,5 +1,6 @@
 ---
 startdate: 2016-10-25
+title: "Conversations on Artistic Practice & Research"
 ---
 # Conversations on Artistic Practice & Research
 

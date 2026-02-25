@@ -1,5 +1,6 @@
 ---
 startdate: 2006-03-04
+title: "Audio Audience Session und Afterparty"
 ---
 # Audio Audience Session und Afterparty
 

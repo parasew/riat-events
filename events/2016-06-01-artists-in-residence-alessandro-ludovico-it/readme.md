@@ -1,5 +1,6 @@
 ---
 startdate: 2016-06-01
+title: "[Artists-in-residence] Alessandro Ludovico [IT]"
 ---
 # [Artists-in-residence] Alessandro Ludovico [IT]
 

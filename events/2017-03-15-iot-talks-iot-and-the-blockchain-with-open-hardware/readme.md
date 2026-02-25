@@ -1,5 +1,6 @@
 ---
 startdate: 2017-03-15
+title: "[IoT Talks] IoT and the Blockchain with Open Hardware"
 ---
 # [IoT Talks] IoT and the Blockchain with Open Hardware
 

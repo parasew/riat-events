@@ -1,5 +1,6 @@
 ---
 startdate: 2017-05-05
+title: "[Ethereum] Meetup: Meet Viktor Tron (Swarm, Ethereum)"
 ---
 # [Ethereum] Meetup: Meet Viktor Tron (Swarm, Ethereum)
 

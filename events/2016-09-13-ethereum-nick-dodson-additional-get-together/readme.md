@@ -1,5 +1,6 @@
 ---
 startdate: 2016-09-13
+title: "[Ethereum] Nick Dodson – Additional get-together"
 ---
 # [Ethereum] Nick Dodson – Additional get-together
 

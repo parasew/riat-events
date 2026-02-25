@@ -1,5 +1,6 @@
 ---
 startdate: 2017-11-10
+title: "[Ethereum] DEVCON-3 Recap"
 ---
 # [Ethereum] DEVCON-3 Recap
 

@@ -1,5 +1,6 @@
 ---
 startdate: 2006-03-17
+title: "Opening: Der Kubus"
 ---
 # Opening: Der Kubus
 

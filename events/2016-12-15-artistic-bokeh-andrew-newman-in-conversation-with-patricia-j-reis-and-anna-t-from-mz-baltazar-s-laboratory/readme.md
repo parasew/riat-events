@@ -1,5 +1,6 @@
 ---
 startdate: 2016-12-15
+title: "[Artistic Bokeh] Andrew Newman in conversation with Patricia J. Reis and Anna T. from Mz* Baltazar’s Laboratory"
 ---
 # [Artistic Bokeh] Andrew Newman in conversation with Patricia J. Reis and Anna T. from Mz* Baltazar’s Laboratory
 

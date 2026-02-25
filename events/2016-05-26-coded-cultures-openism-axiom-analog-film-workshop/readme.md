@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-26
+title: "[Coded Cultures Openism] AXIOM Analog Film Workshop"
 ---
 # [Coded Cultures Openism] AXIOM Analog Film Workshop
 

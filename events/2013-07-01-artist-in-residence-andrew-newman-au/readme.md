@@ -1,5 +1,6 @@
 ---
 startdate: 2013-07-01
+title: "[Artist-in-residence] Andrew Newman [AU]"
 ---
 # [Artist-in-residence] Andrew Newman [AU]
 

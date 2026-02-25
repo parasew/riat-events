@@ -1,5 +1,6 @@
 ---
 startdate: 2016-09-19
+title: "[Ethereum] RIAT at Ethereum DEVCON2 Shanghai"
 ---
 # [Ethereum] RIAT at Ethereum DEVCON2 Shanghai
 

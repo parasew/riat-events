@@ -1,5 +1,6 @@
 ---
 startdate: 2016-12-01
+title: "[Artist-in-residence] Brud"
 ---
 # [Artist-in-residence] Brud
 

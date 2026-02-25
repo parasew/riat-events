@@ -1,8 +1,9 @@
 ---
+title: "Artistic Bokeh: Too Much Money (Exhibition)"
 location: "Artistic Bokeh"
 country: "Austria"
-startdate: "2014/02/27"
-enddate:   "2014/06/30"
+startdate: "2014-02-27"
+enddate:   "2014-06-30"
 image: https://www.flickr.com/photos/artisticbokeh/12816701053/in/album-72157641626930984/
 category: "exhibition"
 tags: ["artisticbokeh","experiments in art and value"]

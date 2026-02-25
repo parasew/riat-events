@@ -1,5 +1,6 @@
 ---
 startdate: 2013-06-28
+title: "Art and Science Jour Fixe: Matthias Tarasiewicz & Mirko Tobias Schäfer – Novel Approaches of Research in the Arts and the Humanities"
 ---
 # Art and Science Jour Fixe: Matthias Tarasiewicz & Mirko Tobias Schäfer – Novel Approaches of Research in the Arts and the Humanities
 

@@ -1,5 +1,6 @@
 ---
 startdate: 2017-11-22
+title: "[Golang] Vienna Go User Group November Meetup"
 ---
 # [Golang] Vienna Go User Group November Meetup
 

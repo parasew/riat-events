@@ -1,5 +1,6 @@
 ---
 startdate: 2017-05-11
+title: "[Altcoins] Clash of Coins (Ethereum + Monero + Dogecoin)"
 ---
 # [Altcoins] Clash of Coins (Ethereum + Monero + Dogecoin)
 

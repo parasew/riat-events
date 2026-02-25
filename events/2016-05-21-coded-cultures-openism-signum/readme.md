@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-21
+title: "[Coded Cultures Openism] SIGNUM"
 ---
 # [Coded Cultures Openism] SIGNUM
 

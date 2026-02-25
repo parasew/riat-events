@@ -1,5 +1,6 @@
 ---
 startdate: 2017-05-25
+title: "[Ethereum] Meetup: Ksenya Bellman / DAO.Casino"
 ---
 # [Ethereum] Meetup: Ksenya Bellman / DAO.Casino
 

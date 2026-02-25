@@ -1,5 +1,6 @@
 ---
 startdate: 2014-05-01
+title: "[Artist-in-residence] Dusan Barok [SK]"
 ---
 # [Artist-in-residence] Dusan Barok [SK]
 

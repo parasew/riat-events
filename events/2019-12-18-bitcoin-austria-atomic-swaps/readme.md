@@ -3,6 +3,7 @@ location: "RIAT Vienna"
 startdate: "2019-12-18"
 category: "meetup"
 tags: ["bitcoin austria"]
+title: "72nd Bitcoin Austria Meetup : Atomic Swaps"
 ---
 ![image](https://images.unsplash.com/photo-1478432780021-b8d273730d8c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 

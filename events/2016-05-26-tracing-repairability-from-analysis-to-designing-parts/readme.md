@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-26
+title: "Tracing Repairability – from analysis to designing parts"
 ---
 # Tracing Repairability – from analysis to designing parts
 

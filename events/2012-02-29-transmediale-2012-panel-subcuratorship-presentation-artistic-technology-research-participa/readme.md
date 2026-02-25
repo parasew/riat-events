@@ -1,5 +1,6 @@
 ---
 startdate: 2012-02-29
+title: "Transmediale 2012: Panel “Subcuratorship”; Presentation “Artistic Technology Research”, Participation: Journal for In/Compatible Research"
 ---
 # Transmediale 2012: Panel “Subcuratorship”; Presentation “Artistic Technology Research”, Participation: Journal for In/Compatible Research
 

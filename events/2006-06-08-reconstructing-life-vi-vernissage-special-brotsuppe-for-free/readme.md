@@ -1,5 +1,6 @@
 ---
 startdate: 2006-06-08
+title: "reconstructing life VI Vernissage (Special: Brotsuppe for free)"
 ---
 # reconstructing life VI Vernissage (Special: Brotsuppe for free)
 

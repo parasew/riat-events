@@ -1,5 +1,6 @@
 ---
 startdate: 2015-12-19
+title: "[Ethereum] Almost Homestead"
 ---
 # [Ethereum] Almost Homestead
 

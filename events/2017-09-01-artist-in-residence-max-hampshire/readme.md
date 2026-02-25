@@ -1,5 +1,6 @@
 ---
 startdate: 2017-09-01
+title: "[Artist-in-residence] Max Hampshire"
 ---
 # [Artist-in-residence] Max Hampshire
 

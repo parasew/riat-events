@@ -1,5 +1,6 @@
 ---
 startdate: 2015-07-01
+title: "[Artist-in-residence] Marcell Mars [HR]"
 ---
 # [Artist-in-residence] Marcell Mars [HR]
 

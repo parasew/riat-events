@@ -1,5 +1,5 @@
 ---
-startdate: 2016-02-07
+startdate: 2016-02-01
 title: "Transmediale: Unmaking – 5 Anxieties"
 subtitle: "Discussion session on maker culture, its exhaustion and exploitation at transmediale festival"
 location: "Haus der Kulturen der Welt Berlin, Room K2"

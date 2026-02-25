@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-24
+title: "[Coded Cultures Openism] Ethereum Contract Development for Beginners"
 ---
 # [Coded Cultures Openism] Ethereum Contract Development for Beginners
 

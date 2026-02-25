@@ -1,5 +1,6 @@
 ---
 startdate: 2015-12-01
+title: "[Artist-in-residence] Nicolas Maigret [FR]"
 ---
 # [Artist-in-residence] Nicolas Maigret [FR]
 

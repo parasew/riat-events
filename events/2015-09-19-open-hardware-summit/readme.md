@@ -1,5 +1,6 @@
 ---
 startdate: 2015-09-19
+title: "Open Hardware Summit"
 ---
 # Open Hardware Summit
 

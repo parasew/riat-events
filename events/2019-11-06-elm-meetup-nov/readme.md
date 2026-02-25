@@ -4,6 +4,7 @@ country: Austria
 startdate: 2019-11-06
 category: "meetups"
 tags: ["elm"]
+title: "Elm Meetup November 2019"
 ---
 
 # Elm Meetup November 2019

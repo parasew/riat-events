@@ -1,5 +1,5 @@
 ---
-startdate: 2014-09-24
+startdate: 2014-09-29
 title: "[Research Cultures] Apertus & Artistic Bokeh: Open Source Cinema Lab"
 subtitle: "Exhibition and opening event featuring the Apertus AXIOM alpha camera prototype"
 location: "Artistic Bokeh Showroom, Electronic Avenue, MuseumsQuartier Vienna"

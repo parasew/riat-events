@@ -1,5 +1,6 @@
 ---
 startdate: 2016-05-20
+title: "[Coded Cultures Openism] The Faceless Phenomenon"
 ---
 # [Coded Cultures Openism] The Faceless Phenomenon
 

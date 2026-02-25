@@ -1,5 +1,6 @@
 ---
 startdate: 2009-05-27
+title: "[Coded Cultures] Exploring Creative Emergences"
 ---
 # [Coded Cultures] Exploring Creative Emergences
 

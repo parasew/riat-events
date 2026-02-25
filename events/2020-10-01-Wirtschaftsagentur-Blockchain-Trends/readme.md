@@ -1,6 +1,6 @@
 ---
 title: "Presentation of Blockchain Report by Wirtschaftsagentur Vienna"
-date: 2020-08-30T13:48:49+02:00
+date: 2020-10-01T13:48:49+02:00
 draft: false
 location: Online
 country: Austria

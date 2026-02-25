@@ -1,7 +1,7 @@
 ---
 title: "73th Bitcoin Austria Meetup - 11 Years of Bitcoin Blockchain"
 location: "RIAT Vienna"
-startdate: "2020-01-03"
+startdate: 2020-03-01
 category: "meetup"
 tags: ["bitcoin austria"]
 ---

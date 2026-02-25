@@ -4,6 +4,7 @@ country: Austria
 startdate: 2020-08-24
 category: "meetups"
 tags: ["digital identity", "energyweb"]
+title: "Vienna Digital Identity Meetup #13"
 ---
 
 # Vienna Digital Identity Meetup #13
