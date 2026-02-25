@@ -92,3 +92,4 @@ Part of RIAT's artist-in-residence program at quartier21, focusing on interdisci
 - https://www.mqw.at/en/institutions/q21/artists-in-residence/2014/georgios-papadopoulos
   - https://web.archive.org/web/20191120062202/https://www.mqw.at/en/institutions/q21/artists-in-residence/2014/georgios-papadopoulos
 
+- http://www.q21.at/en/artists-in-residence/artists/artistinfo/georgios-papadopoulos/

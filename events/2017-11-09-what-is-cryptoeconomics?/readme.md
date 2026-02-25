@@ -34,3 +34,6 @@ Jaya Klara Brekke, Max Hampshire, Johannes Leutgeb, Laura Lotti, Martin Reinhart
 ## Archive snapshots
 - https://www.facebook.com/events/281746665650989/
   - https://web.archive.org/web/20260224204512/https://www.facebook.com/events/281746665650989/
+- http://thefutureofdemonstration.net
+- https://riat.ac.at/
+- https://www.facebook.com/events/854262914741025/

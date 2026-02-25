@@ -27,5 +27,3 @@ This presentation will be a combination of business drivers and technical soluti
   - https://web.archive.org/web/20260225054134/https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271801491/
 - https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271801491/"
   - https://web.archive.org/web/20260225054134/https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271801491/"
-- https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271801491/
-  - https://web.archive.org/web/20260225054134/https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271801491/

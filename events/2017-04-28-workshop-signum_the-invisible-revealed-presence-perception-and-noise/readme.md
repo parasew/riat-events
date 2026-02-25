@@ -23,7 +23,3 @@ category: workshop, signum, RIAT Vienna
   - https://web.archive.org/web/20260225054132/https://www.eventbrite.com/e/workshop-signum-tickets-33921828101
 - https://www.facebook.com/events/2004193799811626/
   - https://web.archive.org/web/20260225054132/https://www.facebook.com/events/2004193799811626/
-- https://www.eventbrite.com/e/workshop-signum-tickets-33921828101
-  - https://web.archive.org/web/20260225054132/https://www.eventbrite.com/e/workshop-signum-tickets-33921828101
-- https://www.facebook.com/events/2004193799811626/
-  - https://web.archive.org/web/20260225054132/https://www.facebook.com/events/2004193799811626/

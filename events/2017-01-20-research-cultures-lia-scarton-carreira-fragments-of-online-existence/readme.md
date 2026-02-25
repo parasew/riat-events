@@ -36,5 +36,3 @@ Museumsplatz 1, 1070 Wien
   - https://web.archive.org/web/20260225054131/https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/s960x960/16143409_1350029088393057_6837877767294132111_o.jpg?_nc_cat=110&_nc_sid=b386c4&_nc_ohc=jPFfgfuEcKQAX9mPBpA&_nc_ht=scontent-vie1-1.xx&tp=7&oh=f7f5f8f17ffb396f25c106a7c1cec992&oe=5F8C485D
 - https://www.facebook.com/events/944066045695147/
   - https://web.archive.org/web/20260225054131/https://www.facebook.com/events/944066045695147/
-- https://www.facebook.com/events/944066045695147/
-  - https://web.archive.org/web/20260225054131/https://www.facebook.com/events/944066045695147/

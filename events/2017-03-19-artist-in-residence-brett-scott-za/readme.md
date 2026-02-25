@@ -10,3 +10,4 @@ title: "[Artist-in-residence] Brett Scott [ZA]"
 ## Archive snapshots
 - https://www.q21.at/en/artists-in-residence/artists/artistinfo/brett-scott-1/
   - https://web.archive.org/web/20260225053711/https://www.q21.at/en/artists-in-residence/artists/artistinfo/brett-scott-1/
+- http://www.q21.at/en/artists-in-residence/artists/artistinfo/brett-scott-1/

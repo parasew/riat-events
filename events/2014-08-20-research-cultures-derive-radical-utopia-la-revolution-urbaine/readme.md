@@ -87,3 +87,8 @@ This exhibition represented Artistic Bokeh's engagement with urban research and 
 - https://www.quartier21.at/programm/programmdetail/derive-radical-utopia-la-revolution-urbaine/
   - https://web.archive.org/web/20260224204205/https://www.quartier21.at/programm/programmdetail/derive-radical-utopia-la-revolution-urbaine/
 
+- https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/derive-radical-utopia
+- https://www.facebook.com/events/801564356530352/
+- https://www.derive.at
+- https://www.urbanize.at
+- https://web.archive.org/web/20150124103052/http://www.quartier21.at/programm/programmdetail/derive-radical-utopia-la-revolution-urbaine/

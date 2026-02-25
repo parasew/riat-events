@@ -83,3 +83,6 @@ The exhibition opening was part of **Vienna Art Week 2014**, connecting Australi
 - https://www.quartier21.at/programm/programmdetail/jai-mckenzie-aus-never-forever/
   - https://web.archive.org/web/20260224204208/https://www.quartier21.at/programm/programmdetail/jai-mckenzie-aus-never-forever/
 
+- https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/jai-mckenzie-never-forever-november-22nd-2014-february-20th-2015
+- https://jaimckenzie.com
+- https://web.archive.org/web/20150124103106/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/jai-mckenzie-never-forever-november-22nd-2014-february-20th-2015

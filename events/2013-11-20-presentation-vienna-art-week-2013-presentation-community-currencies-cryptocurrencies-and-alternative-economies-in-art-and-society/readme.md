@@ -137,5 +137,3 @@ The Vienna Art Week 2013 presentation on community currencies and cryptocurrenci
 ## Archive snapshots
 - https://www.mqw.at/en/program//programmdetail/vienna-art-week-2013-at-quartier21/
   - https://web.archive.org/web/20260225054128/https://www.mqw.at/en/program//programmdetail/vienna-art-week-2013-at-quartier21/
-- https://www.mqw.at/en/program//programmdetail/vienna-art-week-2013-at-quartier21/
-  - https://web.archive.org/web/20260225054128/https://www.mqw.at/en/program//programmdetail/vienna-art-week-2013-at-quartier21/

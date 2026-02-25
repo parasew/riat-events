@@ -125,3 +125,4 @@ The event strengthened Vienna's position as:
   - https://web.archive.org/web/20260225054129/https://web.archive.org/web/20151130014640/http://www.kunstraum.net/de/programm/217-social-glitch
 - https://www.kunstraum.net/de/programm/217-social-glitch
   - https://web.archive.org/web/20260225054129/https://www.kunstraum.net/de/programm/217-social-glitch
+- http://www.kunstraum.net/de/programm/217-social-glitch

@@ -94,7 +94,11 @@ This exhibition provided a critical examination of surveillance culture through 
 - https://web.archive.org/web/20260225054133/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//
 - https://goo.gl/Q42a1
   - https://web.archive.org/web/20260225054133/https://goo.gl/Q42a1
-- https://goo.gl/Q42a1
 - https://twitter.com/artisticbokeh
   - https://web.archive.org/web/20260225054133/https://twitter.com/artisticbokeh
 
+- https://www.mqw.at/no_cache/programm/?tx_mqprogramm_pi1%5Beventid%5D=9977&cHash=671fe221a686a9fc4219d7eb9814e73b
+- https://www.flickr.com/photos/artisticbokeh/sets/72157634440642553/
+- https://web.archive.org/web/20140913043249/http://www.mqw.at/no_cache/programm/?tx_mqprogramm_pi1%5Beventid%5D=9977&cHash=671fe221a686a9fc4219d7eb9814e73b
+- https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//
+- https://twitter.com/atechres

@@ -96,6 +96,5 @@ Specific details about Cirio's activities during the January 2014 residency requ
 ## Archive snapshots
 - https://paolocirio.net
   - https://web.archive.org/web/20060709211443/https://paolocirio.net
-- https://paolocirio.net
-  - https://web.archive.org/web/20060709211443/https://paolocirio.net
 
+- http://www.q21.at/en/artists-in-residence/artists/artistinfo/paolo-cirio/

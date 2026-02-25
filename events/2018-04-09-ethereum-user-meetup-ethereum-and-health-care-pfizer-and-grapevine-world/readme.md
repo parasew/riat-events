@@ -28,3 +28,4 @@ Grapevine World is a decentralized, borderless ecosystem for the seamless exchan
 ## Archive snapshots
 - https://secure.meetupstatic.com/photos/event/4/d/d/c/600_339079932.jpeg
   - https://web.archive.org/web/20260224203909/https://secure.meetupstatic.com/photos/event/4/d/d/c/600_339079932.jpeg
+- https://www.meetup.com/de-DE/Ethereum-Vienna/events/239268692/

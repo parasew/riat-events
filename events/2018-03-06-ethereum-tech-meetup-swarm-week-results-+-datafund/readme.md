@@ -32,3 +32,4 @@ The talk will be given by Gregor Žavcer, Datafund's cofounder. Gregor comes fro
 ## Archive snapshots
 - https://secure.meetupstatic.com/photos/event/4/d/d/c/600_339079932.jpeg
   - https://web.archive.org/web/20260224203907/https://secure.meetupstatic.com/photos/event/4/d/d/c/600_339079932.jpeg
+- https://www.meetup.com/de-DE/Ethereum-Vienna/events/248197811/

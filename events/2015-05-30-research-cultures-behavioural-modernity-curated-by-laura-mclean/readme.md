@@ -97,7 +97,3 @@ This event represented the Research Cultures series' engagement with interdiscip
   - https://web.archive.org/web/20260225054129/https://www.facebook.com/events/796218167127367/
 - https://www.facebook.com/events/796218167127367/"
   - https://web.archive.org/web/20260225054129/https://www.facebook.com/events/796218167127367/"
-- https://www.facebook.com/events/796218167127367/
-  - https://web.archive.org/web/20260225054129/https://www.facebook.com/events/796218167127367/
-- https://www.facebook.com/events/796218167127367/
-  - https://web.archive.org/web/20260225054129/https://www.facebook.com/events/796218167127367/

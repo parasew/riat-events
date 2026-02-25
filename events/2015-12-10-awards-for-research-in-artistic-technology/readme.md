@@ -85,8 +85,6 @@ The awards likely helped establish RIAT as a key player in Austrian artistic res
   - https://web.archive.org/web/20260225054130/https://web.archive.org/web/20160216033547/https://riat.at/
 - https://www.facebook.com/events/696164823852719/
   - https://web.archive.org/web/20260225054130/https://www.facebook.com/events/696164823852719/
-- https://www.facebook.com/events/696164823852719/
-  - https://web.archive.org/web/20260225054130/https://www.facebook.com/events/696164823852719/
 - https://www.mqw.at/en/program/programmdetail/awards-for-research-in-artistic-technology-1/
   - https://web.archive.org/web/20260225054130/https://www.mqw.at/en/program/programmdetail/awards-for-research-in-artistic-technology-1/
 - https://www.mqw.at/en/program/programmdetail/awards-for-research-in-artistic-technology-1/"

@@ -10,5 +10,3 @@ title: "[Presentation] Vienna Art Week 2013 Presentation: Applied individuality 
 ## Archive snapshots
 - https://www.mqw.at/en/program//programmdetail/vienna-art-week-2013-at-quartier21/
   - https://web.archive.org/web/20260225054130/https://www.mqw.at/en/program//programmdetail/vienna-art-week-2013-at-quartier21/
-- https://www.mqw.at/en/program//programmdetail/vienna-art-week-2013-at-quartier21/
-  - https://web.archive.org/web/20260225054130/https://www.mqw.at/en/program//programmdetail/vienna-art-week-2013-at-quartier21/

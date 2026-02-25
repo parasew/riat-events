@@ -87,3 +87,10 @@ Urban Knights Vienna represented Artistic Bokeh's engagement with urban activism
 - https://www.facebook.com/events/1435618953366931/
   - https://web.archive.org/web/20260224204204/https://www.facebook.com/events/1435618953366931/
 
+- https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/urban-knights-vienna-paradocks
+- https://www.urbanknights.org
+- https://www.polarproduce.org
+- https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//
+- https://www.quartier21.at
+- https://www.paradocks.at
+- https://web.archive.org/web/20160126130006/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/urban-knights-vienna-paradocks

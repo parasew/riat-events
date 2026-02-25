@@ -89,3 +89,6 @@ This launch event represented Artistic Bokeh's engagement with international art
 - https://www.facebook.com/events/1006015856079121/
   - https://web.archive.org/web/20260224204207/https://www.facebook.com/events/1006015856079121/
 
+- https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/jai-mckenzie-runway-australian-exhibition
+- https://runway.org.au
+- https://web.archive.org/web/20150124103106/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/jai-mckenzie-runway-australian-exhibition

@@ -10,3 +10,4 @@ title: "[Artist-in-residence] Max Hampshire"
 ## Archive snapshots
 - https://www.terra0.org/
   - https://web.archive.org/web/20260225053711/https://www.terra0.org/
+- http://www.terra0.org/

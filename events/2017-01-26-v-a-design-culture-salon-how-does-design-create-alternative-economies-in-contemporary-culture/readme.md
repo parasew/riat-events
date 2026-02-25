@@ -98,9 +98,3 @@ This event represented RIAT's engagement with design communities and its explora
   - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/135218683631379/
 - https://www.facebook.com/events/135218683631379/"
   - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/135218683631379/"
-- https://www.facebook.com/events/135218683631379/
-  - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/135218683631379/
-- https://www.facebook.com/events/135218683631379/
-  - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/135218683631379/
-- https://www.facebook.com/events/135218683631379/"
-  - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/135218683631379/"

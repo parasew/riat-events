@@ -32,3 +32,4 @@ RIAT is home to projects such as:
 ## Archive snapshots
 - https://www.meetup.com/Decentralization-Meetup/events/255908369
   - https://web.archive.org/web/20260224204407/https://www.meetup.com/Decentralization-Meetup/events/255908369
+- https://www.facebook.com/events/1002168753301239/
