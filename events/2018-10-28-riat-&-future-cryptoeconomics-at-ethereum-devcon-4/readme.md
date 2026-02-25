@@ -16,9 +16,14 @@ Andrew Newman from RIAT and Ozan Polat from Dezentrum discuss the first issue of
 
 ## Resources
 * https://riat.at/future-cryptoeconomics-launch-devcon4-prague/
+* https://medium.com/riat-institute-for-future-cryptoeconomics/hodling-buidling-spedning-andreas-antonopoulos-about-anonymity-privacy-and-sentiment-changes-in-3baa22c96f5e
+
+## Verification notes
+- The Medium interview transcript documents a RIAT interview with Andreas Antonopoulos and includes questions by Matthias Tarasiewicz and Daniel Pichler (published 2018-06-26).
 
 ## Archive snapshots
 - https://riat.at/future-cryptoeconomics-launch-devcon4-prague/
   - https://web.archive.org/web/20260225053709/https://riat.at/future-cryptoeconomics-launch-devcon4-prague/
+- https://medium.com/riat-institute-for-future-cryptoeconomics/hodling-buidling-spedning-andreas-antonopoulos-about-anonymity-privacy-and-sentiment-changes-in-3baa22c96f5e
 - https://riat.at/wp-content/uploads/2018/10/future-cryptoeconomics.jpg
   - https://web.archive.org/web/20260225053709/https://riat.at/wp-content/uploads/2018/10/future-cryptoeconomics.jpg
