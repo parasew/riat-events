@@ -31,4 +31,4 @@ Die Veranstaltung umfasste auch das **2012 Artistic Technology Colloquium #1** m
   - https://web.archive.org/web/20121122011239/http://artistictechnology.at/
 
 ## Resources
-* http://artistictechnology.at/
+* https://web.archive.org/web/20121122011239/http://artistictechnology.at/

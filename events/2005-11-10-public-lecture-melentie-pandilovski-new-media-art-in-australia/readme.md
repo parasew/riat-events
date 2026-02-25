@@ -9,8 +9,8 @@ country: "Austria"
 organizer: "5uper.net"
 type: "Public Lecture"
 time: "18:00-20:00"
-website: "https://5uper.net/post/129.html"
-  - https://web.archive.org/web/20150209174810/https://5uper.net/post/129.html"
+website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/129.html"
+  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/129.html"
 ---
 
 # Public Lecture – Melentie Pandilovski "New Media Art in Australia"
@@ -22,7 +22,7 @@ website: "https://5uper.net/post/129.html"
 - **Location:** 5uper.net Cuisine Digitale, MuseumsQuartier Vienna
 - **Organizer:** 5uper.net
 - **Type:** Public Lecture
-- **Website:** [5uper.net/post/129.html](https://5uper.net/post/129.html)
+- **Website:** [5uper.net/post/129.html](https://web.archive.org/web/20150209174810/https://5uper.net/post/129.html)
 
 ## Description
 
@@ -46,9 +46,9 @@ The presentation examines artists' engagement with biotechnology:
 "Artists from around Australia & the world showed work examining, critiquing, speculating within, the sphere of the Biotechnological. This nascent science—in its more interventionist forms of gene splicing and chromosomal experiment—might alter the face of the world as we know it & will require ethical judgements and imaginative engagement if these changes are to be safely guided and met with."
 
 ## References
-* https://5uper.net/post/129.html
+* https://web.archive.org/web/20150209174810/https://5uper.net/post/129.html
 
 ## Archive snapshots
-- https://5uper.net/post/129.html
-  - https://web.archive.org/web/20180313101638/https://5uper.net/post/129.html
+- https://web.archive.org/web/20150209174810/https://5uper.net/post/129.html
+  - https://web.archive.org/web/20180313101638/https://web.archive.org/web/20150209174810/https://5uper.net/post/129.html
 

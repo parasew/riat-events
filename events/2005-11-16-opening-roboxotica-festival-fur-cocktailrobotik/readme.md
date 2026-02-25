@@ -9,7 +9,7 @@ country: "Austria"
 organizer: "5uper.net"
 type: "Festival Opening"
 time: "19:00"
-website: "https://5uper.net/post/132.html"
+website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/132.html"
 festival_dates: "November 16-20, 2005"
 opening_hours: "Daily 10:00-22:00"
 ---
@@ -57,10 +57,10 @@ The festival takes place in two locations within MuseumsQuartier Vienna:
 Part of 5uper.net's innovative festival programming that explores the creative applications of technology in everyday life, in this case transforming the traditional craft of bartending through robotics and automation.
 
 ## References
-* https://5uper.net/post/132.html
+* https://web.archive.org/web/20150209174810/https://5uper.net/post/132.html
 
 ## Archive snapshots
-- https://5uper.net/post/132.html
-  - https://web.archive.org/web/20260223024920/https://5uper.net/post/132.html
+- https://web.archive.org/web/20150209174810/https://5uper.net/post/132.html
+  - https://web.archive.org/web/20260223024920/https://web.archive.org/web/20150209174810/https://5uper.net/post/132.html
 - https://web.archive.org/web/20051210040459/http://5uper.net/post/132
 

@@ -9,7 +9,7 @@ country: "Austria"
 organizer: "5uper.net / readme.cc"
 type: "Reading & Literary Event"
 time: "19:00"
-website: "https://5uper.net/post/130.html"
+website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/130.html"
 series: "readme.cc monthly reading series"
 series_start: "June 26, 2005 with Eva Umbauer"
 ---
@@ -55,10 +55,10 @@ Each readme.cc event typically features:
 The 5uper.net Cuisine Digitale serves as an ideal venue for literary events, providing an intimate setting for readings and discussions within the cultural hub of MuseumsQuartier Vienna.
 
 ## References
-* https://5uper.net/post/130.html
+* https://web.archive.org/web/20150209174810/https://5uper.net/post/130.html
 
 ## Archive snapshots
-- https://5uper.net/post/130.html
-  - https://web.archive.org/web/20260223024859/https://5uper.net/post/130.html
+- https://web.archive.org/web/20150209174810/https://5uper.net/post/130.html
+  - https://web.archive.org/web/20260223024859/https://web.archive.org/web/20150209174810/https://5uper.net/post/130.html
 - https://web.archive.org/web/20051210040459/http://5uper.net/post/130
 

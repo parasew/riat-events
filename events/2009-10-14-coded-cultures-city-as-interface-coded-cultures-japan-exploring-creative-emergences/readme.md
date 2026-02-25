@@ -9,7 +9,7 @@ country: "Japan"
 organizer: "5uper.net"
 type: "International Festival"
 time: "October 14-18, 2009"
-website: "https://5uper.net/post/178.html"
+website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/178.html"
 festival_url: "http://codedcultures.net"
 ---
 
@@ -21,7 +21,7 @@ festival_url: "http://codedcultures.net"
 - **Location:** Yokohama and Tokyo, Japan
 - **Organizer:** 5uper.net
 - **Type:** International Festival
-- **Website:** [5uper.net/post/178.html](https://5uper.net/post/178.html)
+- **Website:** [5uper.net/post/178.html](https://web.archive.org/web/20150209174810/https://5uper.net/post/178.html)
 - **Festival Site:** [codedcultures.net](http://codedcultures.net)
 
 ## Description
@@ -46,9 +46,9 @@ The four thematic areas of the festival convey content, forms, and functions of 
 The festival represents the Japanese edition of the CODED CULTURES festival that took place in Vienna in May 2009, creating a binational dialogue between Austrian and Japanese media art scenes within the framework of the Austria-Japan Year 2009 celebrations.
 
 ## References
-* https://5uper.net/post/178.html
+* https://web.archive.org/web/20150209174810/https://5uper.net/post/178.html
 
 ## Archive snapshots
-- https://5uper.net/post/178.html
-  - https://web.archive.org/web/20180313123317/https://5uper.net/post/178.html
+- https://web.archive.org/web/20150209174810/https://5uper.net/post/178.html
+  - https://web.archive.org/web/20180313123317/https://web.archive.org/web/20150209174810/https://5uper.net/post/178.html
 

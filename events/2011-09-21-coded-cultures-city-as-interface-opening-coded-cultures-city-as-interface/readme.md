@@ -9,8 +9,8 @@ country: "Austria"
 organizer: "5uper.net / Coded Cultures"
 type: "Festival Opening"
 time: "19:00"
-website: "https://5uper.net/post/186.html"
-  - https://web.archive.org/web/20150209174810/https://5uper.net/post/186.html"
+website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/186.html"
+  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/186.html"
 festival_url: "http://codedcultures.net"
 facebook_url: "http://www.facebook.com/codedcultures"
 twitter_url: "http://twitter.com/codedcultures"
@@ -25,7 +25,7 @@ twitter_url: "http://twitter.com/codedcultures"
 - **Location:** Odeon (Serapionstheater), Wiener Getreidebörse
 - **Organizer:** 5uper.net / Coded Cultures
 - **Type:** Festival Opening
-- **Website:** [5uper.net/post/186.html](https://5uper.net/post/186.html)
+- **Website:** [5uper.net/post/186.html](https://web.archive.org/web/20150209174810/https://5uper.net/post/186.html)
 - **Festival Site:** [codedcultures.net](http://codedcultures.net)
 
 ## Description
@@ -72,9 +72,9 @@ Coded Cultures was founded in 2004 by the media artist-led organization 5uper.ne
 - **Twitter:** [twitter.com/codedcultures](http://twitter.com/codedcultures)
 
 ## References
-* https://5uper.net/post/186.html
+* https://web.archive.org/web/20150209174810/https://5uper.net/post/186.html
 
 ## Archive snapshots
-- https://5uper.net/post/186.html
-  - https://web.archive.org/web/20150209174810/https://5uper.net/post/186.html
+- https://web.archive.org/web/20150209174810/https://5uper.net/post/186.html
+  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/186.html
 

@@ -104,7 +104,7 @@ This edit-a-thon was part of a series of workshops and events during the Coded C
 ## References
 
 ### Primary Sources
-- **Coded Cultures program**: https://codedcultures.com/program/Workshop-Edit-a-thon/
+- **Coded Cultures program**: https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Workshop-Edit-a-thon/
 - **Eventbrite registration**: https://www.eventbrite.com/e/mz-baltazars-edit-a-thon-tickets-25423816319#
 - **Mz* Baltazar's Laboratory**: http://www.mzbaltazarslaboratory.org/
 
@@ -130,8 +130,8 @@ As part of Coded Cultures Openism, the event contributed to:
 The edit-a-thon exemplified the intersection of feminist activism, technology education, and community building that characterized progressive digital culture events in mid-2010s Vienna.
 
 ## Archive snapshots
-- https://codedcultures.com/program/Workshop-Edit-a-thon/
-  - https://web.archive.org/web/20260225054134/https://codedcultures.com/program/Workshop-Edit-a-thon/
+- https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Workshop-Edit-a-thon/
+  - https://web.archive.org/web/20260225054134/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Workshop-Edit-a-thon/
 - https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21073444%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C62%2C1024%2C512&s=f503641a66aacc892bd5d579ecb1e1f9"
   - https://web.archive.org/web/20260225054134/https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21073444%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C62%2C1024%2C512&s=f503641a66aacc892bd5d579ecb1e1f9"
 - https://www.eventbrite.com/e/mz-baltazars-edit-a-thon-tickets-25423816319#

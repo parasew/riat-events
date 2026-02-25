@@ -36,15 +36,15 @@ https://soundcloud.com/martazapparoli
 
 
 # References
-* https://codedcultures.com/program/Vibrance-Cluster/
+* https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Cluster/
 * https://www.eventbrite.com/e/vibrance-cluster-tickets-25422932676#
 * http://rybn.org
 * http://nimon.org
 * https://soundcloud.com/martazapparoli
 
 ## Archive snapshots
-- https://codedcultures.com/program/Vibrance-Cluster/
-  - https://web.archive.org/web/20260225053711/https://codedcultures.com/program/Vibrance-Cluster/
+- https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Cluster/
+  - https://web.archive.org/web/20260225053711/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Cluster/
 - https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/13116457_1130835003634541_3260422182668089310_o.jpg?_nc_cat=106&_nc_sid=b386c4&_nc_ohc=EF8MZA2PgTAAX_QLdY3&_nc_ht=scontent-vie1-1.xx&tp=6&oh=873bb3e36586f6fa30e410a02fb807fd&oe=5F8F191A
   - https://web.archive.org/web/20260225053711/https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/13116457_1130835003634541_3260422182668089310_o.jpg?_nc_cat=106&_nc_sid=b386c4&_nc_ohc=EF8MZA2PgTAAX_QLdY3&_nc_ht=scontent-vie1-1.xx&tp=6&oh=873bb3e36586f6fa30e410a02fb807fd&oe=5F8F191A
 - https://soundcloud.com/martazapparoli

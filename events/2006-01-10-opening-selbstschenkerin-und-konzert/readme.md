@@ -10,7 +10,7 @@ organizer: "5uper.net"
 type: "Exhibition Opening / Concert"
 year: 2006
 references:
-  - https://5uper.net/post/136.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/136.html
 ---
 
 # Opening: "Selbstschenkerin" und Konzert
@@ -93,7 +93,7 @@ By 2006, 5uper.net was:
 
 ### Primary Source
 - **5uper.net post 136**: Original event announcement (archived but not currently accessible)
-- **Archive reference**: https://5uper.net/post/136.html
+- **Archive reference**: https://web.archive.org/web/20150209174810/https://5uper.net/post/136.html
 
 ### Related 2006 Events
 - **2006-01-27**: Bull and Bear 50/50 exhibition
@@ -106,8 +106,8 @@ The minimal documentation for this event is typical of early 5uper.net events. T
 
 
 ## Archive snapshots
-- https://5uper.net/post/136.html
-  - https://web.archive.org/web/20260223025117/https://5uper.net/post/136.html
-- https://5uper.net/post/136.html
-  - https://web.archive.org/web/20260223025117/https://5uper.net/post/136.html
+- https://web.archive.org/web/20150209174810/https://5uper.net/post/136.html
+  - https://web.archive.org/web/20260223025117/https://web.archive.org/web/20150209174810/https://5uper.net/post/136.html
+- https://web.archive.org/web/20150209174810/https://5uper.net/post/136.html
+  - https://web.archive.org/web/20260223025117/https://web.archive.org/web/20150209174810/https://5uper.net/post/136.html
 

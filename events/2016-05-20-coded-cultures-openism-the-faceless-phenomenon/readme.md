@@ -6,11 +6,11 @@ title: "[Coded Cultures Openism] The Faceless Phenomenon"
 # [Coded Cultures Openism] The Faceless Phenomenon
 
 # References
-* https://codedcultures.com/program/Intervention-Discussion-Performance-Faceless/
+* https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Intervention-Discussion-Performance-Faceless/
 
 ## Archive snapshots
-- https://codedcultures.com/program/Intervention-Discussion-Performance-Faceless/
-  - https://web.archive.org/web/20260225053710/https://codedcultures.com/program/Intervention-Discussion-Performance-Faceless/
+- https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Intervention-Discussion-Performance-Faceless/
+  - https://web.archive.org/web/20260225053710/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Intervention-Discussion-Performance-Faceless/
 
 ## Local Archive
 

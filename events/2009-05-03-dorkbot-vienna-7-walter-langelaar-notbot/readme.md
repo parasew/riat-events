@@ -9,7 +9,7 @@ country: "Austria"
 organizer: "5uper.net / Dorkbot Vienna"
 type: "Artist Presentation & Installation"
 time: "19:00"
-website: "https://5uper.net/post/167.html"
+website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/167.html"
 ---
 
 # DORKBOT VIENNA #7: Walter Langelaar: nOtbOt
@@ -21,7 +21,7 @@ website: "https://5uper.net/post/167.html"
 - **Location:** Metalab Vienna
 - **Organizer:** 5uper.net / Dorkbot Vienna
 - **Type:** Artist Presentation & Installation
-- **Website:** [5uper.net/post/167.html](https://5uper.net/post/167.html)
+- **Website:** [5uper.net/post/167.html](https://web.archive.org/web/20150209174810/https://5uper.net/post/167.html)
 
 ## Description
 
@@ -54,9 +54,9 @@ Walter Langelaar's "nOtbOt" is a self-playing videogame; to be specific, it is a
 Part of the Dorkbot Vienna series and connected to 5uper.net's artist presentations. The project explores themes of automation, human-machine interaction, and the obsolescence of human players in automated systems. Walter Langelaar was officially invited through the quartier21 Artist-in-Residence program recommended by 5uper.net.
 
 ## References
-* https://5uper.net/post/167.html
+* https://web.archive.org/web/20150209174810/https://5uper.net/post/167.html
 
 ## Archive snapshots
-- https://5uper.net/post/167.html
-  - https://web.archive.org/web/20150209184225/https://5uper.net/post/167.html
+- https://web.archive.org/web/20150209174810/https://5uper.net/post/167.html
+  - https://web.archive.org/web/20150209184225/https://web.archive.org/web/20150209174810/https://5uper.net/post/167.html
 

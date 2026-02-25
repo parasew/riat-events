@@ -9,8 +9,8 @@ country: "Austria"
 organizer: "5uper.net / CODED CULTURES"
 type: "Exhibition"
 time: "Opening"
-website: "https://5uper.net/post/172.html"
-  - https://web.archive.org/web/20150209174810/https://5uper.net/post/172.html"
+website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/172.html"
+  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/172.html"
 ---
 
 # Start: CC – Exploring Creative Emergences
@@ -21,7 +21,7 @@ website: "https://5uper.net/post/172.html"
 - **Location:** Freiraum/quartier21, MuseumsQuartier Vienna
 - **Organizer:** 5uper.net / CODED CULTURES
 - **Type:** Exhibition
-- **Website:** [5uper.net/post/172.html](https://5uper.net/post/172.html)
+- **Website:** [5uper.net/post/172.html](https://web.archive.org/web/20150209174810/https://5uper.net/post/172.html)
 
 ## Description
 
@@ -84,9 +84,9 @@ The presented positions from Japan, Austria and Europe are distinguished by crea
 Part of the CODED CULTURES festival exploring creative emergences at the intersection of media arts, technology, and cultural production. The 2009 edition featured three 5uper.net recommended artists-in-residence as part of the quartier21 residency program.
 
 ## References
-* https://5uper.net/post/172.html
+* https://web.archive.org/web/20150209174810/https://5uper.net/post/172.html
 
 ## Archive snapshots
-- https://5uper.net/post/172.html
-  - https://web.archive.org/web/20150209213346/https://5uper.net/post/172.html
+- https://web.archive.org/web/20150209174810/https://5uper.net/post/172.html
+  - https://web.archive.org/web/20150209213346/https://web.archive.org/web/20150209174810/https://5uper.net/post/172.html
 

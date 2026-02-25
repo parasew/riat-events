@@ -9,7 +9,7 @@ country: "Austria"
 organizer: "5uper.net"
 type: "Exhibition & Party"
 time: "June 2-6, 2006 + Party"
-website: "https://5uper.net/post/149.html"
+website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/149.html"
 ---
 
 # Deutz Air Special (Köln) Party!
@@ -20,7 +20,7 @@ website: "https://5uper.net/post/149.html"
 - **Location:** 5uper.net Cuisine Digitale, MuseumsQuartier Vienna
 - **Organizer:** 5uper.net
 - **Type:** Exhibition & Party
-- **Website:** [5uper.net/post/149.html](https://5uper.net/post/149.html)
+- **Website:** [5uper.net/post/149.html](https://web.archive.org/web/20150209174810/https://5uper.net/post/149.html)
 
 ## Description
 
@@ -53,9 +53,9 @@ POPNONAME prepares an ambient set for the exhibition opening, as well as a later
 Part of 5uper.net's program presenting international collaborations and cross-disciplinary projects in the Cuisine Digitale space.
 
 ## References
-* https://5uper.net/post/149.html
+* https://web.archive.org/web/20150209174810/https://5uper.net/post/149.html
 
 ## Archive snapshots
-- https://5uper.net/post/149.html
-  - https://web.archive.org/web/20150209224521/https://5uper.net/post/149.html
+- https://web.archive.org/web/20150209174810/https://5uper.net/post/149.html
+  - https://web.archive.org/web/20150209224521/https://web.archive.org/web/20150209174810/https://5uper.net/post/149.html
 

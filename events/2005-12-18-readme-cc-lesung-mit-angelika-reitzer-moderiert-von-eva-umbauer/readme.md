@@ -9,7 +9,7 @@ country: "Austria"
 organizer: "5uper.net / readme.cc"
 type: "Reading & Literary Event"
 time: "16:00"
-website: "https://5uper.net/post/134.html"
+website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/134.html"
 series: "readme.cc monthly reading series"
 moderator: "Eva Umbauer"
 ---
@@ -57,10 +57,10 @@ The readme.cc format typically includes:
 Taking place on December 18, this event occurs during the holiday season, which may influence the book selection or create a particular atmosphere for the reading.
 
 ## References
-* https://5uper.net/post/134.html
+* https://web.archive.org/web/20150209174810/https://5uper.net/post/134.html
 
 ## Archive snapshots
-- https://5uper.net/post/134.html
-  - https://web.archive.org/web/20260223025051/https://5uper.net/post/134.html
+- https://web.archive.org/web/20150209174810/https://5uper.net/post/134.html
+  - https://web.archive.org/web/20260223025051/https://web.archive.org/web/20150209174810/https://5uper.net/post/134.html
 - https://web.archive.org/web/20051210040459/http://5uper.net/post/134
 

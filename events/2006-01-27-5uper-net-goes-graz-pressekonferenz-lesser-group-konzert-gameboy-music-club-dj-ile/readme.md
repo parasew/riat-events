@@ -9,7 +9,7 @@ country: "Austria"
 organizer: "5uper.net / medien.KUNSTLABOR Kunsthaus Graz / Lesser Group"
 type: "Exhibition Opening & Concert"
 time: "19:00"
-website: "https://5uper.net/post/138.html"
+website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/138.html"
 exhibition_dates: "January 27 - February 10, 2006"
 ---
 
@@ -63,10 +63,10 @@ The event takes place at **medien.KUNSTLABOR Kunsthaus Graz** (media.ARTLABOR Ar
 This event represents 5uper.net's outreach to Graz, Austria's second-largest city and an important cultural center. The collaboration with medien.KUNSTLABOR Kunsthaus Graz expands 5uper.net's network and brings its programming to a new audience.
 
 ## References
-* https://5uper.net/post/138.html
+* https://web.archive.org/web/20150209174810/https://5uper.net/post/138.html
 
 ## Archive snapshots
-- https://5uper.net/post/138.html
-  - https://web.archive.org/web/20260223025142/https://5uper.net/post/138.html
+- https://web.archive.org/web/20150209174810/https://5uper.net/post/138.html
+  - https://web.archive.org/web/20260223025142/https://web.archive.org/web/20150209174810/https://5uper.net/post/138.html
 - https://web.archive.org/web/20060203012501/http://5uper.net/post/138
 

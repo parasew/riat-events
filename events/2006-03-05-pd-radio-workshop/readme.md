@@ -12,8 +12,8 @@ software: "Pure Data (PD)"
 application: "Radio and audio streaming"
 year: 2006
 references:
-  - https://5uper.net/post/143.html
-    - https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
+    - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
 theme: "Audio programming, streaming technology, open source software"
 ---
 
@@ -104,11 +104,11 @@ The workshop responded to:
 ## References
 
 ### Primary Sources
-- **5uper.net post 143**: https://5uper.net/post/143.html
-  - https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
+- **5uper.net post 143**: https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
+  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
 
 ### Archive Snapshots
-- **5uper.net post**: https://web.archive.org/web/20260223030034/https://5uper.net/post/143.html
+- **5uper.net post**: https://web.archive.org/web/20260223030034/https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
 
 ### Related Resources
 - **Pure Data documentation**: Official PD resources and tutorials
@@ -143,8 +143,8 @@ The PD-Radio workshop captured 5uper.net's commitment to practical technical edu
 
 
 ## Archive snapshots
-- https://5uper.net/post/143.html
-  - https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
-  - https://web.archive.org/web/20260225054128/https://5uper.net/post/143.html
-- https://web.archive.org/web/20260223030034/https://5uper.net/post/143.html
-  - https://web.archive.org/web/20260225054128/https://5uper.net/post/143.html
+- https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
+  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
+  - https://web.archive.org/web/20260225054128/https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
+- https://web.archive.org/web/20260223030034/https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
+  - https://web.archive.org/web/20260225054128/https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html

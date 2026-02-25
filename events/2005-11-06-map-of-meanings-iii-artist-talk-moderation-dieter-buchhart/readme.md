@@ -9,7 +9,7 @@ country: "Austria"
 organizer: "5uper.net"
 type: "Artist Talk & Exhibition"
 time: "November 6, 2005"
-website: "https://5uper.net/post/127.html"
+website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/127.html"
 exhibition_dates: "November 1-10, 2005"
 moderator: "Dieter Buchhart"
 ---
@@ -63,10 +63,10 @@ The exhibition and talk likely incorporate various media formats:
 - **Discussions** and exchanges between artists and audience
 
 ## References
-* https://5uper.net/post/127.html
+* https://web.archive.org/web/20150209174810/https://5uper.net/post/127.html
 
 ## Archive snapshots
-- https://5uper.net/post/127.html
-  - https://web.archive.org/web/20180307114829/https://5uper.net/post/127.html
+- https://web.archive.org/web/20150209174810/https://5uper.net/post/127.html
+  - https://web.archive.org/web/20180307114829/https://web.archive.org/web/20150209174810/https://5uper.net/post/127.html
 - https://web.archive.org/web/20051210040459/http://5uper.net/post/127
 

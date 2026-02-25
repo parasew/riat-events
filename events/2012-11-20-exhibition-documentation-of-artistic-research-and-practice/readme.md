@@ -27,4 +27,4 @@ Eine kleine Ausstellung von Prozessartefakten repräsentiert die Arbeiten und ko
 
 ## Resources
 * http://artistictechnology.at/
-  - https://web.archive.org/web/20150818160320/http://artistictechnology.at/
+  - https://web.archive.org/web/20150818160320/https://web.archive.org/web/20121122011239/http://artistictechnology.at/

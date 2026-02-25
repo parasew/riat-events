@@ -9,8 +9,8 @@ country: "Austria"
 organizer: "5uper.net / CODED CULTURES"
 type: "Festival Closing Party"
 time: "Evening"
-website: "https://5uper.net/post/173.html"
-  - https://web.archive.org/web/20150209174810/https://5uper.net/post/173.html"
+website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/173.html"
+  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/173.html"
 ---
 
 # [Coded Cultures: City as Interface] Coded Cultures Closing Event / Party
@@ -22,7 +22,7 @@ website: "https://5uper.net/post/173.html"
 - **Location:** MQ Hofstallungen (MUMOK), MuseumsQuartier Vienna
 - **Organizer:** 5uper.net / CODED CULTURES
 - **Type:** Festival Closing Party
-- **Website:** [5uper.net/post/173.html](https://5uper.net/post/173.html)
+- **Website:** [5uper.net/post/173.html](https://web.archive.org/web/20150209174810/https://5uper.net/post/173.html)
 
 ## Description
 
@@ -50,9 +50,9 @@ Emerging artist from Japan known for his unique sound-performances using everyda
 Part of the CODED CULTURES festival exploring creative emergences at the intersection of media arts, technology, and urban culture.
 
 ## References
-* https://5uper.net/post/173.html
+* https://web.archive.org/web/20150209174810/https://5uper.net/post/173.html
 
 ## Archive snapshots
-- https://5uper.net/post/173.html
-  - https://web.archive.org/web/20150209192819/https://5uper.net/post/173.html
+- https://web.archive.org/web/20150209174810/https://5uper.net/post/173.html
+  - https://web.archive.org/web/20150209192819/https://web.archive.org/web/20150209174810/https://5uper.net/post/173.html
 

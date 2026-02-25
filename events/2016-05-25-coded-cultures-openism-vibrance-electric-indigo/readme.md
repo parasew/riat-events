@@ -22,12 +22,12 @@ Vibrance brings together a selection of artists working with acoustic activity a
 
 
 # References
-* https://codedcultures.com/program/Vibrance-Indigo/
+* https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Indigo/
 * https://www.facebook.com/events/1713919458896003/
 
 ## Archive snapshots
-- https://codedcultures.com/program/Vibrance-Indigo/
-  - https://web.archive.org/web/20260225054134/https://codedcultures.com/program/Vibrance-Indigo/
+- https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Indigo/
+  - https://web.archive.org/web/20260225054134/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Indigo/
 - https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/13173598_1132876836763691_7453415962137315646_o.jpg?_nc_cat=102&_nc_sid=b386c4&_nc_ohc=Q0JYN6AaEwMAX_JCS2d&_nc_ht=scontent-vie1-1.xx&tp=6&oh=89a501c021c4438dfad4974f61e75bec&oe=5F907926
   - https://web.archive.org/web/20260225054134/https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/13173598_1132876836763691_7453415962137315646_o.jpg?_nc_cat=102&_nc_sid=b386c4&_nc_ohc=Q0JYN6AaEwMAX_JCS2d&_nc_ht=scontent-vie1-1.xx&tp=6&oh=89a501c021c4438dfad4974f61e75bec&oe=5F907926
 - https://www.facebook.com/events/1713919458896003/

@@ -9,7 +9,7 @@ country: "Austria"
 organizer: "5uper.net"
 type: "Exhibition"
 time: "Opening"
-website: "https://5uper.net/post/148.html"
+website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/148.html"
 additional_url: "http://vizinhos.5uper.net"
 ---
 
@@ -21,7 +21,7 @@ additional_url: "http://vizinhos.5uper.net"
 - **Location:** Freiraum, MuseumsQuartier Wien
 - **Organizer:** 5uper.net
 - **Type:** Exhibition
-- **Website:** [5uper.net/post/148.html](https://5uper.net/post/148.html)
+- **Website:** [5uper.net/post/148.html](https://web.archive.org/web/20150209174810/https://5uper.net/post/148.html)
 - **Project Site:** [vizinhos.5uper.net](http://vizinhos.5uper.net)
 
 ## Description
@@ -61,9 +61,9 @@ For the vernissage, Brazilian musician **Mauricio Takara** performed. Takara has
 With friendly support from Air France.
 
 ## References
-* https://5uper.net/post/148.html
+* https://web.archive.org/web/20150209174810/https://5uper.net/post/148.html
 
 ## Archive snapshots
-- https://5uper.net/post/148.html
-  - https://web.archive.org/web/20150209193312/https://5uper.net/post/148.html
+- https://web.archive.org/web/20150209174810/https://5uper.net/post/148.html
+  - https://web.archive.org/web/20150209193312/https://web.archive.org/web/20150209174810/https://5uper.net/post/148.html
 

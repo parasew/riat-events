@@ -9,7 +9,7 @@ country: "Austria"
 organizer: "5uper.net / CODED CULTURES / University of Applied Arts"
 type: "Exhibition Opening"
 time: "19:00"
-website: "https://5uper.net/post/175.html"
+website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/175.html"
 additional_url: "http://transmedialekunst.com/"
 ---
 
@@ -24,7 +24,7 @@ additional_url: "http://transmedialekunst.com/"
 - **Location:** University of Applied Arts, Transmedia Arts Department
 - **Organizer:** 5uper.net / CODED CULTURES / University of Applied Arts
 - **Type:** Exhibition Opening
-- **Website:** [5uper.net/post/175.html](https://5uper.net/post/175.html)
+- **Website:** [5uper.net/post/175.html](https://web.archive.org/web/20150209174810/https://5uper.net/post/175.html)
 - **Department Site:** [transmedialekunst.com](http://transmedialekunst.com/)
 
 ## Description
@@ -52,9 +52,9 @@ Each student had to develop an idea in cooperation with a Japanese counterpart, 
 Part of the CODED CULTURES festival pre-events, exploring creative emergences and binational artistic cooperation within the framework of the Austria-Japan Year 2009.
 
 ## References
-* https://5uper.net/post/175.html
+* https://web.archive.org/web/20150209174810/https://5uper.net/post/175.html
 
 ## Archive snapshots
-- https://5uper.net/post/175.html
-  - https://web.archive.org/web/20150209190228/https://5uper.net/post/175.html
+- https://web.archive.org/web/20150209174810/https://5uper.net/post/175.html
+  - https://web.archive.org/web/20150209190228/https://web.archive.org/web/20150209174810/https://5uper.net/post/175.html
 

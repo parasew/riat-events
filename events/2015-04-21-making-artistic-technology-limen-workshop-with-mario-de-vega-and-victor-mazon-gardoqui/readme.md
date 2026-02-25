@@ -13,7 +13,7 @@ workshop_leaders:
   - Víctor Mazón Gardoqui
 series: "Making Artistic Technology"
 year: 2015
-website: "https://artistictechnology.at/workshop.html"
+website: "https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html"
 ---
 
 # [Making Artistic Technology] LIMEN Workshop with Mario de Vega and Víctor Mazón Gardoqui
@@ -123,10 +123,10 @@ LIMEN exemplified the "Artistic Technology" methodology:
 ## References
 
 ### Primary Source
-- **Artistic Technology Research workshop page**: https://artistictechnology.at/workshop.html
+- **Artistic Technology Research workshop page**: https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
 
 ### Archive Snapshots
-- **Workshop page**: https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
+- **Workshop page**: https://web.archive.org/web/20150417153542/https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
 - **Image**: https://web.archive.org/web/20150417153542im_/https://artistictechnology.at/images/limen.jpg
 
 ## Significance
@@ -153,11 +153,11 @@ The workshop exemplified the hands-on, critical approach that characterized Arti
 
 - **Image**: [artistictechnology_at_4_limen.jpg](../documents/artistictechnology_at/images/artistictechnology_at_4_limen.jpg)
 ## Archive snapshots
-- https://artistictechnology.at/workshop.html
-  - https://web.archive.org/web/20260225054129/https://artistictechnology.at/workshop.html
-- https://artistictechnology.at/workshop.html"
-  - https://web.archive.org/web/20260225054129/https://artistictechnology.at/workshop.html"
 - https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
-  - https://web.archive.org/web/20260225054129/https://artistictechnology.at/workshop.html
+  - https://web.archive.org/web/20260225054129/https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
+- https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html"
+  - https://web.archive.org/web/20260225054129/https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html"
+- https://web.archive.org/web/20150417153542/https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
+  - https://web.archive.org/web/20260225054129/https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
 - https://web.archive.org/web/20150417153542im_/https://artistictechnology.at/images/limen.jpg
   - https://web.archive.org/web/20260225054129/https://artistictechnology.at/images/limen.jpg

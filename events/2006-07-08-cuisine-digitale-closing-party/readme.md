@@ -9,7 +9,7 @@ country: "Austria"
 organizer: "5uper.net"
 type: "Closing Party & Event"
 time: "19:30"
-website: "https://5uper.net/post/156.html"
+website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/156.html"
 ---
 
 # Cuisine Digitale Closing Party
@@ -21,7 +21,7 @@ website: "https://5uper.net/post/156.html"
 - **Location:** 5uper.net Cuisine Digitale, Freiraum MuseumsQuartier Wien
 - **Organizer:** 5uper.net
 - **Type:** Closing Party & Event
-- **Website:** [5uper.net/post/156.html](https://5uper.net/post/156.html)
+- **Website:** [5uper.net/post/156.html](https://web.archive.org/web/20150209174810/https://5uper.net/post/156.html)
 
 ## Description
 
@@ -58,9 +58,9 @@ Over 100 artists have worked with 5uper.net in cooperations, including internati
 "The future: everything will be better."
 
 ## References
-* https://5uper.net/post/156.html
+* https://web.archive.org/web/20150209174810/https://5uper.net/post/156.html
 
 ## Archive snapshots
-- https://5uper.net/post/156.html
-  - https://web.archive.org/web/20150209182156/https://5uper.net/post/156.html
+- https://web.archive.org/web/20150209174810/https://5uper.net/post/156.html
+  - https://web.archive.org/web/20150209182156/https://web.archive.org/web/20150209174810/https://5uper.net/post/156.html
 
