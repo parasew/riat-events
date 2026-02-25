@@ -33,6 +33,10 @@ Working title used in RIAT archive:
 - Devcon 5 video (Wayback):
   - https://web.archive.org/web/20220902122706/https://www.youtube.com/watch?v=bAkYIyMJVaY
 
+- https://github.com/parasew/riat-events/blob/master/archive/README.md
+- https://raw.githubusercontent.com/efdevcon/monorepo/master/devcon-api/data/sessions/devcon-5/future-of-open-hardware-in-a-verifiable-decentralised-world.json
+- https://www.youtube.com/watch?v=bAkYIyMJVaY
+- https://www.trustsquare.com/
 ## Archive submission attempts
 - Submitted to Wayback save API:
   - https://raw.githubusercontent.com/efdevcon/monorepo/master/devcon-api/data/sessions/devcon-5/future-of-open-hardware-in-a-verifiable-decentralised-world.json

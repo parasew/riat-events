@@ -31,5 +31,6 @@ Showcase/exhibition entry listed in the RIAT events archive during HCPP (Hackers
 - HCPP URL snapshot:
   - https://web.archive.org/web/20190423002104/https://opt-out.hcpp.cz/#speakers
 
+- https://github.com/parasew/riat-events/blob/master/archive/README.md
 ## Archive submission attempts
 - Wayback save API returned HTTP 523 for both source URLs during this remediation pass.

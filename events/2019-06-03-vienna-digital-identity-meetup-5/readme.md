@@ -143,3 +143,4 @@ The 5th Vienna Digital Identity Meetup exemplified the serious, technical commun
 ## Archive snapshots
 - https://secure.meetupstatic.com/photos/event/9/a/9/highres_481622473.jpeg
   - https://web.archive.org/web/20260224204007/https://secure.meetupstatic.com/photos/event/9/a/9/highres_481622473.jpeg
+- https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/261015488/

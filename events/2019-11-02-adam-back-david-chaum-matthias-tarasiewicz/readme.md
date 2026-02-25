@@ -24,3 +24,5 @@ Language: English. Entry listed as free/open event.
 ## Archive snapshots
 - Meetup (Wayback): https://web.archive.org/web/20191115001201/https://www.meetup.com/BlockchainGreece-0/events/265974634/
 - Bitcointalk (Wayback): https://web.archive.org/web/20200606202952/https://bitcointalk.org/index.php?topic=5196185.0
+- https://www.meetup.com/BlockchainGreece-0/events/265974634/
+- https://bitcointalk.org/index.php?topic=5196185.0

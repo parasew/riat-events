@@ -21,3 +21,6 @@ Wir feiern 10 Jahre Genesis Block in der Bitcoin Blockchain!
 ## Archive snapshots
 - https://www.meetup.com/Bitcoin-Austria/events/257292033/#
   - https://web.archive.org/web/20260224204000/https://www.meetup.com/Bitcoin-Austria/events/257292033/#
+- https://bitcoin-austria.at/70-meetup-10-jahre-bitcoin/
+- https://www.facebook.com/events/368786983670542/
+- https://docs.google.com/presentation/d/e/2PACX-1vRVmyW0MEGUieZmYJqgM51NRSaBCtCsyXR2Gw9Hnz64faWeqIh5XmrCxB3Oj0_fGOB188MoJ2Z17xSj/embed?start=false&loop=false&delayms=3000

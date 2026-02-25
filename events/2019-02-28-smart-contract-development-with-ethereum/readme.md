@@ -34,5 +34,3 @@ How your UI can work with different browsers and wallets
   - https://web.archive.org/web/20260225054135/https://riat.at/smart-contract-development-with-ethereum/
 - https://www.eventbrite.com/e/smart-contract-development-with-ethereum-vienna-february-2019-tickets-56919380399#
   - https://web.archive.org/web/20260225054135/https://www.eventbrite.com/e/smart-contract-development-with-ethereum-vienna-february-2019-tickets-56919380399#
-- https://www.eventbrite.com/e/smart-contract-development-with-ethereum-vienna-february-2019-tickets-56919380399#
-  - https://web.archive.org/web/20260225054135/https://www.eventbrite.com/e/smart-contract-development-with-ethereum-vienna-february-2019-tickets-56919380399#

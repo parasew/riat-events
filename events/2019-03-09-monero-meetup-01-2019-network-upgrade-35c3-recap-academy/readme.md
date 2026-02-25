@@ -45,3 +45,4 @@ In 2019 at RIAT workshops and in-depth courses for Monero will be held. A short 
   - https://web.archive.org/web/20260225054134/https://www.reddit.com/r/Monero/comments/abl4df/35c3_rehrar_report/
 - https://www.reddit.com/r/Monero/comments/apkvym/asic_resistance_hashrate_discussion_thread/
   - https://web.archive.org/web/20260225054134/https://www.reddit.com/r/Monero/comments/apkvym/asic_resistance_hashrate_discussion_thread/
+- http://decentral.community

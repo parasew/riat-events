@@ -23,3 +23,4 @@ Agenda:
 ## Archive snapshots
 - https://www.meetup.com/de-DE/Vienna-Digital-Identity-Meetup/events/258289941/
   - https://web.archive.org/web/20260224204002/https://www.meetup.com/de-DE/Vienna-Digital-Identity-Meetup/events/258289941/
+- https://www.facebook.com/events/239178996988956/

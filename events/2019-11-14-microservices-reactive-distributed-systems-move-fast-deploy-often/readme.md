@@ -31,6 +31,9 @@ Meetup entry listed in the RIAT archive for the MRDS Vienna series (Microservice
 - Related MRDS event URL (Wayback):
   - https://web.archive.org/web/20260223024024/https://www.meetup.com/reactive-vienna/events/264716644/
 
+- https://github.com/parasew/riat-events/blob/master/archive/README.md
+- https://www.meetup.com/reactive-vienna/events/ical/
+- https://www.meetup.com/reactive-vienna/events/264716644/
 ## Archive submission attempts
 - Wayback save submitted for group calendar and related meetup URL.
 - Direct permalink for the exact 2019-11-14 event is still unresolved in this pass.

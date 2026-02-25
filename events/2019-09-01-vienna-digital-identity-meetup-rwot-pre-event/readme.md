@@ -28,3 +28,5 @@ A large number of presentations have been given from
 ## Archive snapshots
 - https://secure.meetupstatic.com/photos/event/8/5/2/2/highres_483994082.jpeg
   - https://web.archive.org/web/20260224204101/https://secure.meetupstatic.com/photos/event/8/5/2/2/highres_483994082.jpeg
+- https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/263159533/
+- https://twitter.com/MattrGlobal/status/1168984373909229568
