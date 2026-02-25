@@ -68,6 +68,18 @@ Part of the inaugural RIAT artist-in-residence program at quartier21, focusing o
 * https://web.archive.org/web/20160304034444/http://artisticbokeh.com/
 
 
+
+## Local Archive
+
+**artisticbokeh.com icons preserved locally**:
+
+- **facebook-icon.png**: [facebook-icon.png](../documents/artisticbokeh/images/facebook-icon.png)
+- **googleplus-icon.png**: [googleplus-icon.png](../documents/artisticbokeh/images/googleplus-icon.png)
+- **twitter-icon.png**: [twitter-icon.png](../documents/artisticbokeh/images/twitter-icon.png)
+- **vimeo-icon.png**: [vimeo-icon.png](../documents/artisticbokeh/images/vimeo-icon.png)
+- **x2.gif**: [x2.gif](../documents/artisticbokeh/images/x2.gif)
+- **youtube-icon.png**: [youtube-icon.png](../documents/artisticbokeh/images/youtube-icon.png)
+
 ## Archive snapshots
 - https://web.archive.org/web/20260225054130/http://artisticbokeh.com//
 - https://mtschaefer.net

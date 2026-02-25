@@ -81,6 +81,18 @@ The exhibition referenced literature on open source, maker culture, and digital 
 This event represents Artistic Bokeh/RIAT's ongoing engagement with open source hardware and the maker movement, particularly in the context of tools for artistic and cultural production.
 
 
+
+## Local Archive
+
+**artisticbokeh.com icons preserved locally**:
+
+- **facebook-icon.png**: [facebook-icon.png](../documents/artisticbokeh/images/facebook-icon.png)
+- **googleplus-icon.png**: [googleplus-icon.png](../documents/artisticbokeh/images/googleplus-icon.png)
+- **twitter-icon.png**: [twitter-icon.png](../documents/artisticbokeh/images/twitter-icon.png)
+- **vimeo-icon.png**: [vimeo-icon.png](../documents/artisticbokeh/images/vimeo-icon.png)
+- **x2.gif**: [x2.gif](../documents/artisticbokeh/images/x2.gif)
+- **youtube-icon.png**: [youtube-icon.png](../documents/artisticbokeh/images/youtube-icon.png)
+
 ## Archive snapshots
 - https://www.mqw.at/programm/programmdetail/apertus-axiom-open-source-cinema-lab/
   - https://web.archive.org/web/20260224204206/https://www.mqw.at/programm/programmdetail/apertus-axiom-open-source-cinema-lab/

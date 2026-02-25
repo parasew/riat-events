@@ -86,6 +86,18 @@ The event was part of **Vienna Art Week 2014**, positioning Australian experimen
 This launch event represented Artistic Bokeh's engagement with international artistic exchange, particularly between Austria and Australia, and its support for experimental art practices and publications. The event connected artistic research, publication, and exhibition within the context of Vienna Art Week.
 
 
+
+## Local Archive
+
+**artisticbokeh.com icons preserved locally**:
+
+- **facebook-icon.png**: [facebook-icon.png](../documents/artisticbokeh/images/facebook-icon.png)
+- **googleplus-icon.png**: [googleplus-icon.png](../documents/artisticbokeh/images/googleplus-icon.png)
+- **twitter-icon.png**: [twitter-icon.png](../documents/artisticbokeh/images/twitter-icon.png)
+- **vimeo-icon.png**: [vimeo-icon.png](../documents/artisticbokeh/images/vimeo-icon.png)
+- **x2.gif**: [x2.gif](../documents/artisticbokeh/images/x2.gif)
+- **youtube-icon.png**: [youtube-icon.png](../documents/artisticbokeh/images/youtube-icon.png)
+
 ## Archive snapshots
 - https://www.facebook.com/events/1006015856079121/
   - https://web.archive.org/web/20260224204207/https://www.facebook.com/events/1006015856079121/

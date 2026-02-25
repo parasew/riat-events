@@ -80,6 +80,18 @@ The exhibition opening was part of **Vienna Art Week 2014**, connecting Australi
 "Never Forever" represented the beginning of the Austria Australia Arts Alliance program at Artistic Bokeh, fostering international artistic exchange and presenting Australian experimental art in Vienna. The exhibition explored themes of impermanence, memory, and architectural decay through light-based installations and sculptural works.
 
 
+
+## Local Archive
+
+**artisticbokeh.com icons preserved locally**:
+
+- **facebook-icon.png**: [facebook-icon.png](../documents/artisticbokeh/images/facebook-icon.png)
+- **googleplus-icon.png**: [googleplus-icon.png](../documents/artisticbokeh/images/googleplus-icon.png)
+- **twitter-icon.png**: [twitter-icon.png](../documents/artisticbokeh/images/twitter-icon.png)
+- **vimeo-icon.png**: [vimeo-icon.png](../documents/artisticbokeh/images/vimeo-icon.png)
+- **x2.gif**: [x2.gif](../documents/artisticbokeh/images/x2.gif)
+- **youtube-icon.png**: [youtube-icon.png](../documents/artisticbokeh/images/youtube-icon.png)
+
 ## Archive snapshots
 - https://www.quartier21.at/programm/programmdetail/jai-mckenzie-aus-never-forever/
   - https://web.archive.org/web/20260224204208/https://www.quartier21.at/programm/programmdetail/jai-mckenzie-aus-never-forever/

@@ -84,6 +84,18 @@ The event referenced literature on urban studies, commons, and civic engagement,
 Urban Knights Vienna represented Artistic Bokeh's engagement with urban activism and alternative city-making practices, connecting artistic research with practical approaches to urban change, governance, and community resources.
 
 
+
+## Local Archive
+
+**artisticbokeh.com icons preserved locally**:
+
+- **facebook-icon.png**: [facebook-icon.png](../documents/artisticbokeh/images/facebook-icon.png)
+- **googleplus-icon.png**: [googleplus-icon.png](../documents/artisticbokeh/images/googleplus-icon.png)
+- **twitter-icon.png**: [twitter-icon.png](../documents/artisticbokeh/images/twitter-icon.png)
+- **vimeo-icon.png**: [vimeo-icon.png](../documents/artisticbokeh/images/vimeo-icon.png)
+- **x2.gif**: [x2.gif](../documents/artisticbokeh/images/x2.gif)
+- **youtube-icon.png**: [youtube-icon.png](../documents/artisticbokeh/images/youtube-icon.png)
+
 ## Archive snapshots
 - https://www.facebook.com/events/1435618953366931/
   - https://web.archive.org/web/20260224204204/https://www.facebook.com/events/1435618953366931/
