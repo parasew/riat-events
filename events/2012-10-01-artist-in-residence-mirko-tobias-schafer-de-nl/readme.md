@@ -64,12 +64,12 @@ Part of the inaugural RIAT artist-in-residence program at quartier21, focusing o
 ## References
 * https://web.archive.org/web/20170726061457/http://www.q21.at/artists-in-residence/artists/artistinfo/mirko-tobias-schaefer-1/
 * https://mtschaefer.net
-* https://artisticbokeh.com
+* https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//
 
 
 ## Archive snapshots
-- https://artisticbokeh.com
-  - https://web.archive.org/web/20260225054130/https://artisticbokeh.com
+- https://web.archive.org/web/20260225054130/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//
 - https://mtschaefer.net
   - https://web.archive.org/web/20260225054130/https://mtschaefer.net
 - https://web.archive.org/web/20170726061457/http://www.q21.at/artists-in-residence/artists/artistinfo/mirko-tobias-schaefer-1/
+

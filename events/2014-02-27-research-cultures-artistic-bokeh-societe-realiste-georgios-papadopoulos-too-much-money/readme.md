@@ -8,7 +8,7 @@ country: "Austria"
 organizer: "Artistic Bokeh"
 type: "Exhibition Opening / Research Presentation"
 time: "19:00"
-website: "https://artisticbokeh.com/post/artistic-bokeh-societe-realiste-georgios-papadopoulos-too-much-money-opening-27-2-2014"
+website: "https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/artistic-bokeh-societe-realiste-georgios-papadopoulos-too-much-money-opening-27-2-2014"
 ---
 
 # [Research Cultures] Artistic Bokeh, Société Réaliste & Georgios Papadopoulos: Too much money…
@@ -73,19 +73,19 @@ RIAT founder and Artistic Bokeh coordinator, providing introduction and context.
 ## References and Links
 
 ### Primary Sources
-- **Artistic Bokeh Post**: [Artistic Bokeh, Société Réaliste & Georgios Papadopoulos: Too much money... Opening: 27.2.2014](https://artisticbokeh.com/post/artistic-bokeh-societe-realiste-georgios-papadopoulos-too-much-money-opening-27-2-2014)
+- **Artistic Bokeh Post**: [Artistic Bokeh, Société Réaliste & Georgios Papadopoulos: Too much money... Opening: 27.2.2014](https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/artistic-bokeh-societe-realiste-georgios-papadopoulos-too-much-money-opening-27-2-2014
 
 ### Related Exhibition
 - **"Too much money" exhibition**: February 27 - May 31, 2014
 - **Flickr documentation**: [72157641626930984](https://www.flickr.com/photos/artisticbokeh/sets/72157641626930984/)
 
 ### Archive Snapshots
-- https://web.archive.org/web/20141016221021/https://artisticbokeh.com/post/artistic-bokeh-societe-realiste-georgios-papadopoulos-too-much-money-opening-27-2-2014
+- https://web.archive.org/web/20141016221021/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/artistic-bokeh-societe-realiste-georgios-papadopoulos-too-much-money-opening-27-2-2014
 
 ## Significance
 This opening event launched a significant exhibition exploring the complex relationship between art, money, and market systems. It brought together artists, researchers, and theorists to examine how economic systems shape artistic production and how art can critically engage with economic realities.
 
 
 ## Archive snapshots
-- https://artisticbokeh.com/post/artistic-bokeh-societe-realiste-georgios-papadopoulos-too-much-money-opening-27-2-2014
-  - https://web.archive.org/web/20260224204200/https://artisticbokeh.com/post/artistic-bokeh-societe-realiste-georgios-papadopoulos-too-much-money-opening-27-2-2014
+- https://web.archive.org/web/20260224204200/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/artistic-bokeh-societe-realiste-georgios-papadopoulos-too-much-money-opening-27-2-2014
+

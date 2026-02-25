@@ -63,18 +63,18 @@ Part of the broader Urban Knights initiative that brings together activists, art
 ## References and Links
 
 ### Primary Sources
-- **Artistic Bokeh Post**: [Urban Knights Vienna, 3.7.2014, paradocks](https://artisticbokeh.com/post/urban-knights-vienna-paradocks)
+- **Artistic Bokeh Post**: [Urban Knights Vienna, 3.7.2014, paradocks](https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/urban-knights-vienna-paradocks
 - **Facebook Event**: [Urban Knights Vienna](https://www.facebook.com/events/1435618953366931/)
 
 ### Project Websites
 - **Urban Knights**: [urbanknights.org](https://www.urbanknights.org)
 - **Polar Produce**: [polarproduce.org](https://www.polarproduce.org)
-- **Artistic Bokeh**: [artisticbokeh.com](https://www.artisticbokeh.com)
+- **Artistic Bokeh**: [artisticbokeh.com](https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//
 - **quartier21**: [quartier21.at](https://www.quartier21.at)
 - **paradocks**: [paradocks.at](https://www.paradocks.at)
 
 ### Archive Snapshots
-- https://web.archive.org/web/20160126130006/https://artisticbokeh.com/post/urban-knights-vienna-paradocks
+- https://web.archive.org/web/20160126130006/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/urban-knights-vienna-paradocks
 
 ## Recommended Reading
 The event referenced literature on urban studies, commons, and civic engagement, including works on urban governance, collective care, and alternative infrastructures.
@@ -86,3 +86,4 @@ Urban Knights Vienna represented Artistic Bokeh's engagement with urban activism
 ## Archive snapshots
 - https://www.facebook.com/events/1435618953366931/
   - https://web.archive.org/web/20260224204204/https://www.facebook.com/events/1435618953366931/
+

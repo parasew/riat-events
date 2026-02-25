@@ -62,7 +62,7 @@ The event was part of the Artistic Technology Research project at the University
 ## References and Links
 
 ### Primary Sources
-- **Artistic Bokeh Post**: [Apertus Axiom - Open Source Cinema Lab](https://artisticbokeh.com/post/apertus-axiom-open-cinema-lab)
+- **Artistic Bokeh Post**: [Apertus Axiom - Open Source Cinema Lab](https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/apertus-axiom-open-cinema-lab
 - **MQW Event Page**: [Apertus Axiom - Open Source Cinema Lab](https://www.mqw.at/programm/programmdetail/apertus-axiom-open-source-cinema-lab/)
 - **Facebook Event**: [371876792974595](https://www.facebook.com/events/371876792974595/)
 
@@ -71,7 +71,6 @@ The event was part of the Artistic Technology Research project at the University
 - **Indiegogo Campaign**: [AXIOM Beta - The First Open Digital Cinema Camera](https://www.indiegogo.com/projects/axiom-beta-the-first-open-digital-cinema-camera)
 
 ### Archive Snapshots
-- https://web.archive.org/web/20150324004605/https://artisticbokeh.com/post/apertus-axiom-open-cinema-lab
 - https://web.archive.org/web/20150324004605/http://www.mqw.at/programm/programmdetail/apertus-axiom-open-source-cinema-lab/
 
 ## Recommended Reading
@@ -84,3 +83,4 @@ This event represents Artistic Bokeh/RIAT's ongoing engagement with open source 
 ## Archive snapshots
 - https://www.mqw.at/programm/programmdetail/apertus-axiom-open-source-cinema-lab/
   - https://web.archive.org/web/20260224204206/https://www.mqw.at/programm/programmdetail/apertus-axiom-open-source-cinema-lab/
+

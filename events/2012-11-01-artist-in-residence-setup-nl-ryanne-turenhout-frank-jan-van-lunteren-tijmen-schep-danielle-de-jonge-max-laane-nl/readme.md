@@ -126,7 +126,7 @@ The "Meet SETUP.NL" event at Metalab likely included:
 - **Metalab event page**: https://metalab.at/wiki/Meet_setup.nl
 - **SETUP.NL website**: http://setup.nl
 - **Artistic Technology Research**: http://artistictechnology.at
-- **Artistic Bokeh**: http://artisticbokeh.com
+- **Artistic Bokeh**: https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//
 
 ### Archive Snapshots
 - **quartier21 page**: https://web.archive.org/web/20170726061535/http://www.q21.at/artists-in-residence/artists/artistinfo/setupnl/
@@ -162,4 +162,5 @@ The SETUP.NL residency and presentation exemplified the international exchange a
 - http://www.q21.at/artists-in-residence/artists/artistinfo/setupnl/
 - http://setup.nl
 - http://artistictechnology.at
-- http://artisticbokeh.com
+- https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//
+

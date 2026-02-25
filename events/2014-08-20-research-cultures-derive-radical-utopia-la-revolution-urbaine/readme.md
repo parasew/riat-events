@@ -58,7 +58,7 @@ Artistic Bokeh invited dérive to present their work as part of the Research Cul
 ## References and Links
 
 ### Primary Sources
-- **Artistic Bokeh Post**: [Radical Utopia? La Revolution urbaine](https://artisticbokeh.com/post/derive-radical-utopia)
+- **Artistic Bokeh Post**: [Radical Utopia? La Revolution urbaine](https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/https://web.archive.org/web/20160304034444/http://artisticbokeh.com//post/derive-radical-utopia
 - **quartier21 Event Page**: [dérive: Radical Utopia? La Revolution urbaine](https://www.quartier21.at/programm/programmdetail/derive-radical-utopia-la-revolution-urbaine/)
 - **Facebook Event**: [801564356530352](https://www.facebook.com/events/801564356530352/)
 
@@ -67,7 +67,6 @@ Artistic Bokeh invited dérive to present their work as part of the Research Cul
 - **urbanize Festival**: [urbanize.at](https://www.urbanize.at)
 
 ### Archive Snapshots
-- https://web.archive.org/web/20150124103052/http://artisticbokeh.com/post/derive-radical-utopia
 - https://web.archive.org/web/20150124103052/http://www.quartier21.at/programm/programmdetail/derive-radical-utopia-la-revolution-urbaine/
 
 ## Exhibition Address
@@ -87,3 +86,4 @@ This exhibition represented Artistic Bokeh's engagement with urban research and 
 ## Archive snapshots
 - https://www.quartier21.at/programm/programmdetail/derive-radical-utopia-la-revolution-urbaine/
   - https://web.archive.org/web/20260224204205/https://www.quartier21.at/programm/programmdetail/derive-radical-utopia-la-revolution-urbaine/
+
