@@ -53,3 +53,7 @@ https://soundcloud.com/martazapparoli
   - https://web.archive.org/web/20260225053711/https://www.eventbrite.com/e/vibrance-cluster-tickets-25422932676#
 - http://rybn.org
 - http://nimon.org
+
+## Local Archive
+
+*Note: Critical Coded Cultures materials (programs, flyers, posters) are preserved in the local archive at `documents/codedcultures/`.*

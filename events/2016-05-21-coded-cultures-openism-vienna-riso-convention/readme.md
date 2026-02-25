@@ -122,3 +122,7 @@ The Vienna RISO Convention exemplified Coded Cultures' holistic approach to digi
 ## Archive snapshots
 - https://codedcultures.com/program/Intervention-RISO-Convention/
   - https://web.archive.org/web/20260225053710/https://codedcultures.com/program/Intervention-RISO-Convention/
+
+## Local Archive
+
+*Note: Critical Coded Cultures materials (programs, flyers, posters) are preserved in the local archive at `documents/codedcultures/`.*

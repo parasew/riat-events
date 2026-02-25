@@ -11,3 +11,7 @@ title: "[Coded Cultures Openism] Ethereum & the DAO"
 ## Archive snapshots
 - https://codedcultures.com/program/Meetup-Ethereum/
   - https://web.archive.org/web/20260225054133/https://codedcultures.com/program/Meetup-Ethereum/
+
+## Local Archive
+
+*Note: Critical Coded Cultures materials (programs, flyers, posters) are preserved in the local archive at `documents/codedcultures/`.*

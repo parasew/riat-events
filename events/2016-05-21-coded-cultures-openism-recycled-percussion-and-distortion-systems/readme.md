@@ -121,3 +121,7 @@ The "Recycled Percussion and Distortion Systems" event exemplified Coded Culture
 ## Archive snapshots
 - https://codedcultures.com/program/Repair-000/
   - https://web.archive.org/web/20260225053710/https://codedcultures.com/program/Repair-000/
+
+## Local Archive
+
+*Note: Critical Coded Cultures materials (programs, flyers, posters) are preserved in the local archive at `documents/codedcultures/`.*

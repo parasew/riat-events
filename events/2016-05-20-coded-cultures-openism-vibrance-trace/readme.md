@@ -139,3 +139,7 @@ The "Vibrance – Trace" event exemplified Coded Cultures' serious engagement wi
 ## Archive snapshots
 - https://codedcultures.com/program/Vibrance-Trace/
   - https://web.archive.org/web/20260224204700/https://codedcultures.com/program/Vibrance-Trace/
+
+## Local Archive
+
+*Note: Critical Coded Cultures materials (programs, flyers, posters) are preserved in the local archive at `documents/codedcultures/`.*

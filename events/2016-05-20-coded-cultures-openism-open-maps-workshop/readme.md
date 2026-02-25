@@ -11,3 +11,7 @@ title: "[Coded Cultures Openism] Open Maps Workshop"
 ## Archive snapshots
 - https://codedcultures.com/program/Workshop-Open-Maps/
   - https://web.archive.org/web/20260225054133/https://codedcultures.com/program/Workshop-Open-Maps/
+
+## Local Archive
+
+*Note: Critical Coded Cultures materials (programs, flyers, posters) are preserved in the local archive at `documents/codedcultures/`.*

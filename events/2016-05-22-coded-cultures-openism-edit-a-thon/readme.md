@@ -137,3 +137,7 @@ The edit-a-thon exemplified the intersection of feminist activism, technology ed
 - https://www.eventbrite.com/e/mz-baltazars-edit-a-thon-tickets-25423816319#
   - https://web.archive.org/web/20260225054134/https://www.eventbrite.com/e/mz-baltazars-edit-a-thon-tickets-25423816319#
 - http://www.mzbaltazarslaboratory.org/
+
+## Local Archive
+
+*Note: Critical Coded Cultures materials (programs, flyers, posters) are preserved in the local archive at `documents/codedcultures/`.*

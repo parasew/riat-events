@@ -45,3 +45,7 @@ Day III https://www.facebook.com/events/970599456391968/
   - https://web.archive.org/web/20260225054130/https://www.facebook.com/events/543785985808927/
 - https://www.facebook.com/events/606668406160374/
   - https://web.archive.org/web/20260225054130/https://www.facebook.com/events/606668406160374/
+
+## Local Archive
+
+*Note: Critical Coded Cultures materials (programs, flyers, posters) are preserved in the local archive at `documents/codedcultures/`.*

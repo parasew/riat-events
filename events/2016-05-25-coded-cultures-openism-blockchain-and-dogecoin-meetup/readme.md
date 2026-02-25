@@ -136,3 +136,7 @@ The Blockchain and Dogecoin meetup exemplified Coded Cultures' innovative approa
 ## Archive snapshots
 - https://codedcultures.com/program/Workshop-doge-coin/
   - https://web.archive.org/web/20260224201000/https://codedcultures.com/program/Workshop-doge-coin/
+
+## Local Archive
+
+*Note: Critical Coded Cultures materials (programs, flyers, posters) are preserved in the local archive at `documents/codedcultures/`.*

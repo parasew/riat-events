@@ -47,3 +47,7 @@ Mit: Max Gurresch, Kira Koplin, Denise Helene Sumi, Bastian Wilplinger und Tomas
   - https://web.archive.org/web/20260225054133/https://www.eventbrite.com/e/discussion-immersive-arts-tickets-25423585629#
 - https://www.facebook.com/events/273326949679907/
   - https://web.archive.org/web/20260225054133/https://www.facebook.com/events/273326949679907/
+
+## Local Archive
+
+*Note: Critical Coded Cultures materials (programs, flyers, posters) are preserved in the local archive at `documents/codedcultures/`.*

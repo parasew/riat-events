@@ -35,3 +35,7 @@ To follow their two releases on Barcelona’s Anòmia label, including 2014’s 
 - https://www.facebook.com/events/261463000872775/
   - https://web.archive.org/web/20260224204506/https://www.facebook.com/events/261463000872775/
 - https://codedcultures.com/program/Vibrance-Transmission/
+
+## Local Archive
+
+*Note: Critical Coded Cultures materials (programs, flyers, posters) are preserved in the local archive at `documents/codedcultures/`.*

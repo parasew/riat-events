@@ -46,3 +46,7 @@ When machines are capable of doing all manual and informational work for us, we 
 - https://www.facebook.com/events/970599456391968/
   - https://web.archive.org/web/20260225053710/https://www.facebook.com/events/970599456391968/
 - http://continentcontinent.cc/index.php/continent/pages/view/openscenarios
+
+## Local Archive
+
+*Note: Critical Coded Cultures materials (programs, flyers, posters) are preserved in the local archive at `documents/codedcultures/`.*

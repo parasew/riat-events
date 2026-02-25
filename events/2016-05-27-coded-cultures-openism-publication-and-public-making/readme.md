@@ -11,3 +11,7 @@ title: "[Coded Cultures Openism] Publication and Public Making"
 ## Archive snapshots
 - https://codedcultures.com/program/Intervention-Discussion-public-making/
   - https://web.archive.org/web/20260225053711/https://codedcultures.com/program/Intervention-Discussion-public-making/
+
+## Local Archive
+
+*Note: Critical Coded Cultures materials (programs, flyers, posters) are preserved in the local archive at `documents/codedcultures/`.*

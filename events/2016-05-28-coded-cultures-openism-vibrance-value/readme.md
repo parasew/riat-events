@@ -30,3 +30,7 @@ David Kontra is the xo-founder of BINARIA, a platform founded in Mexico City in 
 - https://www.eventbrite.com/e/vibrance-value-tickets-25421314837#
   - https://web.archive.org/web/20260224204503/https://www.eventbrite.com/e/vibrance-value-tickets-25421314837#
 - https://codedcultures.com/program/Vibrance-Value/
+
+## Local Archive
+
+*Note: Critical Coded Cultures materials (programs, flyers, posters) are preserved in the local archive at `documents/codedcultures/`.*
