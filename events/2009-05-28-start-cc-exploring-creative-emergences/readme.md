@@ -55,7 +55,7 @@ The presented positions from Japan, Austria and Europe are distinguished by crea
 - Saso Sedlacek (SLO)
 - SHIMURABROS. (JP)
 - Ludic Society (Margarete Jahrmann, Gordan Savicic, Phillip Lammer) (AT)
-- Tetsuya Umeda (JP) - [MQW Event Page](https://www.mqw.at/en/institutions/q21/program/2009/05/air-base-nr-15-tetsuya-umeda-jap)
+- Tetsuya Umeda (JP) - [MQW Event Page](http://web.archive.org/web/20250713022123/https://www.mqw.at/en/institutions/q21/program/2009/05/air-base-nr-15-tetsuya-umeda-jap)
 - Mamoru Okuno (JP) - [MQW Artist Page](http://web.archive.org/web/20250325215731/https://www.mqw.at/en/institutions/q21/artists-in-residence/2009/mamoru-okuno)
 
 ## Official MQW Archive Information
@@ -77,7 +77,7 @@ The presented positions from Japan, Austria and Europe are distinguished by crea
    - Area: Sound Art / Installation Art
    - Residence: Osaka, Japan
    - Time Period: May 2009 (AiR base Nr. 15)
-   - [MQW Event Page](https://www.mqw.at/en/institutions/q21/program/2009/05/air-base-nr-15-tetsuya-umeda-jap)
+   - [MQW Event Page](http://web.archive.org/web/20250713022123/https://www.mqw.at/en/institutions/q21/program/2009/05/air-base-nr-15-tetsuya-umeda-jap)
 
 ## Context
 
