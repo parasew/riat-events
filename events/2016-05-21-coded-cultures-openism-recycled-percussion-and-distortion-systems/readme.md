@@ -13,6 +13,7 @@ year: 2016
 theme: "DIY instruments, recycled materials, percussion, distortion, sound systems"
 references:
   - https://codedcultures.com/program/Repair-000/
+    - https://web.archive.org/web/20160913214734/https://codedcultures.com/program/Repair-000/
 ---
 
 # [Coded Cultures Openism] Recycled Percussion and Distortion Systems
@@ -86,6 +87,7 @@ The event demonstrated Coded Cultures' commitment to:
 
 ### Primary Source
 - **Coded Cultures program page**: https://codedcultures.com/program/Repair-000/
+  - https://web.archive.org/web/20160913214734/https://codedcultures.com/program/Repair-000/
 
 ### Related Context
 - **DIY instrument building**: Techniques and communities around handmade instruments
@@ -120,6 +122,7 @@ The "Recycled Percussion and Distortion Systems" event exemplified Coded Culture
 
 ## Archive snapshots
 - https://codedcultures.com/program/Repair-000/
+  - https://web.archive.org/web/20160913214734/https://codedcultures.com/program/Repair-000/
   - https://web.archive.org/web/20260225053710/https://codedcultures.com/program/Repair-000/
 
 ## Local Archive
