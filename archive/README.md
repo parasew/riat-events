@@ -6,9 +6,9 @@
 [Activities 2017-2012]: ./2017-2012.md
 [Activities 2003-2011]: ./2003-2011.md
 
-# RIAT events archive
+# RIAT events overview
 
-## Historical event archive of RIAT 
+Find full event lists in the year archives
 
 | Date | Title | Media | Location | City, Country |
 | :--- | :--- | :--- | :--- | :--- |
