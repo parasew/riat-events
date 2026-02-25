@@ -107,7 +107,7 @@ The minimal documentation for this event is typical of early 5uper.net events. T
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/136.html
-  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/136.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/136.html
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/136.html
-  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/136.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/136.html
 

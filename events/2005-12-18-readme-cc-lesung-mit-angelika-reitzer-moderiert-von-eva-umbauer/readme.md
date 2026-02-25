@@ -61,6 +61,6 @@ Taking place on December 18, this event occurs during the holiday season, which 
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/134.html
-  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/134.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/134.html
 - https://web.archive.org/web/20051210040459/http://5uper.net/post/134
 

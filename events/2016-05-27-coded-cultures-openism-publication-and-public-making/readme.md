@@ -10,7 +10,7 @@ title: "[Coded Cultures Openism] Publication and Public Making"
 
 ## Archive snapshots
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-Discussion-public-making/
-  - https://web.archive.org/web/20260225053711/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-Discussion-public-making/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-Discussion-public-making/
 
 ## Local Archive
 

@@ -11,5 +11,5 @@ title: "CC Pre-event: Workshop by Hiroshi Yoshioka and seminar on Open Source"
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/176.html
-  - https://web.archive.org/web/20150209190738/https://web.archive.org/web/20150209174810/https://5uper.net/post/176.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/176.html
 

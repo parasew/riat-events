@@ -10,7 +10,7 @@ organizer: "5uper.net"
 type: "Exhibition Opening & Party"
 time: "20:00"
 website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/133.html"
-  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/133.html"
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/133.html"
 exhibition_dates: "December 16, 2005 - January 3, 2006"
 ---
 
@@ -65,13 +65,13 @@ The original 5uper.net post reference (135.html) appears to be unarchived, but p
 
 ## References
 * https://web.archive.org/web/20150209174810/https://5uper.net/post/135.html (original reference, may be unarchived)
-  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/135.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/135.html
 * https://web.archive.org/web/20150209174810/https://5uper.net/post/133.html (related post about the exhibition)
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/135.html
-  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/135.html
-  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/135.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/135.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/135.html
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/133.html
   - https://web.archive.org/web/20051210040459/http://5uper.net/post/133
 

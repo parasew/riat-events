@@ -10,7 +10,7 @@ title: "[Coded Cultures Openism] Overflo Uranium Workshop"
 
 ## Archive snapshots
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-overflo/
-  - https://web.archive.org/web/20260225053710/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-overflo/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-overflo/
 
 ## Local Archive
 

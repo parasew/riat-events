@@ -11,5 +11,5 @@ title: "Rounding Error – Installationen von Toby Heys (Battery Operated, KIT)"
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/133.html
-  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/133.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/133.html
 

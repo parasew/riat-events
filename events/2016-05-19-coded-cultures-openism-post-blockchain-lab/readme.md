@@ -10,7 +10,7 @@ title: "[Coded Cultures Openism] Post Blockchain Lab"
 
 ## Archive snapshots
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Lab-Block-chain/
-  - https://web.archive.org/web/20260225054130/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Lab-Block-chain/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Lab-Block-chain/
 
 ## Local Archive
 

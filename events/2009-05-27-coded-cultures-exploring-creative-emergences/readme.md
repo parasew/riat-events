@@ -12,7 +12,7 @@ title: "[Coded Cultures] Exploring Creative Emergences"
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/171.html
-  - https://web.archive.org/web/20150209214736/https://web.archive.org/web/20150209174810/https://5uper.net/post/171.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/171.html
 - https://igkulturwien.net/fileadmin/innopreis/2010/Projektbeschreibung_5uper.net_Coded_Cultures.pdf
   - https://web.archive.org/web/20150209174810/https://igkulturwien.net/fileadmin/innopreis/2010/Projektbeschreibung_5uper.net_Coded_Cultures.pdf
 

@@ -11,5 +11,5 @@ title: "Opening: Eager Eyes"
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/150.html
-  - https://web.archive.org/web/20150209185431/https://web.archive.org/web/20150209174810/https://5uper.net/post/150.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/150.html
 

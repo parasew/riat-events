@@ -11,5 +11,5 @@ title: "LIFE MUSIC – lecture von Günther Albrecht"
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/140.html
-  - https://web.archive.org/web/20191015161232/https://web.archive.org/web/20150209174810/https://5uper.net/post/140.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/140.html
 

@@ -65,5 +65,5 @@ With friendly support from Air France.
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/148.html
-  - https://web.archive.org/web/20150209193312/https://web.archive.org/web/20150209174810/https://5uper.net/post/148.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/148.html
 

@@ -10,7 +10,7 @@ organizer: "5uper.net / Dorkbot Vienna"
 type: "Artist Talk & Presentation"
 time: "19:00"
 website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/170.html"
-  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/170.html"
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/170.html"
 additional_url: "http://dorkbot.org/dorkbotvienna/dorkbot-vienna-8.html"
 artist_url: "http://www.siranami.com/"
 ---
@@ -64,5 +64,5 @@ Part of the Dorkbot Vienna series and connected to 5uper.net's artist-in-residen
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/170.html
-  - https://web.archive.org/web/20150209191335/https://web.archive.org/web/20150209174810/https://5uper.net/post/170.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/170.html
 

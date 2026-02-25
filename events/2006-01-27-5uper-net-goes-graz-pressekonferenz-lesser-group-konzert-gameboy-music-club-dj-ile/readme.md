@@ -67,6 +67,6 @@ This event represents 5uper.net's outreach to Graz, Austria's second-largest cit
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/138.html
-  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/138.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/138.html
 - https://web.archive.org/web/20060203012501/http://5uper.net/post/138
 

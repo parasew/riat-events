@@ -13,7 +13,7 @@ year: 2016
 theme: "RISO printing, DIY publishing, zine culture, printmaking"
 references:
   - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-RISO-Convention/
-    - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-RISO-Convention/
+    - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-RISO-Convention/
 ---
 
 # [Coded Cultures Openism] Vienna RISO Convention
@@ -88,7 +88,7 @@ The event demonstrated Coded Cultures' engagement with:
 
 ### Primary Source
 - **Coded Cultures program page**: https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-RISO-Convention/
-  - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-RISO-Convention/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-RISO-Convention/
 
 ### RISO Printing Context
 - **RISO technology**: Technical specifications and capabilities
@@ -123,8 +123,8 @@ The Vienna RISO Convention exemplified Coded Cultures' holistic approach to digi
 
 ## Archive snapshots
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-RISO-Convention/
-  - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-RISO-Convention/
-  - https://web.archive.org/web/20260225053710/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-RISO-Convention/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-RISO-Convention/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-RISO-Convention/
 
 ## Local Archive
 

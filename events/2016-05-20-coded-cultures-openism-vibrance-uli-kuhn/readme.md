@@ -10,7 +10,7 @@ title: "[Coded Cultures Openism] Vibrance – Uli Kühn"
 
 ## Archive snapshots
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Uli/
-  - https://web.archive.org/web/20260225054130/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Uli/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Uli/
 
 ## Local Archive
 

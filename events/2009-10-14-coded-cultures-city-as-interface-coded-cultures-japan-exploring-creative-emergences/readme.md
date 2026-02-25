@@ -50,5 +50,5 @@ The festival represents the Japanese edition of the CODED CULTURES festival that
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/178.html
-  - https://web.archive.org/web/20180313123317/https://web.archive.org/web/20150209174810/https://5uper.net/post/178.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/178.html
 

@@ -10,7 +10,7 @@ organizer: "5uper.net / CODED CULTURES"
 type: "Exhibition"
 time: "Opening"
 website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/172.html"
-  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/172.html"
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/172.html"
 ---
 
 # Start: CC – Exploring Creative Emergences
@@ -88,5 +88,5 @@ Part of the CODED CULTURES festival exploring creative emergences at the interse
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/172.html
-  - https://web.archive.org/web/20150209213346/https://web.archive.org/web/20150209174810/https://5uper.net/post/172.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/172.html
 

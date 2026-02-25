@@ -10,7 +10,7 @@ title: "[Coded Cultures Openism] Open Publishing Lab"
 
 ## Archive snapshots
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Lab-Open-Publishing/
-  - https://web.archive.org/web/20260225054132/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Lab-Open-Publishing/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Lab-Open-Publishing/
 
 ## Local Archive
 

@@ -67,6 +67,6 @@ The exhibition and talk likely incorporate various media formats:
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/127.html
-  - https://web.archive.org/web/20180307114829/https://web.archive.org/web/20150209174810/https://5uper.net/post/127.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/127.html
 - https://web.archive.org/web/20051210040459/http://5uper.net/post/127
 

@@ -10,7 +10,7 @@ title: "[Coded Cultures Openism] AXIOM Open Cinema Lab"
 
 ## Archive snapshots
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Lab-Open-Cinema/
-  - https://web.archive.org/web/20260225053710/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Lab-Open-Cinema/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Lab-Open-Cinema/
 
 ## Local Archive
 

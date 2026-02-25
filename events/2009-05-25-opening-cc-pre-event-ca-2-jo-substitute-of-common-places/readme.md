@@ -56,5 +56,5 @@ Part of the CODED CULTURES festival pre-events, exploring creative emergences an
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/175.html
-  - https://web.archive.org/web/20150209190228/https://web.archive.org/web/20150209174810/https://5uper.net/post/175.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/175.html
 

@@ -58,5 +58,5 @@ Part of the Dorkbot Vienna series and connected to 5uper.net's artist presentati
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/167.html
-  - https://web.archive.org/web/20150209184225/https://web.archive.org/web/20150209174810/https://5uper.net/post/167.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/167.html
 

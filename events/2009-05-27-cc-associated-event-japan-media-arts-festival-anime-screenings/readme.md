@@ -11,5 +11,5 @@ title: "CC Associated Event: Japan Media Arts Festival – Anime Screenings"
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/174.html
-  - https://web.archive.org/web/20150209215751/https://web.archive.org/web/20150209174810/https://5uper.net/post/174.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/174.html
 

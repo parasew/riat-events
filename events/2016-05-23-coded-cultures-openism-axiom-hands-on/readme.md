@@ -10,7 +10,7 @@ title: "[Coded Cultures Openism] AXIOM Hands On"
 
 ## Archive snapshots
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-AXIOM-Hands-On/
-  - https://web.archive.org/web/20260225054133/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-AXIOM-Hands-On/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-AXIOM-Hands-On/
 
 ## Local Archive
 

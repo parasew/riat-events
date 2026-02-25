@@ -126,7 +126,7 @@ LIMEN exemplified the "Artistic Technology" methodology:
 - **Artistic Technology Research workshop page**: https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
 
 ### Archive Snapshots
-- **Workshop page**: https://web.archive.org/web/20150417153542/https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
+- **Workshop page**: https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
 - **Image**: https://web.archive.org/web/20150417153542im_/https://artistictechnology.at/images/limen.jpg
 
 ## Significance
@@ -154,10 +154,10 @@ The workshop exemplified the hands-on, critical approach that characterized Arti
 - **Image**: [artistictechnology_at_4_limen.jpg](../documents/artistictechnology/images/artistictechnology_at_4_limen.jpg)
 ## Archive snapshots
 - https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
-  - https://web.archive.org/web/20121122011239/https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
+  - https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
 - https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html"
-  - https://web.archive.org/web/20121122011239/https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html"
-- https://web.archive.org/web/20150417153542/https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
-  - https://web.archive.org/web/20121122011239/https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
+  - https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html"
+- https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
+  - https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
 - https://web.archive.org/web/20150417153542im_/https://artistictechnology.at/images/limen.jpg
   - https://web.archive.org/web/20121122011239/https://artistictechnology.at/images/limen.jpg

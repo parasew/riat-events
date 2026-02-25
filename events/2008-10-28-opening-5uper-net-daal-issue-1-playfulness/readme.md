@@ -90,5 +90,5 @@ The DAAL (Digital Arts and Architecture Lab) project represents a structure for 
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/162.html
-  - https://web.archive.org/web/20150209182049/https://web.archive.org/web/20150209174810/https://5uper.net/post/162.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/162.html
 

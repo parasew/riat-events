@@ -62,5 +62,5 @@ Over 100 artists have worked with 5uper.net in cooperations, including internati
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/156.html
-  - https://web.archive.org/web/20150209182156/https://web.archive.org/web/20150209174810/https://5uper.net/post/156.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/156.html
 

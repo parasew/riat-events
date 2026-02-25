@@ -11,5 +11,5 @@ title: "Opening: Epizentrum – Eine interaktive Installation von Martin Zeplich
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/146.html
-  - https://web.archive.org/web/20150209213512/https://web.archive.org/web/20150209174810/https://5uper.net/post/146.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/146.html
 

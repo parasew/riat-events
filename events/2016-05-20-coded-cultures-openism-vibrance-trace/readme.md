@@ -14,7 +14,7 @@ year: 2016
 theme: "Digital traces, tracking, surveillance, data footprints"
 references:
   - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
-    - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
+    - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
 ---
 
 # [Coded Cultures Openism] Vibrance – Trace
@@ -105,7 +105,7 @@ This event contributed to:
 
 ### Primary Source
 - **Coded Cultures program page**: https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
-  - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
 
 ### Related Context
 - **Digital trace studies**: Academic research on data footprints and tracking
@@ -140,8 +140,8 @@ The "Vibrance – Trace" event exemplified Coded Cultures' serious engagement wi
 
 ## Archive snapshots
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
-  - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
-  - https://web.archive.org/web/20260224204700/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
 
 ## Local Archive
 

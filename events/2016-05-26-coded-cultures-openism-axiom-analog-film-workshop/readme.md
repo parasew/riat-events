@@ -10,7 +10,7 @@ title: "[Coded Cultures Openism] AXIOM Analog Film Workshop"
 
 ## Archive snapshots
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-AXIOM-Analogue-film/
-  - https://web.archive.org/web/20260225053710/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-AXIOM-Analogue-film/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-AXIOM-Analogue-film/
 
 ## Local Archive
 

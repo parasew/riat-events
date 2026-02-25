@@ -11,5 +11,5 @@ title: "readme.cc-Lesung mit Werner Hörtner"
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/137.html
-  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/137.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/137.html
 

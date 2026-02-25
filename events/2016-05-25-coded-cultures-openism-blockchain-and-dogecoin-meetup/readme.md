@@ -13,7 +13,7 @@ year: 2016
 topic: "Blockchain technology, Dogecoin, cryptocurrency culture"
 references:
   - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-doge-coin/
-    - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-doge-coin/
+    - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-doge-coin/
 ---
 
 # [Coded Cultures Openism] Blockchain and Dogecoin Meetup
@@ -102,7 +102,7 @@ The event demonstrated Coded Cultures' commitment to:
 
 ### Primary Source
 - **Coded Cultures program page**: https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-doge-coin/
-  - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-doge-coin/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-doge-coin/
 
 ### Dogecoin Context (2016)
 - **Dogecoin community**: Forums, social media, and community initiatives
@@ -137,8 +137,8 @@ The Blockchain and Dogecoin meetup exemplified Coded Cultures' innovative approa
 
 ## Archive snapshots
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-doge-coin/
-  - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-doge-coin/
-  - https://web.archive.org/web/20260224201000/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-doge-coin/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-doge-coin/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-doge-coin/
 
 ## Local Archive
 

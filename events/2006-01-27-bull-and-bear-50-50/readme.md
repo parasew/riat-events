@@ -11,5 +11,5 @@ title: "Bull and Bear – 50:50"
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/139.html
-  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/139.html
+  - https://web.archive.org/web/20150209174810/https://5uper.net/post/139.html
 
