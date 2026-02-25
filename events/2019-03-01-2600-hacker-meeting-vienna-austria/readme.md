@@ -4,8 +4,8 @@ date: 2019-03-01T18:00+02:00
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2019/03/01"
-enddate:   "2019/03/01"
+startdate: "2019-03-01"
+enddate:   "2019-03-01"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/s960x960/52105027_2227299830665974_1060845488909058048_o.jpg?_nc_cat=100&_nc_sid=b386c4&_nc_ohc=cmxfAJP81eEAX9RwqWS&_nc_ht=scontent-vie1-1.xx&tp=7&oh=9467de1a7acd19ca7ee35ddd124fb22f&oe=5F85DE97
 category: meetup, RIAT vienna, 2600
 ---

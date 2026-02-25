@@ -1,7 +1,7 @@
 ---
 title: "Vienna Digital Identity Meetup #4"
 location: "RIAT Vienna"
-startdate: "2019/04/29"
+startdate: "2019-04-29"
 image: https://secure.meetupstatic.com/photos/event/e/6/f/d/highres_480299133.jpeg
 category: "meetup"
 ---

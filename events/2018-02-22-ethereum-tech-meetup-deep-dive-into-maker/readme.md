@@ -4,8 +4,8 @@ date: "2018-02-22T18:00+02:00"
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2018/02/22"
-enddate:   "2018/02/22"
+startdate: "2018-02-22"
+enddate:   "2018-02-22"
 image: https://secure.meetupstatic.com/photos/event/4/d/d/c/600_339079932.jpeg
 category: Ethereum Austria 
 ---

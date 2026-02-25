@@ -3,7 +3,7 @@ title: "Vienna Digital Identity Meetup #6: An Evening with Holochain"
 date: 2019-07-11T18:00:00+02:00
 draft: false
 location: "MQ Vienna"
-startdate: "2019/07/11"
+startdate: "2019-07-11"
 image: https://secure.meetupstatic.com/photos/event/5/1/e/6/highres_482780966.jpeg
 urls: ["one","two"]
 category: digital identity

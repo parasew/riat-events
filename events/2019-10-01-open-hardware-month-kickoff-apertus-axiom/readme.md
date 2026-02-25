@@ -4,8 +4,8 @@ date: 2019-10-01T18:00+02:00
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2019/10/01"
-enddate:   "2019/10/01"
+startdate: "2019-10-01"
+enddate:   "2019-10-01"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/71178978_2610784328984187_6700465336166121472_o.jpg?_nc_cat=100&_nc_sid=b386c4&_nc_ohc=-m-E0FkXs_8AX-HQbVu&_nc_ht=scontent-vie1-1.xx&oh=033400823218ed9d328fe7527dd82a43&oe=5F834C36
 category: open hardware, axiom
 ---

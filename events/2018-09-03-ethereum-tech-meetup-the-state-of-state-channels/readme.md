@@ -4,8 +4,8 @@ date: "2018-09-03T18:00+02:00"
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2018/09/03"
-enddate:   "2018/09/03"
+startdate: "2018-09-03"
+enddate:   "2018-09-03"
 image:
 category: RIAT Labs
 ---

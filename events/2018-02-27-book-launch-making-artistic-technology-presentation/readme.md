@@ -4,8 +4,8 @@ date: "2018-02-27T18:00+02:00"
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2018/02/27"
-enddate:   "2018/02/27"
+startdate: "2018-02-27"
+enddate:   "2018-02-27"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/28166271_1742410189154943_5231531669405391018_n.jpg?_nc_cat=108&_nc_sid=b386c4&_nc_ohc=4vMQ3x9iVtIAX-8DPTP&_nc_ht=scontent-vie1-1.xx&oh=9527864cb74994bd95d509a3e49ef98a&oe=5F7E0A60
 category: RIAT Labs, book launch, making artistic technology
 ---

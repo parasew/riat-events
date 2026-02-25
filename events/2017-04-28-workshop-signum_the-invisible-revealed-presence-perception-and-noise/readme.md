@@ -4,8 +4,8 @@ date: 2017-04-28T11:00+02:00
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2017/04/28"
-enddate:   "2017/04/28"
+startdate: "2017-04-28"
+enddate:   "2017-04-28"
 image:
 category: workshop, signum, RIAT Vienna
 ---

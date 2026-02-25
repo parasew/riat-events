@@ -4,8 +4,8 @@ date: 2019-09-05T09:10:00+02:00
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2019/09/05"
-enddate:   "2019/09/08"
+startdate: "2019-09-05"
+enddate:   "2019-09-08"
 image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F57971189%2F148777297672%2F1%2Foriginal.20190213-130732?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C30%2C960%2C480&s=862a8694e067c8649dabc23b01a7fec9
 category: Ethereum, Smart Contracts, RIAT Vienna
 ---

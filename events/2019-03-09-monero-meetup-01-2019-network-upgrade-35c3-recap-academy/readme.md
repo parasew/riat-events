@@ -4,8 +4,8 @@ date: 2019-03-09T18:00+02:00
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2019/03/09"
-enddate:   "2019/03/09"
+startdate: "2019-03-09"
+enddate:   "2019-03-09"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/51632674_2227266637335960_7820625156656594944_o.jpg?_nc_cat=100&_nc_sid=b386c4&_nc_ohc=9NjPwd8n_hgAX9fXD6I&_nc_ht=scontent-vie1-1.xx&oh=7850941cb6bd289fdea26f46433820a6&oe=5F87C5F4
 category: meetup, RIAT vienna, Monero, 35c3
 ---

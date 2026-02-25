@@ -4,8 +4,8 @@ date: 2016-05-26T14:00+02:00
 draft: false
 location: "Palais des Beaux Arts Wien"
 country: "Austria"
-startdate: "2016/05/26"
-enddate:   "2016/05/26"
+startdate: "2016-05-26"
+enddate:   "2016-05-26"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/13198489_1132766870108021_885759483497892107_o.jpg?_nc_cat=104&_nc_sid=b386c4&_nc_ohc=lmUkS9V25eUAX9XV5YR&_nc_ht=scontent-vie1-1.xx&tp=6&oh=be1b7cd71fb3a9c3e2596e0825eba3cf&oe=5F8E5E8E
 category: workshop, RIAT, coded-cultures
 ---

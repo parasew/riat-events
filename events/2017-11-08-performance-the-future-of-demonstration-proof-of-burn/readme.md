@@ -4,8 +4,8 @@ date: 2017-11-08T18:00+02:00
 draft: false
 location: "Reaktor"
 country: "Austria"
-startdate: "2017/11/08"
-enddate:   "2017/11/08"
+startdate: "2017-11-08"
+enddate:   "2017-11-08"
 image: https://www.facebook.com/thefutureofdemonstration/videos/1904806862868785/?t=1
 category: cryptoeconomics, RIAT Vienna, performance
 ---
@@ -38,6 +38,10 @@ Film / live-broadcast: Jan Groos
 * https://www.facebook.com/events/281746665650989/
 
 ## Archive snapshots
+- http://thefutureofdemonstration.net/de/e05.html
+  - https://web.archive.org/web/20260225092014/http://thefutureofdemonstration.net/de/e05.html
+- https://thefutureofdemonstration.net/e05/seminar.html
+  - https://web.archive.org/web/20260225080410/https://thefutureofdemonstration.net/e05/seminar.html
 - https://www.facebook.com/events/281746665650989/
   - https://web.archive.org/web/20260225053711/https://www.facebook.com/events/281746665650989/
 - https://www.facebook.com/thefutureofdemonstration/videos/1904806862868785/?t=1

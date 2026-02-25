@@ -4,8 +4,8 @@ date: "2018-10-28T19:00+02:00"
 draft: false
 location: "Prague Congress Centre"
 country: "Czech Republic"
-startdate: "2018/10/28"
-enddate:   "2018/10/28"
+startdate: "2018-10-28"
+enddate:   "2018-10-28"
 image: https://riat.at/wp-content/uploads/2018/10/future-cryptoeconomics.jpg
 category: RIAT Labs, Devcon 
 ---

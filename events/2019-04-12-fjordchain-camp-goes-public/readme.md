@@ -4,8 +4,8 @@ date: 2019-04-12T18:00+02:00
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2019/04/12"
-enddate:   "2019/04/12"
+startdate: "2019-04-12"
+enddate:   "2019-04-12"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/s960x960/55730992_2287810274614929_639358392279760896_o.jpg?_nc_cat=102&_nc_sid=b386c4&_nc_ohc=Z6C0LTw1MiIAX_7qk5C&_nc_ht=scontent-vie1-1.xx&tp=7&oh=43f3d99550aa0bdcf7709b5775ffb879&oe=5F85E803
 category: Fjordchain, meetup
 ---

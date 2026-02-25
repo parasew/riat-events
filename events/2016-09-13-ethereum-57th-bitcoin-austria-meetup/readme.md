@@ -4,8 +4,8 @@ date: 2016-09-13T18:30+02:00
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2016/09/13"
-enddate:   "2016/09/13"
+startdate: "2016-09-13"
+enddate:   "2016-09-13"
 image:
 category: meetup, Bitcoin, RIAT Vienna
 ---

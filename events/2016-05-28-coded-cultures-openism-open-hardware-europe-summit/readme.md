@@ -4,8 +4,8 @@ date: 2016-05-28T11:00+02:00
 draft: false
 location: "MAK - Österreichisches Museum für angewandte Kunst / Gegenwartskunst"
 country: "Austria"
-startdate: "2016/05/28"
-enddate:   "2016/05/28"
+startdate: "2016-05-28"
+enddate:   "2016-05-28"
 image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F20945002%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C732%2C366&s=dcab921ad9521600bbc04aade80c9139
 category: open hardware, RIAT Vienna, MAK
 ---

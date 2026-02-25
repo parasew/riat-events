@@ -4,8 +4,8 @@ date: 2017-01-20T19:00+02:00
 draft: false
 location: "Artistic Bokeh Q21 MuseumsQuartier"
 country: "Austria"
-startdate: "2017/01/20"
-enddate:   "2017/02/15"
+startdate: "2017-01-20"
+enddate:   "2017-02-15"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/s960x960/16143409_1350029088393057_6837877767294132111_o.jpg?_nc_cat=110&_nc_sid=b386c4&_nc_ohc=jPFfgfuEcKQAX9mPBpA&_nc_ht=scontent-vie1-1.xx&tp=7&oh=f7f5f8f17ffb396f25c106a7c1cec992&oe=5F8C485D
 category: exhibition, RIAT Vienna
 ---

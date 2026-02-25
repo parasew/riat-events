@@ -4,8 +4,8 @@ date: "2018-05-17T19:00+02:00"
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2018/05/17"
-enddate:   "2018/05/17"
+startdate: "2018-05-17"
+enddate:   "2018-05-17"
 image: https://secure.meetupstatic.com/photos/event/4/d/d/c/highres_339079932.jpeg
 category: RIAT Labs, microsoft, azure
 ---

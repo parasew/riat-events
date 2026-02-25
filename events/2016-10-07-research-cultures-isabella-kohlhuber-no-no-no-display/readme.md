@@ -4,8 +4,8 @@ date: 2016-10-07T19:00+02:00
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2016/10/07"
-enddate:   "2016/10/07"
+startdate: "2016-10-07"
+enddate:   "2016-10-07"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p640x640/14352544_1218795878183046_2493363692751013497_o.jpg?_nc_cat=109&_nc_sid=b386c4&_nc_ohc=EfEmgNhjtDsAX8vi6Q4&_nc_ht=scontent-vie1-1.xx&tp=6&oh=53f71b4bd08aebc1dce9773bb28e4c54&oe=5F8D44BA
 category: exhibition, Artistic Bokeh
 ---

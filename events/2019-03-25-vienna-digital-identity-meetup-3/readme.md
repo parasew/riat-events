@@ -3,7 +3,7 @@ title: "Vienna Digital Identity Meetup #3: Rebooting the Web of Trust"
 date: 2019-03-25T18:00:00+02:00
 draft: false
 location: "RIAT Vienna"
-startdate: "2019/03/25"
+startdate: "2019-03-25"
 image: https://secure.meetupstatic.com/photos/event/8/b/d/6/highres_479495798.jpeg
 urls: ["one","two"]
 category: digital identity

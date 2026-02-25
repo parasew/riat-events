@@ -4,8 +4,8 @@ date: 2017-02-14T18:00+02:00
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2017/02/14"
-enddate:   "2017/02/14"
+startdate: "2017-02-14"
+enddate:   "2017-02-14"
 image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F28144787%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C60%2C1728%2C864&s=745d797f8ceb65b825a403d0218d82b6
 category: workshop, signum, RIAT Vienna
 ---

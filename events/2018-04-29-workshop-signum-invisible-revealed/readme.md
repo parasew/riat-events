@@ -4,8 +4,8 @@ date: "2018-04-29T12:00+02:00"
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2018/04/29"
-enddate:   "2018/04/30"
+startdate: "2018-04-29"
+enddate:   "2018-04-30"
 image: https://www.facebook.com/riat.ac.at/photos/gm.277838909422436/1803075723088389/?type=3
 category: RIAT Lab, SIGNUM
 ---

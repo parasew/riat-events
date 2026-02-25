@@ -1,6 +1,6 @@
 ---
 startdate: 2013-09-27
-enddate: 2014/02/24
+enddate: 2014-02-24
 title: "[Research Cultures] KATSU – Status Update"
 subtitle: "Exhibition featuring NYC graffiti artist KATSU's work 'Status Update' in context of Faceless II exhibition"
 location: "Artistic Bokeh Showroom, quartier21 MuseumsQuartier Vienna"

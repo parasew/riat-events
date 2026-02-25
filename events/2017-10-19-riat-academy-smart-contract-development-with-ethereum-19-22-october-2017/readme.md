@@ -4,8 +4,8 @@ date: 2017-10-19T10:00+02:00
 draft: false
 location: "Reaktor"
 country: "Austria"
-startdate: "2017/10/19"
-enddate:   "2017/10/19"
+startdate: "2017-10-19"
+enddate:   "2017-10-19"
 image: https://www.facebook.com/riat.ac.at/videos/1614107071985256/?t=2
 category: RIAT Academy, smart contract, development
 ---

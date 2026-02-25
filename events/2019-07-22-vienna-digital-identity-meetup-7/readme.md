@@ -3,7 +3,7 @@ title: "Vienna Digital Identity Meetup #7"
 date: 2019-07-22T18:00:00+02:00
 draft: false
 location: "RIAT Vienna"
-startdate: "2019/07/22"
+startdate: "2019-07-22"
 image: https://secure.meetupstatic.com/photos/event/8/4/7/4/highres_483153908.jpeg
 urls: ["https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/263159533/"]
 category: digital identity

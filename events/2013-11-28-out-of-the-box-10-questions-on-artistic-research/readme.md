@@ -1,6 +1,6 @@
 ---
 startdate: 2013-11-28
-enddate: 2014/01/05
+enddate: 2014-01-05
 title: "Out of the Box – 10 Questions on Artistic Research"
 subtitle: "Exhibition presenting recent research practices where knowledge is produced through artistic approaches"
 location: "MAK – Museum of Applied Arts, Stubenring 5, 1010 Vienna"

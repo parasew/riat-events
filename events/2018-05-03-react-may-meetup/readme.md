@@ -4,8 +4,8 @@ date: "2018-05-03T19:00+02:00"
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2018/05/03"
-enddate:   "2018/05/03"
+startdate: "2018-05-03"
+enddate:   "2018-05-03"
 image: https://secure.meetupstatic.com/photos/event/1/8/7/9/600_470766265.jpeg
 category: react
 ---

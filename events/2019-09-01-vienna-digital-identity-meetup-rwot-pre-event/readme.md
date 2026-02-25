@@ -3,7 +3,7 @@ title: "Vienna Ditgital Identity Meetup / RWOT pre-event: On the road to prague"
 date: 2019-09-01T11:00:00+02:00
 draft: false
 location: "RIAT Vienna"
-startdate: "2019/09/01"
+startdate: "2019-09-01"
 image: https://secure.meetupstatic.com/photos/event/8/5/2/2/highres_483994082.jpeg
 urls: ["https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/262359964/"]
 category: digital identity

@@ -4,8 +4,8 @@ date: 2019-05-14T19:00+02:00
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2019/05/14"
-enddate:   "2019/05/14"
+startdate: "2019-05-14"
+enddate:   "2019-05-14"
 image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F59130285%2F148777297672%2F1%2Foriginal.20190326-120135?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C8%2C960%2C480&s=c223c806da3cf72ac07f9ceca5e00260
 category: rust, Mimblewimble, rust, meetup
 ---

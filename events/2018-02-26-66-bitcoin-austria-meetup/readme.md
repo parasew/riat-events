@@ -4,8 +4,8 @@ date: "2018-02-26T18:30+02:00"
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2018/02/26"
-enddate:   "2018/02/26"
+startdate: "2018-02-26"
+enddate:   "2018-02-26"
 image: https://secure.meetupstatic.com/photos/event/6/1/0/0/600_434184832.jpeg
 category: Bitcoin Austria
 ---

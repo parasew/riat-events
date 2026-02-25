@@ -1,6 +1,6 @@
 ---
 startdate: 2014-11-21
-enddate: 2015/02/20
+enddate: 2015-02-20
 title: "[Research Cultures] Jai McKenzie: Never Forever"
 subtitle: "Exhibition examining creation and destruction, remembering and forgetting, and the improbability of permanence"
 location: "Artistic Bokeh Showroom, MuseumsQuartier Vienna"

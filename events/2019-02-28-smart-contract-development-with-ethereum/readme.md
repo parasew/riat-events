@@ -4,8 +4,8 @@ date: 2019-02-28T10:00+02:00
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2019/02/28"
-enddate:   "2019/03/03"
+startdate: "2019-02-28"
+enddate:   "2019-03-03"
 image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F57053774%2F148777297672%2F1%2Foriginal.20190213-130732?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C30%2C960%2C480&s=d7fc1cccfe274fc793901712823c36a1
 category: RIAT vienna, ethereum, development, dexs
 ---

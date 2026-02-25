@@ -1,6 +1,6 @@
 ---
 startdate: 2014-08-20
-enddate: 2014/09/22
+enddate: 2014-09-22
 title: "[Research Cultures] dérive: Radical Utopia? La Revolution urbaine"
 subtitle: "Exhibition showcasing dérive magazine and urbanize festival's urban research"
 location: "Artistic Bokeh Showroom, Electric Avenue, MuseumsQuartier Vienna"

@@ -3,7 +3,7 @@ title: "Vienna Digital Identity Meetup #9"
 date: 2020-06-22T18:30:00+02:00
 draft: false
 location: "RIAT Vienna"
-startdate: "2020/06/22"
+startdate: "2020-06-22"
 image: https://secure.meetupstatic.com/photos/event/8/0/d/highres_490862061.jpeg
 urls: ["https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271311363/"]
 category: digital identity

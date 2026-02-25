@@ -4,8 +4,8 @@ date: "2018-04-09T18:00+02:00"
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2018/04/09"
-enddate:   "2018/04/09"
+startdate: "2018-04-09"
+enddate:   "2018-04-09"
 image: https://secure.meetupstatic.com/photos/event/4/d/d/c/600_339079932.jpeg
 category: Ethereum, Meetup, RIAT
 ---

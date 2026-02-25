@@ -4,8 +4,8 @@ date: 2017-09-01T10:00+02:00
 draft: false
 location: "MuseumsQuartier Wien"
 country: "Austria"
-startdate: "2017/09/01"
-enddate:   "2017/10/01"
+startdate: "2017-09-01"
+enddate:   "2017-10-01"
 image: https://www.facebook.com/riat.ac.at/photos/gm.233229043868421/1572545269474770/?type=3&eid=ARAAYEJ2hjkl9KPU7XRWmArUS7RVYN6ujfNEwZ5SY5_1ZiXcVKeUYSyFHMCrN7ZeF46tHnuP_u75HUHO&__xts__%5B0%5D=68.ARAlu1pHCU7yJ0CJaJUEXBwFmYGdRH51S1ZlwSdhcri5ur97nyQASmHnDWyyYsZTIhqveyQn2ZCN4408VCOb0fCbuO0XyJsjk3y6-ZIWNJWZPTYca_jntx5joLc9qU8MxK2bXw2o7PJj3yc545D5ztdM0fTMI-czaWWXZL6oURC9zJ_dI2M0_VtXztoDbSidjK77y_6YEmyS7Wuk5RA_4e1Z8iunHXsJDwrGLjmpn_3oEG-c01l9p3w3icx1l89gqztG32kE6sYMJPovu1W9555bCfBJIf9_jdlR-s19sr7WJwJz&__tn__=EHH-R
 category: Exhibition, MuseumsQuartier,
 ---

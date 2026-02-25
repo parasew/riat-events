@@ -4,8 +4,8 @@ date: "2018-02-03T18:00+02:00"
 draft: false
 location: "Café Stage"
 country: "Germany"
-startdate: "2018/02/03"
-enddate:   "2018/02/03"
+startdate: "2018-02-03"
+enddate:   "2018-02-03"
 image: 
 category: Ethereum Austria
 ---

@@ -4,8 +4,8 @@ date: "2018-02-02T14:00+02:00"
 draft: false
 location: "HKW - K2"
 country: "Germany"
-startdate: "2018/02/02"
-enddate:   "2018/02/02"
+startdate: "2018-02-02"
+enddate:   "2018-02-02"
 image: 
 category: Ethereum Austria
 ---

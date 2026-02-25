@@ -4,8 +4,8 @@ date: 2017-11-09T18:00+02:00
 draft: false
 location: "Reaktor"
 country: "Austria"
-startdate: "2017/11/09"
-enddate:   "2017/11/09"
+startdate: "2017-11-09"
+enddate:   "2017-11-09"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/22770622_1924689037547234_6117824982176008759_o.jpg?_nc_cat=109&_nc_sid=b386c4&_nc_ohc=DiKQkqCuoRwAX8UIZO6&_nc_ht=scontent-vie1-1.xx&oh=7705ba3c9c60d529fc69f8c49f85b0ca&oe=5F847E53
 category: panel, cryptoeconomics, RIAT Vienna
 ---

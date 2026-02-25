@@ -1,7 +1,7 @@
 ---
 title: "Digital Identity Vienna Meetup #1: Launch Event"
 location: "RIAT Vienna"
-startdate: "2019/02/11"
+startdate: "2019-02-11"
 image: https://unsplash.com/photos/1tnS_BVy9Jk
 category: "meetup"
 ---

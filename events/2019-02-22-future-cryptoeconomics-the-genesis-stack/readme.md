@@ -141,5 +141,7 @@ The event marked a significant moment in RIAT's development, showcasing both con
 ## Archive snapshots
 - https://www.facebook.com/events/1067229673468739/
   - https://web.archive.org/web/20260224204509/https://www.facebook.com/events/1067229673468739/
+- https://www.mqw.at/en/institutions/q21/program/2019/02/future-cryptoeconomics/
+  - https://web.archive.org/web/20260225092014/https://www.mqw.at/en/institutions/q21/program/2019/02/future-cryptoeconomics/
 - http://www.mottodistribution.com/mottoberlin/publishers/future-cryptoeconomics/future-cryptoeconomics-the-genesis-stack-matthias-tarasiewicz-andrew-newman-eds-future-cryptoeconomics-riat-26176289.html
   - https://web.archive.org/web/20260225085056/http://www.mottodistribution.com/mottoberlin/publishers/future-cryptoeconomics/future-cryptoeconomics-the-genesis-stack-matthias-tarasiewicz-andrew-newman-eds-future-cryptoeconomics-riat-26176289.html

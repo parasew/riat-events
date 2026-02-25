@@ -5,7 +5,7 @@ draft: false
 location: "Ovalhalle MuseumsQuartier Wien"
 country: "Austria"
 startdate: 2017-07-04
-enddate:   "2017/06/04"
+enddate:   "2017-06-04"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/19477638_1516500005079297_8233433578596900092_o.jpg?_nc_cat=105&_nc_sid=b386c4&_nc_ohc=zJYlQ3R9iKUAX9yFTYm&_nc_ht=scontent-vie1-1.xx&tp=6&oh=5521a115bbba68ea21260afe56a5b448&oe=5F888A2D
 category: meetup, ethereum
 ---

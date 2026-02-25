@@ -4,8 +4,8 @@ date: 2019-04-18T19:30+02:00
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2019/04/18"
-enddate:   "2019/04/18"
+startdate: "2019-04-18"
+enddate:   "2019-04-18"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/54267987_2282249301837693_9100880067789062144_n.jpg?_nc_cat=111&_nc_sid=b386c4&_nc_ohc=RumSlOa1F-0AX8Jx8jK&_nc_ht=scontent-vie1-1.xx&oh=249415b01f59df88aa6176507087203d&oe=5F862110
 category: microservices, meetup, microfrontends, RIAT Vienna
 ---

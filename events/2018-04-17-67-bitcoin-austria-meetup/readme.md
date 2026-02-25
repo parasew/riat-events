@@ -4,8 +4,8 @@ date: "2018-04-17T19:00+02:00"
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2018/04/17"
-enddate:   "2018/04/17"
+startdate: "2018-04-17"
+enddate:   "2018-04-17"
 image: https://bitcoinundco.com/de/wp-content/uploads/2020/08/Bitcoin-Anfaenger-buch-praxis-768x1165.jpg
 category: Bitcoin, Meetup, RIAT
 ---

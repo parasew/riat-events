@@ -4,8 +4,8 @@ date: 2016-05-29T11:00+02:00
 draft: false
 location: "RIAT Vienna"
 country: "Austria"
-startdate: "2016/05/29"
-enddate:   "2016/05/29"
+startdate: "2016-05-29"
+enddate:   "2016-05-29"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p640x640/13308535_1139448212784480_378703870156549999_o.png?_nc_cat=110&_nc_sid=b386c4&_nc_ohc=blOT5Pj_ZbQAX8nF_mx&_nc_ht=scontent-vie1-1.xx&oh=7e791f6384f99b646fa2393f05984e50&oe=5F8F44C7
 category: meetup, RIAT Vienna
 ---

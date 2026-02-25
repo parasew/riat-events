@@ -5,7 +5,7 @@ draft: false
 location: "Coded Cultures Central"
 country: "Austria"
 startdate: 2016-05-21
-enddate:   "2016/05/22"
+enddate:   "2016-05-22"
 image: https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/13217128_1130838766967498_8511705564154835811_o.jpg?_nc_cat=107&_nc_sid=b386c4&_nc_ohc=lj-kyMnyd2MAX-EqVsI&_nc_ht=scontent-vie1-1.xx&tp=6&oh=20a3b50e830c3a8bb1e5ab5a96be590c&oe=5F8E267C
 category: performance, coded-cultures
 ---
