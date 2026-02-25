@@ -21,6 +21,7 @@ Die Installation wurde vom 16. November 2011 bis 19. Februar 2012 im Künstlerha
 ### References
 - http://www.k-haus.at/de/ausstellung/57/metamart.html
 - Künstlerhaus Jahresbericht 2011 (Catalog): https://www.kuenstlerhaus.at/z/files/jahresberichte/jahresbericht_2011.pdf
+  - verification note: catalog includes mention of Matthias Tarasiewicz in relation to BitcoinCloud/ArtMart context.
 - http://bitcoincloud.at (archived)
 - http://metamart.at/about-metamart/ (archived)
 - http://artistictechnology.at/ (archived)
