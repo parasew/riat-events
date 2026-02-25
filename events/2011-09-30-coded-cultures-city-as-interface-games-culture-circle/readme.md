@@ -9,7 +9,7 @@ country: "Austria"
 organizer: "Coded Cultures / A MAZE."
 type: "Talk & Discussion"
 time: "September 30, 2011"
-website: "https://codedcultures.com/2011/post/gamesculturecircle.html"
+website: "http://web.archive.org/web/20180313125759/https://codedcultures.com/2011/post/gamesculturecircle.html"
 facebook_event: "https://www.facebook.com/event.php?eid=121524934610924"
 moderator: "Uke Bosse"
 guest: "Margarete Jahrmann"
@@ -25,7 +25,7 @@ guest: "Margarete Jahrmann"
 - **Type:** Talk & Discussion
 - **Moderator:** Uke Bosse
 - **Guest:** Margarete Jahrmann
-- **Website:** [codedcultures.com/2011/post/gamesculturecircle.html](https://codedcultures.com/2011/post/gamesculturecircle.html)
+- **Website:** [codedcultures.com/2011/post/gamesculturecircle.html](http://web.archive.org/web/20180313125759/https://codedcultures.com/2011/post/gamesculturecircle.html)
 - **Facebook Event:** [facebook.com/event.php?eid=121524934610924](https://www.facebook.com/event.php?eid=121524934610924)
 
 ## Description
@@ -62,9 +62,9 @@ Assuming the games we play today have already lost the "protection" of the "magi
 - **Games Culture Circle:** [gamesculturecircle.de](http://www.gamesculturecircle.de/)
 
 ## References
-* https://codedcultures.com/2011/post/gamesculturecircle.html
+* http://web.archive.org/web/20180313125759/https://codedcultures.com/2011/post/gamesculturecircle.html
 
 ## Archive snapshots
-- https://codedcultures.com/2011/post/gamesculturecircle.html
-  - https://web.archive.org/web/20180313125759/https://codedcultures.com/2011/post/gamesculturecircle.html
+- http://web.archive.org/web/20180313125759/https://codedcultures.com/2011/post/gamesculturecircle.html
+  - https://web.archive.org/web/20180313125759/http://web.archive.org/web/20180313125759/https://codedcultures.com/2011/post/gamesculturecircle.html
 
