@@ -35,3 +35,11 @@ Film / live-broadcast: Jan Groos
 ## References
 * http://thefutureofdemonstration.net/de/e05.html
 * https://www.facebook.com/events/281746665650989/
+
+## Archive snapshots
+- https://www.facebook.com/events/281746665650989/
+  - https://web.archive.org/web/20260225053711/https://www.facebook.com/events/281746665650989/
+- https://www.facebook.com/thefutureofdemonstration/videos/1904806862868785/?t=1
+  - https://web.archive.org/web/20260225053711/https://www.facebook.com/thefutureofdemonstration/videos/1904806862868785/?t=1
+- https://www.okto.tv/de/tv/embed
+  - https://web.archive.org/web/20260225053711/https://www.okto.tv/de/tv/embed

@@ -37,3 +37,13 @@ Mit: Max Gurresch, Kira Koplin, Denise Helene Sumi, Bastian Wilplinger und Tomas
 * https://codedcultures.com/program/Intervention-Discussion-Performance-Festwochen/
 * https://www.facebook.com/events/273326949679907/
 * https://www.eventbrite.com/e/discussion-immersive-arts-tickets-25423585629#
+
+## Archive snapshots
+- https://codedcultures.com/program/Intervention-Discussion-Performance-Festwochen/
+  - https://web.archive.org/web/20260225054133/https://codedcultures.com/program/Intervention-Discussion-Performance-Festwochen/
+- https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/13123287_1130812610303447_4224549297951627547_o.jpg?_nc_cat=109&_nc_sid=b386c4&_nc_ohc=i2kqbt2pVIgAX-8tHfS&_nc_ht=scontent-vie1-1.xx&oh=aa905c3e08cc50a232c79c52567564b7&oe=5F8CBC68
+  - https://web.archive.org/web/20260225054133/https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/13123287_1130812610303447_4224549297951627547_o.jpg?_nc_cat=109&_nc_sid=b386c4&_nc_ohc=i2kqbt2pVIgAX-8tHfS&_nc_ht=scontent-vie1-1.xx&oh=aa905c3e08cc50a232c79c52567564b7&oe=5F8CBC68
+- https://www.eventbrite.com/e/discussion-immersive-arts-tickets-25423585629#
+  - https://web.archive.org/web/20260225054133/https://www.eventbrite.com/e/discussion-immersive-arts-tickets-25423585629#
+- https://www.facebook.com/events/273326949679907/
+  - https://web.archive.org/web/20260225054133/https://www.facebook.com/events/273326949679907/

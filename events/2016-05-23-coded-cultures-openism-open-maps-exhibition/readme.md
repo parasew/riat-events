@@ -21,3 +21,9 @@ The exhibition of outcomes will be take place from 23rd to 28th May, at various 
 
 # References
 * https://www.facebook.com/events/1165412700159515/
+
+## Archive snapshots
+- https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/s960x960/13227844_1136743663054935_5038378348256262855_o.jpg?_nc_cat=110&_nc_sid=b386c4&_nc_ohc=z71gWsO2X2UAX-spKYA&_nc_ht=scontent-vie1-1.xx&tp=7&oh=69cb329e360c2dee3592171a2078d9c1&oe=5F8E6382
+  - https://web.archive.org/web/20260225053710/https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/s960x960/13227844_1136743663054935_5038378348256262855_o.jpg?_nc_cat=110&_nc_sid=b386c4&_nc_ohc=z71gWsO2X2UAX-spKYA&_nc_ht=scontent-vie1-1.xx&tp=7&oh=69cb329e360c2dee3592171a2078d9c1&oe=5F8E6382
+- https://www.facebook.com/events/1165412700159515/
+  - https://web.archive.org/web/20260225053710/https://www.facebook.com/events/1165412700159515/

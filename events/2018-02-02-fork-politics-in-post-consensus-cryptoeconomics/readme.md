@@ -16,3 +16,7 @@ Presented in cooperation with RIAT.Space.
 
 ## Resources
 * https://transmediale.de/content/fork-politics-in-post-consensus-cryptoeconomics
+
+## Archive snapshots
+- https://transmediale.de/content/fork-politics-in-post-consensus-cryptoeconomics
+  - https://web.archive.org/web/20260225053709/https://transmediale.de/content/fork-politics-in-post-consensus-cryptoeconomics

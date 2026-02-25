@@ -1,15 +1,12 @@
 ---
-startdate: 2015/05/10
+title: ""
+date: 2015-05-10T12:00:00+01:00
+draft: false
+location: ""
+country: "Austria"
+startdate: "2015-05-10"
+category: "event"
 ---
-# [Making Artistic Technology] Circuit Bending with Studio Praxistest
-
-| Field | Value |
-| --- | --- |
-| Date | 2015-05-10 |
-| Primary source | https://www.facebook.com/events/1584846475125529/ |
-
-# References
-- https://www.facebook.com/events/1584846475125529/
 
 ## Archive snapshots
 - https://www.facebook.com/events/1584846475125529/
@@ -18,3 +15,6 @@ startdate: 2015/05/10
   - Beschreibung (DE): Veranstaltung in Wien von Matthias Parasew Tarasiewicz am Sonntag, 10. Mai 2015.
   - Image:
     - ![Making Artistic Technology: Workshop mit Studio Praxistest](https://web.archive.org/web/20260223052530im_/https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1584846475125529)
+
+## Resources
+* https://www.facebook.com/events/1584846475125529/

@@ -92,3 +92,15 @@ RIAT's research in cryptoeconomics and alternative economic systems provides rel
 ## Significance
 
 This event represented RIAT's engagement with design communities and its exploration of how design methodologies can contribute to economic innovation and alternative system creation. The discussion likely connected RIAT's cryptoeconomics research with design practice and theory.
+
+## Archive snapshots
+- https://www.facebook.com/events/135218683631379/
+  - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/135218683631379/
+- https://www.facebook.com/events/135218683631379/"
+  - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/135218683631379/"
+- https://www.facebook.com/events/135218683631379/
+  - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/135218683631379/
+- https://www.facebook.com/events/135218683631379/
+  - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/135218683631379/
+- https://www.facebook.com/events/135218683631379/"
+  - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/135218683631379/"

@@ -1,13 +1,12 @@
-| Field | Value |
-| :--- | :--- |
-| Date | 2015-05-15 |
-| Event | Fiber Festival 2015 |
-| Location | Amsterdam, Netherlands |
-| Title | Bitcoincloud at Fiber Festival |
-| Artists | Damian Stewart, Max Gurresch, Matthias Tarasiewicz (Artistic Bokeh) |
-| Primary source | http://2015.fiberfestival.nl/festival/programme/bitcoincloud/ |
-
-![Bitcoincloud installation at Fiber Festival](bitcoincloud-fiber-festival.jpg)
+---
+title: "Bitcoincloud at Fiber Festival"
+date: 2015-05-15T12:00:00+01:00
+draft: false
+location: "Amsterdam, Netherlands"
+country: "Netherlands"
+startdate: "2015-05-15"
+category: "event"
+---
 
 ### Description
 Bitcoincloud is an interactive media-arts installation and reactive sculpture thematizing artistic production as well as alternative economics. The modular artwork consists of a "Bitcoin Mining Rig" (modified computers for calculating the virtual currency "Bitcoins") and an LED cloud (visualization). Bitcoincloud reacts to today's attention-centered time with the direct dependence between attention and value of the artwork: the more visitors turn to the sculpture (camera tracking), the more virtual currency units (Bitcoins) are calculated, which in turn increase the total value of the installation.
@@ -30,3 +29,6 @@ Bitcoincloud ist eine interaktive Rauminstallation, die den (virtuellen) Wert vo
   - Beschreibung (DE): Bitcoincloud ist eine interaktive Installation von Artistic Bokeh, bei der modifizierte LED-Lüfter, Bewegungssensoren und ein Bitcoin-Mining-Rig im Verhältnis zur Aufmerksamkeit des Publikums Wert erzeugen.
   - Image:
     - ![Bitcoincloud installation at Fiber Festival](https://web.archive.org/web/20150327014247im_/http://2015.fiberfestival.nl/wp-content/uploads/2015/03/exhibition_bitcoincloud-610x327.jpg)
+
+## Resources
+* http://2015.fiberfestival.nl/festival/programme/bitcoincloud/

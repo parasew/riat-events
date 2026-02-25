@@ -16,3 +16,9 @@ Andrew Newman from RIAT and Ozan Polat from Dezentrum discuss the first issue of
 
 ## Resources
 * https://riat.at/future-cryptoeconomics-launch-devcon4-prague/
+
+## Archive snapshots
+- https://riat.at/future-cryptoeconomics-launch-devcon4-prague/
+  - https://web.archive.org/web/20260225053709/https://riat.at/future-cryptoeconomics-launch-devcon4-prague/
+- https://riat.at/wp-content/uploads/2018/10/future-cryptoeconomics.jpg
+  - https://web.archive.org/web/20260225053709/https://riat.at/wp-content/uploads/2018/10/future-cryptoeconomics.jpg

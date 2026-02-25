@@ -1,13 +1,12 @@
-| Field | Value |
-| :--- | :--- |
-| Date | 2024-10-05 |
-| Event | HCPP24 (Hackers Congress Paralelní Polis) |
-| Location | Paralelní Polis, Prague |
-| Title | Hardcore Cypherpunk Values |
-| Speaker | Matthias Tarasiewicz |
-| Primary source | https://www.youtube.com/watch?v=PhO7TflQjpg |
-
-![HCPP24 | Matthias Tarasiewicz - Hardcore Cypherpunk Values](thumbnail.jpg)
+---
+title: "Hardcore Cypherpunk Values"
+date: 2024-10-05T12:00:00+01:00
+draft: false
+location: "Paralelní Polis, Prague"
+country: "Czech Republic"
+startdate: "2024-10-05"
+category: "event"
+---
 
 ### Description
 Matthias Tarasiewicz discusses "Hardcore Cypherpunk Values" at the Hackers Congress Paralelní Polis 2024 (HCPP24). The talk explores the fundamental principles of the cypherpunk movement, their evolution, and their necessity in the current digital landscape.
@@ -18,3 +17,9 @@ Matthias Tarasiewicz spricht auf dem Hackers Congress Paralelní Polis 2024 (HCP
 ### References
 - https://www.youtube.com/watch?v=PhO7TflQjpg
 - https://hcpp.cz/
+
+## Archive snapshots
+- https://www.youtube.com/watch?v=PhO7TflQjpg
+  - https://web.archive.org/web/20260225050137/https://www.youtube.com/watch?v=PhO7TflQjpg
+- https://hcpp.cz/
+  - https://web.archive.org/web/20260225050137/https://hcpp.cz/

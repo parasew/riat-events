@@ -25,3 +25,9 @@ Panel entry listed in the RIAT archive for Devcon 5 (Osaka).
 ## Archive submission attempts
 - Submitted:
   - https://devcon.org/archive
+
+## Archive snapshots
+- https://devcon.org/archive
+  - https://web.archive.org/web/20260225053710/https://devcon.org/archive
+- https://github.com/parasew/riat-events/blob/master/archive/README.md
+  - https://web.archive.org/web/20260225053710/https://github.com/parasew/riat-events/blob/master/archive/README.md

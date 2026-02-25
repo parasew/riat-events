@@ -35,3 +35,13 @@ In 2019 at RIAT workshops and in-depth courses for Monero will be held. A short 
 * https://www.reddit.com/r/Monero/comments/apkvym/asic_resistance_hashrate_discussion_thread/
 * https://www.reddit.com/r/Monero/comments/abl4df/35c3_rehrar_report/
 * http://decentral.community
+
+## Archive snapshots
+- https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/51632674_2227266637335960_7820625156656594944_o.jpg?_nc_cat=100&_nc_sid=b386c4&_nc_ohc=9NjPwd8n_hgAX9fXD6I&_nc_ht=scontent-vie1-1.xx&oh=7850941cb6bd289fdea26f46433820a6&oe=5F87C5F4
+  - https://web.archive.org/web/20260225054134/https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/51632674_2227266637335960_7820625156656594944_o.jpg?_nc_cat=100&_nc_sid=b386c4&_nc_ohc=9NjPwd8n_hgAX9fXD6I&_nc_ht=scontent-vie1-1.xx&oh=7850941cb6bd289fdea26f46433820a6&oe=5F87C5F4
+- https://www.facebook.com/events/2042824889349215/
+  - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/2042824889349215/
+- https://www.reddit.com/r/Monero/comments/abl4df/35c3_rehrar_report/
+  - https://web.archive.org/web/20260225054134/https://www.reddit.com/r/Monero/comments/abl4df/35c3_rehrar_report/
+- https://www.reddit.com/r/Monero/comments/apkvym/asic_resistance_hashrate_discussion_thread/
+  - https://web.archive.org/web/20260225054134/https://www.reddit.com/r/Monero/comments/apkvym/asic_resistance_hashrate_discussion_thread/

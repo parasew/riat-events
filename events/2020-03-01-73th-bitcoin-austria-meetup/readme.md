@@ -21,3 +21,9 @@ Wir freuen Uns auf Euer Kommen!
 
 ## Resources
 * https://www.meetup.com/Bitcoin-Austria/events/264931723/
+
+## Archive snapshots
+- https://cdn.pixabay.com/photo/2018/02/01/19/27/cryptocurrency-3123849_960_720.jpg
+  - https://web.archive.org/web/20260225053712/https://cdn.pixabay.com/photo/2018/02/01/19/27/cryptocurrency-3123849_960_720.jpg
+- https://www.meetup.com/Bitcoin-Austria/events/264931723/
+  - https://web.archive.org/web/20260225053712/https://www.meetup.com/Bitcoin-Austria/events/264931723/

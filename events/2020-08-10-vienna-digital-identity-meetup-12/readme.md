@@ -20,3 +20,9 @@ Please join us, work on your questions and interaction with Oskar. He thrives on
 
 ## Resources
 * https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272384741/
+
+## Archive snapshots
+- https://images.unsplash.com/photo-1521477378290-00b044a957dc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80
+  - https://web.archive.org/web/20260225053712/https://images.unsplash.com/photo-1521477378290-00b044a957dc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80
+- https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272384741/
+  - https://web.archive.org/web/20260225053712/https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272384741/

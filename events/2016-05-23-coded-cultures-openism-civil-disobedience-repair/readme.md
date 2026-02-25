@@ -1,11 +1,12 @@
-| Field | Value |
-| :--- | :--- |
-| Date | 2016-05-23 |
-| Event | Coded Cultures: OPENISM |
-| Location | Q21, MuseumsQuartier Vienna, Austria |
-| Title | Civil Disobedience: Repair |
-| Artist | Hannes Waldschütz |
-| Primary source | http://www.q21.at/en/artists-in-residence/artists/artistinfo/hannes-waldschuetz-1/ |
+---
+title: "Civil Disobedience: Repair"
+date: 2016-05-23T12:00:00+01:00
+draft: false
+location: "Q21, MuseumsQuartier Vienna, Austria"
+country: "Austria"
+startdate: "2016-05-23"
+category: "event"
+---
 
 ### Description
 "Civil Disobedience: Repair" is a performance series by Hannes Waldschütz that focuses on an almost obsolete action in the western world: the repair of everyday goods. Toasters, flat irons, hairdryers – once they are broken their repair seems to be economically senseless. Things with a predetermined lifetime and their disposal became crucial to our economical system based on continuous growth.
@@ -24,3 +25,6 @@ Im Rahmen des Festivals „OPENISM - Coded Cultures“ wurde das Projekt im Mai 
 ### Archive snapshots
 - http://www.q21.at/en/artists-in-residence/artists/artistinfo/hannes-waldschuetz-1/
   - https://web.archive.org/web/20160418213350/http://www.q21.at:80/en/artists-in-residence/artists/artistinfo/hannes-waldschuetz-1/
+
+## Resources
+* http://www.q21.at/en/artists-in-residence/artists/artistinfo/hannes-waldschuetz-1/

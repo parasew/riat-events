@@ -41,6 +41,7 @@ Meetup.com-Link:
 * https://www.meetup.com/de-DE/Tezos-Vienna/events/259790083/
 * https://www.facebook.com/events/2339416366120478/
 * https://www.meetup.com/de-DE/Tezos-Vienna/events/259790083/
+* https://www.eventbrite.com/e/tezos-vienna-meetup-1-tickets-59375465616
 
 ## Archive snapshots
 - https://www.meetup.com/de-DE/Tezos-Vienna/events/259790083/](https://www.meetup.com/de-DE/Tezos-Vienna/events/259790083/)

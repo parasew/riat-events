@@ -1,1 +1,3 @@
 DUPLICATED EVENT, READY FOR DELETE!
+
+## Archive snapshots

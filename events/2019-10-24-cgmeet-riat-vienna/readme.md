@@ -22,3 +22,7 @@ CGmeet meetup entry listed in the RIAT archive.
 
 ## Archive submission attempts
 - Attempted broad discovery (search + code search + archive checks); no reliable event permalink recovered yet.
+
+## Archive snapshots
+- https://github.com/parasew/riat-events/blob/master/archive/README.md
+  - https://web.archive.org/web/20260225053709/https://github.com/parasew/riat-events/blob/master/archive/README.md

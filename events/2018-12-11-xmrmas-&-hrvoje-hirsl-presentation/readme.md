@@ -28,3 +28,9 @@ Specializing in intellectual history and the history of ideas, Aner is intereste
 
 ## Resources
 * https://www.facebook.com/events/1792511447541919/
+
+## Archive snapshots
+- https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-0/p640x640/47579887_2136424359753522_9219577527738040320_o.jpg?_nc_cat=100&_nc_sid=b386c4&_nc_ohc=30grHf4pF-IAX92ng9o&_nc_ht=scontent-vie1-1.xx&tp=6&oh=b629e10ec817643e18fbd97665c980ac&oe=5F7A76F4
+  - https://web.archive.org/web/20260225053709/https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-0/p640x640/47579887_2136424359753522_9219577527738040320_o.jpg?_nc_cat=100&_nc_sid=b386c4&_nc_ohc=30grHf4pF-IAX92ng9o&_nc_ht=scontent-vie1-1.xx&tp=6&oh=b629e10ec817643e18fbd97665c980ac&oe=5F7A76F4
+- https://www.facebook.com/events/1792511447541919/
+  - https://web.archive.org/web/20260225053709/https://www.facebook.com/events/1792511447541919/

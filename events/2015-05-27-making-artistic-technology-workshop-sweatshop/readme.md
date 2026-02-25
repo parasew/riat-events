@@ -116,3 +116,5 @@ The workshop strengthened Vienna's position as:
 - **Community dialogue space**: Where difficult questions about technology can be discussed
 
 The "Workshop/Sweatshop" event exemplified the depth and seriousness of the Making Artistic Technology series, using hands-on making as a way to explore complex questions about labor, production, ethics, and technology's role in society.
+
+## Archive snapshots

@@ -33,3 +33,13 @@ Afterwards feel free to chat with other cryptocurrency enthusiasts whatever else
 * https://www.eventbrite.com/e/crypto-programming-meetup-1-hands-on-study-group-tickets-59375700318#
 * https://github.com/JanKaul/rust_mimblewimble_tutorial
 * https://www.facebook.com/events/810211919345216/
+
+## Archive snapshots
+- https://github.com/JanKaul/rust_mimblewimble_tutorial
+  - https://web.archive.org/web/20260225054134/https://github.com/JanKaul/rust_mimblewimble_tutorial
+- https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F59130285%2F148777297672%2F1%2Foriginal.20190326-120135?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C8%2C960%2C480&s=c223c806da3cf72ac07f9ceca5e00260
+  - https://web.archive.org/web/20260225054134/https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F59130285%2F148777297672%2F1%2Foriginal.20190326-120135?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C8%2C960%2C480&s=c223c806da3cf72ac07f9ceca5e00260
+- https://www.eventbrite.com/e/crypto-programming-meetup-1-hands-on-study-group-tickets-59375700318#
+  - https://web.archive.org/web/20260225054134/https://www.eventbrite.com/e/crypto-programming-meetup-1-hands-on-study-group-tickets-59375700318#
+- https://www.facebook.com/events/810211919345216/
+  - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/810211919345216/

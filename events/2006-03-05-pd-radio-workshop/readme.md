@@ -138,3 +138,9 @@ The workshop strengthened Vienna's position as:
 
 The PD-Radio workshop captured 5uper.net's commitment to practical technical education, using accessible open source tools to teach skills that empowered Vienna's artists and creators to work with audio technology in innovative ways.
 
+
+## Archive snapshots
+- https://5uper.net/post/143.html
+  - https://web.archive.org/web/20260225054128/https://5uper.net/post/143.html
+- https://web.archive.org/web/20260223030034/https://5uper.net/post/143.html
+  - https://web.archive.org/web/20260225054128/https://web.archive.org/web/20260223030034/https://5uper.net/post/143.html

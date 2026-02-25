@@ -89,3 +89,15 @@ The exhibition represented Artistic Bokeh's research into surveillance culture, 
 
 ## Significance
 This exhibition provided a critical examination of surveillance culture through artistic research, exploring both the technological systems and the human experiences of surveillance work. It combined installation art, performance, and documentation to create a multi-layered investigation of observation technologies and their social implications.
+
+## Archive snapshots
+- https://artisticbokeh.com
+  - https://web.archive.org/web/20260225054133/https://artisticbokeh.com
+- https://artisticbokeh.com)
+  - https://web.archive.org/web/20260225054133/https://artisticbokeh.com)
+- https://goo.gl/Q42a1
+  - https://web.archive.org/web/20260225054133/https://goo.gl/Q42a1
+- https://goo.gl/Q42a1
+  - https://web.archive.org/web/20260225054133/https://goo.gl/Q42a1
+- https://twitter.com/artisticbokeh
+  - https://web.archive.org/web/20260225054133/https://twitter.com/artisticbokeh

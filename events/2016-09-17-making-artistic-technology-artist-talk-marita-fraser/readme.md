@@ -18,3 +18,11 @@ RIAT/Q21 Artist-in-Residence Marita Fraser will reflect on speculative fiction, 
 
 # References
 * https://www.facebook.com/events/1109770609107005/
+
+## Archive snapshots
+- https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/14258375_1218766448185989_1156519093835657817_o.jpg?_nc_cat=106&_nc_sid=b386c4&_nc_ohc=Z8_XEu84y4UAX-5iSgG&_nc_ht=scontent-vie1-1.xx&oh=9e8211b6d6098a6f96d1d6ea3b5452f4&oe=5F8CAB09
+  - https://web.archive.org/web/20260225054131/https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/14258375_1218766448185989_1156519093835657817_o.jpg?_nc_cat=106&_nc_sid=b386c4&_nc_ohc=Z8_XEu84y4UAX-5iSgG&_nc_ht=scontent-vie1-1.xx&oh=9e8211b6d6098a6f96d1d6ea3b5452f4&oe=5F8CAB09
+- https://www.facebook.com/events/1109770609107005/
+  - https://web.archive.org/web/20260225054131/https://www.facebook.com/events/1109770609107005/
+- https://www.facebook.com/events/1109770609107005/
+  - https://web.archive.org/web/20260225054131/https://www.facebook.com/events/1109770609107005/

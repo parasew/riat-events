@@ -74,3 +74,13 @@ Harle's work aligns with Artistic Bokeh's research interests in:
 ## Significance
 This presentation represented Artistic Bokeh's ongoing engagement with Australian artists and researchers, particularly through the Austria Australia Arts Alliance. It contributed to discussions about tactical media, spatial practices, and interdisciplinary research methodologies within the context of artistic research.
 
+
+## Archive snapshots
+- https://artisticbokeh.com/post/tactical-space-lab-josh-harle
+  - https://web.archive.org/web/20260225054132/https://artisticbokeh.com/post/tactical-space-lab-josh-harle
+- https://artisticbokeh.com/post/tactical-space-lab-josh-harle"
+  - https://web.archive.org/web/20260225054132/https://artisticbokeh.com/post/tactical-space-lab-josh-harle"
+- https://artisticbokeh.com/post/tactical-space-lab-josh-harle
+  - https://web.archive.org/web/20260225054132/https://artisticbokeh.com/post/tactical-space-lab-josh-harle
+- https://web.archive.org/web/20150324013412/https://artisticbokeh.com/post/tactical-space-lab-josh-harle
+  - https://web.archive.org/web/20260225054132/https://web.archive.org/web/20150324013412/https://artisticbokeh.com/post/tactical-space-lab-josh-harle

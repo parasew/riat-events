@@ -79,3 +79,15 @@ This 2015 event represented RIAT's focus on "Arts and Technology," which would l
 This award ceremony represented an important moment in RIAT's institutional development, showcasing its role in recognizing and promoting research at the intersection of arts and technology. The event at Gartenbaukino, a culturally significant venue, underscored the importance of artistic technology research within Vienna's cultural and academic landscape.
 
 The awards likely helped establish RIAT as a key player in Austrian artistic research communities and demonstrated the institute's commitment to fostering innovation across disciplinary boundaries.
+
+## Archive snapshots
+- https://web.archive.org/web/20160216033547/https://riat.at/
+  - https://web.archive.org/web/20260225054130/https://web.archive.org/web/20160216033547/https://riat.at/
+- https://www.facebook.com/events/696164823852719/
+  - https://web.archive.org/web/20260225054130/https://www.facebook.com/events/696164823852719/
+- https://www.facebook.com/events/696164823852719/
+  - https://web.archive.org/web/20260225054130/https://www.facebook.com/events/696164823852719/
+- https://www.mqw.at/en/program/programmdetail/awards-for-research-in-artistic-technology-1/
+  - https://web.archive.org/web/20260225054130/https://www.mqw.at/en/program/programmdetail/awards-for-research-in-artistic-technology-1/
+- https://www.mqw.at/en/program/programmdetail/awards-for-research-in-artistic-technology-1/"
+  - https://web.archive.org/web/20260225054130/https://www.mqw.at/en/program/programmdetail/awards-for-research-in-artistic-technology-1/"

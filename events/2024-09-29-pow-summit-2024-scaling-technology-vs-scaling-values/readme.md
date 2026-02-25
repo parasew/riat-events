@@ -1,13 +1,12 @@
-| Field | Value |
-| :--- | :--- |
-| Date | 2024-09-29 |
-| Event | POW Summit 2024 |
-| Location | Frankfurt, Germany |
-| Title | Scaling Technology vs. Scaling Values |
-| Speaker | Matthias Tarasiewicz |
-| Primary source | https://cfp.powsummit.com/2024/talk/TUHACY/ |
-
-![POW Summit 2024](pow-logo.png)
+---
+title: "Scaling Technology vs. Scaling Values"
+date: 2024-09-29T12:00:00+01:00
+draft: false
+location: "Frankfurt, Germany"
+country: "Germany"
+startdate: "2024-09-29"
+category: "event"
+---
 
 ### Description
 At POW Summit 2024 in Frankfurt, Matthias Tarasiewicz presented "Scaling Technology vs. Scaling Values: The Cypherpunk Dilemma". The talk explored the fundamental differences between scaling technology and scaling values. While technology can be replicated and optimized, values like privacy and decentralization are embedded in social contexts and require constant revision. The presentation questioned whether Cypherpunk principles can survive as their inspired technologies face centralization pressures.
@@ -23,3 +22,11 @@ Zusätzlich nahm Matthias am „Proof of Human Rights Privacy Panel“ zusammen 
 - https://cfp.powsummit.com/2024/speaker/QUBK9C/
 - https://cfp.powsummit.com/2024/talk/TUHACY/
 - https://powsummit.com/
+
+## Archive snapshots
+- https://cfp.powsummit.com/2024/speaker/QUBK9C/
+  - https://web.archive.org/web/20260225050137/https://cfp.powsummit.com/2024/speaker/QUBK9C/
+- https://cfp.powsummit.com/2024/talk/TUHACY/
+  - https://web.archive.org/web/20260225050137/https://cfp.powsummit.com/2024/talk/TUHACY/
+- https://powsummit.com/
+  - https://web.archive.org/web/20260225050137/https://powsummit.com/

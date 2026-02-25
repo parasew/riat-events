@@ -1,11 +1,12 @@
-| Field | Value |
-| :--- | :--- |
-| Date | 2012-11-20 |
-| Event | Mapping Artistic Technology |
-| Location | MQ (Artist Studios, Court 7), Vienna, Austria |
-| Title | Mapping Artistic Technology |
-| Organizers | Artistic Technology Research, SETUP |
-| Primary source | http://artistictechnology.at/ |
+---
+title: "Mapping Artistic Technology"
+date: 2012-11-20T12:00:00+01:00
+draft: false
+location: "MQ (Artist Studios, Court 7), Vienna, Austria"
+country: "Austria"
+startdate: "2012-11-20"
+category: "event"
+---
 
 ### Description
 In the Artist-In-Residence studios at MQ Vienna, Artistic Technology Research presented the results of the cooperation with the Utrecht Media Lab SETUP. Both groups were involved in mapping collaboration and communication within networks of creative producers. Mailing lists, Twitter interactions, search queries and online repositories represent unstable and often neglected repositories of social online interaction.
@@ -28,3 +29,6 @@ Die Veranstaltung umfasste auch das **2012 Artistic Technology Colloquium #1** m
 ### Archive snapshots
 - http://artistictechnology.at/ (2012-11-22)
   - https://web.archive.org/web/20121122011239/http://artistictechnology.at/
+
+## Resources
+* http://artistictechnology.at/

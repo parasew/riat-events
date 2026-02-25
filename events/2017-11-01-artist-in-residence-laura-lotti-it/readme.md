@@ -132,3 +132,7 @@ The residency program demonstrated RIAT's evolution into:
 - **Knowledge infrastructure**: Creating conditions for meaningful research production
 
 Laura Lotti's artist-in-residence stay represented RIAT/Artistic Bokeh's maturation into a serious research institution capable of attracting and supporting international researchers working at the cutting edge of cryptoeconomics and blockchain art, contributing to Vienna's growing reputation as a center for critical engagement with emerging technologies.
+
+## Archive snapshots
+- https://unsw.academia.edu/LauraLotti
+  - https://web.archive.org/web/20260225053711/https://unsw.academia.edu/LauraLotti

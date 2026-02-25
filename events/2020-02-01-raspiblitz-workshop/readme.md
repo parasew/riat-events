@@ -26,3 +26,15 @@ https://github.com/PichlerD/raspiblitz_workshop_btcaustria/blob/master/README.md
 
 ## Resources
 * https://www.meetup.com/Bitcoin-Austria/events/266924962/
+
+## Archive snapshots
+- https://amzn.to/3717aLq
+  - https://web.archive.org/web/20260225053711/https://amzn.to/3717aLq
+- https://github.com/PichlerD/raspiblitz_workshop_btcaustria/blob/master/README.md
+  - https://web.archive.org/web/20260225053711/https://github.com/PichlerD/raspiblitz_workshop_btcaustria/blob/master/README.md
+- https://github.com/rootzoll/raspiblitz
+  - https://web.archive.org/web/20260225053711/https://github.com/rootzoll/raspiblitz
+- https://unsplash.com/photos/yJPtjTjrMXk
+  - https://web.archive.org/web/20260225053711/https://unsplash.com/photos/yJPtjTjrMXk
+- https://www.meetup.com/Bitcoin-Austria/events/266924962/
+  - https://web.archive.org/web/20260225053711/https://www.meetup.com/Bitcoin-Austria/events/266924962/

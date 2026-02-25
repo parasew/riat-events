@@ -26,3 +26,13 @@ How your UI can work with different browsers and wallets
 ## Resources
 * https://www.eventbrite.com/e/smart-contract-development-with-ethereum-vienna-february-2019-tickets-56919380399#
 * https://riat.at/smart-contract-development-with-ethereum/
+
+## Archive snapshots
+- https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F57053774%2F148777297672%2F1%2Foriginal.20190213-130732?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C30%2C960%2C480&s=d7fc1cccfe274fc793901712823c36a1
+  - https://web.archive.org/web/20260225054135/https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F57053774%2F148777297672%2F1%2Foriginal.20190213-130732?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C30%2C960%2C480&s=d7fc1cccfe274fc793901712823c36a1
+- https://riat.at/smart-contract-development-with-ethereum/
+  - https://web.archive.org/web/20260225054135/https://riat.at/smart-contract-development-with-ethereum/
+- https://www.eventbrite.com/e/smart-contract-development-with-ethereum-vienna-february-2019-tickets-56919380399#
+  - https://web.archive.org/web/20260225054135/https://www.eventbrite.com/e/smart-contract-development-with-ethereum-vienna-february-2019-tickets-56919380399#
+- https://www.eventbrite.com/e/smart-contract-development-with-ethereum-vienna-february-2019-tickets-56919380399#
+  - https://web.archive.org/web/20260225054135/https://www.eventbrite.com/e/smart-contract-development-with-ethereum-vienna-february-2019-tickets-56919380399#

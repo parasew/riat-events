@@ -24,3 +24,13 @@ This work is funded and supported by kültüř gemma! 2016, and it’s presentat
 * https://www.facebook.com/events/185052815251944/
 * https://www.facebook.com/MzBaltazarsLaboratory/
 *
+
+## Archive snapshots
+- https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/14324361_1218832791512688_8851299220071650276_o.jpg?_nc_cat=110&_nc_sid=b386c4&_nc_ohc=6Mh8zqmS3wYAX9wJ3EP&_nc_ht=scontent-vie1-1.xx&tp=6&oh=05495f40ade0b3c6bf7e852ac82e08bd&oe=5F8EFFBB
+  - https://web.archive.org/web/20260225054133/https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/14324361_1218832791512688_8851299220071650276_o.jpg?_nc_cat=110&_nc_sid=b386c4&_nc_ohc=6Mh8zqmS3wYAX9wJ3EP&_nc_ht=scontent-vie1-1.xx&tp=6&oh=05495f40ade0b3c6bf7e852ac82e08bd&oe=5F8EFFBB
+- https://www.facebook.com/events/185052815251944/
+  - https://web.archive.org/web/20260225054133/https://www.facebook.com/events/185052815251944/
+- https://www.facebook.com/MzBaltazarsLaboratory/
+  - https://web.archive.org/web/20260225054133/https://www.facebook.com/MzBaltazarsLaboratory/
+- https://www.facebook.com/events/185052815251944/
+  - https://web.archive.org/web/20260225054133/https://www.facebook.com/events/185052815251944/

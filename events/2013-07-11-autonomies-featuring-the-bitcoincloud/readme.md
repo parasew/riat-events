@@ -1,11 +1,12 @@
-| Field | Value |
-| :--- | :--- |
-| Date | 2013-07-11 |
-| Event | Autonomies |
-| Location | Vienna, Austria |
-| Title | Autonomies featuring the BitcoinCloud |
-| Artists | Damian Stewart, Max Gurresch, Matthias Tarasiewicz (Artistic Bokeh) |
-| Primary source | (Event documentation needed) |
+---
+title: "Autonomies featuring the BitcoinCloud"
+date: 2013-07-11T12:00:00+01:00
+draft: false
+location: "Vienna, Austria"
+country: "Austria"
+startdate: "2013-07-11"
+category: "event"
+---
 
 ### Description
 An exhibition or event titled "Autonomies" featuring the BitcoinCloud installation. BitcoinCloud is an interactive media-arts installation and reactive sculpture that thematizes artistic production as well as alternative economics. The modular artwork consists of a "Bitcoin Mining Rig" (modified computers for calculating the virtual currency "Bitcoins") and an LED cloud (visualization).
@@ -30,3 +31,6 @@ Die Veranstaltung "Autonomies" untersuchte wahrscheinlich Themen wie Autonomie, 
   - https://web.archive.org/web/20121224160643/http://bitcoincloud.at/
   - Description (source): BitCoinCloud ist eine interaktive Rauminstallation, die den (virtuellen) Wert von künstlerischen Produkten sowie alternative Ökonomien thematisiert.
   - Beschreibung (DE): Bitcoincloud is an interactive room installation that explores the (virtual) value of artistic products and alternative economies.
+
+## Resources
+* (Event documentation needed)

@@ -75,3 +75,15 @@ The exhibition was part of the larger "Faceless II" exhibition exploring anonymi
 
 ## Significance
 This exhibition represented Artistic Bokeh's engagement with contemporary street art and its intersection with digital culture, privacy issues, and social media critique. KATSU's work provided a provocative commentary on the power dynamics of digital platforms.
+
+## Archive snapshots
+- https://artisticbokeh.com/post/katsu-status-update
+  - https://web.archive.org/web/20260225054128/https://artisticbokeh.com/post/katsu-status-update
+- https://artisticbokeh.com/post/katsu-status-update
+  - https://web.archive.org/web/20260225054128/https://artisticbokeh.com/post/katsu-status-update
+- https://en.wikipedia.org/wiki/KATSU
+  - https://web.archive.org/web/20260225054128/https://en.wikipedia.org/wiki/KATSU
+- https://en.wikipedia.org/wiki/KATSU
+  - https://web.archive.org/web/20260225054128/https://en.wikipedia.org/wiki/KATSU
+- https://web.archive.org/web/20140913040141/http://artisticbokeh.com/post/katsu-status-update
+  - https://web.archive.org/web/20260225054128/https://web.archive.org/web/20140913040141/http://artisticbokeh.com/post/katsu-status-update

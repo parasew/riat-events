@@ -33,3 +33,11 @@ RIAT Research Institute for Arts & Technology is an independent research cluster
 # References
 * https://www.facebook.com/events/1122851024418299/?notif_t=plan_user_associated&notif_id=1479321109920232
 * https://esel.at/termin/87893
+
+## Archive snapshots
+- https://esel.at/termin/87893
+  - https://web.archive.org/web/20260225053710/https://esel.at/termin/87893
+- https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/15123466_1280699611992672_6297353785441866201_o.jpg?_nc_cat=108&_nc_sid=b386c4&_nc_ohc=-5sjlza-kzUAX9lwzUr&_nc_ht=scontent-vie1-1.xx&oh=e0ad5a7ea0d626d9c9b1eed346b96777&oe=5F8DCEC9
+  - https://web.archive.org/web/20260225053710/https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/15123466_1280699611992672_6297353785441866201_o.jpg?_nc_cat=108&_nc_sid=b386c4&_nc_ohc=-5sjlza-kzUAX9lwzUr&_nc_ht=scontent-vie1-1.xx&oh=e0ad5a7ea0d626d9c9b1eed346b96777&oe=5F8DCEC9
+- https://www.facebook.com/events/1122851024418299/?notif_t=plan_user_associated&notif_id=1479321109920232
+  - https://web.archive.org/web/20260225053710/https://www.facebook.com/events/1122851024418299/?notif_t=plan_user_associated&notif_id=1479321109920232

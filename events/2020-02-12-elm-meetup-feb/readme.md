@@ -26,3 +26,13 @@ https://github.com/ni-ko-o-kin/elm-meetups
 
 ## Resources
 * https://www.meetup.com/Vienna-Elm-Meetup/events/266979403/
+
+## Archive snapshots
+- https://elmvienna.slack.com
+  - https://web.archive.org/web/20260225053711/https://elmvienna.slack.com
+- https://github.com/ni-ko-o-kin/elm-meetups
+  - https://web.archive.org/web/20260225053711/https://github.com/ni-ko-o-kin/elm-meetups
+- https://images.unsplash.com/photo-1497493292307-31c376b6e479?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80
+  - https://web.archive.org/web/20260225053711/https://images.unsplash.com/photo-1497493292307-31c376b6e479?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80
+- https://www.meetup.com/Vienna-Elm-Meetup/events/266979403/
+  - https://web.archive.org/web/20260225053711/https://www.meetup.com/Vienna-Elm-Meetup/events/266979403/

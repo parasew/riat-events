@@ -35,3 +35,13 @@ When machines are capable of doing all manual and informational work for us, we 
 * https://www.eventbrite.com/e/rituals-of-friendship-scholarship-tickets-25384358299#
 * http://continentcontinent.cc/index.php/continent/pages/view/openscenarios
 * https://www.facebook.com/events/970599456391968/
+
+## Archive snapshots
+- https://codedcultures.com/program/Workshop-Open-Scenarios03/
+  - https://web.archive.org/web/20260225053710/https://codedcultures.com/program/Workshop-Open-Scenarios03/
+- https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21024052%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C340%2C4078%2C2039&s=49504ce0ea091bcee32c5b29606f2aa3
+  - https://web.archive.org/web/20260225053710/https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21024052%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C340%2C4078%2C2039&s=49504ce0ea091bcee32c5b29606f2aa3
+- https://www.eventbrite.com/e/rituals-of-friendship-scholarship-tickets-25384358299#
+  - https://web.archive.org/web/20260225053710/https://www.eventbrite.com/e/rituals-of-friendship-scholarship-tickets-25384358299#
+- https://www.facebook.com/events/970599456391968/
+  - https://web.archive.org/web/20260225053710/https://www.facebook.com/events/970599456391968/

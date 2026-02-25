@@ -40,3 +40,11 @@ After the course participants can earn our “Smart Contract Developer” certif
 ## Resources
 * https://www.eventbrite.com/e/smart-contract-development-with-ethereum-vienna-september-2019-tickets-58285851551#
 * https://riat.at/smart-contract-development-with-ethereum/
+
+## Archive snapshots
+- https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F57971189%2F148777297672%2F1%2Foriginal.20190213-130732?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C30%2C960%2C480&s=862a8694e067c8649dabc23b01a7fec9
+  - https://web.archive.org/web/20260225053710/https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F57971189%2F148777297672%2F1%2Foriginal.20190213-130732?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C30%2C960%2C480&s=862a8694e067c8649dabc23b01a7fec9
+- https://riat.at/smart-contract-development-with-ethereum/
+  - https://web.archive.org/web/20260225053710/https://riat.at/smart-contract-development-with-ethereum/
+- https://www.eventbrite.com/e/smart-contract-development-with-ethereum-vienna-september-2019-tickets-58285851551#
+  - https://web.archive.org/web/20260225053710/https://www.eventbrite.com/e/smart-contract-development-with-ethereum-vienna-september-2019-tickets-58285851551#

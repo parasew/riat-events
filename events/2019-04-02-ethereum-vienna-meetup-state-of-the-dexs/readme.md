@@ -28,3 +28,11 @@ Afterwards feel free to chat with other cryptocurrency enthusiasts about Ethereu
 ## Resources
 * https://www.eventbrite.com/e/ethereum-vienna-meetup-tech-state-of-the-dexs-tickets-59333711729#
 * https://www.facebook.com/events/872562983080687/
+
+## Archive snapshots
+- https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F59072469%2F148777297672%2F1%2Foriginal.20190325-155826?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C29%2C960%2C480&s=d06aa1eab618e196959bf245f6c04ed7
+  - https://web.archive.org/web/20260225053710/https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F59072469%2F148777297672%2F1%2Foriginal.20190325-155826?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C29%2C960%2C480&s=d06aa1eab618e196959bf245f6c04ed7
+- https://www.eventbrite.com/e/ethereum-vienna-meetup-tech-state-of-the-dexs-tickets-59333711729#
+  - https://web.archive.org/web/20260225053710/https://www.eventbrite.com/e/ethereum-vienna-meetup-tech-state-of-the-dexs-tickets-59333711729#
+- https://www.facebook.com/events/872562983080687/
+  - https://web.archive.org/web/20260225053710/https://www.facebook.com/events/872562983080687/

@@ -89,3 +89,15 @@ As an Australian curator and researcher, Laura McLean's event contributed to the
 ## Significance
 This event represented the Research Cultures series' engagement with interdisciplinary research topics, international artistic exchange (particularly Australia-Austria), and the role of curation in facilitating research discussions. It showcased how artistic residencies can produce public research presentations and contribute to academic and artistic discourse.
 
+
+## Archive snapshots
+- https://web.archive.org/web/20150821102040/https://www.facebook.com/events/796218167127367/
+  - https://web.archive.org/web/20260225054129/https://web.archive.org/web/20150821102040/https://www.facebook.com/events/796218167127367/
+- https://www.facebook.com/events/796218167127367/
+  - https://web.archive.org/web/20260225054129/https://www.facebook.com/events/796218167127367/
+- https://www.facebook.com/events/796218167127367/"
+  - https://web.archive.org/web/20260225054129/https://www.facebook.com/events/796218167127367/"
+- https://www.facebook.com/events/796218167127367/
+  - https://web.archive.org/web/20260225054129/https://www.facebook.com/events/796218167127367/
+- https://www.facebook.com/events/796218167127367/
+  - https://web.archive.org/web/20260225054129/https://www.facebook.com/events/796218167127367/

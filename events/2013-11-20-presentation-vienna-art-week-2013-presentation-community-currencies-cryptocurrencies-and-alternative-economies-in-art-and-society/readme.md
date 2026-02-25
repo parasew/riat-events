@@ -133,3 +133,9 @@ The presentation strengthened Vienna's position as:
 - **Innovation platform**: Supporting new approaches to art and society
 
 The Vienna Art Week 2013 presentation on community currencies and cryptocurrencies captured an early moment in the intersection of art, technology, and economics, positioning Artistic Bokeh as a thoughtful contributor to discussions about alternative economic systems and their relationship to artistic practice.
+
+## Archive snapshots
+- https://www.mqw.at/en/program//programmdetail/vienna-art-week-2013-at-quartier21/
+  - https://web.archive.org/web/20260225054128/https://www.mqw.at/en/program//programmdetail/vienna-art-week-2013-at-quartier21/
+- https://www.mqw.at/en/program//programmdetail/vienna-art-week-2013-at-quartier21/
+  - https://web.archive.org/web/20260225054128/https://www.mqw.at/en/program//programmdetail/vienna-art-week-2013-at-quartier21/

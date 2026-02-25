@@ -58,3 +58,5 @@ As part of Donaufestival, the event was situated within a festival known for exp
 ## Significance
 "Call for Reduction" represented Artistic Bokeh's early engagement with experimental performance formats and interdisciplinary collaboration, exploring how technology and artistic research could inform new approaches to theatre and film convergence.
 
+
+## Archive snapshots

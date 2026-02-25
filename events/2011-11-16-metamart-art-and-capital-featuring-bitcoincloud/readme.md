@@ -1,30 +1,12 @@
 ---
-startdate: 2011/11/16
-title: "METAmART – Art and Capital featuring BitcoinCloud"
-subtitle: "Exhibition featuring BitcoinCloud interactive installation exploring virtual value and alternative economies"
+title: "BitcoinCloud Installation"
+date: 2011-11-16T12:00:00+01:00
+draft: false
 location: "Künstlerhaus Wien"
-city: "Vienna"
 country: "Austria"
-organizer: "Künstlerhaus Wien / 5uper.net"
-type: "Exhibition"
-artists: "Damian Stewart, Max Gurresch, Matthias Tarasiewicz"
-website: "http://www.k-haus.at/de/ausstellung/57/metamart.html"
+startdate: "2011-11-16"
+category: "event"
 ---
-
-| Field | Value |
-| :--- | :--- |
-| Date | 2011-11-16 |
-| Event | METAmART – Art and Capital |
-| Location | Künstlerhaus Wien |
-| Title | BitcoinCloud Installation |
-| Artists | Damian Stewart, Max Gurresch, Matthias Tarasiewicz |
-| Primary source | http://www.k-haus.at/de/ausstellung/57/metamart.html |
-
-![Bitcoincloud Setup](images/bitcoincloud-setup-esel.jpg)
-*Bitcoincloud installation setup at Künstlerhaus Wien (Photo: eSeL.at)*
-
-![METAmART Switchboard](images/metamart-switchboard-esel.jpg)
-*Switchboard installation at METAmART (Photo: eSeL.at)*
 
 ### Description
 BitCoinCloud is an interactive room installation that explores the (virtual) value of artistic products and alternative economies. The modular artwork consists of a "BitCoin Mining Rig" (modified computers for calculating the virtual currency "BitCoins") and an LED cloud (visualization). BitcoinCloud responds to today's attention-centered era with the direct dependency between attention and the value of the artwork: the more visitors turn to the sculpture (camera tracking), the more virtual currency units (BitCoins) are calculated, which in turn increases the total value of the installation.
@@ -51,3 +33,6 @@ Die Installation wurde vom 16. November 2011 bis 19. Februar 2012 im Künstlerha
   - https://web.archive.org/web/20120930031145/http://bitcoincloud.at/
   - https://web.archive.org/web/20121224160643/http://bitcoincloud.at/
 - Flickr photo documentation: https://www.flickr.com/photos/artisticbokeh/8457511011/in/album-72157631703295702
+
+## Resources
+* http://www.k-haus.at/de/ausstellung/57/metamart.html

@@ -18,3 +18,9 @@ The project »Making Artistic Technology« is supported by the FWF Science Commu
 
 ## Resources
 * https://www.facebook.com/events/1625427954212613/
+
+## Archive snapshots
+- https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/28166271_1742410189154943_5231531669405391018_n.jpg?_nc_cat=108&_nc_sid=b386c4&_nc_ohc=4vMQ3x9iVtIAX-8DPTP&_nc_ht=scontent-vie1-1.xx&oh=9527864cb74994bd95d509a3e49ef98a&oe=5F7E0A60
+  - https://web.archive.org/web/20260225053709/https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/28166271_1742410189154943_5231531669405391018_n.jpg?_nc_cat=108&_nc_sid=b386c4&_nc_ohc=4vMQ3x9iVtIAX-8DPTP&_nc_ht=scontent-vie1-1.xx&oh=9527864cb74994bd95d509a3e49ef98a&oe=5F7E0A60
+- https://www.facebook.com/events/1625427954212613/
+  - https://web.archive.org/web/20260225053709/https://www.facebook.com/events/1625427954212613/

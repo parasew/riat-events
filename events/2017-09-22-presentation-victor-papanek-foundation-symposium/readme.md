@@ -25,3 +25,11 @@ Speakers include Jan Boelen (Z33), David Breummer (5-D Robotics), Dr Bianca Eize
 * http://papanek.org/symposium/
 * https://www.facebook.com/events/1405162666203440/
 *
+
+## Archive snapshots
+- https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/s960x960/21125311_1571603449568952_2406681868789241561_o.jpg?_nc_cat=110&_nc_sid=b386c4&_nc_ohc=Q5glOUeApxIAX--Ay2k&_nc_ht=scontent-vie1-1.xx&tp=7&oh=c4c0c990983f82dd5f02636cbabe7c63&oe=5F86F0AB
+  - https://web.archive.org/web/20260225054132/https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/s960x960/21125311_1571603449568952_2406681868789241561_o.jpg?_nc_cat=110&_nc_sid=b386c4&_nc_ohc=Q5glOUeApxIAX--Ay2k&_nc_ht=scontent-vie1-1.xx&tp=7&oh=c4c0c990983f82dd5f02636cbabe7c63&oe=5F86F0AB
+- https://www.facebook.com/events/1405162666203440/
+  - https://web.archive.org/web/20260225054132/https://www.facebook.com/events/1405162666203440/
+- https://www.facebook.com/events/1405162666203440/
+  - https://web.archive.org/web/20260225054132/https://www.facebook.com/events/1405162666203440/

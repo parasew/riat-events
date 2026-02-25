@@ -22,3 +22,9 @@ Communication is the only possibility to create actualities transcending our sol
 
 ## Resources
 * https://www.facebook.com/events/560958234243927/
+
+## Archive snapshots
+- https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/21415073_1584605478268749_5181217865631850174_o.jpg?_nc_cat=103&_nc_sid=b386c4&_nc_ohc=GBv3SpXFdkwAX8pzoiC&_nc_ht=scontent-vie1-1.xx&tp=6&oh=17b2a1674cf5dd5b78f94379ffa451b4&oe=5F860A34
+  - https://web.archive.org/web/20260225053711/https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/21415073_1584605478268749_5181217865631850174_o.jpg?_nc_cat=103&_nc_sid=b386c4&_nc_ohc=GBv3SpXFdkwAX8pzoiC&_nc_ht=scontent-vie1-1.xx&tp=6&oh=17b2a1674cf5dd5b78f94379ffa451b4&oe=5F860A34
+- https://www.facebook.com/events/560958234243927/
+  - https://web.archive.org/web/20260225053711/https://www.facebook.com/events/560958234243927/

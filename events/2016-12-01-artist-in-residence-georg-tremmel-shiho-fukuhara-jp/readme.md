@@ -129,3 +129,7 @@ The residency demonstrated Artistic Bokeh's evolution beyond digital art to incl
 - **Global networks**: Connections with international artists working at art-science intersection
 
 Georg Tremmel and Shiho Fukuhara's artist-in-residence stay at the end of 2016 represented Artistic Bokeh's expanding engagement with interdisciplinary practice, moving beyond digital technology to include biological technologies and bio art, while strengthening Vienna's connections with Japan's innovative art and technology scene.
+
+## Archive snapshots
+- https://www.q21.at/artists-in-residence/artists/artistinfo/shiho-fukuhara-georg-tremmel/
+  - https://web.archive.org/web/20260225053710/https://www.q21.at/artists-in-residence/artists/artistinfo/shiho-fukuhara-georg-tremmel/

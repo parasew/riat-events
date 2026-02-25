@@ -16,3 +16,9 @@ We meet in a public area. Nobody is excluded. There is no admission charge or du
 
 ## Resources
 * https://www.facebook.com/events/306031676747864/
+
+## Archive snapshots
+- https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/s960x960/52105027_2227299830665974_1060845488909058048_o.jpg?_nc_cat=100&_nc_sid=b386c4&_nc_ohc=cmxfAJP81eEAX9RwqWS&_nc_ht=scontent-vie1-1.xx&tp=7&oh=9467de1a7acd19ca7ee35ddd124fb22f&oe=5F85DE97
+  - https://web.archive.org/web/20260225053709/https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/s960x960/52105027_2227299830665974_1060845488909058048_o.jpg?_nc_cat=100&_nc_sid=b386c4&_nc_ohc=cmxfAJP81eEAX9RwqWS&_nc_ht=scontent-vie1-1.xx&tp=7&oh=9467de1a7acd19ca7ee35ddd124fb22f&oe=5F85DE97
+- https://www.facebook.com/events/306031676747864/
+  - https://web.archive.org/web/20260225053709/https://www.facebook.com/events/306031676747864/

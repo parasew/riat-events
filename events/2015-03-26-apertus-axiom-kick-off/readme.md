@@ -1,15 +1,12 @@
 ---
-startdate: 2015/03/26
+title: ""
+date: 2015-03-26T12:00:00+01:00
+draft: false
+location: ""
+country: "Austria"
+startdate: "2015-03-26"
+category: "event"
 ---
-# Apertus AXIOM Kick-off
-
-| Field | Value |
-| --- | --- |
-| Date | 2015-03-26 |
-| Primary source | http://eu.axiom-camera.com/ |
-
-# References
-- http://eu.axiom-camera.com/
 
 ## Archive snapshots
 - http://eu.axiom-camera.com/
@@ -18,3 +15,6 @@ startdate: 2015/03/26
   - Beschreibung (DE): Die AXIOM Gamma ist ein Open-Technology-Kamerasystem mit modularer Hardware, das auf Erweiterbarkeit, Reparierbarkeit und langfristige Nachhaltigkeit ausgelegt ist.
   - Image:
     - ![AXIOM Gamma camera concept rendering](https://web.archive.org/web/20170419101627im_/http://eu.axiom-camera.com/assets/images/axiom/gamma.png)
+
+## Resources
+* http://eu.axiom-camera.com/

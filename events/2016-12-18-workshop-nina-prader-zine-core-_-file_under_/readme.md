@@ -27,3 +27,11 @@ Tools & materials will be provided
 
 # References
 * https://www.facebook.com/events/601513216707191/
+
+## Archive snapshots
+- https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/s960x960/15326240_1308503245878975_4784718442032971194_o.jpg?_nc_cat=106&_nc_sid=b386c4&_nc_ohc=_hfDqt00sTIAX_0I8ky&_nc_ht=scontent-vie1-1.xx&tp=7&oh=023324f31e5170e15dc9112b77ad52ef&oe=5F890AB6
+  - https://web.archive.org/web/20260225054134/https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/s960x960/15326240_1308503245878975_4784718442032971194_o.jpg?_nc_cat=106&_nc_sid=b386c4&_nc_ohc=_hfDqt00sTIAX_0I8ky&_nc_ht=scontent-vie1-1.xx&tp=7&oh=023324f31e5170e15dc9112b77ad52ef&oe=5F890AB6
+- https://www.facebook.com/events/601513216707191/
+  - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/601513216707191/
+- https://www.facebook.com/events/601513216707191/
+  - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/601513216707191/

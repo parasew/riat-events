@@ -5,3 +5,5 @@ startdate: 2017/12/16
 
 # References
 * http://riat.at/monero-open-hardware-wallet-workshop-day-dec-16-at-riat-vienna/
+
+## Archive snapshots

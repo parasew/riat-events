@@ -35,3 +35,13 @@ Christoph, Hans and Martin.
 ## Resources
 * https://www.facebook.com/events/686452968436693/
 * https://www.eventbrite.com/e/microservices-vienna-microfrontends-beyond-the-buzzword-tickets-59375635123#
+
+## Archive snapshots
+- https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/54267987_2282249301837693_9100880067789062144_n.jpg?_nc_cat=111&_nc_sid=b386c4&_nc_ohc=RumSlOa1F-0AX8Jx8jK&_nc_ht=scontent-vie1-1.xx&oh=249415b01f59df88aa6176507087203d&oe=5F862110
+  - https://web.archive.org/web/20260225054132/https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/54267987_2282249301837693_9100880067789062144_n.jpg?_nc_cat=111&_nc_sid=b386c4&_nc_ohc=RumSlOa1F-0AX8Jx8jK&_nc_ht=scontent-vie1-1.xx&oh=249415b01f59df88aa6176507087203d&oe=5F862110
+- https://www.eventbrite.com/e/microservices-vienna-microfrontends-beyond-the-buzzword-tickets-59375635123#
+  - https://web.archive.org/web/20260225054132/https://www.eventbrite.com/e/microservices-vienna-microfrontends-beyond-the-buzzword-tickets-59375635123#
+- https://www.facebook.com/events/686452968436693/
+  - https://web.archive.org/web/20260225054132/https://www.facebook.com/events/686452968436693/
+- https://www.eventbrite.com/e/microservices-vienna-microfrontends-beyond-the-buzzword-tickets-59375635123#
+  - https://web.archive.org/web/20260225054132/https://www.eventbrite.com/e/microservices-vienna-microfrontends-beyond-the-buzzword-tickets-59375635123#

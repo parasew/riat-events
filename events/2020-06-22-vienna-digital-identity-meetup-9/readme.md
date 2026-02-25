@@ -22,3 +22,11 @@ I hope you can join us in RIAT on Monday, evening or on-line if you can't be in 
 
 # Resources
 * https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271311363/
+
+## Archive snapshots
+- https://secure.meetupstatic.com/photos/event/8/0/d/highres_490862061.jpeg
+  - https://web.archive.org/web/20260225053712/https://secure.meetupstatic.com/photos/event/8/0/d/highres_490862061.jpeg
+- https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271311363/
+  - https://web.archive.org/web/20260225053712/https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271311363/
+- https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271311363/"
+  - https://web.archive.org/web/20260225053712/https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271311363/"

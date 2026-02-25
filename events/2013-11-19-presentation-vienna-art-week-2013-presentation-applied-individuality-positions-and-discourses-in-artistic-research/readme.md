@@ -5,3 +5,9 @@ startdate: 2013/11/19
 
 # References
 * https://www.mqw.at/en/program//programmdetail/vienna-art-week-2013-at-quartier21/
+
+## Archive snapshots
+- https://www.mqw.at/en/program//programmdetail/vienna-art-week-2013-at-quartier21/
+  - https://web.archive.org/web/20260225054130/https://www.mqw.at/en/program//programmdetail/vienna-art-week-2013-at-quartier21/
+- https://www.mqw.at/en/program//programmdetail/vienna-art-week-2013-at-quartier21/
+  - https://web.archive.org/web/20260225054130/https://www.mqw.at/en/program//programmdetail/vienna-art-week-2013-at-quartier21/

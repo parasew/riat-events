@@ -48,3 +48,9 @@ The device fee covers all extra electronic materials, industrially produced elec
 ## Resources
 * https://www.facebook.com/events/277838786089115/
 * http://victormazon.com/signum
+
+## Archive snapshots
+- https://www.facebook.com/events/277838786089115/
+  - https://web.archive.org/web/20260225053709/https://www.facebook.com/events/277838786089115/
+- https://www.facebook.com/riat.ac.at/photos/gm.277838909422436/1803075723088389/?type=3
+  - https://web.archive.org/web/20260225053709/https://www.facebook.com/riat.ac.at/photos/gm.277838909422436/1803075723088389/?type=3

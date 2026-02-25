@@ -30,3 +30,11 @@ Bring Monero-related artefacts from the past years!
 ## Resources
 * https://www.eventbrite.com/e/moneroversary-5-years-of-monero-riat-open-house-tickets-60462051624#
 * https://www.facebook.com/events/370653886870162/
+
+## Archive snapshots
+- https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F60456477%2F148777297672%2F1%2Foriginal.20190416-115431?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=54%2C0%2C720%2C360&s=a279426eefe8b981ade1796710a1c74f
+  - https://web.archive.org/web/20260225053710/https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F60456477%2F148777297672%2F1%2Foriginal.20190416-115431?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=54%2C0%2C720%2C360&s=a279426eefe8b981ade1796710a1c74f
+- https://www.eventbrite.com/e/moneroversary-5-years-of-monero-riat-open-house-tickets-60462051624#
+  - https://web.archive.org/web/20260225053710/https://www.eventbrite.com/e/moneroversary-5-years-of-monero-riat-open-house-tickets-60462051624#
+- https://www.facebook.com/events/370653886870162/
+  - https://web.archive.org/web/20260225053710/https://www.facebook.com/events/370653886870162/

@@ -149,3 +149,13 @@ The discussion contributed to:
 
 The SETUP.NL residency and presentation exemplified the international exchange and critical discourse that characterized Artistic Technology Research / Artistic Bokeh's programming in the early 2010s.
 
+
+## Archive snapshots
+- https://metalab.at/wiki/Meet_setup.nl
+  - https://web.archive.org/web/20260225054130/https://metalab.at/wiki/Meet_setup.nl
+- https://web.archive.org/web/20170726061535/http://www.q21.at/artists-in-residence/artists/artistinfo/setupnl/
+  - https://web.archive.org/web/20260225054130/https://web.archive.org/web/20170726061535/http://www.q21.at/artists-in-residence/artists/artistinfo/setupnl/
+- https://web.archive.org/web/20260223032335/https://www.facebook.com/events/280938985359609/
+  - https://web.archive.org/web/20260225054130/https://web.archive.org/web/20260223032335/https://www.facebook.com/events/280938985359609/
+- https://www.facebook.com/events/280938985359609/
+  - https://web.archive.org/web/20260225054130/https://www.facebook.com/events/280938985359609/

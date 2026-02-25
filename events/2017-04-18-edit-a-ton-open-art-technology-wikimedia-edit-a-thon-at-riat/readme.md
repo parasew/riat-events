@@ -128,3 +128,7 @@ The edit-a-thon promoted values of:
 - **Institutional openness**: Organizations sharing knowledge with public
 
 The Open Art & Technology Wikimedia Edit-a-thon at RIAT represented a practical application of open knowledge principles, bringing together experts and enthusiasts to improve public understanding of art and technology topics while teaching valuable digital literacy skills and contributing to one of the world's most important knowledge resources.
+
+## Archive snapshots
+- https://www.google.at/search?q=Open+Art+%26+Technology+edit&oq=Open+Art+%26+Technology+edit&aqs=chrome..69i57j69i64l3.1877j0j7&sourceid=chrome&ie=UTF-8#q=Open+Art+%26+Technology+edit-a-thon
+  - https://web.archive.org/web/20260225053711/https://www.google.at/search?q=Open+Art+%26+Technology+edit&oq=Open+Art+%26+Technology+edit&aqs=chrome..69i57j69i64l3.1877j0j7&sourceid=chrome&ie=UTF-8#q=Open+Art+%26+Technology+edit-a-thon

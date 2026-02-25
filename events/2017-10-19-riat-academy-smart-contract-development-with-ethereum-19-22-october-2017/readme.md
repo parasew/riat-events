@@ -15,3 +15,11 @@ The RIAT Blockchain Academy offers extensive and professional training for Ether
 ## References
 * https://www.eventbrite.com/e/smart-contract-development-with-ethereum-19-22-october-2017-tickets-38274366661
 * https://www.facebook.com/events/786700924787792/
+
+## Archive snapshots
+- https://www.eventbrite.com/e/smart-contract-development-with-ethereum-19-22-october-2017-tickets-38274366661
+  - https://web.archive.org/web/20260225053711/https://www.eventbrite.com/e/smart-contract-development-with-ethereum-19-22-october-2017-tickets-38274366661
+- https://www.facebook.com/events/786700924787792/
+  - https://web.archive.org/web/20260225053711/https://www.facebook.com/events/786700924787792/
+- https://www.facebook.com/riat.ac.at/videos/1614107071985256/?t=2
+  - https://web.archive.org/web/20260225053711/https://www.facebook.com/riat.ac.at/videos/1614107071985256/?t=2

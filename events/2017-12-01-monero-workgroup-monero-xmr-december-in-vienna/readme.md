@@ -5,3 +5,5 @@ startdate: 2017/12/01
 
 # References
 * http://riat.at/monero-december-in-vienna-austria/
+
+## Archive snapshots

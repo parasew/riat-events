@@ -5,3 +5,7 @@ startdate: 2016/02/01
 
 # References
 * http://www.q21.at/en/artists-in-residence/artists/artistinfo/adam-donovan-1/
+
+## Archive snapshots
+- https://www.q21.at/en/artists-in-residence/artists/artistinfo/adam-donovan-1/
+  - https://web.archive.org/web/20260225054135/https://www.q21.at/en/artists-in-residence/artists/artistinfo/adam-donovan-1/

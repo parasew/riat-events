@@ -89,3 +89,9 @@ As an Australian artist, Harle's presentations contributed to the **Austria Aust
 
 ## Significance
 This event continued Joshua Harle's research presentation series at Artistic Bokeh/RIAT, contributing to discussions about tactical spatial practices, interdisciplinary research, and international artistic exchange. It represented ongoing collaboration between Australian and Austrian research communities through the Austria Australia Arts Alliance program.
+
+
+## Archive snapshots
+- https://www.facebook.com/events/1552356271687846
+  - https://web.archive.org/web/20260225005031/https://www.facebook.com/events/1552356271687846
+

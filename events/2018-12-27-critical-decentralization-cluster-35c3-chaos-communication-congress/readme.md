@@ -21,3 +21,11 @@ The Chaos Computer Club (CCC) is the largest (and oldest) hacker association in 
 ## Resources
 * https://decentral.community/
 * https://www.youtube.com/watch?v=Xu_QH6oi7oA&list=PLsSYUeVwrHBn07zTBg7fGHRW5Kn_Z3FJL
+
+## Archive snapshots
+- https://decentral.community/
+  - https://web.archive.org/web/20260225053709/https://decentral.community/
+- https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.basecybersecurity.com%2Fwp-content%2Fuploads%2F2020%2F01%2F36C3-Chaos-Computer-Club-December-2019-Leipzig-Germany.png&f=1&nofb=1
+  - https://web.archive.org/web/20260225053709/https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.basecybersecurity.com%2Fwp-content%2Fuploads%2F2020%2F01%2F36C3-Chaos-Computer-Club-December-2019-Leipzig-Germany.png&f=1&nofb=1
+- https://www.youtube.com/watch?v=Xu_QH6oi7oA&list=PLsSYUeVwrHBn07zTBg7fGHRW5Kn_Z3FJL
+  - https://web.archive.org/web/20260225053709/https://www.youtube.com/watch?v=Xu_QH6oi7oA&list=PLsSYUeVwrHBn07zTBg7fGHRW5Kn_Z3FJL

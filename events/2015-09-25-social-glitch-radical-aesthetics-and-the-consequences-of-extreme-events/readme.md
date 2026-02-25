@@ -119,3 +119,9 @@ The event strengthened Vienna's position as:
 
 "Social Glitch: Radical aesthetics and the consequences of extreme events" represented sophisticated engagement with glitch concepts beyond their technical origins, exploring how error, failure, and system malfunction can provide critical perspectives on social and political systems, and demonstrating Artistic Bokeh's ability to collaborate with established art spaces on conceptually rich programming.
 
+
+## Archive snapshots
+- https://web.archive.org/web/20151130014640/http://www.kunstraum.net/de/programm/217-social-glitch
+  - https://web.archive.org/web/20260225054129/https://web.archive.org/web/20151130014640/http://www.kunstraum.net/de/programm/217-social-glitch
+- https://www.kunstraum.net/de/programm/217-social-glitch
+  - https://web.archive.org/web/20260225054129/https://www.kunstraum.net/de/programm/217-social-glitch

@@ -118,3 +118,5 @@ The minimal documentation for this event is typical of conference presentations 
 
 While specific presentation content is not preserved, the event represents important professional development and knowledge sharing within Vienna's digital art and sound community.
 
+
+## Archive snapshots

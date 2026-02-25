@@ -1,11 +1,12 @@
-| Field | Value |
-| :--- | :--- |
-| Date | 2012-11-19 |
-| Event | meet setup.nl |
-| Location | Metalab, Vienna, Austria |
-| Title | meet setup.nl |
-| Organizers | Artistic Technology Research, Metalab |
-| Primary source | https://metalab.at/wiki/Meet_setup.nl |
+---
+title: "meet setup.nl"
+date: 2012-11-19T12:00:00+01:00
+draft: false
+location: "Metalab, Vienna, Austria"
+country: "Austria"
+startdate: "2012-11-19"
+category: "event"
+---
 
 ### Description
 Innovation doesn't always come from institutionalized research & development departments of companies. Innovation can occur unexpectedly, randomly and even unwantedly. Hacker spaces, art labs and DIY communities are predestined to bring forth innovation beyond the corporate cathedrals of technological development.
@@ -24,3 +25,6 @@ Im Zuge ihres Aufenthaltes in Wien wendete sich SetUp (Initiative zur Ermöglich
 ### Archive snapshots
 - http://artistictechnology.at/ (2012-11-22)
   - https://web.archive.org/web/20121122011239/http://artistictechnology.at/
+
+## Resources
+* https://metalab.at/wiki/Meet_setup.nl

@@ -33,3 +33,13 @@ Cost: Free
 # References
 * https://codedcultures.com/program/Vibrance-Phase/
 * https://www.eventbrite.com/e/vibrance-phase-tickets-25421711022#
+
+## Archive snapshots
+- https://codedcultures.com/program/Vibrance-Phase/
+  - https://web.archive.org/web/20260225054131/https://codedcultures.com/program/Vibrance-Phase/
+- https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21071049%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C321%2C2662%2C1331&s=ea15aa253e15c1180508ea71e308bb52
+  - https://web.archive.org/web/20260225054131/https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21071049%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C321%2C2662%2C1331&s=ea15aa253e15c1180508ea71e308bb52
+- https://www.eventbrite.com/e/vibrance-phase-tickets-25421711022#
+  - https://web.archive.org/web/20260225054131/https://www.eventbrite.com/e/vibrance-phase-tickets-25421711022#
+- https://www.eventbrite.com/e/vibrance-phase-tickets-25421711022#
+  - https://web.archive.org/web/20260225054131/https://www.eventbrite.com/e/vibrance-phase-tickets-25421711022#

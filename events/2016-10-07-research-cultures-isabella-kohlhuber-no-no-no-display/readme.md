@@ -31,3 +31,13 @@ NO NO NO (visual), 2016, digital collage (graphic, print, photograph, 3D-renderi
 * https://www.mqw.at/en/institutions/q21/program/2016/10/isabella-kohlhuber-no-no-no-display/
 * http://isabella-kohlhuber.com/img/no-no-no/Folder-NoNoNo-screen.pdf
 * https://www.facebook.com/events/702425569904583/
+
+## Archive snapshots
+- https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p640x640/14352544_1218795878183046_2493363692751013497_o.jpg?_nc_cat=109&_nc_sid=b386c4&_nc_ohc=EfEmgNhjtDsAX8vi6Q4&_nc_ht=scontent-vie1-1.xx&tp=6&oh=53f71b4bd08aebc1dce9773bb28e4c54&oe=5F8D44BA
+  - https://web.archive.org/web/20260225054134/https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p640x640/14352544_1218795878183046_2493363692751013497_o.jpg?_nc_cat=109&_nc_sid=b386c4&_nc_ohc=EfEmgNhjtDsAX8vi6Q4&_nc_ht=scontent-vie1-1.xx&tp=6&oh=53f71b4bd08aebc1dce9773bb28e4c54&oe=5F8D44BA
+- https://www.facebook.com/events/702425569904583/
+  - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/702425569904583/
+- https://www.mqw.at/en/institutions/q21/program/2016/10/isabella-kohlhuber-no-no-no-display/
+  - https://web.archive.org/web/20260225054134/https://www.mqw.at/en/institutions/q21/program/2016/10/isabella-kohlhuber-no-no-no-display/
+- https://www.facebook.com/events/702425569904583/
+  - https://web.archive.org/web/20260225054135/https://www.facebook.com/events/702425569904583/

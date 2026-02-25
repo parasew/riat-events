@@ -19,6 +19,7 @@ I hope you can join us, I know it will be a fascinating and engaging conversatio
 
 ## Resources
 * https://www.meetup.com/de-DE/Vienna-Digital-Identity-Meetup/events/259683263/
+* https://www.eventbrite.com/e/vienna-digital-identity-meetup-3-tickets-59333091875
 
 ## Archive snapshots
 - https://secure.meetupstatic.com/photos/event/8/b/d/6/highres_479495798.jpeg

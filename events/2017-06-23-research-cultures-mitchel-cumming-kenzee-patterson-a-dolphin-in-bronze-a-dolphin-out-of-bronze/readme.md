@@ -20,3 +20,13 @@ Australian artists Mitchel Cumming and Kenzee Patterson present a two part exhib
 # References
 * http://www.q21.at/en/program//programmdetail/subtext-typedesign-1/?tx_mqprogramm_pi1%5Boffset%5D=5&tx_mqprogramm_pi1%5Bfrom%5D=&tx_mqprogramm_pi1%5Bto%5D=&tx_mqprogramm_pi1%5Bsort%5D=nosort&tx_mqprogramm_pi1%5Bfilter%5D=&cHash=42913cd628a12c2a201f9fc4f652
 * https://www.facebook.com/events/1321029971280251/
+
+## Archive snapshots
+- https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/s960x960/19388541_1508740779188553_7242386921944382952_o.jpg?_nc_cat=104&_nc_sid=b386c4&_nc_ohc=aBlZUZph4AMAX-6NJV5&_nc_ht=scontent-vie1-1.xx&tp=7&oh=55de9aa8faae14ff026a10bff1de4649&oe=5F8ACB0D
+  - https://web.archive.org/web/20260225054134/https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/s960x960/19388541_1508740779188553_7242386921944382952_o.jpg?_nc_cat=104&_nc_sid=b386c4&_nc_ohc=aBlZUZph4AMAX-6NJV5&_nc_ht=scontent-vie1-1.xx&tp=7&oh=55de9aa8faae14ff026a10bff1de4649&oe=5F8ACB0D
+- https://www.facebook.com/events/1321029971280251/
+  - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/1321029971280251/
+- https://www.facebook.com/events/1321029971280251/
+  - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/1321029971280251/
+- https://www.q21.at/en/program//programmdetail/subtext-typedesign-1/?tx_mqprogramm_pi1%5Boffset%5D=5&tx_mqprogramm_pi1%5Bfrom%5D=&tx_mqprogramm_pi1%5Bto%5D=&tx_mqprogramm_pi1%5Bsort%5D=nosort&tx_mqprogramm_pi1%5Bfilter%5D=&cHash=42913cd628a12c2a201f9fc4f652
+  - https://web.archive.org/web/20260225054134/https://www.q21.at/en/program//programmdetail/subtext-typedesign-1/?tx_mqprogramm_pi1%5Boffset%5D=5&tx_mqprogramm_pi1%5Bfrom%5D=&tx_mqprogramm_pi1%5Bto%5D=&tx_mqprogramm_pi1%5Bsort%5D=nosort&tx_mqprogramm_pi1%5Bfilter%5D=&cHash=42913cd628a12c2a201f9fc4f652

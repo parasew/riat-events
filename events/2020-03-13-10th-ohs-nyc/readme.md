@@ -19,3 +19,15 @@ Speakers include world renowned leaders from industry, academia, the arts and ma
 * https://www.eventbrite.com/e/open-hardware-summit-2020-special-edition-10th-anniversary-tickets-65367109785
 * https://www.evilmadscientist.com/2020/open-hardware-summit-2020/
 * https://blog.adafruit.com/2020/01/26/2020-open-hardware-summit-ohsummit20-topic-on-adafruits-discord-and-logos-art-for-the-event-with-circuitpython-ohsummit-discordapp-oshwa-oshw-circuitpython/
+
+## Archive snapshots
+- https://2020.oshwa.org/
+  - https://web.archive.org/web/20260225053712/https://2020.oshwa.org/
+- https://2020.oshwa.org/files/2019/06/cropped-header2.jpg
+  - https://web.archive.org/web/20260225053712/https://2020.oshwa.org/files/2019/06/cropped-header2.jpg
+- https://blog.adafruit.com/2020/01/26/2020-open-hardware-summit-ohsummit20-topic-on-adafruits-discord-and-logos-art-for-the-event-with-circuitpython-ohsummit-discordapp-oshwa-oshw-circuitpython/
+  - https://web.archive.org/web/20260225053712/https://blog.adafruit.com/2020/01/26/2020-open-hardware-summit-ohsummit20-topic-on-adafruits-discord-and-logos-art-for-the-event-with-circuitpython-ohsummit-discordapp-oshwa-oshw-circuitpython/
+- https://www.eventbrite.com/e/open-hardware-summit-2020-special-edition-10th-anniversary-tickets-65367109785
+  - https://web.archive.org/web/20260225053712/https://www.eventbrite.com/e/open-hardware-summit-2020-special-edition-10th-anniversary-tickets-65367109785
+- https://www.evilmadscientist.com/2020/open-hardware-summit-2020/
+  - https://web.archive.org/web/20260225053712/https://www.evilmadscientist.com/2020/open-hardware-summit-2020/

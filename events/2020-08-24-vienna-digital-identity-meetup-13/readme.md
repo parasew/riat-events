@@ -26,3 +26,13 @@ Hybrid event: on-site in the RIAT space Neubaugasse and on-line via ZOOM.
 
 ## Resources
 * https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272597365/
+
+## Archive snapshots
+- https://live.staticflickr.com/2857/12139100654_402717d9f8_k_d.jpg
+  - https://web.archive.org/web/20260225054131/https://live.staticflickr.com/2857/12139100654_402717d9f8_k_d.jpg
+- https://live.staticflickr.com/2857/12139100654_402717d9f8_k_d.jpg
+  - https://web.archive.org/web/20260225054131/https://live.staticflickr.com/2857/12139100654_402717d9f8_k_d.jpg
+- https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272597365/
+  - https://web.archive.org/web/20260225054131/https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272597365/
+- https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272597365/
+  - https://web.archive.org/web/20260225054131/https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272597365/

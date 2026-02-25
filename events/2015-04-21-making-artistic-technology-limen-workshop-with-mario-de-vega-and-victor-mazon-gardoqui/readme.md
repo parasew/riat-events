@@ -143,3 +143,13 @@ As part of the "Making Artistic Technology" series, LIMEN contributed to:
 - **Establishing Vienna** as a center for critical technology education
 
 The workshop exemplified the hands-on, critical approach that characterized Artistic Technology Research / Artistic Bokeh's educational programming in the mid-2010s.
+
+## Archive snapshots
+- https://artistictechnology.at/workshop.html
+  - https://web.archive.org/web/20260225054129/https://artistictechnology.at/workshop.html
+- https://artistictechnology.at/workshop.html"
+  - https://web.archive.org/web/20260225054129/https://artistictechnology.at/workshop.html"
+- https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
+  - https://web.archive.org/web/20260225054129/https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
+- https://web.archive.org/web/20150417153542im_/https://artistictechnology.at/images/limen.jpg
+  - https://web.archive.org/web/20260225054129/https://web.archive.org/web/20150417153542im_/https://artistictechnology.at/images/limen.jpg

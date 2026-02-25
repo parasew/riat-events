@@ -19,3 +19,13 @@ This presentation will be a combination of business drivers and technical soluti
 
 ## Resources
 * https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271801491/
+
+## Archive snapshots
+- https://secure.meetupstatic.com/photos/event/2/3/e/a/highres_491229194.jpeg
+  - https://web.archive.org/web/20260225054134/https://secure.meetupstatic.com/photos/event/2/3/e/a/highres_491229194.jpeg
+- https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271801491/
+  - https://web.archive.org/web/20260225054134/https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271801491/
+- https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271801491/"
+  - https://web.archive.org/web/20260225054134/https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271801491/"
+- https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271801491/
+  - https://web.archive.org/web/20260225054134/https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/271801491/

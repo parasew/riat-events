@@ -18,3 +18,9 @@ Michael Shea has been giving a brief update on the digital identity space and an
 
 ## Resources
 * https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272038026/
+
+## Archive snapshots
+- https://secure.meetupstatic.com/photos/event/4/9/c/c/highres_491418892.jpeg
+  - https://web.archive.org/web/20260225053711/https://secure.meetupstatic.com/photos/event/4/9/c/c/highres_491418892.jpeg
+- https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272038026/
+  - https://web.archive.org/web/20260225053712/https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/272038026/

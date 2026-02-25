@@ -27,3 +27,11 @@ The event is free of charge, please come early and make sure to register in orde
 ## Resources
 * https://www.facebook.com/events/388949381797827/
 * https://riat.at/open-hardware-dialogues/
+
+## Archive snapshots
+- https://riat.at/open-hardware-dialogues/
+  - https://web.archive.org/web/20260225053710/https://riat.at/open-hardware-dialogues/
+- https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/71178978_2610784328984187_6700465336166121472_o.jpg?_nc_cat=100&_nc_sid=b386c4&_nc_ohc=-m-E0FkXs_8AX-HQbVu&_nc_ht=scontent-vie1-1.xx&oh=033400823218ed9d328fe7527dd82a43&oe=5F834C36
+  - https://web.archive.org/web/20260225053710/https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/71178978_2610784328984187_6700465336166121472_o.jpg?_nc_cat=100&_nc_sid=b386c4&_nc_ohc=-m-E0FkXs_8AX-HQbVu&_nc_ht=scontent-vie1-1.xx&oh=033400823218ed9d328fe7527dd82a43&oe=5F834C36
+- https://www.facebook.com/events/388949381797827/
+  - https://web.archive.org/web/20260225053710/https://www.facebook.com/events/388949381797827/

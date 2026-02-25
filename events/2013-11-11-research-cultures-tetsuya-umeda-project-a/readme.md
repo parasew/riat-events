@@ -128,3 +128,7 @@ Featuring international artists like Umeda demonstrated the series' growth into:
 - **Knowledge production**: Generating new understanding through artistic research presentations
 
 Tetsuya Umeda's Research Cultures presentation on "Project A" represented the international reach and conceptual depth of the series, bringing Japanese experimental art perspectives to Vienna while demonstrating Artistic Bokeh's commitment to serious engagement with artistic research practices from around the world.
+
+## Archive snapshots
+- https://esel.at/s/72157637817410585
+  - https://web.archive.org/web/20260225054129/https://esel.at/s/72157637817410585

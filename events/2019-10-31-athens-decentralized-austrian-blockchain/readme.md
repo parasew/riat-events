@@ -20,3 +20,9 @@ Session: Austrian Blockchain Center
 
 ## Resources
 * https://mk0decentralizefr9if.kinstacdn.com/wp-content/uploads/2019/09/P1638-Agenda-v3.pdf
+
+## Archive snapshots
+- https://mk0decentralizefr9if.kinstacdn.com/wp-content/uploads/2019/09/P1638-Agenda-v3.pdf
+  - https://web.archive.org/web/20260225053710/https://mk0decentralizefr9if.kinstacdn.com/wp-content/uploads/2019/09/P1638-Agenda-v3.pdf
+- https://www.unic.ac.cy/iff/wp-content/uploads/sites/5/2019/07/DECENTRALIZED-2019-The-%E2%80%98Father%E2%80%99-of-Blockchain-to-present-at-Athens-Conference4.jpg
+  - https://web.archive.org/web/20260225053710/https://www.unic.ac.cy/iff/wp-content/uploads/sites/5/2019/07/DECENTRALIZED-2019-The-%E2%80%98Father%E2%80%99-of-Blockchain-to-present-at-Athens-Conference4.jpg

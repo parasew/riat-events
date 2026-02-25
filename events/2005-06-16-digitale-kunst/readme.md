@@ -75,3 +75,5 @@ Events like "Digitale Kunst" in 2005 represent:
 ## Note on Documentation
 Early 2005 events often have minimal documentation in the archive. The title "Digitale Kunst" suggests a digital art-focused event, typical of 5uper.net's programming during this period. More specific details would require consultation of original 5uper.net archives or contemporary documentation.
 
+
+## Archive snapshots

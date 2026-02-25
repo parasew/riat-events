@@ -65,3 +65,15 @@ Artistic Bokeh documented the exhibition with photos available in their Flickr s
 ## Significance
 "Out of the Box" represented an important exhibition in the development of artistic research as a recognized field, showcasing how artistic practice can contribute to knowledge production and challenging traditional divisions between art and science. The exhibition highlighted the University of Applied Arts Vienna's leadership in this emerging field.
 
+
+## Archive snapshots
+- http://digitalsynesthesia.net/wp/events/exhibition-out-of-the-box-10-questions-about-artistic-research/
+  - https://web.archive.org/web/20260225054133/http://digitalsynesthesia.net/wp/events/exhibition-out-of-the-box-10-questions-about-artistic-research/
+- https://web.archive.org/web/20140821132610/https://www.flickr.com/photos/artisticbokeh/sets/72157638145584125/
+  - https://web.archive.org/web/20260225054133/https://web.archive.org/web/20140821132610/https://www.flickr.com/photos/artisticbokeh/sets/72157638145584125/
+- https://web.archive.org/web/20170820122938/http://digitalsynesthesia.net/wp/events/exhibition-out-of-the-box-10-questions-about-artistic-research/
+  - https://web.archive.org/web/20260225054133/https://web.archive.org/web/20170820122938/http://digitalsynesthesia.net/wp/events/exhibition-out-of-the-box-10-questions-about-artistic-research/
+- https://www.flickr.com/photos/artisticbokeh/sets/72157638145584125/
+  - https://web.archive.org/web/20260225054133/https://www.flickr.com/photos/artisticbokeh/sets/72157638145584125/
+- https://www.flickr.com/photos/artisticbokeh/sets/72157638145584125/
+  - https://web.archive.org/web/20260225054133/https://www.flickr.com/photos/artisticbokeh/sets/72157638145584125/
