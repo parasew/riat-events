@@ -71,7 +71,7 @@ The original 5uper.net post reference (135.html) appears to be unarchived, but p
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/135.html
   - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/135.html
-  - https://web.archive.org/web/20260223024947/https://web.archive.org/web/20150209174810/https://5uper.net/post/135.html
+  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/135.html
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/133.html
   - https://web.archive.org/web/20051210040459/http://5uper.net/post/133
 

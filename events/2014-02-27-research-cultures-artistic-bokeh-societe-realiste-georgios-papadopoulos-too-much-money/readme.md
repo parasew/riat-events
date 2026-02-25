@@ -100,7 +100,7 @@ This opening event launched a significant exhibition exploring the complex relat
 - **youtube-icon.png**: [youtube-icon.png](../documents/artisticbokeh/images/youtube-icon.png)
 
 ## Archive snapshots
-- https://web.archive.org/web/20260224204200/http://artisticbokeh.com//post/artistic-bokeh-societe-realiste-georgios-papadopoulos-too-much-money-opening-27-2-2014
+- https://web.archive.org/web/20140913040141/http://artisticbokeh.com//post/artistic-bokeh-societe-realiste-georgios-papadopoulos-too-much-money-opening-27-2-2014
 
 - https://web.archive.org/web/20160304034444/http://artisticbokeh.com/
 - https://www.flickr.com/photos/artisticbokeh/sets/72157641626930984/

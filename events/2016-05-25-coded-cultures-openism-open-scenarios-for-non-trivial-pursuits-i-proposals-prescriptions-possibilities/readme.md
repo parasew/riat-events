@@ -33,12 +33,12 @@ Day II https://www.facebook.com/events/543785985808927/
 Day III https://www.facebook.com/events/970599456391968/
 
 # References
-* https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Workshop-Open-Scenarios01/
+* https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-Open-Scenarios01/
 * https://www.facebook.com/events/606668406160374/
 
 ## Archive snapshots
-- https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Workshop-Open-Scenarios01/
-  - https://web.archive.org/web/20260225054130/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Workshop-Open-Scenarios01/
+- https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-Open-Scenarios01/
+  - https://web.archive.org/web/20260225054130/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-Open-Scenarios01/
 - https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/13217189_1132772823440759_4580551179776328714_o.jpg?_nc_cat=102&_nc_sid=b386c4&_nc_ohc=lS6iOQqakgEAX_ORVqa&_nc_ht=scontent-vie1-1.xx&tp=6&oh=6c8ff7f1c508f851f958419e3cfdd5d3&oe=5F8E75AE
   - https://web.archive.org/web/20260225054130/https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/13217189_1132772823440759_4580551179776328714_o.jpg?_nc_cat=102&_nc_sid=b386c4&_nc_ohc=lS6iOQqakgEAX_ORVqa&_nc_ht=scontent-vie1-1.xx&tp=6&oh=6c8ff7f1c508f851f958419e3cfdd5d3&oe=5F8E75AE
 - https://www.facebook.com/events/543785985808927/

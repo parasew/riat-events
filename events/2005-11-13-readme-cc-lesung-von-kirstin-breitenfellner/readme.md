@@ -59,6 +59,6 @@ The 5uper.net Cuisine Digitale serves as an ideal venue for literary events, pro
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/130.html
-  - https://web.archive.org/web/20260223024859/https://web.archive.org/web/20150209174810/https://5uper.net/post/130.html
+  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/130.html
 - https://web.archive.org/web/20051210040459/http://5uper.net/post/130
 

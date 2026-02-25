@@ -104,7 +104,7 @@ This exhibition provided a critical examination of surveillance culture through 
 - **youtube-icon.png**: [youtube-icon.png](../documents/artisticbokeh/images/youtube-icon.png)
 
 ## Archive snapshots
-- https://web.archive.org/web/20260225054133/http://artisticbokeh.com//
+- https://web.archive.org/web/20140913040141/http://artisticbokeh.com//
 - https://goo.gl/Q42a1
   - https://web.archive.org/web/20260225054133/https://goo.gl/Q42a1
 - https://twitter.com/artisticbokeh

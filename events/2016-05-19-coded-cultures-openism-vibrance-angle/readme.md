@@ -6,11 +6,11 @@ title: "[Coded Cultures Openism] Vibrance – Angle"
 # [Coded Cultures Openism] Vibrance – Angle
 
 # References
-* https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Angle/
+* https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Angle/
 
 ## Archive snapshots
-- https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Angle/
-  - https://web.archive.org/web/20260225054131/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Angle/
+- https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Angle/
+  - https://web.archive.org/web/20260225054131/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Angle/
 
 ## Local Archive
 

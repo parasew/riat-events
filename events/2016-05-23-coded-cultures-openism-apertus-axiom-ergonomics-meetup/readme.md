@@ -6,11 +6,11 @@ title: "[Coded Cultures Openism] apertus° AXIOM Ergonomics Meetup"
 # [Coded Cultures Openism] apertus° AXIOM Ergonomics Meetup
 
 # References
-* https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Workshop-axiom01/
+* https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-axiom01/
 
 ## Archive snapshots
-- https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Workshop-axiom01/
-  - https://web.archive.org/web/20260225053710/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Workshop-axiom01/
+- https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-axiom01/
+  - https://web.archive.org/web/20260225053710/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-axiom01/
 
 ## Local Archive
 

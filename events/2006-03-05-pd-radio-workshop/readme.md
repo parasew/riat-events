@@ -108,7 +108,7 @@ The workshop responded to:
   - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
 
 ### Archive Snapshots
-- **5uper.net post**: https://web.archive.org/web/20260223030034/https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
+- **5uper.net post**: https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
 
 ### Related Resources
 - **Pure Data documentation**: Official PD resources and tutorials
@@ -145,6 +145,6 @@ The PD-Radio workshop captured 5uper.net's commitment to practical technical edu
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
   - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
-  - https://web.archive.org/web/20260225054128/https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
-- https://web.archive.org/web/20260223030034/https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
-  - https://web.archive.org/web/20260225054128/https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
+  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
+- https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
+  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html

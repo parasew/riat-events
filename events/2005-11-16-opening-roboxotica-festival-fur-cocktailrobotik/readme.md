@@ -61,6 +61,6 @@ Part of 5uper.net's innovative festival programming that explores the creative a
 
 ## Archive snapshots
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/132.html
-  - https://web.archive.org/web/20260223024920/https://web.archive.org/web/20150209174810/https://5uper.net/post/132.html
+  - https://web.archive.org/web/20150209174810/https://web.archive.org/web/20150209174810/https://5uper.net/post/132.html
 - https://web.archive.org/web/20051210040459/http://5uper.net/post/132
 

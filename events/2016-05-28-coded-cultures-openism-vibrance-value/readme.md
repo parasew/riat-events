@@ -23,15 +23,15 @@ His aesthetic approach looks for that vulnerable moment in which nothing is dete
 David Kontra is the xo-founder of BINARIA, a platform founded in Mexico City in 1993 which prompted several local projects of experimental music, industrial, noise, performance and video. Precursor in the field of digital art, animation, net label , web radio. Where he has made, festivals, physical production of KCTS and records for over 20 years. His practice has sought to promote the art of rupture; the ideological shift that begins to occur in our society, directing it to an intelligent rebellion based on the invisible self-censorship which imposes the average citizen to passively swallow the garbage that abounds on television and traditional media. A mental anorexia direct provocation that automatic and fainthearted social mass will not ask, do not understand, do not look.
 
 # References
-* https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Value/
-  - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Value/
+* https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Value/
+  - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Value/
 * https://www.eventbrite.com/e/vibrance-value-tickets-25421314837#
 
 ## Archive snapshots
 - https://www.eventbrite.com/e/vibrance-value-tickets-25421314837#
   - https://web.archive.org/web/20260224204503/https://www.eventbrite.com/e/vibrance-value-tickets-25421314837#
-- https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Value/
-  - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Value/
+- https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Value/
+  - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Value/
 
 ## Local Archive
 

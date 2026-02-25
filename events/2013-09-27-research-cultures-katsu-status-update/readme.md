@@ -59,7 +59,7 @@ The exhibition was part of the larger "Faceless II" exhibition exploring anonymi
 ## References and Links
 
 ### Primary Sources
-- **Artistic Bokeh Post**: [KATSU: Status Update](https://web.archive.org/web/20260225054128/http://artisticbokeh.com/post/katsu-status-update)
+- **Artistic Bokeh Post**: [KATSU: Status Update](https://web.archive.org/web/20140913040141/http://artisticbokeh.com/post/katsu-status-update)
 - **MQW Event Page**: [KATSU: Status Update](https://www.mqw.at/en/program/programmdetail/katsu-status-update-1/))
 - **Gizmodo Coverage**: [Mark Zuckerberg Pummeled and Posterized](https://www.gizmodo.com/5993320/mark-zuckerberg-pummeled-and-posterized)
 
@@ -90,12 +90,12 @@ This exhibition represented Artistic Bokeh's engagement with contemporary street
 - **youtube-icon.png**: [youtube-icon.png](../documents/artisticbokeh/images/youtube-icon.png)
 
 ## Archive snapshots
-- https://web.archive.org/web/20260225054128/http://artisticbokeh.com//post/katsu-status-update
+- https://web.archive.org/web/20140913040141/http://artisticbokeh.com//post/katsu-status-update
 - https://en.wikipedia.org/wiki/KATSU
   - https://web.archive.org/web/20260225054128/https://en.wikipedia.org/wiki/KATSU
-- https://web.archive.org/web/20260225054128/http://artisticbokeh.com//post/katsu-status-update
+- https://web.archive.org/web/20140913040141/http://artisticbokeh.com//post/katsu-status-update
 
-- https://web.archive.org/web/20260225054128/http://artisticbokeh.com//post/katsu-status-update
+- https://web.archive.org/web/20140913040141/http://artisticbokeh.com//post/katsu-status-update
 - https://www.mqw.at/en/program/programmdetail/katsu-status-update-1/
 - https://www.gizmodo.com/5993320/mark-zuckerberg-pummeled-and-posterized
 - https://web.archive.org/web/20140913040141/http://www.mqw.at/no_cache/ru/programm/?tx_mqprogramm_pi1%5Beventid%5D=10979&cHash=d60a25f9fa7294a1f65a5f0e5056f21a

@@ -6,11 +6,11 @@ title: "[Coded Cultures Openism] Vibrance – Topology"
 # [Coded Cultures Openism] Vibrance – Topology
 
 # References
-* https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Topology/
+* https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Topology/
 
 ## Archive snapshots
-- https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Topology/
-  - https://web.archive.org/web/20260225054133/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Topology/
+- https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Topology/
+  - https://web.archive.org/web/20260225054133/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Topology/
 
 ## Local Archive
 

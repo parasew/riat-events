@@ -12,8 +12,8 @@ festival: "Coded Cultures Openism"
 year: 2016
 theme: "DIY instruments, recycled materials, percussion, distortion, sound systems"
 references:
-  - https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Repair-000/
-    - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Repair-000/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Repair-000/
+    - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Repair-000/
 ---
 
 # [Coded Cultures Openism] Recycled Percussion and Distortion Systems
@@ -86,8 +86,8 @@ The event demonstrated Coded Cultures' commitment to:
 ## References
 
 ### Primary Source
-- **Coded Cultures program page**: https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Repair-000/
-  - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Repair-000/
+- **Coded Cultures program page**: https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Repair-000/
+  - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Repair-000/
 
 ### Related Context
 - **DIY instrument building**: Techniques and communities around handmade instruments
@@ -121,9 +121,9 @@ Including this event demonstrated Coded Cultures' commitment to:
 The "Recycled Percussion and Distortion Systems" event exemplified Coded Cultures' hands-on, material approach to digital culture, recognizing that innovation happens through physical making and material experimentation as well as through digital tools and concepts, and that community is built through shared making experiences.
 
 ## Archive snapshots
-- https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Repair-000/
-  - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Repair-000/
-  - https://web.archive.org/web/20260225053710/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Repair-000/
+- https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Repair-000/
+  - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Repair-000/
+  - https://web.archive.org/web/20260225053710/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Repair-000/
 
 ## Local Archive
 

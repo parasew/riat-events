@@ -37,7 +37,7 @@ The Open Hardware Europe Summit is for the first time taking place in Vienna, Au
 
 ## Archive snapshots
 - https://codedcultures.com/categories/open-hardware-europe-summit/
-  - https://web.archive.org/web/20260225054135/https://codedcultures.com/categories/open-hardware-europe-summit/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/categories/open-hardware-europe-summit/
 - https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F20945002%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C732%2C366&s=dcab921ad9521600bbc04aade80c9139
   - https://web.archive.org/web/20260225054135/https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F20945002%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C732%2C366&s=dcab921ad9521600bbc04aade80c9139
 - https://www.eventbrite.com/e/open-hardware-europe-summit-tickets-25318639733#

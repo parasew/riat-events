@@ -13,8 +13,8 @@ series: "Vibrance"
 year: 2016
 theme: "Digital traces, tracking, surveillance, data footprints"
 references:
-  - https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Trace/
-    - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Trace/
+  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
+    - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
 ---
 
 # [Coded Cultures Openism] Vibrance – Trace
@@ -104,8 +104,8 @@ This event contributed to:
 ## References
 
 ### Primary Source
-- **Coded Cultures program page**: https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Trace/
-  - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Trace/
+- **Coded Cultures program page**: https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
+  - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
 
 ### Related Context
 - **Digital trace studies**: Academic research on data footprints and tracking
@@ -139,9 +139,9 @@ Including "Trace" demonstrated commitment to:
 The "Vibrance – Trace" event exemplified Coded Cultures' serious engagement with the political and social dimensions of digital technology, using art to examine how digital traces shape our lives, identities, and societies in the age of pervasive data collection and surveillance.
 
 ## Archive snapshots
-- https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Trace/
-  - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Trace/
-  - https://web.archive.org/web/20260224204700/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Vibrance-Trace/
+- https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
+  - https://web.archive.org/web/20160913214734/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
+  - https://web.archive.org/web/20260224204700/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
 
 ## Local Archive
 

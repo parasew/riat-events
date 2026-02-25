@@ -8,7 +8,7 @@ city: "Vienna"
 country: "Austria"
 organizer: "Artistic Bokeh"
 type: "Research Presentation"
-website: "https://web.archive.org/web/20260225054132/http://artisticbokeh.com/post/tactical-space-lab-josh-harle
+website: "https://web.archive.org/web/20140913040141/http://artisticbokeh.com/post/tactical-space-lab-josh-harle
 ---
 
 # [Research Cultures] Josh Harle: Tactical Space Lab
@@ -69,7 +69,7 @@ Harle's work aligns with Artistic Bokeh's research interests in:
 - **2016-04-21**: "Josh Harle at the University of Applied Arts" presentation
 
 ### Archive Reference
-- **Original artisticbokeh.com post**: [Tactical Space Lab - Josh Harle](https://web.archive.org/web/20260225054132/http://artisticbokeh.com/post/tactical-space-lab-josh-harle)
+- **Original artisticbokeh.com post**: [Tactical Space Lab - Josh Harle](https://web.archive.org/web/20140913040141/http://artisticbokeh.com/post/tactical-space-lab-josh-harle)
 - **Archived**: https://web.archive.org/web/20150324013412/http://artisticbokeh.com/post/tactical-space-lab-josh-harle
 
 ## Significance
@@ -89,9 +89,9 @@ This presentation represented Artistic Bokeh's ongoing engagement with Australia
 - **youtube-icon.png**: [youtube-icon.png](../documents/artisticbokeh/images/youtube-icon.png)
 
 ## Archive snapshots
-- https://web.archive.org/web/20260225054132/http://artisticbokeh.com/post/tactical-space-lab-josh-harle
-- https://web.archive.org/web/20260225054132/http://artisticbokeh.com/post/tactical-space-lab-josh-harle
-- https://web.archive.org/web/20260225054132/http://artisticbokeh.com/post/tactical-space-lab-josh-harle
+- https://web.archive.org/web/20140913040141/http://artisticbokeh.com/post/tactical-space-lab-josh-harle
+- https://web.archive.org/web/20140913040141/http://artisticbokeh.com/post/tactical-space-lab-josh-harle
+- https://web.archive.org/web/20140913040141/http://artisticbokeh.com/post/tactical-space-lab-josh-harle
 
-- https://web.archive.org/web/20260225054132/http://artisticbokeh.com/post/tactical-space-lab-josh-harle
+- https://web.archive.org/web/20140913040141/http://artisticbokeh.com/post/tactical-space-lab-josh-harle
 - https://web.archive.org/web/20150324013412/http://artisticbokeh.com/post/tactical-space-lab-josh-harle

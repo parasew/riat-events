@@ -6,11 +6,11 @@ title: "[Coded Cultures Openism] Ethereum & the DAO"
 # [Coded Cultures Openism] Ethereum & the DAO
 
 # References
-* https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Meetup-Ethereum/
+* https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Meetup-Ethereum/
 
 ## Archive snapshots
-- https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Meetup-Ethereum/
-  - https://web.archive.org/web/20260225054133/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Meetup-Ethereum/
+- https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Meetup-Ethereum/
+  - https://web.archive.org/web/20260225054133/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Meetup-Ethereum/
 
 ## Local Archive
 

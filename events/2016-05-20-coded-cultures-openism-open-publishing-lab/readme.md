@@ -6,11 +6,11 @@ title: "[Coded Cultures Openism] Open Publishing Lab"
 # [Coded Cultures Openism] Open Publishing Lab
 
 # References
-* https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Lab-Open-Publishing/
+* https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Lab-Open-Publishing/
 
 ## Archive snapshots
-- https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Lab-Open-Publishing/
-  - https://web.archive.org/web/20260225054132/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Lab-Open-Publishing/
+- https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Lab-Open-Publishing/
+  - https://web.archive.org/web/20260225054132/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Lab-Open-Publishing/
 
 ## Local Archive
 

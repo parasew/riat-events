@@ -6,11 +6,11 @@ title: "[Coded Cultures Openism] Contamination – for Viennese revolution"
 # [Coded Cultures Openism] Contamination – for Viennese revolution
 
 # References
-* https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Intervention-Contamination/
+* https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-Contamination/
 
 ## Archive snapshots
-- https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Intervention-Contamination/
-  - https://web.archive.org/web/20260225053711/https://web.archive.org/web/20260225000000/https://codedcultures.com/program/Intervention-Contamination/
+- https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-Contamination/
+  - https://web.archive.org/web/20260225053711/https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-Contamination/
 
 ## Local Archive
 
