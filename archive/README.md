@@ -8,101 +8,6 @@
 
 ## Historical event archive of RIAT 
 
-| 2025-10-04 | [Dark Prague: Verifiable or Void - Hacking Our Way Back to Sovereign Computing](../events/2025-10-04-mt-parasew-dark-prague) |  | Prague, Czech Republic | Czech Republic |
-| 2024-07-10 | [Shielding Summit 2024: The Frontiers of Privacy Panel](../events/2024-07-10-shielding-summit) |  | Brussels, Belgium | Belgium |
-| 2024-06-07 | [MoneroKon 2024: Nurturing Decentralization in the Age of Digital Commons](../events/2024-06-07-monerokon-prague) |  | Paralelní Polis, Prague | Czech Republic |
-| 2020-10-01 | [Presentation of Blockchain Report by Wirtschaftsagentur Vienna](../events/2020-10-01-Wirtschaftsagentur-Blockchain-Trends) |  | Online | Austria |
-| 2019-11-02 | [Tales of Zero Trust Athens](../events/2019-11-02-tales-of-zero-trust-athens) |  | Athens, Greece | Greece |
-| 2019-10-30 | [Decentralized Athens: Young and Upcoming Research from Austria](../events/2019-10-30-decentralized-athens) |  | Athens, Greece | Greece |
-| 2019-10-04 | [Materialities of Modern Cryptography](../events/2019-10-04-materialities-of-modern-cryptography) |  | Paralelní Polis, Prague | Czech Republic |
-| 2019-10-01 | [Open Hardware Month Kick-Off: Apertus AXIOM](../events/2019-10-01-open-hardware-month-kickoff-apertus-axiom) |  | RIAT Vienna | Austria |
-| 2019-09-05 | [Smart Contract Development with Ethereum (Vienna, September 2019)](../events/2019-09-05-smart-contract-development-with-ethereum) |  | RIAT Vienna | Austria |
-| 2019-09-01 | [Vienna Ditgital Identity Meetup / RWOT pre-event: On the road to prague](../events/2019-09-01-vienna-digital-identity-meetup-rwot-pre-event) |  | RIAT Vienna |
-| 2019-08-01 | [Monero Austria Meetup](../events/2019-08-01-Monero-Austria-Meetup-Pedro-Sanchez) |  | RIAT Vienna |
-| 2019-07-22 | [Vienna Digital Identity Meetup #7](../events/2019-07-22-vienna-digital-identity-meetup-7) |  | RIAT Vienna |
-| 2019-07-11 | [Vienna Digital Identity Meetup #6: An Evening with Holochain](../events/2019-07-11-vienna-digital-identity-meetup-6) |  | MQ Vienna |
-| 2019-06-23 | [MoneroKon Colorado 2019](../events/2019-06-23-monerokon-colorado) |  | Colorado, USA | USA |
-| 2019-06-03 | [Vienna Digital Identity Meetup #5](../events/2019-06-03-vienna-digital-identity-meetup-5) |  | RIAT Vienna | Austria |
-| 2019-05-14 | [Crypto Programming Meetup #1 - Hands-On Study Group](../events/2019-05-14-crypto-programming-meetup-#1-hands-on-study-group) |  | RIAT Vienna | Austria |
-| 2019-04-29 | [Vienna Digital Identity Meetup #4](../events/2019-04-29-vienna-digital-identity-meetup-4) |  | RIAT Vienna |
-| 2019-04-18 | [Moneroversary: 5 Years of Monero & RIAT Open House](../events/2019-04-18-moneroversary-5-years-of-monero-&-riat-open-house) |  | RIAT Vienna | Austria |
-| 2019-04-18 | [Microservices Vienna: Microfrontends Beyond the Buzzword!](../events/2019-04-18-microservices-vienna-microfrontends-beyond-the-buzzword-!) |  | RIAT Vienna | Austria |
-| 2019-04-12 | [Fjordchain.camp Meetup](../events/2019-04-12-fjordchain-camp-goes-public) |  | RIAT Vienna | Austria |
-| 2019-04-10 | [Tezos Vienna Meetup #1](../events/2019-04-10-tezos-vienna-meetup-#1) |  | RIAT Vienna | Austria |
-| 2019-04-05 | [RIAT Essentials Program Launch](../events/2019-04-05-riat-essentials-program-launch) |  | RIAT Vienna | Austria |
-| 2019-04-04 | [RIAT Academy: Smart Contract Development with Ethereum](../events/2019-04-04-riat-academy-smart-contract-development-with-ethereum) |  | RIAT Vienna | Austria |
-| 2019-04-02 | [Ethereum Vienna Meetup [TECH] State of the DEXs](../events/2019-04-02-ethereum-vienna-meetup-state-of-the-dexs) |  | RIAT Vienna | Austria |
-| 2019-03-25 | [Vienna Digital Identity Meetup #3: Rebooting the Web of Trust](../events/2019-03-25-vienna-digital-identity-meetup-3) |  | RIAT Vienna |
-| 2019-03-12 | [Ruby Crypto Meetup #6 - Code Your Own Contracts w/ Ruby (sruby)](../events/2019-03-12-ruby-crypto-meetup-#6-code-your-own-contracts-w-sruby) |  | RIAT Vienna | Austria |
-| 2019-03-09 | [Monero Meetup 01/2019: Network Upgrade, 35c3 recap, Academy](../events/2019-03-09-monero-meetup-01-2019-network-upgrade-35c3-recap-academy) |  | RIAT Vienna | Austria |
-| 2019-03-07 | [Microservices Vienna Meetup](../events/2019-03-07-microservices-vienna-meetup) |  | RIAT Vienna | Austria |
-| 2019-03-01 | [2600 Hacker Meeting (Vienna,Austria)](../events/2019-03-01-2600-hacker-meeting-vienna-austria) |  | RIAT Vienna | Austria |
-| 2019-02-28 | [Smart Contract Development with Ethereum (Vienna, February 2019)](../events/2019-02-28-smart-contract-development-with-ethereum) |  | RIAT Vienna | Austria |
-| 2019-02-25 | [Vienna Digital Identity Meetup #2](../events/2019-02-25-vienna-digital-identity-meetup-2) |  | RIAT Vienna |
-| 2019-02-22 | [Future Cryptoeconomics: The Genesis Stack](../events/2019-02-22-future-cryptoeconomics-the-genesis-stack) |  | Q21, MuseumsQuartier Vienna | Austria |
-| 2019-02-15 | [Ethereum Vienna Meetup - [USER] Constantinople and Petersburg](../events/2019-02-15-ethereum-vienna-meetup-[user]-constantinople-and-petersberg) |  | RIAT Vienna | Austria |
-| 2019-02-11 | [Digital Identity Vienna Meetup #1: Launch Event](../events/2019-02-11-vienna-digital-identity-meetup-1) |  | RIAT Vienna |
-| 2019-01-03 | [70th Bitcoin Austria Meetup: 10 Years of Bitcoin](../events/2019-01-03-70th-bitcoin-austria-meetup-10-years-of-bitcoin) |  | RIAT Vienna | Austria |
-| 2018-12-11 | [Xmr.mas Party & Hrvoje Hiršl Presentation](../events/2018-12-11-xmrmas-&-hrvoje-hirsl-presentation) |  | RIAT Vienna | Austria |
-| 2018-11-27 | [RIAT (AT) - Institute for Future Cryptoeconomics](../events/2018-11-27-riat-at-dezentrum-zurich) |  | Dezentrum Zurich | Switzerland |
-| 2018-10-28 | [RIAT & Future Cryptoeconomics at Ethereum Devcon 4](../events/2018-10-28-riat-&-future-cryptoeconomics-at-ethereum-devcon-4) |  | Prague Congress Centre | Czech Republic |
-| 2018-10-05 | [HCPP18: New Order](../events/2018-10-05-hcpp18-new-order) |  | Paralelní Polis, Prague | Czech Republic |
-| 2018-09-03 | [Ethereum Tech Meetup: the State of State Channels](../events/2018-09-03-ethereum-tech-meetup-the-state-of-state-channels) |  | RIAT Vienna | Austria |
-| 2018-08-23 | [Microservices Meetup: Speakers Corners](../events/2018-08-23-microservices-meetup-speakers-corners) |  | RIAT Vienna | Austria |
-| 2018-05-17 | [Ethereum Tech Meetup - Microsoft Blockchain Workbench + Swarm Summit Recap](../events/2018-05-17-ethereum-tech-meetup-microsoft-blockchain-workbench-+-swarm-summit-recap) |  | RIAT Vienna | Austria |
-| 2018-05-03 | [React May Meetup](../events/2018-05-03-react-may-meetup) |  | RIAT Vienna | Austria |
-| 2018-04-29 | [Workshop: Signum_ Invisible Revealed](../events/2018-04-29-workshop-signum-invisible-revealed) |  | RIAT Vienna | Austria |
-| 2018-04-17 | [67. Bitcoin Austria Meetup](../events/2018-04-17-67-bitcoin-austria-meetup) |  | RIAT Vienna | Austria |
-| 2018-04-09 | [Ethereum User Meetup - Ethereum and Health Care (Pfizer and Grapevine World)](../events/2018-04-09-ethereum-user-meetup-ethereum-and-health-care-pfizer-and-grapevine-world) |  | RIAT Vienna | Austria |
-| 2018-03-06 | [Ethereum Tech Meetup - Swarm Week Results + Datafund](../events/2018-03-06-ethereum-tech-meetup-swarm-week-results-+-datafund) |  | RIAT Vienna | Austria |
-| 2018-02-27 | [2018-02-27-book-launch-making-artistic-technology](../events/2018-02-27-book-launch-making-artistic-technology-presentation) |  | RIAT Vienna | Austria |
-| 2018-02-26 | [66. Bitcoin Austria Meetup](../events/2018-02-26-66-bitcoin-austria-meetup) |  | RIAT Vienna | Austria |
-| 2018-02-22 | [Ethereum Tech Meetup - Deep dive into Maker](../events/2018-02-22-ethereum-tech-meetup-deep-dive-into-maker) |  | RIAT Vienna | Austria |
-| 2018-02-08 | [Ethereum Meetup - Education on the blockchain with ODEM + Etherchain](../events/2018-02-08-ethereum-meetup-education-on-the-blockchain-with-odem-+-etherchain) |  | RIAT Vienna | Austria |
-| 2018-02-03 | [Cryptoeconomics as Data Loam](../events/2018-02-03-cryptoeconomics-as-data-loam) |  | Café Stage | Germany |
-| 2018-02-02 | [Fork-Politics in Post-Consensus Cryptoeconomics](../events/2018-02-02-fork-politics-in-post-consensus-cryptoeconomics) |  | HKW - K2 | Germany |
-| 2017-11-09 | [What Is Cryptoeconomics?](../events/2017-11-09-what-is-cryptoeconomics?) |  | Reaktor | Austria |
-| 2017-09-07 | [Ars Electronica: Proof-of-Presence](../events/2017-09-07-proof-of-presence-exhibition-starts-prize) |  | Ars Electronica | Austria |
-| 2016-05-26 | [Hyperconnected: Open Scenarios for Non-Trivial Pursuits Day II](../events/2016-05-26-coded-cultures-openism-open-scenarios-for-non-trivial-pursuits-ii) |  | Palais des Beaux Arts Wien | Austria |
-| 2012-11-20 | [Exhibition: Documentation of Artistic Research and Practice](../events/2012-11-20-exhibition-documentation-of-artistic-research-and-practice) |  | Electric Avenue, quartier21, MuseumsQuartier Vienna, Austria | Austria |
-| 2011-09-30 | [[Coded Cultures: City as Interface] Games Culture Circle](../events/2011-09-30-coded-cultures-city-as-interface-games-culture-circle) |  | Urania Eingang Turmstiege, Uraniastrasse 1 | Austria |
-| 2011-09-21 | [Eröffnung Coded Cultures: City as Interface](../events/2011-09-21-coded-cultures-city-as-interface-opening-coded-cultures-city-as-interface) |  | Odeon (Serapionstheater), Wiener Getreidebörse | Austria |
-| 2011-09-21 | [Artistic Bokeh Research at Coded Cultures 2011](../events/2011-09-21-artistic-bokeh-research-at-coded-cultures-2011) |  | MuseumsQuartier Vienna | Austria |
-| 2010-08-24 | [ISEA2010 RUHR Conference P23: Coded Cultures and Japan Media Arts Festival Panel Session](../events/2010-08-24-isea2010-ruhr-conference-p23-coded-cultures-and-japan-media-arts-festival-panel-session) |  | Volkshochschule Dortmund, L 102 | Germany |
-| 2009-10-14 | [Coded Cultures Japan - Exploring Creative Emergences](../events/2009-10-14-coded-cultures-city-as-interface-coded-cultures-japan-exploring-creative-emergences) |  | Yokohama, Tokyo, Japan | Japan |
-| 2009-05-31 | [CODED CULTURES Closing Event/ Party](../events/2009-05-31-coded-cultures-city-as-interface-coded-cultures-closing-event-party) |  | MQ Hofstallungen (MUMOK), MuseumsQuartier Vienna | Austria |
-| 2009-05-28 | [CODED CULTURES Exhibition: Exploring Creative Emergences](../events/2009-05-28-start-cc-exploring-creative-emergences) |  | Freiraum/quartier21, MuseumsQuartier Vienna | Austria |
-| 2009-05-25 | [CODED CULTURES Pre-event: ca. 2 jō – substitute of common places](../events/2009-05-25-opening-cc-pre-event-ca-2-jo-substitute-of-common-places) |  | University of Applied Arts, Transmedia Arts Department | Austria |
-| 2009-05-17 | [DORKBOT VIENNA #8: Tetsuya Umeda](../events/2009-05-17-dorkbot-vienna-8-tetsuya-umeda) |  | Metalab Vienna | Austria |
-| 2009-05-03 | [DORKBOT VIENNA #7: Walter Langelaar: nOtbOt](../events/2009-05-03-dorkbot-vienna-7-walter-langelaar-notbot) |  | Metalab Vienna | Austria |
-| 2008-10-28 | [5uper.net/DAAL Issue #1 PLAYFULNESS](../events/2008-10-28-opening-5uper-net-daal-issue-1-playfulness) |  | Universität für angewandte Kunst, Expositur Vordere Zollamtsstraße 3 | Austria |
-| 2006-07-08 | [Cuisine Digitale ABSCHLUSSVERANSTALTUNG](../events/2006-07-08-cuisine-digitale-closing-party) |  | 5uper.net Cuisine Digitale, Freiraum MuseumsQuartier Wien | Austria |
-| 2006-06-02 | [Deutz Air Special (Köln) — 02.-06.06. + Party!](../events/2006-06-02-deutz-air-special-koln-party) |  | 5uper.net Cuisine Digitale, MuseumsQuartier Vienna | Austria |
-| 2006-05-14 | [VIZINHOS - vernetzte Kunst in Brasilien](../events/2006-05-14-opening-vizinhos-vernetzte-kunst-in-brasilien) |  | Freiraum, MuseumsQuartier Wien | Austria |
-| 2006-03-05 | [PD-Radio Workshop](../events/2006-03-05-pd-radio-workshop) |  | Cuisine Digitale, MuseumsQuartier Vienna | Austria |
-| 2006-01-27 | [5uper.net goes Graz! Pressekonferenz LESSER GROUP, Konzert GAMEBOY MUSIC CLUB, DJ ILE](../events/2006-01-27-5uper-net-goes-graz-pressekonferenz-lesser-group-konzert-gameboy-music-club-dj-ile) |  | Lendkai 1, 8020 Graz | Austria |
-| 2006-01-10 | [Opening: 'Selbstschenkerin' und Konzert](../events/2006-01-10-opening-selbstschenkerin-und-konzert) |  | Likely Cuisine Digitale, MuseumsQuartier Vienna | Austria |
-| 2005-12-18 | [readme.cc Lesung mit Angelika Reitzer, moderiert von Eva Umbauer](../events/2005-12-18-readme-cc-lesung-mit-angelika-reitzer-moderiert-von-eva-umbauer) |  | 5uper.net Cuisine Digitale, MuseumsQuartier Vienna | Austria |
-| 2005-12-16 | [Rounding Error - Installationen von Toby Heys (Battery Operated, KIT)](../events/2005-12-16-opening-rounding-error-vernissage-und-5uper-net-party-first-austrian-air-scratch-competiti) |  | 5uper.net Cuisine Digitale, MuseumsQuartier Vienna | Austria |
-| 2005-11-16 | [ROBÖXOTICA - Festival für Cocktailrobotik](../events/2005-11-16-opening-roboxotica-festival-fur-cocktailrobotik) |  | Freiraum and 5uper.net Cuisine Digitale, MuseumsQuartier Vienna | Austria |
-| 2005-11-13 | [readme.cc-Lesung von Kirstin Breitenfellner](../events/2005-11-13-readme-cc-lesung-von-kirstin-breitenfellner) |  | 5uper.net Cuisine Digitale, MuseumsQuartier Vienna | Austria |
-| 2005-11-10 | [Public Lecture: Melentie Pandilovski - New Media Art in Australia](../events/2005-11-10-public-lecture-melentie-pandilovski-new-media-art-in-australia) |  | 5uper.net Cuisine Digitale, MuseumsQuartier Vienna | Austria |
-| 2005-11-06 | [Map of Meanings III: Artist Talk](../events/2005-11-06-map-of-meanings-iii-artist-talk-moderation-dieter-buchhart) |  | 5uper.net Cuisine Digitale, MuseumsQuartier Vienna | Austria |
-| 2005-08-28 | ['Map of Meanings II': Artist Talk (Moderation: Dieter Buchhart)](../events/2005-08-28-map-of-meanings-ii-artist-talk-moderation-dieter-buchhart) |  | Cuisine Digitale, MuseumsQuartier Vienna | Austria |
-| 2005-07-17 | [PLATZWECHSEL](../events/2005-07-17-platzwechsel) |  | Cuisine Digitale, MuseumsQuartier Vienna | Austria |
-| 2005-06-26 | [readme.cc lädt Eva Umbauer zur Lesung in die 5uper.net Cuisine Digitale](../events/2005-06-26-readme-cc-ladt-eva-umbauer-zur-lesung-in-die-5uper-net-cuisine-digitale) |  | Cuisine Digitale, MuseumsQuartier Vienna | Austria |
-| 2005-06-16 | [Digitale Kunst](../events/2005-06-16-digitale-kunst) |  | Likely Cuisine Digitale or MuseumsQuartier Vienna | Austria |
-| 2005-05-29 | [INSERT COIN](../events/2005-05-29-insert-coin) |  | Freiraum, MuseumsQuartier Wien | Austria |
-[RIAT Events on Facebook]: https://www.facebook.com/pg/riat.ac.at/events/ "RIAT Events on Facebook"
-[ICS (iCal) calendar]: https://calendar.google.com/calendar/ical/riat.at_nst52qhk2fca3u8dvhce8pepbg%40group.calendar.google.com/public/basic.ics "online subscription to events in the RIAT space: crypto, blockchain, DLT"
-[RIAT website]: https://riat.ac.at
-[RIAT activities archive]: https://riat.at/activities
-[Eventbrite page]: https://www.eventbrite.com/o/riat-academy-10768509578 "RIAT academy eventbrite page"
-
-# RIAT events archive
-
-## Historical event archive of RIAT 
-
 | Date | Title | Media | Location | City, Country |
 | :--- | :--- | :--- | :--- | :--- |
 | 2026-02-01 | [FOSDEM 2026: Decentralized Internet and Privacy Devroom](../events/2026-02-01-fosdem-2026-decentralized-internet-and-privacy) | [Video](https://fosdem.org/2026/schedule/track/decentralized-internet-and-privacy/) | ULB (Campus Solbosch) | Brussels, Belgium |
@@ -125,7 +30,7 @@
 | 2020-02-01 | [Bitcoin Austria: raspiblitz workshop](../events/2020-02-01-raspiblitz-workshop) | [YouTube](https://www.youtube.com/@BitcoinAustria/videos) | RIAT Vienna | Vienna, Austria |
 | 2020-01-29 | [Animated Typography with Blender](../events/2020-01-29-workshop-blender-typography) |  | RIAT Vienna | Vienna, Austria |
 | 2020-01-08 | [Elm Meetup January](../events/2020-01-08-elm-meetup-jan) |  | RIAT Vienna | Vienna, Austria |
-| 2020-01-03 | [Bitcoin Austria: 11 Jahre Bitcoin Blockchain](../events/2020-03-01-73th-bitcoin-austria-meetup) | [YouTube](https://www.youtube.com/@BitcoinAustria/videos) | RIAT Vienna | Vienna, Austria |
+| 2020-03-01 | [Bitcoin Austria: 11 Jahre Bitcoin Blockchain](../events/2020-03-01-73th-bitcoin-austria-meetup) | [YouTube](https://www.youtube.com/@BitcoinAustria/videos) | RIAT Vienna | Vienna, Austria |
 | 2019-12-27 | [36C3: decentral.community](../events/2019-12-27-36C3-decentral-community) | [Site](https://36c3.info) | CCL | Leipzig, Germany |
 | 2019-12-18 | [Bitcoin Austria: Atomic Swaps](../events/2019-12-18-bitcoin-austria-atomic-swaps) | [YouTube](https://www.youtube.com/@BitcoinAustria/videos) | RIAT Vienna | Vienna, Austria |
 | 2019-12-04 | [Elm Meetup December](../events/2019-12-04-elm-meetup-dec) |  | RIAT Vienna | Vienna, Austria |
@@ -133,7 +38,7 @@
 | 2019-11-11 | [Trust Square Lecture Series: Future of Open Hardware in a (Verifiable) Decentralised World](../events/2019-11-11-trust-square-lecture-open-hardware-decentralised-world) |  | Trustsquare | Zurich, Switzerland |
 | 2019-11-06 | [Elm Meetup November](../events/2019-11-06-elm-meetup-nov) |  | RIAT Vienna | Vienna, Austria |
 | 2019-11-02 | [Adam Back (Blockstream), David Chaum, Matthias Tarasiewicz](../events/2019-11-02-adam-back-david-chaum-matthias-tarasiewicz) |  | The Cube Athens | Athens, Greece |
-| 2019-10-30 | [Decentralized Athens](../events/2019-10-31-athens-decentralized-austrian-blockchain) |  | decentralized conference | Athens, Greece |
+| 2019-10-31 | [Decentralized Athens](../events/2019-10-31-athens-decentralized-austrian-blockchain) |  | decentralized conference | Athens, Greece |
 | 2019-10-28 | [Vienna Digital Identity Meetup #8](../events/2019-10-28-vienna-digital-identity-meetup-8) |  | RIAT Vienna | Vienna, Austria |
 | 2019-10-24 | [CGmeet](../events/2019-10-24-cgmeet-riat-vienna) |  | RIAT Vienna | Vienna, Austria |
 | 2019-10-10 | [Future of Open Hardware in a (Verifiable) Decentralised World](../events/2019-10-10-future-open-hardware-verifiable-decentralised-world-devcon5) | [Site](https://devcon.ethereum.org/archive/) | Ethereum Devcon Osaka | Osaka, Japan |
