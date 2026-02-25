@@ -56,7 +56,7 @@ The presented positions from Japan, Austria and Europe are distinguished by crea
 - SHIMURABROS. (JP)
 - Ludic Society (Margarete Jahrmann, Gordan Savicic, Phillip Lammer) (AT)
 - Tetsuya Umeda (JP) - [MQW Event Page](https://www.mqw.at/en/institutions/q21/program/2009/05/air-base-nr-15-tetsuya-umeda-jap)
-- Mamoru Okuno (JP) - [MQW Artist Page](https://www.mqw.at/en/institutions/q21/artists-in-residence/2009/mamoru-okuno)
+- Mamoru Okuno (JP) - [MQW Artist Page](http://web.archive.org/web/20250325215731/https://www.mqw.at/en/institutions/q21/artists-in-residence/2009/mamoru-okuno)
 
 ## Official MQW Archive Information
 
@@ -65,7 +65,7 @@ The presented positions from Japan, Austria and Europe are distinguished by crea
    - Area: Sound Art
    - Residence: Osaka, Japan
    - Time Period: April 2009
-   - [MQW Artist Page](https://www.mqw.at/en/institutions/q21/artists-in-residence/2009/mamoru-okuno)
+   - [MQW Artist Page](http://web.archive.org/web/20250325215731/https://www.mqw.at/en/institutions/q21/artists-in-residence/2009/mamoru-okuno)
 
 2. **Walter Langelaar** [Netherlands]
    - Area: Sound Art / Composition
