@@ -25,3 +25,5 @@ If somebody wants to present her or his project, has suggestions for a talk or i
   - https://web.archive.org/web/20260225053712/https://cdn.pixabay.com/photo/2016/09/08/22/43/books-1655783_960_720.jpg
 - https://www.meetup.com/Vienna-Elm-Meetup/events/266979403/
   - https://web.archive.org/web/20260225053712/https://www.meetup.com/Vienna-Elm-Meetup/events/266979403/
+
+![Archive Image](../images/2020-01-08-elm-meetup-jan/20200108_2.jpg)

@@ -29,3 +29,5 @@ Grapevine World is a decentralized, borderless ecosystem for the seamless exchan
 - https://secure.meetupstatic.com/photos/event/4/d/d/c/600_339079932.jpeg
   - https://web.archive.org/web/20260224203909/https://secure.meetupstatic.com/photos/event/4/d/d/c/600_339079932.jpeg
 - https://www.meetup.com/de-DE/Ethereum-Vienna/events/239268692/
+
+![Archive Image](../images/2018-04-09-ethereum-user-meetup-ethereum-and-health-care-pfizer-and-grapevine-world/20180409_2.jpg)

@@ -53,3 +53,5 @@ The Chaos Computer Club (CCC) is the largest (and oldest) hacker association in 
 - https://www.reddit.com/r/Monero/comments/eg9k6h/36c3_cdc_critical_decentralisation_cluster/
 - https://www.reddit.com/r/Monero/comments/efuoxq/monero_at_the_36c3_chaos_communication_congress/
 - https://podme.com/se/avsnitt/3502752/
+
+![Archive Image](../images/2019-12-27-36C3-decentral-community/20191227_1.jpg)

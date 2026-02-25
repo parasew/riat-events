@@ -30,3 +30,5 @@ A large number of presentations have been given from
   - https://web.archive.org/web/20260224204101/https://secure.meetupstatic.com/photos/event/8/5/2/2/highres_483994082.jpeg
 - https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/263159533/
 - https://twitter.com/MattrGlobal/status/1168984373909229568
+
+![Archive Image](../images/2019-09-01-vienna-digital-identity-meetup-rwot-pre-event/20190901_2.jpg)
