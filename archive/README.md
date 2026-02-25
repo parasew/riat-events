@@ -3,6 +3,8 @@
 [RIAT website]: https://riat.ac.at
 [RIAT activities archive]: https://riat.at/activities
 [Eventbrite page]: https://www.eventbrite.com/o/riat-academy-10768509578 "RIAT academy eventbrite page"
+[Activities 2017-2012]: ./2017-2012.md
+[Activities 2003-2011]: ./2003-2011.md
 
 # RIAT events archive
 
@@ -320,8 +322,8 @@
 | 2012-01-09 | [[Research Cultures] 9am3](../events/2012-01-09-research-cultures-9am3) |  |  | Vienna, Austria |
 | 2011-11-16 | [METAmART – Art and Capital featuring BitcoinCloud](../events/2011-11-16-metamart-art-and-capital-featuring-bitcoincloud) |  |  | Vienna, Austria |
 
-## other sources
-* [Activities 2017-2012] (Artistic Bokeh, RIAT)
-* [Activities 2003-2011] (5uper.net, Coded Cultures, Bitcoincloud)
-* [RIAT Events on Facebook] (RIAT facebook events archive)
-* [Eventbrite page]
+## Other sources
+- [Activities 2017-2012] (Artistic Bokeh, RIAT)
+- [Activities 2003-2011] (5uper.net, Coded Cultures, Bitcoincloud)
+- [RIAT Events on Facebook] (RIAT Facebook events archive)
+- [Eventbrite page]
