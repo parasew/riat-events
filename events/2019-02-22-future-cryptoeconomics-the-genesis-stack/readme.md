@@ -114,6 +114,7 @@ The "Data Loam" exhibition provided context for:
 
 ### Primary Sources
 - **MuseumsQuartier program page**: https://www.mqw.at/en/institutions/q21/program/2019/02/future-cryptoeconomics/
+- **Motto Distribution listing**: http://www.mottodistribution.com/mottoberlin/publishers/future-cryptoeconomics/future-cryptoeconomics-the-genesis-stack-matthias-tarasiewicz-andrew-newman-eds-future-cryptoeconomics-riat-26176289.html
 - **Facebook event**: https://www.facebook.com/events/1067229673468739/
 
 ### Image Source
@@ -140,3 +141,5 @@ The event marked a significant moment in RIAT's development, showcasing both con
 ## Archive snapshots
 - https://www.facebook.com/events/1067229673468739/
   - https://web.archive.org/web/20260224204509/https://www.facebook.com/events/1067229673468739/
+- http://www.mottodistribution.com/mottoberlin/publishers/future-cryptoeconomics/future-cryptoeconomics-the-genesis-stack-matthias-tarasiewicz-andrew-newman-eds-future-cryptoeconomics-riat-26176289.html
+  - https://web.archive.org/web/20260225085056/http://www.mottodistribution.com/mottoberlin/publishers/future-cryptoeconomics/future-cryptoeconomics-the-genesis-stack-matthias-tarasiewicz-andrew-newman-eds-future-cryptoeconomics-riat-26176289.html

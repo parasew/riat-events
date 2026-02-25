@@ -18,7 +18,13 @@ Data Loam is a PEEK project hosted by the University of Applied Arts Vienna in c
 
 ## Resources
 * https://transmediale.de/content/cryptoeconomics-as-data-loam
+* https://riat.at/riat-decentral-archive-of-process-artefacts-at-the-data-loam-exhibition/
+* https://researchonline.rca.ac.uk/4308/3/PEEK%20-%20DATA%20Loam%20End%20Report%20%281%29.pdf
 
 ## Archive snapshots
 - https://transmediale.de/content/cryptoeconomics-as-data-loam
   - https://web.archive.org/web/20260225053709/https://transmediale.de/content/cryptoeconomics-as-data-loam
+- https://riat.at/riat-decentral-archive-of-process-artefacts-at-the-data-loam-exhibition/
+  - https://web.archive.org/web/20260225085119/https://riat.at/riat-decentral-archive-of-process-artefacts-at-the-data-loam-exhibition/
+- https://researchonline.rca.ac.uk/4308/3/PEEK%20-%20DATA%20Loam%20End%20Report%20%281%29.pdf
+  - https://web.archive.org/web/20260225085119/https://researchonline.rca.ac.uk/4308/3/PEEK%20-%20DATA%20Loam%20End%20Report%20%281%29.pdf

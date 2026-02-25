@@ -12,9 +12,12 @@ Matthias Tarasiewicz presented at MoneroKon Colorado 2019, discussing Monero and
 
 ## Resources
 * https://www.youtube.com/watch?v=0jNHw3EfkWA
+* http://parasew.com/dl/monerokon.pdf
 
 ## Archive snapshots
 - https://www.monerokon.com/
   - https://web.archive.org/web/20260225053252/https://www.monerokon.com/
 - https://www.youtube.com/watch?v=0jNHw3EfkWA
   - https://web.archive.org/web/20260225053252/https://www.youtube.com/watch?v=0jNHw3EfkWA
+- http://parasew.com/dl/monerokon.pdf
+  - https://web.archive.org/web/20260225085119/http://parasew.com/dl/monerokon.pdf
