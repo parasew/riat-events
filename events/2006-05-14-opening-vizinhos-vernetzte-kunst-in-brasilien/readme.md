@@ -10,7 +10,7 @@ organizer: "5uper.net"
 type: "Exhibition"
 time: "Opening"
 website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/148.html"
-additional_url: "http://vizinhos.5uper.net"
+additional_url: "http://web.archive.org/web/20250320174200/http://vizinhos.5uper.net/"
 ---
 
 # Opening: VIZINHOS – vernetzte Kunst in Brasilien
@@ -22,7 +22,7 @@ additional_url: "http://vizinhos.5uper.net"
 - **Organizer:** 5uper.net
 - **Type:** Exhibition
 - **Website:** [5uper.net/post/148.html](https://web.archive.org/web/20150209174810/https://5uper.net/post/148.html)
-- **Project Site:** [vizinhos.5uper.net](http://vizinhos.5uper.net)
+- **Project Site:** [vizinhos.5uper.net](http://web.archive.org/web/20250320174200/http://vizinhos.5uper.net/)
 
 ## Description
 

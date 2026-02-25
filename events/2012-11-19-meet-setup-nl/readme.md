@@ -20,13 +20,13 @@ Im Zuge ihres Aufenthaltes in Wien wendete sich SetUp (Initiative zur Ermöglich
 
 ### References
 - https://metalab.at/wiki/Meet_setup.nl
-- http://artistictechnology.at/ (archived)
-  - https://web.archive.org/web/20150818160320/http://artistictechnology.at/
+- http://web.archive.org/web/20190111160941/https://artistictechnology.at/ (archived)
+  - https://web.archive.org/web/20150818160320/http://web.archive.org/web/20190111160941/https://artistictechnology.at/
 
 ## Archive snapshots
-- http://artistictechnology.at/ (2012-11-22)
-  - https://web.archive.org/web/20150818160320/http://artistictechnology.at/
-  - https://web.archive.org/web/20121122011239/http://artistictechnology.at/
+- http://web.archive.org/web/20190111160941/https://artistictechnology.at/ (2012-11-22)
+  - https://web.archive.org/web/20150818160320/http://web.archive.org/web/20190111160941/https://artistictechnology.at/
+  - https://web.archive.org/web/20121122011239/http://web.archive.org/web/20190111160941/https://artistictechnology.at/
 - https://metalab.at/wiki/Meet_setup.nl
 
 ## Resources
