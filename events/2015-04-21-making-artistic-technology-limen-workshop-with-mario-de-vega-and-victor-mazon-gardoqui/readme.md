@@ -147,6 +147,11 @@ As part of the "Making Artistic Technology" series, LIMEN contributed to:
 
 The workshop exemplified the hands-on, critical approach that characterized Artistic Technology Research / Artistic Bokeh's educational programming in the mid-2010s.
 
+## Local Archive
+
+- **Image**: [artistictechnology_at_1_limen.jpg](../documents/artistictechnology_at/images/artistictechnology_at_1_limen.jpg)
+
+- **Image**: [artistictechnology_at_4_limen.jpg](../documents/artistictechnology_at/images/artistictechnology_at_4_limen.jpg)
 ## Archive snapshots
 - https://artistictechnology.at/workshop.html
   - https://web.archive.org/web/20260225054129/https://artistictechnology.at/workshop.html
