@@ -8,3 +8,6 @@ title: "Making Use – Life in Postartistic Times"
 * http://artmuseum.pl/en/wydarzenia/jeszcze-inny-podzial-tortu-popoludnie-z-alternatywnymi
 
 ## Archive snapshots
+- http://artmuseum.pl/en/wydarzenia/jeszcze-inny-podzial-tortu-popoludnie-z-alternatywnymi
+  - https://web.archive.org/web/20170804221011/http://artmuseum.pl/en/wydarzenia/jeszcze-inny-podzial-tortu-popoludnie-z-alternatywnymi
+
