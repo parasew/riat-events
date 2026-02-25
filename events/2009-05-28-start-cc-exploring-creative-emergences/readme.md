@@ -48,7 +48,7 @@ The presented positions from Japan, Austria and Europe are distinguished by crea
 - BCL (Shiho Fukuhara & Georg Tremmel) (AT/JP)
 - exonemo (JP)
 - Ryota Kuwakubo (JP)
-- Walter Langelaar (NL) - [MQW Artist Page](https://www.mqw.at/en/institutions/q21/artists-in-residence/2009/walter-langelaar)
+- Walter Langelaar (NL) - [MQW Artist Page](http://web.archive.org/web/20250212213001/https://www.mqw.at/en/institutions/q21/artists-in-residence/2009/walter-langelaar)
 - Saita Kazuki / Soichiro Mihara / Hiroko Mugibayashi (JP)
 - Yuko Mohri (JP)
 - Martin Pichlmair & Fares Kayali (AT)
@@ -71,7 +71,7 @@ The presented positions from Japan, Austria and Europe are distinguished by crea
    - Area: Sound Art / Composition
    - Residence: Rotterdam, Netherlands
    - Time Period: April 2009
-   - [MQW Artist Page](https://www.mqw.at/en/institutions/q21/artists-in-residence/2009/walter-langelaar)
+   - [MQW Artist Page](http://web.archive.org/web/20250212213001/https://www.mqw.at/en/institutions/q21/artists-in-residence/2009/walter-langelaar)
 
 3. **Tetsuya Umeda** [Japan]
    - Area: Sound Art / Installation Art
