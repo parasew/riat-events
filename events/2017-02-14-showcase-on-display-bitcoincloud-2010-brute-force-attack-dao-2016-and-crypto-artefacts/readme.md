@@ -9,8 +9,8 @@ category: meetup"
 ---
 
 ## Archive snapshots
-- http://bitcoincloud.at/
-  - https://web.archive.org/web/20260224204602/http://bitcoincloud.at/
+- http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://bitcoincloud.at//
+  - https://web.archive.org/web/20260224204602/http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://bitcoincloud.at//
 
 ## Resources
-* http://bitcoincloud.at/
+* http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://bitcoincloud.at//

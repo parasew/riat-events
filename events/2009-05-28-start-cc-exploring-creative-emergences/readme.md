@@ -9,8 +9,8 @@ country: "Austria"
 organizer: "5uper.net / CODED CULTURES"
 type: "Exhibition"
 time: "Opening"
-website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/172.html"
-  - https://web.archive.org/web/20150209174810/https://5uper.net/post/172.html"
+website: "https://web.archive.org/web/20150209174810/http://web.archive.org/web/20260225123241/https://5uper.net/post/172.html
+  - https://web.archive.org/web/20150209174810/http://web.archive.org/web/20260225123241/https://5uper.net/post/172.html
 ---
 
 # Start: CC – Exploring Creative Emergences

@@ -9,8 +9,8 @@ country: "Austria"
 organizer: "5uper.net"
 type: "Public Lecture"
 time: "18:00-20:00"
-website: "https://web.archive.org/web/20150209174810/https://5uper.net/post/129.html"
-  - https://web.archive.org/web/20150209174810/https://5uper.net/post/129.html"
+website: "https://web.archive.org/web/20150209174810/http://web.archive.org/web/20260225123206/https://5uper.net/post/129.html
+  - https://web.archive.org/web/20150209174810/http://web.archive.org/web/20260225123206/https://5uper.net/post/129.html
 ---
 
 # Public Lecture – Melentie Pandilovski "New Media Art in Australia"
