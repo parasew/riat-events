@@ -32,5 +32,3 @@ This work is funded and supported by kültüř gemma! 2016, and it’s presentat
   - https://web.archive.org/web/20260225054133/https://www.facebook.com/events/185052815251944/
 - https://www.facebook.com/MzBaltazarsLaboratory/
   - https://web.archive.org/web/20260225054133/https://www.facebook.com/MzBaltazarsLaboratory/
-- https://www.facebook.com/events/185052815251944/
-  - https://web.archive.org/web/20260225054133/https://www.facebook.com/events/185052815251944/

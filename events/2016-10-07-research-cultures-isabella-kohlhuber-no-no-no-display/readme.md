@@ -39,5 +39,5 @@ NO NO NO (visual), 2016, digital collage (graphic, print, photograph, 3D-renderi
   - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/702425569904583/
 - https://www.mqw.at/en/institutions/q21/program/2016/10/isabella-kohlhuber-no-no-no-display/
   - https://web.archive.org/web/20260225054134/https://www.mqw.at/en/institutions/q21/program/2016/10/isabella-kohlhuber-no-no-no-display/
-- https://www.facebook.com/events/702425569904583/
   - https://web.archive.org/web/20260225054135/https://www.facebook.com/events/702425569904583/
+- http://isabella-kohlhuber.com/img/no-no-no/Folder-NoNoNo-screen.pdf

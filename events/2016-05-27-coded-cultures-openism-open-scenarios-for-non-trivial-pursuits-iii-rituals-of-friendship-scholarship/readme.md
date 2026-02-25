@@ -45,3 +45,4 @@ When machines are capable of doing all manual and informational work for us, we 
   - https://web.archive.org/web/20260225053710/https://www.eventbrite.com/e/rituals-of-friendship-scholarship-tickets-25384358299#
 - https://www.facebook.com/events/970599456391968/
   - https://web.archive.org/web/20260225053710/https://www.facebook.com/events/970599456391968/
+- http://continentcontinent.cc/index.php/continent/pages/view/openscenarios

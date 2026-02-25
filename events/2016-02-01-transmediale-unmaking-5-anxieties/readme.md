@@ -94,3 +94,8 @@ This event represented RIAT's engagement with critical discourse around maker cu
 ## Archive snapshots
 - https://2016.transmediale.de/de/content/unmaking-5-anxieties
   - https://web.archive.org/web/20260224201600/https://2016.transmediale.de/de/content/unmaking-5-anxieties
+- https://2016.transmediale.de/content/unmaking-5-anxieties
+- http://www.ixdm.ch/unmaking-5-anxieties/
+- http://www.eventbrite.de/e/unmaking-5-anxieties-with-institute-of-experimental-design-and-registration-20458219084
+- https://web.archive.org/web/20160606034423/http://www.ixdm.ch/unmaking-5-anxieties/
+- https://web.archive.org/web/20160216033547/http://www.ixdm.ch/unmaking-5-anxieties/

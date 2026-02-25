@@ -10,5 +10,3 @@ title: "Decolonising the Digital"
 ## Archive snapshots
 - https://www.facebook.com/events/1692878097645028/
   - https://web.archive.org/web/20260225054130/https://www.facebook.com/events/1692878097645028/
-- https://www.facebook.com/events/1692878097645028/
-  - https://web.archive.org/web/20260225054130/https://www.facebook.com/events/1692878097645028/

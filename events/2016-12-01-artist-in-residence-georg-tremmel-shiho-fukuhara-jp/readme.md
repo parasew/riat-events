@@ -133,3 +133,4 @@ Georg Tremmel and Shiho Fukuhara's artist-in-residence stay at the end of 2016 r
 ## Archive snapshots
 - https://www.q21.at/artists-in-residence/artists/artistinfo/shiho-fukuhara-georg-tremmel/
   - https://web.archive.org/web/20260225053710/https://www.q21.at/artists-in-residence/artists/artistinfo/shiho-fukuhara-georg-tremmel/
+- http://www.q21.at/artists-in-residence/artists/artistinfo/shiho-fukuhara-georg-tremmel/
