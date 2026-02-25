@@ -17,3 +17,5 @@ This entry is linked to the University of Applied Arts Vienna activity support l
 
 ## Archive snapshots
 - https://www.dieangewandte.at/kunst_und_forschung/aktivitaeten_support
+  - https://web.archive.org/web/20161024225403/https://www.dieangewandte.at/kunst_und_forschung/aktivitaeten_support
+
