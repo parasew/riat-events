@@ -7,11 +7,11 @@ title: "[Artist-in-residence] Jaya Klara Brekke [UK]"
 
 # References
 * http://distributingchains.info/
-* https://thefutureofdemonstration.net/e05/seminar.html
+* https://web.archive.org/web/20171031223142/https://thefutureofdemonstration.net/e05/seminar.html/
 
 ## Archive snapshots
 - http://distributingchains.info/
   - https://web.archive.org/web/20170903185838/http://distributingchains.info/
-- https://thefutureofdemonstration.net/e05/seminar.html
-  - https://web.archive.org/web/20260225080410/https://thefutureofdemonstration.net/e05/seminar.html
+- https://web.archive.org/web/20171031223142/https://thefutureofdemonstration.net/e05/seminar.html/
+  - https://web.archive.org/web/20260225080410/https://web.archive.org/web/20171031223142/https://thefutureofdemonstration.net/e05/seminar.html/
 
