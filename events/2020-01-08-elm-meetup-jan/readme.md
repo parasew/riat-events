@@ -26,4 +26,4 @@ If somebody wants to present her or his project, has suggestions for a talk or i
 - https://www.meetup.com/Vienna-Elm-Meetup/events/266979403/
   - https://web.archive.org/web/20260225053712/https://www.meetup.com/Vienna-Elm-Meetup/events/266979403/
 
-![Archive Image](../images/2020-01-08-elm-meetup-jan/20200108_2.jpg)
+![Archive Image](../../images/2020-01-08-elm-meetup-jan/20200108_2.jpg)

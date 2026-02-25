@@ -68,7 +68,7 @@ The exhibition was part of the larger "Faceless II" exhibition exploring anonymi
 
 ### Image Reference
 - **Screenshot**: https://web.archive.org/web/20140913040141/http://blog.artisticbokeh.com/wp-content/uploads/2014/02/Screenshot-2014-02-21-20.38.19.png
-- **Local Archive**: ![KATSU Status Update Exhibition](../images/2013-09-27-research-cultures-katsu-status-update/20130927_Research-Cultures-KATSU-Status_1.png) - Screenshot of KATSU's "Status Update" exhibition at Artistic Bokeh Showroom
+- **Local Archive**: ![KATSU Status Update Exhibition](../../images/2013-09-27-research-cultures-katsu-status-update/20130927_Research-Cultures-KATSU-Status_1.png) - Screenshot of KATSU's "Status Update" exhibition at Artistic Bokeh Showroom
 
 ## Additional Information
 - **Wikipedia**: [KATSU (artist)](https://en.wikipedia.org/wiki/KATSU)
@@ -82,12 +82,12 @@ This exhibition represented Artistic Bokeh's engagement with contemporary street
 
 **artisticbokeh.com icons preserved locally**:
 
-- **facebook-icon.png**: [facebook-icon.png](../documents/artisticbokeh/images/facebook-icon.png)
-- **googleplus-icon.png**: [googleplus-icon.png](../documents/artisticbokeh/images/googleplus-icon.png)
-- **twitter-icon.png**: [twitter-icon.png](../documents/artisticbokeh/images/twitter-icon.png)
-- **vimeo-icon.png**: [vimeo-icon.png](../documents/artisticbokeh/images/vimeo-icon.png)
-- **x2.gif**: [x2.gif](../documents/artisticbokeh/images/x2.gif)
-- **youtube-icon.png**: [youtube-icon.png](../documents/artisticbokeh/images/youtube-icon.png)
+- **facebook-icon.png**: [facebook-icon.png](../../documents/artisticbokeh/images/facebook-icon.png)
+- **googleplus-icon.png**: [googleplus-icon.png](../../documents/artisticbokeh/images/googleplus-icon.png)
+- **twitter-icon.png**: [twitter-icon.png](../../documents/artisticbokeh/images/twitter-icon.png)
+- **vimeo-icon.png**: [vimeo-icon.png](../../documents/artisticbokeh/images/vimeo-icon.png)
+- **x2.gif**: [x2.gif](../../documents/artisticbokeh/images/x2.gif)
+- **youtube-icon.png**: [youtube-icon.png](../../documents/artisticbokeh/images/youtube-icon.png)
 
 ## Archive snapshots
 - https://web.archive.org/web/20140913040141/http://artisticbokeh.com//post/katsu-status-update

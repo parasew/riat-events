@@ -66,5 +66,5 @@ Assuming the games we play today have already lost the "protection" of the "magi
 
 ## Archive snapshots
 - http://web.archive.org/web/20180313125759/https://codedcultures.com/2011/post/gamesculturecircle.html
-  - https://web.archive.org/web/20180313125759/http://web.archive.org/web/20180313125759/https://codedcultures.com/2011/post/gamesculturecircle.html
+  - http://web.archive.org/web/20180313125759/https://codedcultures.com/2011/post/gamesculturecircle.html
 

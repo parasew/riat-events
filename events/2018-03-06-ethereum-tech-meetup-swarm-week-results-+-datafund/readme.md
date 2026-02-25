@@ -34,4 +34,4 @@ The talk will be given by Gregor Žavcer, Datafund's cofounder. Gregor comes fro
   - https://web.archive.org/web/20260224203907/https://secure.meetupstatic.com/photos/event/4/d/d/c/600_339079932.jpeg
 - https://www.meetup.com/de-DE/Ethereum-Vienna/events/248197811/
 
-![Archive Image](../images/2018-03-06-ethereum-tech-meetup-swarm-week-results-+-datafund/20180306_1.jpg)
+![Archive Image](../../images/2018-03-06-ethereum-tech-meetup-swarm-week-results-+-datafund/20180306_1.jpg)

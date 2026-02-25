@@ -65,11 +65,11 @@ As part of Donaufestival, the event was situated within a festival known for exp
 
 **artisticbokeh.com icons preserved locally**:
 
-- **facebook-icon.png**: [facebook-icon.png](../documents/artisticbokeh/images/facebook-icon.png)
-- **googleplus-icon.png**: [googleplus-icon.png](../documents/artisticbokeh/images/googleplus-icon.png)
-- **twitter-icon.png**: [twitter-icon.png](../documents/artisticbokeh/images/twitter-icon.png)
-- **vimeo-icon.png**: [vimeo-icon.png](../documents/artisticbokeh/images/vimeo-icon.png)
-- **x2.gif**: [x2.gif](../documents/artisticbokeh/images/x2.gif)
-- **youtube-icon.png**: [youtube-icon.png](../documents/artisticbokeh/images/youtube-icon.png)
+- **facebook-icon.png**: [facebook-icon.png](../../documents/artisticbokeh/images/facebook-icon.png)
+- **googleplus-icon.png**: [googleplus-icon.png](../../documents/artisticbokeh/images/googleplus-icon.png)
+- **twitter-icon.png**: [twitter-icon.png](../../documents/artisticbokeh/images/twitter-icon.png)
+- **vimeo-icon.png**: [vimeo-icon.png](../../documents/artisticbokeh/images/vimeo-icon.png)
+- **x2.gif**: [x2.gif](../../documents/artisticbokeh/images/x2.gif)
+- **youtube-icon.png**: [youtube-icon.png](../../documents/artisticbokeh/images/youtube-icon.png)
 
 ## Archive snapshots

@@ -11,5 +11,5 @@ title: "Faceless Part I"
 
 ## Archive snapshots
 - http://web.archive.org/web/20170421030430/http://www.q21.at/en/program//programmdetail/faceless-part-i/
-  - https://web.archive.org/web/20170421030430/http://web.archive.org/web/20170421030430/http://www.q21.at/en/program//programmdetail/faceless-part-i/
+  - http://web.archive.org/web/20170421030430/http://www.q21.at/en/program//programmdetail/faceless-part-i/
 
