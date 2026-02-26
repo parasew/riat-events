@@ -3,7 +3,7 @@ title: "Decentralized Internet and Privacy Devroom"
 date: 2026-02-01T12:00:00+01:00
 draft: false
 location: "ULB (Campus Solbosch), Brussels, Belgium"
-country: "Austria"
+country: "Belgium"
 startdate: "2026-02-01"
 category: meetup"
 role: co_organized
