@@ -7,6 +7,16 @@ The main aim of this repo is to have a central point for past events, as the ins
 
 ## Extending the events archive
 
+### Event roles (required)
+Each event readme should declare RIAT’s role in frontmatter. Use either `role:` (single) or `roles:` (comma-separated).
+
+**Allowed roles:**
+- `organized_by_riat`
+- `co_organized`
+- `hosted_by_riat`
+- `riat_talk`
+- `participation`
+
 If you find something online or missing in the list here, [please open an issue](https://github.com/parasew/riat-events/issues/new) or create a pull request. You can [read the howto](https://github.com/parasew/riat-events/blob/master/todo/readme.md) in order to understand better how to contribute. The [events archive](https://github.com/parasew/riat-events/tree/master/archive) usually is a good starting point.
 
 # Organizing an event with us

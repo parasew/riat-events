@@ -110,4 +110,9 @@ The minimal documentation for "Platzwechsel" is typical of early 5uper.net event
 The event represents 5uper.net's ongoing commitment to creating space for experimental art and building community around digital art practices in Vienna's MuseumsQuartier.
 
 
+## References
+- https://5uper.net/page/archive.html
+
 ## Archive snapshots
+- https://5uper.net/page/archive.html
+  - https://web.archive.org/web/20150209215204/http://5uper.net/page/archive.html

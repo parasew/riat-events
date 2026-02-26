@@ -6,6 +6,7 @@ location: "Paralelní Polis, Prague"
 country: "Czech Republic"
 startdate: "2024-10-05"
 category: meetup"
+role: riat_talk
 ---
 
 ### Description

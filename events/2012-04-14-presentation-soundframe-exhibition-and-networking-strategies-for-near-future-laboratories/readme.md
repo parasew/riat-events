@@ -119,5 +119,9 @@ The minimal documentation for this event is typical of conference presentations 
 
 While specific presentation content is not preserved, the event represents important professional development and knowledge sharing within Vienna's digital art and sound community.
 
+## References
+- http://2012.soundframe.at/programm/
 
 ## Archive snapshots
+- http://2012.soundframe.at/programm/
+  - https://web.archive.org/web/20230529163632/http://2012.soundframe.at/programm/

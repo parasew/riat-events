@@ -49,6 +49,8 @@ Artistic Bokeh's involvement included:
 - **Interdisciplinary practice**: Engaging with the intersection of theatre, film, and media art
 
 ## References
+- http://miasma.is/en/
+- http://miasma.is/de/
 
 ### From Artistic Bokeh Archive
 The project is referenced in the artisticbokeh.com archive as part of their 2012-2013 activities, highlighting their work with Miasma Cooperation at Donaufestival.
@@ -67,3 +69,7 @@ As part of Donaufestival, the event was situated within a festival known for exp
 
 
 ## Archive snapshots
+- http://miasma.is/en/
+  - https://web.archive.org/web/20131227104114/http://miasma.is/en/
+- http://miasma.is/de/
+  - https://web.archive.org/web/20131227103423/http://miasma.is/de/

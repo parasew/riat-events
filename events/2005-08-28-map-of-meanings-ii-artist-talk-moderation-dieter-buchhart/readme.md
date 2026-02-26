@@ -113,4 +113,9 @@ The minimal documentation for this event is typical of early 5uper.net programmi
 The "Map of Meanings II" artist talk exemplified 5uper.net's commitment to creating space for substantive artistic discourse and building connections between Vienna's independent art scene and established art world professionals.
 
 
+## References
+- https://5uper.net/page/archive.html
+
 ## Archive snapshots
+- https://5uper.net/page/archive.html
+  - https://web.archive.org/web/20150209215204/http://5uper.net/page/archive.html

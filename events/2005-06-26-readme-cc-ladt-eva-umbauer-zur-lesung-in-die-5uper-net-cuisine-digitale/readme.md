@@ -112,4 +112,9 @@ The minimal documentation for this event is typical of early 5uper.net events. T
 While specific details about Eva Umbauer's work or the content of the reading are not preserved, the event represents the intersection of literary and digital art communities that characterized 5uper.net's programming philosophy.
 
 
+## References
+- https://5uper.net/page/archive.html
+
 ## Archive snapshots
+- https://5uper.net/page/archive.html
+  - https://web.archive.org/web/20150209215204/http://5uper.net/page/archive.html

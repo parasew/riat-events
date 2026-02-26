@@ -7,6 +7,7 @@ country: Germany
 startdate: 2025-12-27
 image: 39c3-logo.png
 category: panel"
+role: co_organized
 ---
 
 The Critical Decentralisation Cluster (CDC) returned to the 39th Chaos Communication Congress (39C3) in Hamburg.

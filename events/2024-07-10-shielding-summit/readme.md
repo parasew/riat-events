@@ -6,6 +6,7 @@ location: "Brussels, Belgium"
 country: "Belgium"
 startdate: "2024-07-10"
 category: panel"
+role: participation
 ---
 
 Panel discussion 'The Frontiers of Privacy' featuring Vitalik Buterin (Ethereum), Zooko (Zcash), Christopher Goes, Matthias Tarasiewicz (RIAT), and Alex G. The panel explored the future of privacy technologies and regulatory challenges.

@@ -1,6 +1,6 @@
 ---
 title: "10th Open Hardware Summit, NYC"
-date: 2020-03-13T18:00:00+02:00
+date: 2020-10-31T18:00:00+02:00
 draft: false
 location: "NYU School of Law"
 country: U.S.A.

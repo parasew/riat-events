@@ -6,6 +6,7 @@ location: "Frankfurt, Germany"
 country: "Germany"
 startdate: "2024-09-29"
 category: meetup"
+role: riat_talk
 ---
 
 ### Description

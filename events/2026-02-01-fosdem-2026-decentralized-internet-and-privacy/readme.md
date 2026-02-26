@@ -6,6 +6,7 @@ location: "ULB (Campus Solbosch), Brussels, Belgium"
 country: "Austria"
 startdate: "2026-02-01"
 category: meetup"
+role: co_organized
 ---
 
 ### Description
