@@ -143,3 +143,8 @@ The Ars Electronica participation with Andreas Leo Findeisen represented an impo
 
 ## Archive snapshots
 - https://webarchive.ars.electronica.art/festival/2014/c/en/
+  - https://web.archive.org/web/20260227044330/https://webarchive.ars.electronica.art/festival/2014/c/en/
+  - https://web.archive.org/web/20260227044330/https://webarchive.ars.electronica.art/festival/2014/c/en/
+- https://webarchive.ars.electronica.art/festival/2014/c/en/
+  - https://web.archive.org/web/20260227044330/https://webarchive.ars.electronica.art/festival/2014/c/en/
+
