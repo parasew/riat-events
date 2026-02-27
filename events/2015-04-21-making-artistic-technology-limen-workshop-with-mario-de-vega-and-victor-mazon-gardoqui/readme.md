@@ -150,7 +150,12 @@ The workshop exemplified the hands-on, critical approach that characterized Arti
 ## Local Archive
 
 
+## References
+* https://rhizome.org/community/15401/
+
 ## Archive snapshots
+- https://rhizome.org/community/15401/
+  - http://web.archive.org/web/20180215104506/https://rhizome.org/community/15401/
 - https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
   - https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html
 - https://web.archive.org/web/20150417153542/https://artistictechnology.at/workshop.html"
