@@ -15,11 +15,13 @@ A small exhibition of process artifacts representing the works and conceptual po
 Eine kleine Ausstellung von Prozessartefakten repräsentiert die Arbeiten und konzeptuellen Positionen der experimentellen und spielerischen Untersuchungen technologischer und sozialer Konfigurationen durch Medienkunst. Künstlerische Blickpunkte auf Forschungs- und Produktionsweisen werden durch Videointerviews untersucht, von denen mehrere in der Ausstellungskoje gezeigt werden. Mit BitcoinCloud präsentiert das Artistic Technology Research Lab einen medienkünstlerischen Ansatz zu alternativen Währungen und erforscht dabei spielerisch neue materielle und ökonomische Realitäten.
 
 ### References
+* https://www.esel.at/de/event/exhibition-documenting-artistic-technology--02vvBy5jAynZfNqD2s1ExB
 - http://artistictechnology.at/ (archived)
   - https://web.archive.org/web/20150818160320/http://artistictechnology.at/
 - Academic publication: Newman, A. (2015). "Experiments in art and value: burning Bitcoins to buy Ai Weiwei". ISEA 2015 submission. (Available in RIAT publications archive)
 
 ## Archive snapshots
+- https://www.esel.at/de/event/exhibition-documenting-artistic-technology--02vvBy5jAynZfNqD2s1ExB
 - http://artistictechnology.at/ (2012-11-22)
   - https://web.archive.org/web/20150818160320/http://artistictechnology.at/
   - https://web.archive.org/web/20121122011239/http://artistictechnology.at/

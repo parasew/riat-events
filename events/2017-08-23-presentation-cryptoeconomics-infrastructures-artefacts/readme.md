@@ -119,6 +119,7 @@ The event demonstrated RIAT's transition from:
 - **International networking** through events like Ars Electronica and Ethereum DEVCON
 
 ## References
+* https://www.esel.at/de/event/crypto-economics-infrastructures-artefacts--02vvBvyawamVEDK7mFmg5f
 
 ### Primary Sources
 - **Facebook event**: https://www.facebook.com/events/500231380319911/
@@ -147,6 +148,7 @@ The event contributed to:
 The presentation exemplified RIAT's role in shaping Austrian and European discourse around blockchain technology, cryptoeconomics, and their cultural implications in the late 2010s.
 
 ## Archive snapshots
+- https://www.esel.at/de/event/crypto-economics-infrastructures-artefacts--02vvBvyawamVEDK7mFmg5f
 - https://esel.at/termin/91986/crypto-economics-infrastructures-artefacts
   - https://web.archive.org/web/20260225054131/https://esel.at/termin/91986/crypto-economics-infrastructures-artefacts
 - https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-1/20952934_1567158593346771_7438742267180585978_n.png?_nc_cat=101&_nc_sid=dbb9e7&_nc_ohc=FdvoOmfXeM0AX-uhlzO&_nc_ht=scontent-vie1-1.xx&oh=112bec53ff3127beed3e5f20a7e769a0&oe=5F89506E"

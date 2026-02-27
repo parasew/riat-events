@@ -28,6 +28,7 @@ A lecture-performance of C.Lisecki / G.Papadopoulos will mark the opening on Thu
 
 
 ## Archive snapshots
+- https://www.esel.at/de/event/artistic-bokeh-societe-realiste-too-much-money--02vvBxhCsIkG1aawt7kgtQ
 - https://www.facebook.com/events/mq-museumsquartier-wien/artistic-bokeh-soci%C3%A9t%C3%A9-r%C3%A9aliste-georgios-papadopoulos-too-much-money-opening-272/619848824747223/
   - https://web.archive.org/web/20260223052206/https://www.facebook.com/events/mq-museumsquartier-wien/artistic-bokeh-soci%C3%A9t%C3%A9-r%C3%A9aliste-georgios-papadopoulos-too-much-money-opening-272/619848824747223/
 

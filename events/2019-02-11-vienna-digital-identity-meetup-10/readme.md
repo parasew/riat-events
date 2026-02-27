@@ -12,6 +12,7 @@ Placeholder entry reconstructed from DB index. Needs verification; may be a misn
 
 ## References
 * https://www.meetup.com/Vienna-Digital-Identity-Meetup/
+* https://esel.at/location/720/riat-research-institute-for-arts-technology
 
 ## Archive snapshots
 - https://www.meetup.com/Vienna-Digital-Identity-Meetup/
