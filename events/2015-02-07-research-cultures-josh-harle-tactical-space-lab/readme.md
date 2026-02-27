@@ -82,7 +82,12 @@ This presentation represented Artistic Bokeh's ongoing engagement with Australia
 **artisticbokeh.com icons preserved locally**:
 
 
+## References
+* https://archive.transmediale.de/archive/history/festival/2015
+
 ## Archive snapshots
+- https://archive.transmediale.de/archive/history/festival/2015
+  - http://web.archive.org/web/20251201150322/https://archive.transmediale.de/archive/history/festival/2015
 - https://web.archive.org/web/20140913040141/http://artisticbokeh.com/post/tactical-space-lab-josh-harle
 - https://web.archive.org/web/20140913040141/http://artisticbokeh.com/post/tactical-space-lab-josh-harle
 - https://web.archive.org/web/20140913040141/http://artisticbokeh.com/post/tactical-space-lab-josh-harle

@@ -138,4 +138,8 @@ The participation strengthened relationships between:
 The Ars Electronica participation with Andreas Leo Findeisen represented an important moment of international festival engagement for Artistic Bokeh/RIAT, connecting Vienna's digital art community with Austria's premier digital art festival and the global networks it represents.
 
 
+## References
+* https://webarchive.ars.electronica.art/festival/2014/c/en/
+
 ## Archive snapshots
+- https://webarchive.ars.electronica.art/festival/2014/c/en/
