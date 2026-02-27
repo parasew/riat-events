@@ -8,7 +8,11 @@ title: "[Research Cultures] Patricia J. Reis: Penetrating the Black Box"
 # References
 * https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-Black-box/
 
+## References
+* https://codedcultures.com/program/Intervention-Black-box/
+
 ## Archive snapshots
+- https://codedcultures.com/program/Intervention-Black-box/
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-Black-box/
   - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-Black-box/
 

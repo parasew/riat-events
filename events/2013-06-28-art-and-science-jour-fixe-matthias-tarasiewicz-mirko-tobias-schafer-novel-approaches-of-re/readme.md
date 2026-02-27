@@ -18,10 +18,17 @@ The Artistic Technology Research LAB cooperates with diverse international resea
 *Matthias Tarasiewicz co-founded the group 5uper.net and the CODED CULTURES initiative (media arts festival and research platform). Being active as a digital bricoleur / coder, researcher and technology theorist since the last millennium, he is developing experimental media prototypes and creating projects on the intersections of media, arts, technology and science. He is project leader of the ‘Artistic Technology Research LAB’ at the University of Applied Arts in Vienna, Austria. Recent projects include the cryptocurrency Bitcoin (‘BitCoinCloud’), DIY-video (Artistic Bokeh Initiative) among mapping research methods of artistic production cultures.*
 
 # References
+* https://artscience.uni-ak.ac.at/activities/jour_fixe_with_mirko_tobias_schaefer_and_mattias_tarasiewics
 * http://web.archive.org/web/20250402091508/https://artscience.uni-ak.ac.at/activities/jour_fixe_with_mirko_tobias_schaefer_and_mattias_tarasiewics
 
 
+## References
+* https://artscience.uni-ak.ac.at/jart/prj3/art_science/images/cache/13d33f5b63e1de8957ff5d7374738a93/0xF3A46DB2890416140C216464951B1CBF.jpeg
+
 ## Archive snapshots
+- https://artscience.uni-ak.ac.at/activities/jour_fixe_with_mirko_tobias_schaefer_and_mattias_tarasiewics
+  - http://web.archive.org/web/20250402091508/https://artscience.uni-ak.ac.at/activities/jour_fixe_with_mirko_tobias_schaefer_and_mattias_tarasiewics
+- https://artscience.uni-ak.ac.at/jart/prj3/art_science/images/cache/13d33f5b63e1de8957ff5d7374738a93/0xF3A46DB2890416140C216464951B1CBF.jpeg
 - http://web.archive.org/web/20250402104314/https://artscience.uni-ak.ac.at/jart/prj3/art_science/images/cache/13d33f5b63e1de8957ff5d7374738a93/0xF3A46DB2890416140C216464951B1CBF.jpeg
   - https://web.archive.org/web/20200213153549/http://web.archive.org/web/20250402104314/https://artscience.uni-ak.ac.at/jart/prj3/art_science/images/cache/13d33f5b63e1de8957ff5d7374738a93/0xF3A46DB2890416140C216464951B1CBF.jpeg
 - http://web.archive.org/web/20250402091508/https://artscience.uni-ak.ac.at/activities/jour_fixe_with_mirko_tobias_schaefer_and_mattias_tarasiewics

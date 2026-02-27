@@ -13,4 +13,9 @@ Presentation 'Tales of Zero Trust' at the Athens event with David Chaum and Adam
 
 ## Resources
 
+## References
+* https://www.unic.ac.cy/iff/startups-community/decentralized/
+
 ## Archive snapshots
+- https://www.unic.ac.cy/iff/startups-community/decentralized/
+  - http://web.archive.org/web/20260121060823/https://www.unic.ac.cy/iff/startups-community/decentralized/

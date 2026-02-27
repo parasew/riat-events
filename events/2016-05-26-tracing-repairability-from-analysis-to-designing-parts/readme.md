@@ -8,7 +8,11 @@ title: "Tracing Repairability – from analysis to designing parts"
 # References
 * https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-wizard01/
 
+## References
+* https://codedcultures.com/program/Workshop-wizard01/
+
 ## Archive snapshots
+- https://codedcultures.com/program/Workshop-wizard01/
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-wizard01/
   - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-wizard01/
 

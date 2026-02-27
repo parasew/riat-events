@@ -8,7 +8,11 @@ title: "[Research Cultures] Terra Aura Finissage"
 # References
 * https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-Terra-aura/
 
+## References
+* https://codedcultures.com/program/Intervention-Terra-aura/
+
 ## Archive snapshots
+- https://codedcultures.com/program/Intervention-Terra-aura/
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-Terra-aura/
   - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-Terra-aura/
 

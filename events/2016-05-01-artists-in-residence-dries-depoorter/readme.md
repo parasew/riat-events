@@ -6,4 +6,8 @@ title: "[Artists-in-residence] Dries Depoorter"
 # [Artists-in-residence] Dries Depoorter
 
 
+## References
+* https://www.q21.at/artists-in-residence/
+
 ## Archive snapshots
+- https://www.q21.at/artists-in-residence/

@@ -11,3 +11,4 @@ title: "Contemporary Code: Artistic Research"
 
 ## Archive snapshots
 - https://uqe.homepage.uni-ak.ac.at/download/WB2015.pdf
+  - https://web.archive.org/web/20251201015703/https://uqe.homepage.uni-ak.ac.at/download/WB2015.pdf

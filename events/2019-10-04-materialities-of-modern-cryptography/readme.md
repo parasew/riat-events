@@ -13,4 +13,9 @@ Pop-up show featuring early crypto hardware prototypes and artefacts for cryptog
 
 ## Resources
 
+## References
+* https://opt-out.hcpp.cz/schedule
+
 ## Archive snapshots
+- https://opt-out.hcpp.cz/schedule
+  - http://web.archive.org/web/20241013174515/https://opt-out.hcpp.cz/schedule
