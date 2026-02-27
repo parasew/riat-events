@@ -25,7 +25,12 @@ Zine-ship is about making author-ship accessible to all, self-publishing & activ
 * https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-Zine-Ship/
 * https://www.facebook.com/events/1281463641882815/
 
+## References
+* https://www.ots.at/a/OBS_20160517_OBS0003
+
 ## Archive snapshots
+- https://www.ots.at/a/OBS_20160517_OBS0003
+  - http://web.archive.org/web/20160519201227/http://www.ots.at:80/a/OBS_20160517_OBS0003
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-Zine-Ship/
   - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-Zine-Ship/
 - https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p640x640/13308535_1139448212784480_378703870156549999_o.png?_nc_cat=110&_nc_sid=b386c4&_nc_ohc=blOT5Pj_ZbQAX8nF_mx&_nc_ht=scontent-vie1-1.xx&oh=7e791f6384f99b646fa2393f05984e50&oe=5F8F44C7

@@ -14,4 +14,8 @@ Presentation 'Verifiable or Void: Hacking Our Way Back to Sovereign Computing' a
 
 ## Resources
 
+## References
+* https://secondculture.cz/en/events/dp25/
+
 ## Archive snapshots
+- https://secondculture.cz/en/events/dp25/
