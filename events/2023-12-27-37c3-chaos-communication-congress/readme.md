@@ -17,4 +17,7 @@ role: participation
 
 ## Archive snapshots
 - https://events.ccc.de/congress/2023/infos/index.html
+  - https://web.archive.org/web/20231130213703/https://events.ccc.de/congress/2023/infos/index.html
 - https://events.ccc.de/congress/2023/hub/en/event/cdc-critical-decentralization-cluster-cluster-reco/
+  - https://web.archive.org/web/20231230210525/https://events.ccc.de/congress/2023/hub/en/event/cdc-critical-decentralization-cluster-cluster-reco/
+

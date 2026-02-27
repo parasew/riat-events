@@ -6,7 +6,7 @@ Find full event lists in the year archives.
 
 | Date | Title | Media | Location | City, Country |
 | :--- | :--- | :--- | :--- | :--- |
-| 2026-02-01 | [FOSDEM 2026](../events/2026-02-01-fosdem-2026-decentralized-internet-and-privacy/readme.md): Decentralized Internet and Privacy Devroom | [Site](https://fosdem.org/2026/schedule/track/decentralized-internet-and-privacy/) | ULB (Campus Solbosch), Brussels, Belgium | Belgium |
+| 2026-02-01 | [FOSDEM](https://fosdem.org/): Decentralized Internet and Privacy Devroom | [Site](https://fosdem.org/2026/schedule/event/9XKGS8-intro_to_the_decentralized_internet_privacy_devroom/) | ULB (Campus Solbosch), Brussels, Belgium | Belgium |
 | 2025-12-27 | [Critical Decentralisation Cluster at 39C3](../events/2025-12-27-39c3-critical-decentralization-cluster/readme.md) | [Site](https://decentral.community/39C3/) | CCH, Hamburg | Germany |
 | 2025-06-20 | [MoneroKon](../events/2025-06-20-monerokon-25/readme.md) | [Site](https://www.monerokon.org/blog/mk25-press-release.html) | Second Culture | Prague, Czechia |
 | 2024-12-27 | [38C3 Chaos Communication Congress](../events/2024-12-27-38c3-chaos-communication-congress/readme.md) | [Site](https://events.ccc.de/congress/2024/) | CCH | Hamburg, Germany |

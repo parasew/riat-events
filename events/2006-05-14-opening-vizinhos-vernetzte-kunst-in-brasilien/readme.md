@@ -61,9 +61,11 @@ For the vernissage, Brazilian musician **Mauricio Takara** performed. Takara has
 With friendly support from Air France.
 
 ## References
+* https://5uper.net/post/148.html
 * https://web.archive.org/web/20150209174810/https://5uper.net/post/148.html
 
 ## Archive snapshots
+- https://5uper.net/post/148.html
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/148.html
   - https://web.archive.org/web/20150209174810/https://5uper.net/post/148.html
 

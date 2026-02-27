@@ -46,9 +46,11 @@ The presentation examines artists' engagement with biotechnology:
 "Artists from around Australia & the world showed work examining, critiquing, speculating within, the sphere of the Biotechnological. This nascent science—in its more interventionist forms of gene splicing and chromosomal experiment—might alter the face of the world as we know it & will require ethical judgements and imaginative engagement if these changes are to be safely guided and met with."
 
 ## References
+* https://5uper.net/post/129.html
 * https://web.archive.org/web/20150209174810/https://5uper.net/post/129.html
 
 ## Archive snapshots
+- https://5uper.net/post/129.html
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/129.html
   - https://web.archive.org/web/20150209174810/https://5uper.net/post/129.html
 

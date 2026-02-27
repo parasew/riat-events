@@ -63,9 +63,11 @@ The exhibition and talk likely incorporate various media formats:
 - **Discussions** and exchanges between artists and audience
 
 ## References
+* https://5uper.net/post/127.html
 * https://web.archive.org/web/20150209174810/https://5uper.net/post/127.html
 
 ## Archive snapshots
+- https://5uper.net/post/127.html
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/127.html
   - https://web.archive.org/web/20150209174810/https://5uper.net/post/127.html
 - https://web.archive.org/web/20051210040459/http://5uper.net/post/127

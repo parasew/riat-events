@@ -84,9 +84,11 @@ The presented positions from Japan, Austria and Europe are distinguished by crea
 Part of the CODED CULTURES festival exploring creative emergences at the intersection of media arts, technology, and cultural production. The 2009 edition featured three 5uper.net recommended artists-in-residence as part of the quartier21 residency program.
 
 ## References
+* https://5uper.net/post/172.html
 * https://web.archive.org/web/20150209174810/https://5uper.net/post/172.html
 
 ## Archive snapshots
+- https://5uper.net/post/172.html
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/172.html
   - https://web.archive.org/web/20150209174810/https://5uper.net/post/172.html
 

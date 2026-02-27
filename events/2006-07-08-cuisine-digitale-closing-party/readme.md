@@ -58,9 +58,11 @@ Over 100 artists have worked with 5uper.net in cooperations, including internati
 "The future: everything will be better."
 
 ## References
+* https://5uper.net/post/156.html
 * https://web.archive.org/web/20150209174810/https://5uper.net/post/156.html
 
 ## Archive snapshots
+- https://5uper.net/post/156.html
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/156.html
   - https://web.archive.org/web/20150209174810/https://5uper.net/post/156.html
 

@@ -57,9 +57,11 @@ The festival takes place in two locations within MuseumsQuartier Vienna:
 Part of 5uper.net's innovative festival programming that explores the creative applications of technology in everyday life, in this case transforming the traditional craft of bartending through robotics and automation.
 
 ## References
+* https://5uper.net/post/132.html
 * https://web.archive.org/web/20150209174810/https://5uper.net/post/132.html
 
 ## Archive snapshots
+- https://5uper.net/post/132.html
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/132.html
   - https://web.archive.org/web/20150209174810/https://5uper.net/post/132.html
 - https://web.archive.org/web/20051210040459/http://5uper.net/post/132

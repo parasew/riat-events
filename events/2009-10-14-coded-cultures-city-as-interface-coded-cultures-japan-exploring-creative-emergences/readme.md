@@ -46,9 +46,11 @@ The four thematic areas of the festival convey content, forms, and functions of 
 The festival represents the Japanese edition of the CODED CULTURES festival that took place in Vienna in May 2009, creating a binational dialogue between Austrian and Japanese media art scenes within the framework of the Austria-Japan Year 2009 celebrations.
 
 ## References
+* https://5uper.net/post/178.html
 * https://web.archive.org/web/20150209174810/https://5uper.net/post/178.html
 
 ## Archive snapshots
+- https://5uper.net/post/178.html
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/178.html
   - https://web.archive.org/web/20150209174810/https://5uper.net/post/178.html
 

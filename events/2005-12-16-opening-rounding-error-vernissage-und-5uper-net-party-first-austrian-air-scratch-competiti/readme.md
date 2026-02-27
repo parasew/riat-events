@@ -64,11 +64,13 @@ The original 5uper.net post reference (135.html) appears to be unarchived, but p
   - Time Period: December 2005
 
 ## References
+* https://5uper.net/post/133.html
 * https://web.archive.org/web/20150209174810/https://5uper.net/post/135.html (original reference, may be unarchived)
   - https://web.archive.org/web/20150209174810/https://5uper.net/post/135.html
 * https://web.archive.org/web/20150209174810/https://5uper.net/post/133.html (related post about the exhibition)
 
 ## Archive snapshots
+- https://5uper.net/post/133.html
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/135.html
   - https://web.archive.org/web/20150209174810/https://5uper.net/post/135.html
   - https://web.archive.org/web/20150209174810/https://5uper.net/post/135.html

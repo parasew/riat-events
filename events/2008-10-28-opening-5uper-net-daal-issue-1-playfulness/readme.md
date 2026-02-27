@@ -86,9 +86,11 @@ Part of the CODED CULTURES festival exploring creative emergences at the interse
 The DAAL (Digital Arts and Architecture Lab) project represents a structure for research and development, experimental architecture and prototype development in the fields of art, architecture, design and technology, operating its research and development facility in Vienna's Arsenal.
 
 ## References
+* https://5uper.net/post/162.html
 * https://web.archive.org/web/20150209174810/https://5uper.net/post/162.html
 
 ## Archive snapshots
+- https://5uper.net/post/162.html
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/162.html
   - https://web.archive.org/web/20150209174810/https://5uper.net/post/162.html
 

@@ -50,9 +50,11 @@ Emerging artist from Japan known for his unique sound-performances using everyda
 Part of the CODED CULTURES festival exploring creative emergences at the intersection of media arts, technology, and urban culture.
 
 ## References
+* https://5uper.net/post/173.html
 * https://web.archive.org/web/20150209174810/https://5uper.net/post/173.html
 
 ## Archive snapshots
+- https://5uper.net/post/173.html
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/173.html
   - https://web.archive.org/web/20150209174810/https://5uper.net/post/173.html
 

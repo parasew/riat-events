@@ -102,6 +102,7 @@ The workshop responded to:
 - **DIY culture**: Growing interest in self-produced media
 
 ## References
+* https://5uper.net/post/143.html
 
 ### Primary Sources
 - **5uper.net post 143**: https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
@@ -143,6 +144,7 @@ The PD-Radio workshop captured 5uper.net's commitment to practical technical edu
 
 
 ## Archive snapshots
+- https://5uper.net/post/143.html
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
   - https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html
   - https://web.archive.org/web/20150209174810/https://5uper.net/post/143.html

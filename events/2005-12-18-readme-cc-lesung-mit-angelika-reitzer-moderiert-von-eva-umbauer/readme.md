@@ -57,9 +57,11 @@ The readme.cc format typically includes:
 Taking place on December 18, this event occurs during the holiday season, which may influence the book selection or create a particular atmosphere for the reading.
 
 ## References
+* https://5uper.net/post/134.html
 * https://web.archive.org/web/20150209174810/https://5uper.net/post/134.html
 
 ## Archive snapshots
+- https://5uper.net/post/134.html
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/134.html
   - https://web.archive.org/web/20150209174810/https://5uper.net/post/134.html
 - https://web.archive.org/web/20051210040459/http://5uper.net/post/134

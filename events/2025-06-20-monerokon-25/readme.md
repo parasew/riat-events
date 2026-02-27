@@ -17,4 +17,7 @@ MoneroKon 25. Placeholder entry created to align highlights list.
 
 ## Archive snapshots
 - https://www.monerokon.org/blog/mk25-press-release.html
+  - https://web.archive.org/web/20250315065944/https://www.monerokon.org/blog/mk25-press-release.html
 - https://www.monerokon.org/past_events/2025.html
+  - https://web.archive.org/web/20260226204725/https://www.monerokon.org/past_events/2025.html
+

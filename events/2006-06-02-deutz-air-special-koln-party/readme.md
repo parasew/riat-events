@@ -53,9 +53,11 @@ POPNONAME prepares an ambient set for the exhibition opening, as well as a later
 Part of 5uper.net's program presenting international collaborations and cross-disciplinary projects in the Cuisine Digitale space.
 
 ## References
+* https://5uper.net/post/149.html
 * https://web.archive.org/web/20150209174810/https://5uper.net/post/149.html
 
 ## Archive snapshots
+- https://5uper.net/post/149.html
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/149.html
   - https://web.archive.org/web/20150209174810/https://5uper.net/post/149.html
 

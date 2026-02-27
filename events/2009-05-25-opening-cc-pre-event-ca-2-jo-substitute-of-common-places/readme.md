@@ -52,9 +52,11 @@ Each student had to develop an idea in cooperation with a Japanese counterpart, 
 Part of the CODED CULTURES festival pre-events, exploring creative emergences and binational artistic cooperation within the framework of the Austria-Japan Year 2009.
 
 ## References
+* https://5uper.net/post/175.html
 * https://web.archive.org/web/20150209174810/https://5uper.net/post/175.html
 
 ## Archive snapshots
+- https://5uper.net/post/175.html
 - https://web.archive.org/web/20150209174810/https://5uper.net/post/175.html
   - https://web.archive.org/web/20150209174810/https://5uper.net/post/175.html
 
