@@ -17,3 +17,5 @@ Placeholder entry reconstructed from DB index. Needs verification; may be a misn
 ## Archive snapshots
 - https://www.meetup.com/Vienna-Digital-Identity-Meetup/
   - http://web.archive.org/web/20250517015846/https://www.meetup.com/Vienna-Digital-Identity-Meetup/
+- https://esel.at/location/720/riat-research-institute-for-arts-technology
+  - https://web.archive.org/web/20260227062814/https://www.esel.at/de/organization/riat-research-institute-for-arts-technology--02xKJ0LWGlNRH4eHXum50I

@@ -96,6 +96,7 @@ This opening event launched a significant exhibition exploring the complex relat
 
 ## Archive snapshots
 - https://www.esel.at/de/event/artistic-bokeh-societe-realiste-too-much-money--02vvBxhCsIkG1aawt7kgtQ
+  - https://web.archive.org/web/20260227062603/https://www.esel.at/de/event/artistic-bokeh-societe-realiste-too-much-money--02vvBxhCsIkG1aawt7kgtQ
 - https://web.archive.org/web/20140913040141/http://artisticbokeh.com//post/artistic-bokeh-societe-realiste-georgios-papadopoulos-too-much-money-opening-27-2-2014
 
 - https://web.archive.org/web/20160304034444/http://artisticbokeh.com/

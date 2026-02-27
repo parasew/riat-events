@@ -22,6 +22,7 @@ Eine kleine Ausstellung von Prozessartefakten repräsentiert die Arbeiten und ko
 
 ## Archive snapshots
 - https://www.esel.at/de/event/exhibition-documenting-artistic-technology--02vvBy5jAynZfNqD2s1ExB
+  - https://web.archive.org/web/20260227062719/https://www.esel.at/de/event/exhibition-documenting-artistic-technology--02vvBy5jAynZfNqD2s1ExB
 - http://artistictechnology.at/ (2012-11-22)
   - https://web.archive.org/web/20150818160320/http://artistictechnology.at/
   - https://web.archive.org/web/20121122011239/http://artistictechnology.at/
