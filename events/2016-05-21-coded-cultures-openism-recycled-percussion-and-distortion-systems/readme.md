@@ -84,6 +84,7 @@ The event demonstrated Coded Cultures' commitment to:
 - **Community skill-sharing**: Creating opportunities for collaborative learning
 
 ## References
+* https://www.ots.at/a/OBS_20160517_OBS0003
 
 ### Primary Source
 - **Coded Cultures program page**: https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Repair-000/
@@ -121,6 +122,8 @@ Including this event demonstrated Coded Cultures' commitment to:
 The "Recycled Percussion and Distortion Systems" event exemplified Coded Cultures' hands-on, material approach to digital culture, recognizing that innovation happens through physical making and material experimentation as well as through digital tools and concepts, and that community is built through shared making experiences.
 
 ## Archive snapshots
+- https://www.ots.at/a/OBS_20160517_OBS0003
+  - http://web.archive.org/web/20160519201227/http://www.ots.at:80/a/OBS_20160517_OBS0003
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Repair-000/
   - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Repair-000/
   - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Repair-000/

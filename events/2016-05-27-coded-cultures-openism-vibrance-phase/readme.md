@@ -34,7 +34,12 @@ Cost: Free
 * https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Phase/
 * https://www.eventbrite.com/e/vibrance-phase-tickets-25421711022#
 
+## References
+* https://www.ots.at/a/OBS_20160517_OBS0003
+
 ## Archive snapshots
+- https://www.ots.at/a/OBS_20160517_OBS0003
+  - http://web.archive.org/web/20160519201227/http://www.ots.at:80/a/OBS_20160517_OBS0003
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Phase/
   - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Phase/
 - https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21071049%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C321%2C2662%2C1331&s=ea15aa253e15c1180508ea71e308bb52

@@ -139,3 +139,5 @@ The "Sheriff Software" presentation by Dries Depoorter represented the serious, 
 
 
 ## Archive snapshots
+- https://www.ots.at/a/OBS_20160517_OBS0003
+  - http://web.archive.org/web/20160519201227/http://www.ots.at:80/a/OBS_20160517_OBS0003

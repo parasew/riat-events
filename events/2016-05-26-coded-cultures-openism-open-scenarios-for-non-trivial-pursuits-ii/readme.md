@@ -35,6 +35,11 @@ Day III https://www.facebook.com/events/970599456391968/
 * https://www.facebook.com/events/606668406160374/
 *
 
+## References
+* https://www.ots.at/a/OBS_20160517_OBS0003
+
 ## Archive snapshots
+- https://www.ots.at/a/OBS_20160517_OBS0003
+  - http://web.archive.org/web/20160519201227/http://www.ots.at:80/a/OBS_20160517_OBS0003
 - https://www.facebook.com/events/606668406160374/
   - https://web.archive.org/web/20260224204500/https://www.facebook.com/events/606668406160374/

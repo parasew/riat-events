@@ -102,6 +102,7 @@ This event contributed to:
 - **Public education**: Using art to teach about important technological issues
 
 ## References
+* https://www.ots.at/a/OBS_20160517_OBS0003
 
 ### Primary Source
 - **Coded Cultures program page**: https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
@@ -139,6 +140,8 @@ Including "Trace" demonstrated commitment to:
 The "Vibrance – Trace" event exemplified Coded Cultures' serious engagement with the political and social dimensions of digital technology, using art to examine how digital traces shape our lives, identities, and societies in the age of pervasive data collection and surveillance.
 
 ## Archive snapshots
+- https://www.ots.at/a/OBS_20160517_OBS0003
+  - http://web.archive.org/web/20160519201227/http://www.ots.at:80/a/OBS_20160517_OBS0003
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
   - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
   - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/

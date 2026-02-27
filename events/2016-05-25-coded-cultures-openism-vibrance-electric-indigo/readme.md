@@ -25,7 +25,12 @@ Vibrance brings together a selection of artists working with acoustic activity a
 * https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Indigo/
 * https://www.facebook.com/events/1713919458896003/
 
+## References
+* https://www.ots.at/a/OBS_20160517_OBS0003
+
 ## Archive snapshots
+- https://www.ots.at/a/OBS_20160517_OBS0003
+  - http://web.archive.org/web/20160519201227/http://www.ots.at:80/a/OBS_20160517_OBS0003
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Indigo/
   - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Indigo/
 - https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/13173598_1132876836763691_7453415962137315646_o.jpg?_nc_cat=102&_nc_sid=b386c4&_nc_ohc=Q0JYN6AaEwMAX_JCS2d&_nc_ht=scontent-vie1-1.xx&tp=6&oh=89a501c021c4438dfad4974f61e75bec&oe=5F907926

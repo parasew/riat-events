@@ -36,7 +36,12 @@ When machines are capable of doing all manual and informational work for us, we 
 * http://continentcontinent.cc/index.php/continent/pages/view/openscenarios
 * https://www.facebook.com/events/970599456391968/
 
+## References
+* https://www.ots.at/a/OBS_20160517_OBS0003
+
 ## Archive snapshots
+- https://www.ots.at/a/OBS_20160517_OBS0003
+  - http://web.archive.org/web/20160519201227/http://www.ots.at:80/a/OBS_20160517_OBS0003
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-Open-Scenarios03/
   - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-Open-Scenarios03/
 - https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21024052%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C340%2C4078%2C2039&s=49504ce0ea091bcee32c5b29606f2aa3

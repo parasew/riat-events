@@ -19,10 +19,13 @@ As part of the festival "OPENISM - Coded Cultures", the project was shown in Vie
 Im Rahmen des Festivals „OPENISM - Coded Cultures“ wurde das Projekt im Mai 2016 in Wien gezeigt. Das Publikum war eingeladen, kaputte Dinge zur kostenlosen Reparatur mitzubringen, wobei jeder untersuchte Gegenstand in einem Auftragsbuch dokumentiert wurde, wodurch ein Archiv reparierter Objekte entstand.
 
 ### References
+* https://www.ots.at/a/OBS_20160517_OBS0003
 - RIAT AIR artist info: https://web.archive.org/web/20160418213350/http://www.q21.at:80/en/artists-in-residence/artists/artistinfo/hannes-waldschuetz-1/
 - Artist website: http://www.hanneswaldschuetz.de/
 
 ### Archive snapshots
+- https://www.ots.at/a/OBS_20160517_OBS0003
+  - http://web.archive.org/web/20160519201227/http://www.ots.at:80/a/OBS_20160517_OBS0003
 - http://www.q21.at/en/artists-in-residence/artists/artistinfo/hannes-waldschuetz-1/
   - https://web.archive.org/web/20160418213350/http://www.q21.at:80/en/artists-in-residence/artists/artistinfo/hannes-waldschuetz-1/
 

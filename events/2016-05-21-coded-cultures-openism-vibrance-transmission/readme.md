@@ -32,7 +32,12 @@ To follow their two releases on Barcelona’s Anòmia label, including 2014’s 
   - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Transmission/
 * https://www.facebook.com/events/261463000872775/
 
+## References
+* https://www.ots.at/a/OBS_20160517_OBS0003
+
 ## Archive snapshots
+- https://www.ots.at/a/OBS_20160517_OBS0003
+  - http://web.archive.org/web/20160519201227/http://www.ots.at:80/a/OBS_20160517_OBS0003
 - https://www.facebook.com/events/261463000872775/
   - https://web.archive.org/web/20260224204506/https://www.facebook.com/events/261463000872775/
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Transmission/

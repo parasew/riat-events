@@ -99,6 +99,7 @@ The event demonstrated Coded Cultures' commitment to:
 - **Community orientation**: Building connections through shared learning
 
 ## References
+* https://www.ots.at/a/OBS_20160517_OBS0003
 
 ### Primary Source
 - **Coded Cultures program page**: https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-doge-coin/
@@ -136,6 +137,8 @@ The Blockchain and Dogecoin meetup exemplified Coded Cultures' innovative approa
 
 
 ## Archive snapshots
+- https://www.ots.at/a/OBS_20160517_OBS0003
+  - http://web.archive.org/web/20160519201227/http://www.ots.at:80/a/OBS_20160517_OBS0003
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-doge-coin/
   - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-doge-coin/
   - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-doge-coin/

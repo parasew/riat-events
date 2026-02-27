@@ -28,7 +28,12 @@ Sophie-Carolin Wagner investigates elaborately, works passionately, quotes vigor
 # References
 * https://www.facebook.com/events/1000347133335271/
 
+## References
+* https://www.ots.at/a/OBS_20160517_OBS0003
+
 ## Archive snapshots
+- https://www.ots.at/a/OBS_20160517_OBS0003
+  - http://web.archive.org/web/20160519201227/http://www.ots.at:80/a/OBS_20160517_OBS0003
 - https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/13305210_1141274842590557_5242776554724125214_o.jpg?_nc_cat=102&_nc_sid=b386c4&_nc_ohc=bJvRV8or4f4AX9xN4PV&_nc_ht=scontent-vie1-1.xx&oh=e26693a6596949a0a2a35fce48dfd7f3&oe=5F8F68E5
   - https://web.archive.org/web/20260225053711/https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/13305210_1141274842590557_5242776554724125214_o.jpg?_nc_cat=102&_nc_sid=b386c4&_nc_ohc=bJvRV8or4f4AX9xN4PV&_nc_ht=scontent-vie1-1.xx&oh=e26693a6596949a0a2a35fce48dfd7f3&oe=5F8F68E5
 - https://www.facebook.com/events/1000347133335271/
