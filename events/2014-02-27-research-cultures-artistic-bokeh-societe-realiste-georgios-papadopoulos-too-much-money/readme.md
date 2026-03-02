@@ -76,6 +76,7 @@ RIAT founder and Artistic Bokeh coordinator, providing introduction and context.
 ### Primary Sources
 - **Artistic Bokeh Post**: [Artistic Bokeh, Société Réaliste & Georgios Papadopoulos: Too much money... Opening: 27.2.2014](https://web.archive.org/web/20160304034444/http://artisticbokeh.com/)
 - **eSeL listing**: https://www.esel.at/de/event/artistic-bokeh-societe-realiste-too-much-money--02vvBxhCsIkG1aawt7kgtQ
+- **MQW artist context**: https://www.mqw.at/en/institutions/q21/artists-in-residence/2014/georgios-papadopoulos
 
 ### Related Exhibition
 - **"Too much money" exhibition**: February 27 - May 31, 2014
@@ -97,6 +98,8 @@ This opening event launched a significant exhibition exploring the complex relat
 ## Archive snapshots
 - https://www.esel.at/de/event/artistic-bokeh-societe-realiste-too-much-money--02vvBxhCsIkG1aawt7kgtQ
   - https://web.archive.org/web/20260227062603/https://www.esel.at/de/event/artistic-bokeh-societe-realiste-too-much-money--02vvBxhCsIkG1aawt7kgtQ
+- https://www.mqw.at/en/institutions/q21/artists-in-residence/2014/georgios-papadopoulos
+  - https://web.archive.org/web/20191120062202/https://www.mqw.at/en/institutions/q21/artists-in-residence/2014/georgios-papadopoulos
 - https://web.archive.org/web/20140913040141/http://artisticbokeh.com//post/artistic-bokeh-societe-realiste-georgios-papadopoulos-too-much-money-opening-27-2-2014
 
 - https://web.archive.org/web/20160304034444/http://artisticbokeh.com/

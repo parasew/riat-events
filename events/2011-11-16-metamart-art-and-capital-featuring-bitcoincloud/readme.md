@@ -6,6 +6,7 @@ location: "Künstlerhaus Wien"
 country: "Austria"
 startdate: "2011-11-16"
 category: meetup"
+image: images/bitcoincloud-setup-esel.jpg
 ---
 
 ### Description
@@ -34,6 +35,10 @@ Die Installation wurde vom 16. November 2011 bis 19. Februar 2012 im Künstlerha
   - https://web.archive.org/web/20120930031145/http://bitcoincloud.at/
   - https://web.archive.org/web/20121224160643/http://bitcoincloud.at/
 - Flickr photo documentation: https://www.flickr.com/photos/artisticbokeh/8457511011/in/album-72157631703295702
+
+### Local Documentation
+- Installation setup photo: ![BitcoinCloud setup at eSeL](images/bitcoincloud-setup-esel.jpg)
+- Metamart switchboard: ![Metamart switchboard at eSeL](images/metamart-switchboard-esel.jpg)
 
 ## Resources
 * http://www.k-haus.at/de/ausstellung/57/metamart.html

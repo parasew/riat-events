@@ -82,6 +82,7 @@ As an Australian artist, Harle's presentations contributed to the **Austria Aust
 
 ### Primary Source
 - **Facebook Event**: [Josh Harle on Tactical Space](https://www.facebook.com/events/1552356271687846)
+- **Andrew Newman related post**: https://www.andrewnewman.net/josh-harle-on-thinking-through-technology/
 
 ### Related Events
 - **2015-02-07**: Tactical Space Lab presentation
@@ -95,4 +96,6 @@ This event continued Joshua Harle's research presentation series at Artistic Bok
 ## Archive snapshots
 - https://www.facebook.com/events/1552356271687846
   - https://web.archive.org/web/20260225005031/https://www.facebook.com/events/1552356271687846
+- https://www.andrewnewman.net/josh-harle-on-thinking-through-technology/
+  - https://web.archive.org/web/20230323013907/https://www.andrewnewman.net/josh-harle-on-thinking-through-technology/
 

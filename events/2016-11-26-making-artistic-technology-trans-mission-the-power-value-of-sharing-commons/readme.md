@@ -52,7 +52,7 @@ Further information contact workshops /at/ riat /dot/ at
 - https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/14993547_1279100132152620_1287999755129202644_n.jpg?_nc_cat=111&_nc_sid=b386c4&_nc_ohc=Q-nujDUQaL0AX_ELFd3&_nc_ht=scontent-vie1-1.xx&oh=4387c0777ad4816ce88ead5b735621ca&oe=5F8AA7E2
   - https://web.archive.org/web/20260225054133/https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/14993547_1279100132152620_1287999755129202644_n.jpg?_nc_cat=111&_nc_sid=b386c4&_nc_ohc=Q-nujDUQaL0AX_ELFd3&_nc_ht=scontent-vie1-1.xx&oh=4387c0777ad4816ce88ead5b735621ca&oe=5F8AA7E2
 - https://www.andrewnewman.net/making-artistic-technology-workshop-with-victor-mazon-gardoqui/
-  - https://web.archive.org/web/20260225054133/https://www.andrewnewman.net/making-artistic-technology-workshop-with-victor-mazon-gardoqui/
+  - https://web.archive.org/web/20230323013907/https://www.andrewnewman.net/making-artistic-technology-workshop-with-victor-mazon-gardoqui/
 - https://www.eventbrite.com/e/transmission-the-power-value-of-sharing-commons-tickets-29387596091?aff=ehomecard
   - https://web.archive.org/web/20260225054133/https://www.eventbrite.com/e/transmission-the-power-value-of-sharing-commons-tickets-29387596091?aff=ehomecard
 - https://www.facebook.com/events/569788756549302/

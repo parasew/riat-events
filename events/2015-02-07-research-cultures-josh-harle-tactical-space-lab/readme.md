@@ -84,6 +84,7 @@ This presentation represented Artistic Bokeh's ongoing engagement with Australia
 
 ## References
 * https://archive.transmediale.de/archive/history/festival/2015
+* https://www.andrewnewman.net/josh-harle-on-thinking-through-technology/
 
 ## Archive snapshots
 - https://archive.transmediale.de/archive/history/festival/2015
@@ -94,3 +95,5 @@ This presentation represented Artistic Bokeh's ongoing engagement with Australia
 
 - https://web.archive.org/web/20140913040141/http://artisticbokeh.com/post/tactical-space-lab-josh-harle
 - https://web.archive.org/web/20150324013412/http://artisticbokeh.com/post/tactical-space-lab-josh-harle
+- https://www.andrewnewman.net/josh-harle-on-thinking-through-technology/
+  - https://web.archive.org/web/20230323013907/https://www.andrewnewman.net/josh-harle-on-thinking-through-technology/

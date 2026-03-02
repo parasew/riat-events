@@ -12,6 +12,9 @@ title: "[Artists-in-residence] Jai McKenzie"
 * https://www.mqw.at/en/institutions/q21/program/2014/11/jai-mckenzie-aus-never-forever
 * https://runway.org.au/about
 
+## Archive verification note
+- Runtime-limited: CDX lookup in current environment (2026-02-27) found no status-200 capture for https://www.andrewnewman.net/jai-mckenzie-never-forever/.
+
 ## Archive snapshots
 - https://www.andrewnewman.net/jai-mckenzie-never-forever/
 - https://www.esel.at/de/event/jai-mckenzie-never-forever-runway-australian-experimental-art--02vvBxHWdR1jOLKBkEa7AM

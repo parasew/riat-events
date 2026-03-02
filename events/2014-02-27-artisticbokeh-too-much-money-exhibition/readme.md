@@ -24,12 +24,15 @@ A lecture-performance of C.Lisecki / G.Papadopoulos will mark the opening on Thu
 * http://galeriepoggi.com/en/artistes/oeuvres/10345/societe-realiste
 * https://www.flickr.com/photos/artisticbokeh/12817002803
 * http://classic.rhizome.org/announce/events/60330/view/
+* https://www.mqw.at/en/institutions/q21/artists-in-residence/2014/georgios-papadopoulos
 * https://www.facebook.com/events/mq-museumsquartier-wien/artistic-bokeh-soci%C3%A9t%C3%A9-r%C3%A9aliste-georgios-papadopoulos-too-much-money-opening-272/619848824747223/
 
 
 ## Archive snapshots
 - https://www.esel.at/de/event/artistic-bokeh-societe-realiste-too-much-money--02vvBxhCsIkG1aawt7kgtQ
   - https://web.archive.org/web/20260227062603/https://www.esel.at/de/event/artistic-bokeh-societe-realiste-too-much-money--02vvBxhCsIkG1aawt7kgtQ
+- https://www.mqw.at/en/institutions/q21/artists-in-residence/2014/georgios-papadopoulos
+  - https://web.archive.org/web/20191120062202/https://www.mqw.at/en/institutions/q21/artists-in-residence/2014/georgios-papadopoulos
 - https://www.facebook.com/events/mq-museumsquartier-wien/artistic-bokeh-soci%C3%A9t%C3%A9-r%C3%A9aliste-georgios-papadopoulos-too-much-money-opening-272/619848824747223/
   - https://web.archive.org/web/20260223052206/https://www.facebook.com/events/mq-museumsquartier-wien/artistic-bokeh-soci%C3%A9t%C3%A9-r%C3%A9aliste-georgios-papadopoulos-too-much-money-opening-272/619848824747223/
 

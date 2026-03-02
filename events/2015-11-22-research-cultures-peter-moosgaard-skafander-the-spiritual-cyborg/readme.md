@@ -109,9 +109,11 @@ The talk likely addressed:
 - **Ethical dimensions**: Responsible development of spiritual technologies
 
 ## References
+- **Andrew Newman recap**: https://www.andrewnewman.net/peter-moosgaard-skafander-the-spiritual-cyborg/
 
 ### Primary Source
 - **Q21 program page**: http://www.q21.at/programm//programmdetail/peter-moosgaard-skafander-the-spiritual-cyborg/
+- **Andrew Newman recap**: https://www.andrewnewman.net/peter-moosgaard-skafander-the-spiritual-cyborg/
 
 ### Related Context
 - **Cyborg studies**: Academic literature on human-technology integration
@@ -137,6 +139,11 @@ The event exemplified Artistic Bokeh's commitment to:
 
 The presentation on "Skafander (The Spiritual Cyborg)" represented the depth and interdisciplinary range of the Research Cultures series, exploring profound questions about human identity, technology, and spirituality through artistic research practice.
 
+## Archive verification note
+- Runtime-limited: CDX lookup in current environment (2026-02-27) found no status-200 capture for https://www.andrewnewman.net/peter-moosgaard-skafander-the-spiritual-cyborg/.
+
 ## Archive snapshots
 - http://www.q21.at/programm//programmdetail/peter-moosgaard-skafander-the-spiritual-cyborg/
   - https://web.archive.org/web/20260224204601/http://www.q21.at/programm//programmdetail/peter-moosgaard-skafander-the-spiritual-cyborg/
+
+- https://www.andrewnewman.net/peter-moosgaard-skafander-the-spiritual-cyborg/

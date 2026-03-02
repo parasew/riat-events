@@ -66,6 +66,9 @@ The exhibition opening was part of **Vienna Art Week 2014**, connecting Australi
 
 ### Primary Sources
 - **Artistic Bokeh Post**: [Jai McKenzie: Never Forever](https://web.archive.org/web/20160304034444/http://artisticbokeh.com/)
+- **Andrew Newman recap**: https://www.andrewnewman.net/jai-mckenzie-never-forever/
+- **MQW/Q21 program page**: https://www.mqw.at/en/institutions/q21/program/2014/11/jai-mckenzie-aus-never-forever
+- **Runway editorial context**: https://runway.org.au/about
 - **Artist Website**: [jaimckenzie.com](https://jaimckenzie.com))
 - **quartier21 Event Page**: [Jai McKenzie: Never Forever](https://www.quartier21.at/programm/programmdetail/jai-mckenzie-aus-never-forever/)
 
@@ -86,6 +89,9 @@ The exhibition opening was part of **Vienna Art Week 2014**, connecting Australi
 **artisticbokeh.com icons preserved locally**:
 
 
+## Archive verification note
+- Runtime-limited: CDX lookup in current environment (2026-02-27) found no status-200 capture for https://www.andrewnewman.net/jai-mckenzie-never-forever/.
+
 ## Archive snapshots
 - https://www.quartier21.at/programm/programmdetail/jai-mckenzie-aus-never-forever/
   - https://web.archive.org/web/20260224204208/https://www.quartier21.at/programm/programmdetail/jai-mckenzie-aus-never-forever/
@@ -93,3 +99,9 @@ The exhibition opening was part of **Vienna Art Week 2014**, connecting Australi
 - https://web.archive.org/web/20160304034444/http://artisticbokeh.com/
 - https://jaimckenzie.com
 - https://web.archive.org/web/20150124103106/http://artisticbokeh.com/
+
+- https://www.andrewnewman.net/jai-mckenzie-never-forever/
+- https://www.mqw.at/en/institutions/q21/program/2014/11/jai-mckenzie-aus-never-forever
+  - http://web.archive.org/web/20250618123806/https://www.mqw.at/en/institutions/q21/program/2014/11/jai-mckenzie-aus-never-forever
+- https://runway.org.au/about
+  - http://web.archive.org/web/20250819194046/https://www.runway.org.au/about

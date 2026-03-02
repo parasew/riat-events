@@ -22,6 +22,8 @@ RIAT archive lecture entry at Devcon 5 (Osaka), presented by Matthias Tarasiewic
   - https://raw.githubusercontent.com/efdevcon/monorepo/master/devcon-api/data/sessions/devcon-5/future-of-open-hardware-in-a-verifiable-decentralised-world.json
 - Video:
   - https://www.youtube.com/watch?v=bAkYIyMJVaY
+- Andrew Newman context:
+  - https://www.andrewnewman.net/riat-at-open-hardware-summit-denver/
 
 ## Archive snapshots
 - YouTube (Wayback):
@@ -30,6 +32,8 @@ RIAT archive lecture entry at Devcon 5 (Osaka), presented by Matthias Tarasiewic
 - https://github.com/parasew/riat-events/blob/master/archive/README.md
 - https://raw.githubusercontent.com/efdevcon/monorepo/master/devcon-api/data/sessions/devcon-5/future-of-open-hardware-in-a-verifiable-decentralised-world.json
 - https://www.youtube.com/watch?v=bAkYIyMJVaY
+- https://www.andrewnewman.net/riat-at-open-hardware-summit-denver/
+  - https://web.archive.org/web/20230323013907/https://www.andrewnewman.net/riat-at-open-hardware-summit-denver/
 ## Archive submission attempts
 - Submitted:
   - https://www.youtube.com/watch?v=bAkYIyMJVaY

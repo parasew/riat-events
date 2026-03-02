@@ -72,8 +72,10 @@ The event was part of **Vienna Art Week 2014**, positioning Australian experimen
 
 ### Primary Sources
 - **Artistic Bokeh Post**: [Jai McKenzie - Runway Australian Exhibition](https://web.archive.org/web/20160304034444/http://artisticbokeh.com/)
+- **Andrew Newman recap**: https://www.andrewnewman.net/jai-mckenzie-never-forever/
 - **Facebook Event**: [Runway Launch & AAAA Exhibition](https://www.facebook.com/events/1006015856079121/)
 - **Runway Journal**: [runway.org.au](https://runway.org.au)
+- **Runway editorial board/context**: https://runway.org.au/about
 
 ### Related Events
 - **Jai McKenzie: 'Never Forever' exhibition** (November 22, 2014 - February 20, 2015)
@@ -92,6 +94,9 @@ This launch event represented Artistic Bokeh's engagement with international art
 **artisticbokeh.com icons preserved locally**:
 
 
+## Archive verification note
+- Runtime-limited: CDX lookup in current environment (2026-02-27) found no status-200 capture for https://www.andrewnewman.net/jai-mckenzie-never-forever/.
+
 ## Archive snapshots
 - https://www.facebook.com/events/1006015856079121/
   - https://web.archive.org/web/20260224204207/https://www.facebook.com/events/1006015856079121/
@@ -99,3 +104,7 @@ This launch event represented Artistic Bokeh's engagement with international art
 - https://web.archive.org/web/20160304034444/http://artisticbokeh.com/
 - https://runway.org.au
 - https://web.archive.org/web/20150124103106/http://artisticbokeh.com/post/jai-mckenzie-runway-australian-exhibition
+
+- https://www.andrewnewman.net/jai-mckenzie-never-forever/
+- https://runway.org.au/about
+  - http://web.archive.org/web/20250819194046/https://www.runway.org.au/about
