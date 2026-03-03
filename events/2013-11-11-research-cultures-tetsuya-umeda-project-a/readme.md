@@ -1,22 +1,4 @@
----
-startdate: 2013-11-11
-category: meetup
-title: "[Research Cultures] Tetsuya Umeda – Project A"
-subtitle: "Research Cultures presentation by Japanese artist Tetsuya Umeda discussing Project A"
-location: "Artistic Bokeh / Q21 space, Vienna"
-city: "Vienna"
-country: "Austria"
-presenter: "Tetsuya Umeda (Japanese artist)"
-organizer: "Artistic Bokeh / Research Cultures series"
-type: "Artist Presentation / Research Talk"
-series: "Research Cultures"
-year: 2013
-theme: "Japanese art, experimental practice, artistic research, project documentation"
-references:
-  - https://esel.at/s/72157637817410585
----
-
-# [Research Cultures] Tetsuya Umeda – Project A
+---\nstartdate: 2013-11-11\ncategory: meetup\ntitle: [Research Cultures] Tetsuya Umeda – Project A\nsubtitle: Research Cultures presentation by Japanese artist Tetsuya Umeda discussing Project A\nlocation: Artistic Bokeh / Q21 space, Vienna\ncity: Vienna\ncountry: Austria\npresenter: Tetsuya Umeda (Japanese artist)\norganizer: Artistic Bokeh / Research Cultures series\ntype: Artist Presentation / Research Talk\nseries: Research Cultures\nyear: 2013\ntheme: Japanese art, experimental practice, artistic research, project documentation\nreferences: \n- https: //esel.at/s/72157637817410585\n---\n# [Research Cultures] Tetsuya Umeda – Project A
 
 ## Event Details
 
@@ -130,6 +112,24 @@ Featuring international artists like Umeda demonstrated the series' growth into:
 
 Tetsuya Umeda's Research Cultures presentation on "Project A" represented the international reach and conceptual depth of the series, bringing Japanese experimental art perspectives to Vienna while demonstrating Artistic Bokeh's commitment to serious engagement with artistic research practices from around the world.
 
-## Archive snapshots
+## Tweet references\n- **2013-11-14** — @parasew — “RT: “
+@fatmike182
+: Zuckerberg und Peitsche” 
+https://
+x.com/artisticbokeh/
+status/400682365116506113
+… #zuckerberg”\n  - URL: https://x.com/parasew/status/400954908847140864\n  - Media: _CACHE/twitter_media/400954908847140864_38b54abf9409.jpg\n- **2013-11-13** — @parasew — “Tetsuya Umeda: "Eiern" 
+@quartier21
+ #wienmodern”\n  - URL: https://x.com/parasew/status/400684239316058112\n  - Media: _CACHE/twitter_media/400684239316058112_537e3863aea3.jpg\n- **2013-11-11** — @parasew — “Jonas Lund: Controversial New Project Uses Algorithm To Predict Art 
+http://
+huffingtonpost.com/2013/11/05/jon
+as-lund-art-algorithm_n_4214211.html
+…”\n  - URL: https://x.com/atechres/status/399847068443095040\n  - Links: http://t.co/enZpVEyMTY\n- **2013-11-13** — @bitcoincloud — “November in the Artistic Bokeh Space 
+@quartier21
+ MuseumsQuartier Vienna: KATSU - Status Update. #faceless”\n  - URL: https://x.com/artisticbokeh/status/400682365116506113\n  - Media: _CACHE/twitter_media/400682365116506113_38b54abf9409.jpg\n- **2013-11-11** — @bitcoincloud — “#bitcoincloud is exhibited in Novi Sad - Napon - Institute for flexible cultures and technologies 
+http://
+napon.org/autonomies-exh
+ibition/
+…”\n  - URL: https://x.com/bitcoincloud/status/399941790255812608\n  - Links: http://t.co/mQZfdrG1tG\n\n## Archive snapshots
 - https://esel.at/s/72157637817410585
   - https://web.archive.org/web/20260225054129/https://esel.at/s/72157637817410585

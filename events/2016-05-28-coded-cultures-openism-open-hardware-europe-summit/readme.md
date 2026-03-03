@@ -1,16 +1,4 @@
----
-title: "Open Hardware Europe Summit"
-date: 2016-05-28T11:00+02:00
-draft: false
-location: "MAK - Österreichisches Museum für angewandte Kunst / Gegenwartskunst"
-country: "Austria"
-startdate: "2016-05-28"
-enddate:   "2016-05-28"
-image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F20945002%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C732%2C366&s=dcab921ad9521600bbc04aade80c9139
-category: workshop
----
-
-# [Coded Cultures Openism] Open Hardware Europe Summit
+---\ntitle: Open Hardware Europe Summit\ndate: 2016-05-28T11:00+02:00\ndraft: false\nlocation: MAK - Österreichisches Museum für angewandte Kunst / Gegenwartskunst\ncountry: Austria\nstartdate: 2016-05-28\nenddate: 2016-05-28\nimage: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F20945002%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C732%2C366&s=dcab921ad9521600bbc04aade80c9139\ncategory: workshop\n---\n# [Coded Cultures Openism] Open Hardware Europe Summit
 
 The Open Hardware Europe Summit is for the first time taking place in Vienna, Austria. It's held on Saturday, 28th May 2016 at MAK (Museum of Applied Arts) as part of the Coded Cultures "Openism" festival, organised by the Research Institute for Arts and Technology in cooperation with the University of Applied Arts Vienna and the apertus° Association.
 
@@ -37,6 +25,11 @@ The Open Hardware Europe Summit is for the first time taking place in Vienna, Au
 
 ## References
 * https://www.ots.at/a/OBS_20160517_OBS0003
+
+## Tweet references
+- **2016-05-26** — @codedcultures — “Still some tickets left for the Open Hardware Europe Summit this saturday, 28.May in MAK. Get tickets here …”
+  - URL: https://x.com/codedcultures/status/735829396024664064
+  - Links: https://t.co/XqLdQK9Npu
 
 ## Archive snapshots
 - https://www.ots.at/a/OBS_20160517_OBS0003

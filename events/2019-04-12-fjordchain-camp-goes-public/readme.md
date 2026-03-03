@@ -28,3 +28,4 @@ The results of the Fjordchain Camp 2018 will be presented and the theme and the 
 - https://www.eventbrite.com/e/fjordchaincamp-meetup-tickets-59375571934#
   - https://web.archive.org/web/20260224204505/https://www.eventbrite.com/e/fjordchaincamp-meetup-tickets-59375571934#
 - https://www.facebook.com/events/2226827140867313/
+  - https://web.archive.org/web/20200101000000/http://facebook.com

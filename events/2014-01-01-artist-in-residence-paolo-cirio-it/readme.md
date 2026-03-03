@@ -1,19 +1,4 @@
----
-startdate: 2014-01-01
-category: meetup
-title: "[Artist-in-residence] Paolo Cirio [IT]"
-subtitle: "Conceptual artist working with legal, economic, and cultural systems of information society"
-location: "RIAT Vienna / quartier21"
-city: "Vienna"
-country: "Austria"
-organizer: "RIAT / Artistic Bokeh"
-type: "Artist Residency"
-time: "January 2014"
-website: "https://paolocirio.net"
-image: https://paolocirio.net/img/paolo-cirio-portrait.jpg
----
-
-# [Artist-in-residence] Paolo Cirio [IT]
+---\nstartdate: 2014-01-01\ncategory: meetup\ntitle: [Artist-in-residence] Paolo Cirio [IT]\nsubtitle: Conceptual artist working with legal, economic, and cultural systems of information society\nlocation: RIAT Vienna / quartier21\ncity: Vienna\ncountry: Austria\norganizer: RIAT / Artistic Bokeh\ntype: Artist Residency\ntime: January 2014\nwebsite: https://paolocirio.net\nimage: https://paolocirio.net/img/paolo-cirio-portrait.jpg\n---\n# [Artist-in-residence] Paolo Cirio [IT]
 
 ## Details
 
@@ -94,7 +79,20 @@ Cirio's work aligns with RIAT's research interests in:
 Specific details about Cirio's activities during the January 2014 residency require further research in RIAT archives or consultation with the artist. His work during this period likely contributed to ongoing RIAT investigations into digital economies and social systems.
 
 
-## Archive snapshots
+## Tweet references\n- **2014-01-09** — @artisticbokeh — “Exhibition "Think Out Of The Box" images from the finissage 5.1.2013 #dieangewandte #ootb @MAKWien 
+http://
+flickr.com/photos/artisti
+cbokeh/sets/72157639579951084/
+…”\n  - URL: https://x.com/artisticbokeh/status/421209117773275136\n  - Links: http://t.co/xuKlG9bH2G\n- **2014-01-06** — @artisticbokeh — “Artists-in-Residence #artisticbokeh at quartier21 / MQ Jan 2014: Paolo Cirio 
+http://
+mqw.at/blog/2013/12/2
+7/artists-in-residence-at-quartier21-mq-5/
+… 
+@paolocirio”\n  - URL: https://x.com/artisticbokeh/status/420225194603868160\n  - Links: http://t.co/swYJjpZ1C5\n- **2014-01-06** — @artisticbokeh — “a photo of our new #nikkor AF-S 85mm f/1.8G lens package, actually taken with the lens :) #artisticbokeh”\n  - URL: https://x.com/artisticbokeh/status/420206653859168256\n  - Media: _CACHE/twitter_media/420206653859168256_83d1d7348b60.jpg\n- **2014-01-06** — @artisticbokeh — “back in 2011: the lagest #bitcoin #mining rig ever built, in terms of size (15m height, LED fans) #bitcoincloud 
+http://
+flickr.com/photos/artisti
+cbokeh/sets/72157631703295702/
+…”\n  - URL: https://x.com/bitcoincloud/status/420199342029701120\n  - Links: http://t.co/vhgSeRZvSn\n\n## Archive snapshots
 - https://paolocirio.net
   - https://web.archive.org/web/20060709211443/https://paolocirio.net
 

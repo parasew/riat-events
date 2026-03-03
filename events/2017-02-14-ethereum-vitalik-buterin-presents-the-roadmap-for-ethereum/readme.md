@@ -49,4 +49,5 @@ The device fee covers all extra electronic materials, industrially produced elec
 - https://www.eventbrite.com/e/vitalik-buterin-discusses-ethereum-tickets-31934852002#
   - https://web.archive.org/web/20260224200800/https://www.eventbrite.com/e/vitalik-buterin-discusses-ethereum-tickets-31934852002#
 - https://www.facebook.com/events/182541302230635/
+  - https://web.archive.org/web/20200101000000/https://www.facebook.com/events/182541302230635/
 - https://web.archive.org/web/20170221061725/http://victormazon.com/wrks/workshops/signum/

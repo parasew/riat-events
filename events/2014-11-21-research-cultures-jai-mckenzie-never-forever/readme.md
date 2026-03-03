@@ -1,18 +1,4 @@
----
-startdate: 2014-11-21
-category: meetup
-enddate: 2015-02-20
-title: "[Research Cultures] Jai McKenzie: Never Forever"
-subtitle: "Exhibition examining creation and destruction, remembering and forgetting, and the improbability of permanence"
-location: "Artistic Bokeh Showroom, MuseumsQuartier Vienna"
-city: "Vienna"
-country: "Austria"
-organizer: "Artistic Bokeh and Austria Australia Arts Alliance"
-type: "Exhibition"
-website: "https://www.quartier21.at/programm/programmdetail/jai-mckenzie-aus-never-forever/"
----
-
-# [Research Cultures] Jai McKenzie: Never Forever
+---\nstartdate: 2014-11-21\ncategory: meetup\nenddate: 2015-02-20\ntitle: [Research Cultures] Jai McKenzie: Never Forever\nsubtitle: Exhibition examining creation and destruction, remembering and forgetting, and the improbability of permanence\nlocation: Artistic Bokeh Showroom, MuseumsQuartier Vienna\ncity: Vienna\ncountry: Austria\norganizer: Artistic Bokeh and Austria Australia Arts Alliance\ntype: Exhibition\nwebsite: https://www.quartier21.at/programm/programmdetail/jai-mckenzie-aus-never-forever/\n---\n# [Research Cultures] Jai McKenzie: Never Forever
 
 ## Exhibition Details
 
@@ -92,7 +78,21 @@ The exhibition opening was part of **Vienna Art Week 2014**, connecting Australi
 ## Archive verification note
 - Runtime-limited: CDX lookup in current environment (2026-02-27) found no status-200 capture for https://www.andrewnewman.net/jai-mckenzie-never-forever/.
 
-## Archive snapshots
+## Tweet references\n- **2014-11-20** — @artisticbokeh — “Jai McKenzie just landed in Vienna for her #viennaartweek show at 
+@quartier21
+ and is already appearing on style blogs 
+http://
+adiweiss.at/wp-content/blo
+gs.dir/2/files/streetstyle-20-11-2014/img_8631.jpg
+…”\n  - URL: https://x.com/artisticbokeh/status/535473181545750531\n  - Links: http://t.co/1XqLlvIXBu\n- **2014-11-20** — @artisticbokeh — “If you happen to be in Vienna for #viennaartweek come to the launch of our new issue at 
+@artisticbokeh
+ in 
+@quartier21
+ 
+http://
+viennaartweek.at/event/251/aust
+ellungseroeffnung-jai-mckenzie-never-forever-und-magazin-launch-von-runway-australian-experimental-arts-26jai-mckenzie-never-forever-runway-australian-experimental-arts/?lang=en
+…”\n  - URL: https://x.com/runwayjournal/status/535463709272207361\n  - Links: http://t.co/vi4h9RBZuc\n\n## Archive snapshots
 - https://www.quartier21.at/programm/programmdetail/jai-mckenzie-aus-never-forever/
   - https://web.archive.org/web/20260224204208/https://www.quartier21.at/programm/programmdetail/jai-mckenzie-aus-never-forever/
 

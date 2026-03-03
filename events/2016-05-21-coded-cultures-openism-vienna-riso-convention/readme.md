@@ -1,22 +1,4 @@
----
-startdate: 2016-05-21
-category: meetup
-title: "[Coded Cultures Openism] Vienna RISO Convention"
-subtitle: "Coded Cultures festival event celebrating RISO printing and DIY publishing culture"
-location: "Coded Cultures festival venue, Vienna"
-city: "Vienna"
-country: "Austria"
-organizer: "Coded Cultures festival"
-type: "Festival Event / Workshop / Convention"
-festival: "Coded Cultures Openism"
-year: 2016
-theme: "RISO printing, DIY publishing, zine culture, printmaking"
-references:
-  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-RISO-Convention/
-    - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-RISO-Convention/
----
-
-# [Coded Cultures Openism] Vienna RISO Convention
+---\nstartdate: 2016-05-21\ncategory: meetup\ntitle: [Coded Cultures Openism] Vienna RISO Convention\nsubtitle: Coded Cultures festival event celebrating RISO printing and DIY publishing culture\nlocation: Coded Cultures festival venue, Vienna\ncity: Vienna\ncountry: Austria\norganizer: Coded Cultures festival\ntype: Festival Event / Workshop / Convention\nfestival: Coded Cultures Openism\nyear: 2016\ntheme: RISO printing, DIY publishing, zine culture, printmaking\nreferences: \n- https: //web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-RISO-Convention/\n---\n# [Coded Cultures Openism] Vienna RISO Convention
 
 ## Event Details
 
@@ -122,7 +104,11 @@ Including RISO printing demonstrated Coded Cultures' commitment to:
 
 The Vienna RISO Convention exemplified Coded Cultures' holistic approach to digital culture, recognizing that digital innovation exists in dialogue with material practices like printing, and that community building happens through shared making experiences as well as discussions and presentations.
 
-## Archive snapshots
+## Tweet references\n- **2016-05-28** — @codedcultures — “Live stream of #openhardware europe summit at Coded Cultures is starting soon!”\n  - URL: https://x.com/parasew/status/736530858509774848\n  - Links: https://x.com/codedcultures, https://x.com/parasew, https://x.com/parasew/status/736530858509774848, https://x.com/hashtag/openhardware?src=hashtag_click, https://www.youtube.com/watch?v=vpU4i29nGds, https://x.com/parasew/status/736530858509774848/analytics\n- **2016-05-28** — @codedcultures — “Currently on the #codedcultures #openhardware live stream: David Cuartielles @dcuartielles https://youtube.com/watch?v=vpU4i29nGds…”\n  - URL: https://x.com/codedcultures/status/736540547641421824\n  - Links: https://x.com/codedcultures, https://x.com/codedcultures/status/736540547641421824, https://x.com/hashtag/codedcultures?src=hashtag_click, https://x.com/hashtag/openhardware?src=hashtag_click, https://x.com/dcuartielles, https://www.youtube.com/watch?v=vpU4i29nGds, https://x.com/codedcultures/status/736540547641421824/analytics\n- **2016-05-26** — @bitcoincloud — “Still some tickets left for the Open Hardware Europe Summit this saturday, 28.May in MAK. Get tickets here: 
+https://
+eventbrite.com/e/open-hardwar
+e-europe-summit-tickets-25318639733?ref=estw
+…”\n  - URL: https://x.com/codedcultures/status/735829396024664064\n  - Links: https://www.eventbrite.com/e/open-hardware-europe-summit-tickets-25318639733?ref=estw\n\n## Archive snapshots
 - https://www.ots.at/a/OBS_20160517_OBS0003
   - http://web.archive.org/web/20160519201227/http://www.ots.at:80/a/OBS_20160517_OBS0003
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Intervention-RISO-Convention/

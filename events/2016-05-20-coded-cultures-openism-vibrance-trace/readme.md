@@ -1,23 +1,4 @@
----
-startdate: 2016-05-20
-category: meetup
-title: "[Coded Cultures Openism] Vibrance – Trace"
-subtitle: "Coded Cultures festival event exploring traces, tracking, and digital footprints"
-location: "Coded Cultures festival venue, Vienna"
-city: "Vienna"
-country: "Austria"
-organizer: "Coded Cultures festival"
-type: "Festival Event / Exhibition / Performance"
-festival: "Coded Cultures Openism"
-series: "Vibrance"
-year: 2016
-theme: "Digital traces, tracking, surveillance, data footprints"
-references:
-  - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
-    - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/
----
-
-# [Coded Cultures Openism] Vibrance – Trace
+---\nstartdate: 2016-05-20\ncategory: meetup\ntitle: [Coded Cultures Openism] Vibrance – Trace\nsubtitle: Coded Cultures festival event exploring traces, tracking, and digital footprints\nlocation: Coded Cultures festival venue, Vienna\ncity: Vienna\ncountry: Austria\norganizer: Coded Cultures festival\ntype: Festival Event / Exhibition / Performance\nfestival: Coded Cultures Openism\nseries: Vibrance\nyear: 2016\ntheme: Digital traces, tracking, surveillance, data footprints\nreferences: \n- https: //web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/\n---\n# [Coded Cultures Openism] Vibrance – Trace
 
 ## Event Details
 
@@ -139,7 +120,11 @@ Including "Trace" demonstrated commitment to:
 
 The "Vibrance – Trace" event exemplified Coded Cultures' serious engagement with the political and social dimensions of digital technology, using art to examine how digital traces shape our lives, identities, and societies in the age of pervasive data collection and surveillance.
 
-## Archive snapshots
+## Tweet references\n- **2016-05-28** — @codedcultures — “Live stream of #openhardware europe summit at Coded Cultures is starting soon!”\n  - URL: https://x.com/parasew/status/736530858509774848\n  - Links: https://x.com/codedcultures, https://x.com/parasew, https://x.com/parasew/status/736530858509774848, https://x.com/hashtag/openhardware?src=hashtag_click, https://www.youtube.com/watch?v=vpU4i29nGds, https://x.com/parasew/status/736530858509774848/analytics\n- **2016-05-28** — @codedcultures — “Currently on the #codedcultures #openhardware live stream: David Cuartielles @dcuartielles https://youtube.com/watch?v=vpU4i29nGds…”\n  - URL: https://x.com/codedcultures/status/736540547641421824\n  - Links: https://x.com/codedcultures, https://x.com/codedcultures/status/736540547641421824, https://x.com/hashtag/codedcultures?src=hashtag_click, https://x.com/hashtag/openhardware?src=hashtag_click, https://x.com/dcuartielles, https://www.youtube.com/watch?v=vpU4i29nGds, https://x.com/codedcultures/status/736540547641421824/analytics\n- **2016-05-26** — @bitcoincloud — “Still some tickets left for the Open Hardware Europe Summit this saturday, 28.May in MAK. Get tickets here: 
+https://
+eventbrite.com/e/open-hardwar
+e-europe-summit-tickets-25318639733?ref=estw
+…”\n  - URL: https://x.com/codedcultures/status/735829396024664064\n  - Links: https://www.eventbrite.com/e/open-hardware-europe-summit-tickets-25318639733?ref=estw\n\n## Archive snapshots
 - https://www.ots.at/a/OBS_20160517_OBS0003
   - http://web.archive.org/web/20160519201227/http://www.ots.at:80/a/OBS_20160517_OBS0003
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Vibrance-Trace/

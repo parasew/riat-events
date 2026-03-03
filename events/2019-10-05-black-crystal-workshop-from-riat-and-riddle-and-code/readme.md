@@ -1,16 +1,4 @@
----
-title: "Black Crystal Workshop from RIAT and Riddle+Code"
-date: 2019-10-05T09:00:00+02:00
-draft: false
-location: "Paralelní Polis"
-country: "Czech Republic"
-startdate: "2019-10-05"
-enddate:   "2019-10-05"
-image: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F75024561%2F148777297672%2F1%2Foriginal.20191001-143656?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C282%2C1390%2C695&s=5789e56609af01eab26f9c2ecfd88cb3
-category: workshop
----
-
-“Black Crystal” is a cryptography+hardware workshop organised by RIAT and Riddle+Code as part of HCPP (Hackers Congress Paralelni Polis).
+---\ntitle: Black Crystal Workshop from RIAT and Riddle+Code\ndate: 2019-10-05T09:00:00+02:00\ndraft: false\nlocation: Paralelní Polis\ncountry: Czech Republic\nstartdate: 2019-10-05\nenddate: 2019-10-05\nimage: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F75024561%2F148777297672%2F1%2Foriginal.20191001-143656?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C282%2C1390%2C695&s=5789e56609af01eab26f9c2ecfd88cb3\ncategory: workshop\n---\n“Black Crystal” is a cryptography+hardware workshop organised by RIAT and Riddle+Code as part of HCPP (Hackers Congress Paralelni Polis).
 About this Event
 On Saturday, October 5th there will be an (early) half-day workshop with the title “Black Crystal” organised by RIAT and Riddle+Code. The workshop follows the huge success of the previous format “decentralised ID authentication & access workshop”, which has been held in RIAT Vienna in July 2019 and covered topics such as Shamir Secret Sharing, Machine Identities, and Decentralised Identifiers.
 
@@ -33,6 +21,8 @@ RIDDLE&CODE is a Vienna based company for blockchain interface solutions. Its ha
 ## Resources
 * https://www.eventbrite.com/e/black-crystal-workshop-from-riat-and-riddlecode-tickets-74826146017#
 
-## Archive snapshots
+## Tweet references\n- **2019-10-04** — @parasew — “"Open Hardware Dialogues" updated program is online, with talks, workshops and micro-events in the context of #openhardware #ohm2019. 
+https://
+riat.at”\n  - URL: https://x.com/parasew/status/1180090779919900672\n  - Links: https://riat.at/\n\n## Archive snapshots
 - https://www.eventbrite.com/e/black-crystal-workshop-from-riat-and-riddlecode-tickets-74826146017#
   - https://web.archive.org/web/20260224204514/https://www.eventbrite.com/e/black-crystal-workshop-from-riat-and-riddlecode-tickets-74826146017#

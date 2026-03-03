@@ -37,3 +37,4 @@ Getting started guides / kit for your own blockchain contracts in ruby include:
   - https://web.archive.org/web/20260224204003/https://www.meetup.com/vienna-ruby-rails/events/258872831/](https://www.meetup.com/vienna-ruby-rails/events/258872831/)
 - https://www.meetup.com/vienna-ruby-rails/events/258872831/
 - https://www.facebook.com/events/1988745191426912/
+  - https://web.archive.org/web/20200101000000/http://facebook.com

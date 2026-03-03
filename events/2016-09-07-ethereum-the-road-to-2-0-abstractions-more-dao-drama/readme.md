@@ -47,3 +47,4 @@ Afterwards feel free to chat with other cryptocurrency enthusiasts about ethereu
   - https://web.archive.org/web/20260224202004/http://www.meetup.com/Ethereum-Vienna/events/231538713/
 - https://www.meetup.com/de-DE/Ethereum-Vienna/events/231538713
 - https://www.facebook.com/events/1597208577245705/
+  - https://web.archive.org/web/20200101000000/http://facebook.com

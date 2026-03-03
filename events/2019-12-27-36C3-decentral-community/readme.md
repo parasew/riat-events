@@ -1,16 +1,14 @@
----
-title: "36C3 Decentral.Community at Chaos Communication Congress"
-location: C3 Leipzig
-country: Germany
-startdate: 2019-12-27
-enddate:   2019-12-30
-image: https://live.staticflickr.com/8754/17300538715_718c57b25e_o_d.jpg
-category: meetup
----
-
-![Decentral Community at 36C3](https://live.staticflickr.com/8754/17300538715_718c57b25e_o_d.jpg)
+---\ntitle: 36C3 Decentral.Community at Chaos Communication Congress\nlocation: C3 Leipzig\ncountry: Germany\nstartdate: 2019-12-27\nenddate: 2019-12-30\nimage: https://live.staticflickr.com/8754/17300538715_718c57b25e_o_d.jpg\ncategory: meetup\n---\n![Decentral Community at 36C3](https://live.staticflickr.com/8754/17300538715_718c57b25e_o_d.jpg)
 
 [Decentral.Community](https://decentral.community) (dubbed the "Critical Decentralisation Cluster") is an initiative started by RIAT and the Monero Community - and which runs since 2015 as part of the Chaos Communication Congress.
+
+## Cluster Description (2019)
+
+The Critical Decentralisation Cluster on the Chaos Communication Congress (36C3) is an area and grouping of similar minded projects, which are offering workshops and host a space to critically discuss the future of decentralisation.
+
+The cluster on 36C3 also hosts other assemblies in the categories Privacy & Anonymity, Coded Cultures and Open Hardware.
+
+The cluster consists of a recording stage as well as workshop areas for the assemblies and similar minded groups and projects. Part of the cluster is a coffee area from Paralelni Polis, as well as lots of space to hack, work, and learn.
 
 Its aims are:
 
@@ -28,8 +26,13 @@ We are also using the setting at C3 in order to gain insights for future events 
 The Chaos Computer Club (CCC) is the largest (and oldest) hacker association in Europe and was founded in 1981. Originating from Germany, it has spread over Europe and organizes numerous events, such as the annual Chaos Communication Congress. The congress takes place between christmas and new years eve, since 1984. It is considered one of the largest (over 15,000 attendees) events of this kind, alongside the DEF CON in Las Vegas.
 
 ## Resources
-* https://decentral.community
+* https://decentral.community/36C3/
 * https://events.ccc.de/congress/2019/wiki/index.php/Assembly:CriticalDecentralisationCluster
+* https://frab.riat.at/en/36c3/public/timeline
+* https://www.youtube.com/watch?v=Xu_QH6oi7oA&list=PLsSYUeVwrHBn07zTBg7fGHRW5Kn_Z3FJL
+* https://taiga.getmonero.org/project/parasew-36c3/wiki/home
+* https://riat.at/critical-decentralisation-cluster-36c3/
+* https://www.namecoin.org/2020/01/11/36c3-summary.html
 * http://parasew.com/dl/36c3/cdc_text_v1.md
 * https://raw.githubusercontent.com/v1docq47/monero-cdc-36c3-transcriptions/main/transcriptions/en/02%20Critical%20Decentralisation%20Cluster%2036c3%20-%20RIAT%20Introduction%20%28parasew%29.md
 * https://www.reddit.com/r/Monero/comments/eg9k6h/36c3_cdc_critical_decentralisation_cluster/
@@ -39,7 +42,23 @@ The Chaos Computer Club (CCC) is the largest (and oldest) hacker association in 
 ## Verification notes
 - Podme entry title: "Matthias Tarasiewicz on RIAT, Monero & Chaos Communication Congress 36C3! - Monero Talk" (relevant mention for this event context).
 
-## Archive snapshots
+## Tweet references\n- **2019-12-29** — @parasew — “Critical Decentralisation Cluster - Program for DAY 03 #36C3”\n  - URL: https://x.com/parasew/status/1211276425132756994\n  - Links: https://www.youtube.com/watch?v=Krftz3Y39sg\n- **2019-12-28** — @parasew — “The stream for day2 at 
+http://
+decentral.community is here: 
+https://
+youtube.com/watch?v=mc51zy
+flpa8
+… #36c3”\n  - URL: https://x.com/parasew/status/1210898510499000320\n  - Links: https://decentral.community/, https://www.youtube.com/watch?v=mc51zyflpa8\n- **2019-12-28** — @parasew — “Curious about the Truecrypt audit that 
+@BSI_Bund
+ kept secret for 9 years and that got revealed by a request through 
+@fragdenstaat
+ ? I'll give a talk at the decentralization cluster at #36c3 at 2pm 
+https://
+frab.riat.at/en/36C3/public
+/events/121
+…”\n  - URL: https://x.com/hanno/status/1210857399168487424\n  - Links: https://t.co/cE4Y3CqUUm\n\n## Archive snapshots
+- https://decentral.community/36C3/
+  - https://web.archive.org/web/20260226163934/https://decentral.community/36C3/
 - https://decentral.community
   - https://web.archive.org/web/20260225053709/https://decentral.community
 - https://events.ccc.de/congress/2019/wiki/index.php/Assembly:CriticalDecentralisationCluster

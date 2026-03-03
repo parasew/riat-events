@@ -1,22 +1,4 @@
----
-startdate: 2012-11-22
-category: workshop
-title: "Researching BWPWAP Transmediale Workshop"
-subtitle: "Workshop at Transmediale festival exploring BWPWAP (Back When Pluto Was a Planet) research project"
-location: "Transmediale festival, Berlin"
-city: "Berlin"
-country: "Germany"
-organizer: "Transmediale festival / Artistic Technology Research"
-type: "Festival Workshop / Research Presentation"
-festival: "Transmediale"
-year: 2012
-project: "BWPWAP (Back When Pluto Was a Planet)"
-references:
-  - https://transmediale.de/content/researching-bwpwap-programme-events
-theme: "Internet archaeology, digital memory, network research"
----
-
-# Researching BWPWAP Transmediale Workshop
+---\nstartdate: 2012-11-22\ncategory: workshop\ntitle: Researching BWPWAP Transmediale Workshop\nsubtitle: Workshop at Transmediale festival exploring BWPWAP (Back When Pluto Was a Planet) research project\nlocation: Transmediale festival, Berlin\ncity: Berlin\ncountry: Germany\norganizer: Transmediale festival / Artistic Technology Research\ntype: Festival Workshop / Research Presentation\nfestival: Transmediale\nyear: 2012\nproject: BWPWAP (Back When Pluto Was a Planet)\nreferences: \n- https: //transmediale.de/content/researching-bwpwap-programme-events\ntheme: Internet archaeology, digital memory, network research\n---\n# Researching BWPWAP Transmediale Workshop
 
 ## Event Details
 
@@ -142,7 +124,27 @@ The event strengthened:
 The BWPWAP workshop at Transmediale represented serious engagement with internet research methodologies, demonstrating Artistic Technology Research's commitment to both producing knowledge about digital culture and developing the methods to study it effectively.
 
 
-## Archive snapshots
+## Tweet references\n- **2012-11-24** — @atechres — “"Camouflage as tactical intervention in networked societies" Vanni Brusadin #bwpwap”\n  - URL: https://x.com/atechres/status/272253254476386305\n- **2012-11-23** — @atechres — “"What's in the Air? Environmentally aware media art" #bwpwap Anne Sophie Witzke”\n  - URL: https://x.com/atechres/status/272003475611713536\n- **2012-11-23** — @atechres — “"When Research follows the Theory that follows the Actor - Mediated Dialogs on Imploding Social Theory" 
+@visionassembly
+ #bwpwap”\n  - URL: https://x.com/atechres/status/271989284653895680\n- **2012-11-23** — @atechres — “"Participatory Research, Anomalous Networs and Radical Ephemera" Michael Goddard #bwpwap”\n  - URL: https://x.com/atechres/status/271983148659777536\n- **2012-11-23** — @atechres — “awesome critical discussion about #artisticresearch at #bwpwap @a_newman”\n  - URL: https://x.com/atechres/status/271973212093566976\n- **2012-11-23** — @atechres — “ancient logics and representation of knowledge (before the Spanish conquest of America) Gabriel Vanegas #bwpwap”\n  - URL: https://x.com/atechres/status/271923253440823296\n- **2012-11-23** — @atechres — “"artistic research as co-research?" anke haarmann at #bwpwap”\n  - URL: https://x.com/atechres/status/271904020032016384\n- **2012-11-23** — @atechres — “topic "co-researching" at #bwpwap”\n  - URL: https://x.com/atechres/status/271895838937198592\n- **2012-11-22** — @atechres — “good disc developing replacing academic-art distinction by disc of institutional pressures&problem of object-orienttn! #bwpwap #postmedialab”\n  - URL: https://x.com/visionassembly/status/271631399608532993\n- **2012-11-22** — @atechres — “@t_bazz
+ showed the reSource 002 video at the PHD Conference! Nice memories 
+http://
+transmediale.de/content/resour
+ce-002-video
+… #bwpwap”\n  - URL: https://x.com/georgianicolau/status/271631775661424641\n  - Links: http://t.co/Sn4UNxOX\n- **2012-11-22** — @atechres — “"reseach as participatory platform" #participatoryresearch #bwpwap 
+@t_bazz”\n  - URL: https://x.com/atechres/status/271629768330452992\n- **2012-11-22** — @atechres — “#reSource 2011 Newspaper "in/compatible research" can be found here: 
+http://
+darc.imv.au.dk/worldofthenews
+paper.pdf
+… / a new volume will be presented at #bwpwap”\n  - URL: https://x.com/atechres/status/271625295889584128\n  - Links: http://t.co/5AHdEvSG\n- **2012-11-22** — @atechres — “#bwpwap research continuing: 
+@christianvonand
+ talking about outcomes and formats of the project #newspaper”\n  - URL: https://x.com/atechres/status/271624851192688640\n  - Media: _CACHE/twitter_media/271624851192688640_45f44442db09.jpg\n- **2012-11-22** — @atechres — “#bwpwap - warbear in front of the projection. "back when tweeting was mainly done by birds" #transmediale”\n  - URL: https://x.com/atechres/status/271609349523247105\n  - Media: _CACHE/twitter_media/271609349523247105_cc65911e32ec.jpg\n- **2012-11-22** — @atechres — “researching #bwpwap starting in lueneburg”\n  - URL: https://x.com/atechres/status/271606556951445506\n- **2012-11-21** — @atechres — “How art history is failing at the internet: "Scholars etc. are not exploiting new technology to research differently." 
+http://
+dailydot.com/opinion/art-hi
+story-failing-internet/
+…”\n  - URL: https://x.com/atechres/status/271220676029980672\n  - Links: http://t.co/peQfqmYk\n- **2012-11-21** — @atechres — “Digital Media Research: Data, Memory, Territory - Intl. Symposium & Masterclasses, 26-28 Nov 2012, U. of Western Sydney 
+http://
+digitalmediaresearch.org”\n  - URL: https://x.com/atechres/status/271207259642671104\n  - Links: http://t.co/G6fniDcc\n\n## Archive snapshots
 - https://transmediale.de/content/researching-bwpwap-programme-events
   - https://web.archive.org/web/20260224204501/https://transmediale.de/content/researching-bwpwap-programme-events
 - https://web.archive.org/web/20130319104243/https://transmediale.de/content/researching-bwpwap-programme-events

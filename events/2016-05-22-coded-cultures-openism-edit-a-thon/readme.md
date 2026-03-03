@@ -1,22 +1,4 @@
----
-startdate: 2016-05-22
-title: "[Coded Cultures Openism] Edit-a-thon"
-subtitle: "Feminist Wikipedia edit-a-thon hosted by Mz* Baltazar's Laboratory"
-location: "Coded Cultures Central"
-city: "Vienna"
-country: "Austria"
-organizer: "Coded Cultures Festival / Mz* Baltazar's Laboratory"
-type: "Workshop / Edit-a-thon"
-host: "Mz* Baltazar's Laboratory"
-series: "Coded Cultures Openism"
-year: 2016
-time: "13:00+02:00"
-image: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21073444%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C62%2C1024%2C512&s=f503641a66aacc892bd5d579ecb1e1f9"
-category: exhibition"
-audience: "Women*, Inter*, Trans* (FLIT) folk only (safer space workshop)"
----
-
-# [Coded Cultures Openism] Edit-a-thon
+---\nstartdate: 2016-05-22\ntitle: [Coded Cultures Openism] Edit-a-thon\nsubtitle: Feminist Wikipedia edit-a-thon hosted by Mz* Baltazar's Laboratory\nlocation: Coded Cultures Central\ncity: Vienna\ncountry: Austria\norganizer: Coded Cultures Festival / Mz* Baltazar's Laboratory\ntype: Workshop / Edit-a-thon\nhost: Mz* Baltazar's Laboratory\nseries: Coded Cultures Openism\nyear: 2016\ntime: 13:00+02:00\nimage: https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F21073444%2F148777297672%2F1%2Foriginal.jpg?w=1080&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C62%2C1024%2C512&s=f503641a66aacc892bd5d579ecb1e1f9\ncategory: exhibition\naudience: Women*, Inter*, Trans* (FLIT) folk only (safer space workshop)\n---\n# [Coded Cultures Openism] Edit-a-thon
 
 ## Event Details
 
@@ -130,7 +112,7 @@ As part of Coded Cultures Openism, the event contributed to:
 
 The edit-a-thon exemplified the intersection of feminist activism, technology education, and community building that characterized progressive digital culture events in mid-2010s Vienna.
 
-## Archive snapshots
+## Tweet references\n- **2016-05-28** — @codedcultures — “Live stream of #openhardware europe summit at Coded Cultures is starting soon!”\n  - URL: https://x.com/parasew/status/736530858509774848\n  - Links: https://x.com/codedcultures, https://x.com/parasew, https://x.com/parasew/status/736530858509774848, https://x.com/hashtag/openhardware?src=hashtag_click, https://www.youtube.com/watch?v=vpU4i29nGds, https://x.com/parasew/status/736530858509774848/analytics\n- **2016-05-28** — @codedcultures — “Currently on the #codedcultures #openhardware live stream: David Cuartielles @dcuartielles https://youtube.com/watch?v=vpU4i29nGds…”\n  - URL: https://x.com/codedcultures/status/736540547641421824\n  - Links: https://x.com/codedcultures, https://x.com/codedcultures/status/736540547641421824, https://x.com/hashtag/codedcultures?src=hashtag_click, https://x.com/hashtag/openhardware?src=hashtag_click, https://x.com/dcuartielles, https://www.youtube.com/watch?v=vpU4i29nGds, https://x.com/codedcultures/status/736540547641421824/analytics\n\n## Archive snapshots
 - https://www.ots.at/a/OBS_20160517_OBS0003
   - http://web.archive.org/web/20160519201227/http://www.ots.at:80/a/OBS_20160517_OBS0003
 - https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-Edit-a-thon/

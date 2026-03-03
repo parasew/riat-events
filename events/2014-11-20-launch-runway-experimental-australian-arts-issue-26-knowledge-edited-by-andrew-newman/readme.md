@@ -1,18 +1,4 @@
----
-startdate: 2014-11-20
-category: launch
-title: "Launch: Runway Experimental Australian Arts Issue 26: Knowledge (Edited by Andrew Newman)"
-subtitle: "Launch of Australian experimental art journal alongside Austria Australia Arts Alliance exhibition program"
-location: "MuseumsQuartier Vienna"
-city: "Vienna"
-country: "Austria"
-organizer: "Artistic Bokeh and Austria Australia Arts Alliance"
-type: "Launch Event"
-time: "19:00"
-website: "https://www.facebook.com/events/1006015856079121/"
----
-
-# Launch: Runway Experimental Australian Arts Issue 26: Knowledge (Edited by Andrew Newman)
+---\nstartdate: 2014-11-20\ncategory: launch\ntitle: Launch: Runway Experimental Australian Arts Issue 26: Knowledge (Edited by Andrew Newman)\nsubtitle: Launch of Australian experimental art journal alongside Austria Australia Arts Alliance exhibition program\nlocation: MuseumsQuartier Vienna\ncity: Vienna\ncountry: Austria\norganizer: Artistic Bokeh and Austria Australia Arts Alliance\ntype: Launch Event\ntime: 19:00\nwebsite: https://www.facebook.com/events/1006015856079121/\n---\n# Launch: Runway Experimental Australian Arts Issue 26: Knowledge (Edited by Andrew Newman)
 
 ## Event Details
 
@@ -97,7 +83,33 @@ This launch event represented Artistic Bokeh's engagement with international art
 ## Archive verification note
 - Runtime-limited: CDX lookup in current environment (2026-02-27) found no status-200 capture for https://www.andrewnewman.net/jai-mckenzie-never-forever/.
 
-## Archive snapshots
+## Tweet references\n- **2014-11-21** — @artisticbokeh — “Joshua Harle's robot "making sense" of Raum D for today's opening 
+@artisticbokeh
+ 
+@quartier21
+ 
+http://
+joshharle.com/portfolio/maki
+ng-sense/
+…”\n  - URL: https://x.com/artisticbokeh/status/535782331102294016\n  - Links: http://t.co/gMBPUaWd3g\n  - Media: _CACHE/twitter_media/535782331102294016_e46eb0a81945.jpg\n- **2014-11-20** — @artisticbokeh — “Jai McKenzie just landed in Vienna for her #viennaartweek show at 
+@quartier21
+ and is already appearing on style blogs 
+http://
+adiweiss.at/wp-content/blo
+gs.dir/2/files/streetstyle-20-11-2014/img_8631.jpg
+…”\n  - URL: https://x.com/artisticbokeh/status/535473181545750531\n  - Links: http://t.co/1XqLlvIXBu\n- **2014-11-20** — @artisticbokeh — “If you happen to be in Vienna for #viennaartweek come to the launch of our new issue at 
+@artisticbokeh
+ in 
+@quartier21
+ 
+http://
+viennaartweek.at/event/251/aust
+ellungseroeffnung-jai-mckenzie-never-forever-und-magazin-launch-von-runway-australian-experimental-arts-26jai-mckenzie-never-forever-runway-australian-experimental-arts/?lang=en
+…”\n  - URL: https://x.com/runwayjournal/status/535463709272207361\n  - Links: http://t.co/vi4h9RBZuc\n- **2014-11-19** — @artisticbokeh — “the new floor-map in #electronicavenue 
+@quartier21
+ 
+@mqwien
+ is awesome. #viennaartweek”\n  - URL: https://x.com/artisticbokeh/status/535144233129492480\n  - Media: _CACHE/twitter_media/535144233129492480_7c8b2f57e33e.jpg\n\n## Archive snapshots
 - https://www.facebook.com/events/1006015856079121/
   - https://web.archive.org/web/20260224204207/https://www.facebook.com/events/1006015856079121/
 
