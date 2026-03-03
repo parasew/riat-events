@@ -3,12 +3,6 @@ startdate: 2016-05-24
 category: meetup
 title: [Coded Cultures Openism] Elmyra & Blender
 ---
-# [Coded Cultures Openism] Elmyra & Blender
-
-
-## References
-* https://www.ots.at/a/OBS_20160517_OBS0003
-
 ## Tweet references
 - **2016-05-28** — @codedcultures — “Live stream of #openhardware europe summit at Coded Cultures is starting soon!”
   - URL: https://x.com/parasew/status/736530858509774848

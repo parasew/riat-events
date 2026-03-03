@@ -3,12 +3,6 @@ startdate: 2017-05-24
 category: meetup
 title: [Research Cultures] Jasmine Powell: efflux/spatter
 ---
-# [Research Cultures] Jasmine Powell: efflux/spatter
-
-
-## References
-* http://www.q21.at/artists-in-residence/artists/artistinfo/jasmine-powell/
-
 ## Tweet references
 - **2017-05-25** — @bitcoincloud — “#zerotrust moves govts., industries and organizations away from “M&M philosophy” to Skittles philosophy. #foodcrypto
   - URL: https://x.com/bitcoincloud/status/867776520252739585

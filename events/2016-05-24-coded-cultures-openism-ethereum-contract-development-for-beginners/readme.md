@@ -3,14 +3,6 @@ startdate: 2016-05-24
 category: meetup
 title: [Coded Cultures Openism] Ethereum Contract Development for Beginners
 ---
-# [Coded Cultures Openism] Ethereum Contract Development for Beginners
-
-# References
-* https://web.archive.org/web/20180313121209/https://codedcultures.com/program/Workshop-Ethereum/
-
-## References
-* https://www.ots.at/a/OBS_20160517_OBS0003
-
 ## Tweet references
 - **2016-05-28** — @codedcultures — “Live stream of #openhardware europe summit at Coded Cultures is starting soon!”
   - URL: https://x.com/parasew/status/736530858509774848
@@ -20,6 +12,3 @@ title: [Coded Cultures Openism] Ethereum Contract Development for Beginners
   - Links: https://x.com/codedcultures, https://x.com/codedcultures/status/736540547641421824, https://x.com/hashtag/codedcultures?src=hashtag_click, https://x.com/hashtag/openhardware?src=hashtag_click, https://x.com/dcuartielles, https://www.youtube.com/watch?v=vpU4i29nGds, https://x.com/codedcultures/status/736540547641421824/analytics
 
 ## Archive snapshots
-## Local Archive
-
-*Note: Critical Coded Cultures materials (programs, flyers, posters) are preserved in the local archive at `documents/codedcultures/`.*

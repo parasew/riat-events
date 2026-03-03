@@ -7,10 +7,6 @@ country: Austria
 startdate: 2017-02-14
 category: meetup
 ---
-## References
-* http://bitcoincloud.at/
-* http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://bitcoincloud.at//
-
 ## Tweet references
 - **2017-02-16** — @parasew — “. @parasew demonstrating our Brute Force Attack!! boxing machine to @VitalikButerin at our Crypto Salon #ethereum”
   - URL: https://x.com/riat_at/status/832277656976637953
@@ -22,6 +18,3 @@ category: meetup
 - http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://bitcoincloud.at//
 - http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://bitcoincloud.at//
   - https://web.archive.org/web/20260224204602/http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://bitcoincloud.at//
-
-## Resources
-* http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://web.archive.org/web/20180327193055/http://bitcoincloud.at//

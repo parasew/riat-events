@@ -3,11 +3,6 @@ startdate: 2013-11-19
 category: talk
 title: [Presentation] Vienna Art Week 2013 Presentation: Applied individuality – positions and discourses in artistic research
 ---
-# [Presentation] Vienna Art Week 2013 Presentation: Applied individuality – positions and discourses in artistic research
-
-# References
-* https://www.mqw.at/en/program//programmdetail/vienna-art-week-2013-at-quartier21/
-
 ## Tweet references
 - **2013-11-26** — @parasew — “#bitcoincloud will be shown in MAK Museum starting from 28.11.2013 #outofthebox @atechres outofthebox.gruchalski.at/?page_id=36”
   - URL: https://x.com/bitcoincloud/status/405481583072649216

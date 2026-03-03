@@ -14,13 +14,6 @@ By using this data for visualizations and for a representation of the developmen
 
 The event also featured the **2012 Artistic Technology Colloquium #1** with Bernd Kräftner, Matthias Tarasiewicz, Lorenz Seidler, Roman Kirschner, and Mirko T. Schäfer.
 
-### Beschreibung (DE)
-In den Artist-In-Residence Studios im MQ Wien präsentiert Artistic Technology Research die Ergebnisse der Kooperation mit dem Utrechter Media Lab SETUP. Die beiden Gruppen beschäftigten sich mit der Kartographierung von Zusammenarbeit und Kommunikation innerhalb Netzwerken kreativer Produzenten. Mailinglisten, Twitter-Interaktionen, Suchabfragen und Online-Aufbewahrungsorte stellen instabile und oft vernachlässigte Aufbewahrungsorte von sozialer Onlineinteraktion dar.
-
-Durch die Nutzung dieser Daten für Visualisierungen und für eine Darstellung der Entwicklung von Kommunikation und Interaktion wurde deutlich, wie sich Onlinediskurse entwickeln, welche Akteure wichtig sind und welche Geschichten die Spuren des Onlinelebens über Mitwirkende und soziale Formationen erzählen können. Die Ergebnisse sind Datenanalysen, Netzwerkvisualisierungen und Infografiken, die die impliziten Interaktionen als auch die oft vernachlässigten “digitalen Fußabdrücke” von Internetgebrauch explizit sichtbar machen. Ausgestellt wurden Datenportraits von Frank-Jan van Lunteren, Netzwerkvisualisierungen von Ryanne Turenhout und Datenanalysen von Matthias Tarasiewicz.
-
-Die Veranstaltung umfasste auch das **2012 Artistic Technology Colloquium #1** mit Bernd Kräftner, Matthias Tarasiewicz, Lorenz Seidler, Roman Kirschner und Mirko T. Schäfer.
-
 ### References
 - http://artistictechnology.at/ (archived)
 - Flickr photo documentation (Colloquium): https://www.flickr.com/photos/artisticbokeh/sets/72157632005969251/
@@ -37,6 +30,3 @@ Die Veranstaltung umfasste auch das **2012 Artistic Technology Colloquium #1** m
 ## Archive snapshots
 - http://artistictechnology.at/ (2012-11-22)
   - https://web.archive.org/web/20121122011239/http://artistictechnology.at/
-
-## Resources
-* https://web.archive.org/web/20121122011239/http://artistictechnology.at/

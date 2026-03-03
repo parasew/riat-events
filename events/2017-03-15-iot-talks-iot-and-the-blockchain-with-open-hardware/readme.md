@@ -3,11 +3,6 @@ startdate: 2017-03-15
 category: talk
 title: [IoT Talks] IoT and the Blockchain with Open Hardware
 ---
-# [IoT Talks] IoT and the Blockchain with Open Hardware
-
-# References
-* https://www.meetup.com/IoT-Vienna/events/237039175/
-
 ## Tweet references
 - **2017-03-15** — @parasew — “My talk about #blockchain and #openhardware for #iot is soon starting, at StockWerk in #Vienna.”
   - URL: https://x.com/parasew/status/842065103663050752

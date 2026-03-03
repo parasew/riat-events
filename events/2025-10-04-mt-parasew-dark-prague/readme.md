@@ -8,14 +8,6 @@ startdate: 2025-10-04
 category: conference
 role: riat_talk
 ---
-Presentation 'Verifiable or Void: Hacking Our Way Back to Sovereign Computing' at the Dark Prague event, exploring verifiable computing and digital sovereignty.
-Presentation 'Verifiable or Void: Hacking Our Way Back to Sovereign Computing' at Dark Prague event.
-
-## Resources
-
-## References
-* https://secondculture.cz/en/events/dp25/
-
 ## Tweet references
 - **2025-10-04** — @riat_at — “At Exile stage, @riat_at 's talk maps how we keep operational autonomy when computing drifts from general-purpose to sealed appliances.”
   - URL: https://x.com/InstituteCrypto/status/1974508271772831787
@@ -26,4 +18,3 @@ Presentation 'Verifiable or Void: Hacking Our Way Back to Sovereign Computing' a
   - https://web.archive.org/web/20260227055847/https://secondculture.cz/en/events/dp25/
 - https://secondculture.cz/en/events/dp25/
   - https://web.archive.org/web/20260227055847/https://secondculture.cz/en/events/dp25/
-

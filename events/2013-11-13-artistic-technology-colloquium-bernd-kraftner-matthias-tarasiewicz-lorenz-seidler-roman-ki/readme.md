@@ -3,12 +3,6 @@ startdate: 2013-11-13
 category: meetup
 title: Artistic Technology Colloquium: Bernd Kräftner, Matthias Tarasiewicz, Lorenz Seidler, Roman Kirschner, and Mirko T. Schäfer
 ---
-# Artistic Technology Colloquium: Bernd Kräftner, Matthias Tarasiewicz, Lorenz Seidler, Roman Kirschner, and Mirko T. Schäfer
-
-# References
-* https://www.flickr.com/photos/artisticbokeh/sets/72157632005969251/
-
-
 ## Tweet references
 - **2013-11-15** — @parasew — “"Google Books dient Fortschritt von Kunst & Wissenschaft und nimmt respektvoll Rücksicht auf die Rechte der Autoren"”
   - URL: https://x.com/parasew/status/401366067177852928
@@ -26,4 +20,3 @@ title: Artistic Technology Colloquium: Bernd Kräftner, Matthias Tarasiewicz, Lo
 ## Archive snapshots
 - https://www.flickr.com/photos/artisticbokeh/sets/72157632005969251/
   - https://web.archive.org/web/20260223040237/https://www.flickr.com/photos/artisticbokeh/sets/72157632005969251/
-

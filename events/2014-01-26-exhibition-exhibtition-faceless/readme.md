@@ -3,12 +3,6 @@ startdate: 2014-01-26
 category: exhibition
 title: [Exhibition] Exhibtition: FACELESS
 ---
-# [Exhibition] Exhibtition: FACELESS
-
-# References
-* https://www.mediamatic.net/en/page/14429/faceless
-
-
 ## Tweet references
 - **2014-01-25** — @artisticbokeh — “Asymmetric Love #2 (Addie Wagenknecht, Stefan Hechenberger) & Status Update (KATSU) #faceless mediamatic Amsterdam”
   - URL: https://x.com/artisticbokeh/status/427112763572625408

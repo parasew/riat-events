@@ -10,9 +10,6 @@ category: meetup
 ### Description
 A small exhibition of process artifacts representing the works and conceptual positions of experimental and playful investigations of technological and social configurations through media art. Artistic perspectives on research and production methods were examined through video interviews, several of which were shown in the exhibition booth. With BitcoinCloud, the Artistic Technology Research Lab presented a media-art approach to alternative currencies, playfully exploring new material and economic realities.
 
-### Beschreibung (DE)
-Eine kleine Ausstellung von Prozessartefakten repräsentiert die Arbeiten und konzeptuellen Positionen der experimentellen und spielerischen Untersuchungen technologischer und sozialer Konfigurationen durch Medienkunst. Künstlerische Blickpunkte auf Forschungs- und Produktionsweisen werden durch Videointerviews untersucht, von denen mehrere in der Ausstellungskoje gezeigt werden. Mit BitcoinCloud präsentiert das Artistic Technology Research Lab einen medienkünstlerischen Ansatz zu alternativen Währungen und erforscht dabei spielerisch neue materielle und ökonomische Realitäten.
-
 ### References
 * https://www.esel.at/de/event/exhibition-documenting-artistic-technology--02vvBy5jAynZfNqD2s1ExB
 - http://artistictechnology.at/ (archived)
@@ -54,7 +51,3 @@ Eine kleine Ausstellung von Prozessartefakten repräsentiert die Arbeiten und ko
   - https://web.archive.org/web/20150818160320/http://artistictechnology.at/
   - https://web.archive.org/web/20121122011239/http://artistictechnology.at/
 - Flickr photo documentation: https://www.flickr.com/photos/artisticbokeh/sets/72157632005969251/
-
-## Resources
-* http://artistictechnology.at/
-  - https://web.archive.org/web/20121122011239/http://artistictechnology.at/

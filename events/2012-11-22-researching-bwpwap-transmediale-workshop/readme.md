@@ -6,7 +6,6 @@ location: Transmediale festival, Berlin
 city: Berlin
 country: Germany
 ---
-
 ### Description
 Workshop session titled **Researching BWPWAP (Back When Pluto Was a Planet)** listed in the Transmediale festival program (Berlin, 2012).
 
@@ -48,4 +47,3 @@ Workshop session titled **Researching BWPWAP (Back When Pluto Was a Planet)** li
 ## Archive snapshots
 - https://transmediale.de/content/researching-bwpwap-programme-events
   - https://web.archive.org/web/20130319104243/https://transmediale.de/content/researching-bwpwap-programme-events
-

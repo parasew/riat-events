@@ -3,11 +3,6 @@ startdate: 2017-01-25
 category: performance
 title: [Ethereum] Meet Simon De La Rouviere (Ujo Music, Consensys) and Paul Kohlhaas (9needs)
 ---
-# [Ethereum] Meet Simon De La Rouviere (Ujo Music, Consensys) and Paul Kohlhaas (9needs)
-
-# References
-* https://www.meetup.com/Ethereum-Vienna/events/236791832/?rv=me1&_af=event&_af_eid=236791832&https=on
-
 ## Tweet references
 - **2017-01-25** — @parasew — “Amazing welcome at the Ethereum Vienna meetup on our Europe tour! Here's @simondlr presenting @UjoMusic , I'm on @amplyscale @UNICEFinnovate”
   - URL: https://x.com/paulkhls/status/824308382077243396

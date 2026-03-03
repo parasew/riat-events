@@ -3,12 +3,6 @@ startdate: 2013-11-21
 category: performance
 title: Performance: Andrew Newman – The Old In Out In Out
 ---
-# Performance: Andrew Newman – The Old In Out In Out
-
-# References
-* http://2013.viennaartweek.at/en/event/201/performance-mit-andrew-newman-the-old-in-out-in-outperformance-with-andrew-newman-the-old-in-out-in-out/index.html
-
-
 ## Tweet references
 - **2013-11-28** — @parasew — “Sneak preview of "Out Of The Box" Exhibition" opening, today 19:00 at MAK. @atechres @artisticbokeh @bitcoincloud flickr.com/photos/artisti cbokeh/sets/72157638145584125/ …”
   - URL: https://x.com/parasew/status/406100147039641600
@@ -31,4 +25,3 @@ title: Performance: Andrew Newman – The Old In Out In Out
 ## Archive snapshots
 - http://2013.viennaartweek.at/en/event/201/performance-mit-andrew-newman-the-old-in-out-in-outperformance-with-andrew-newman-the-old-in-out-in-out/index.html
   - https://web.archive.org/web/20220702025517/http://2013.viennaartweek.at/en/event/201/performance-mit-andrew-newman-the-old-in-out-in-outperformance-with-andrew-newman-the-old-in-out-in-out/index.html
-
