@@ -1,4 +1,14 @@
----\ntitle: Decentralized Internet and Privacy Devroom\ndate: 2026-02-01T12:00:00+01:00\ndraft: false\nlocation: ULB (Campus Solbosch), Brussels, Belgium\ncountry: Belgium\nstartdate: 2026-02-01\ncategory: meetup\nrole: co_organized\n---\n### Description
+---
+title: Decentralized Internet and Privacy Devroom
+date: 2026-02-01T12:00:00+01:00
+draft: false
+location: ULB (Campus Solbosch), Brussels, Belgium
+country: Belgium
+startdate: 2026-02-01
+category: meetup
+role: co_organized
+---
+### Description
 The *Decentralized Internet and Privacy Devroom* at FOSDEM 2026 featured talks from technical projects and initiatives fostering decentralization and privacy on the Internet. The devroom covered topics such as ad-hoc and mesh networks, cryptography-based network stacks, anonymous overlay networks, and privacy-preserving browsers.
 
 ### Beschreibung (DE)
@@ -8,9 +18,12 @@ Der *Decentralized Internet and Privacy Devroom* auf der FOSDEM 2026 präsentier
 - https://fosdem.org/2026/schedule/track/decentralized-internet-and-privacy/
 - https://decentral.community/FOSDEM2026/
 
-## Tweet references\n- **2026-01-31** — @riat_at — “RIAT & 
-http://
-decentral.community are organizing the Decentralized Internet and Privacy devroom at #Fosdem26. Live stream: Sunday, Feb 1, 2025.”\n  - URL: https://x.com/parasew/status/2017630540480880745\n  - Links: https://decentral.community/, https://fosdem.org/2026/schedule/track/decentralized-internet-and-privacy/\n\n## Archive snapshots
+## Tweet references
+- **2026-01-31** — @riat_at — “RIAT &”
+  - URL: https://x.com/parasew/status/2017630540480880745
+  - Links: https://decentral.community/, https://fosdem.org/2026/schedule/track/decentralized-internet-and-privacy/
+
+## Archive snapshots
 - https://fosdem.org/2026/schedule/track/decentralized-internet-and-privacy/
   - https://web.archive.org/web/20260225050137/https://fosdem.org/2026/schedule/track/decentralized-internet-and-privacy/
 - https://decentral.community/FOSDEM2026/

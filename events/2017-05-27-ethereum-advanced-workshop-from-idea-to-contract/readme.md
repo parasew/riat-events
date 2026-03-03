@@ -1,4 +1,21 @@
----\nstartdate: 2017-05-27\ncategory: workshop\ntitle: [Ethereum] Advanced Workshop: From Idea to Contract\nsubtitle: Advanced Ethereum workshop guiding participants through complete smart contract development process\nlocation: Likely RIAT Vienna or Vienna tech venue\ncity: Vienna\ncountry: Austria\norganizer: Ethereum Vienna meetup group\ntype: Advanced Technical Workshop\nmeetup_group: Ethereum Vienna\nskill_level: Advanced\nyear: 2017\ntopic: Smart contract development, Ethereum programming, project development\nreferences: \n- https: //www.meetup.com/Ethereum-Vienna/events/238923032/\n---\n# [Ethereum] Advanced Workshop: From Idea to Contract
+---
+startdate: 2017-05-27
+category: workshop
+title: [Ethereum] Advanced Workshop: From Idea to Contract
+subtitle: Advanced Ethereum workshop guiding participants through complete smart contract development process
+location: Likely RIAT Vienna or Vienna tech venue
+city: Vienna
+country: Austria
+organizer: Ethereum Vienna meetup group
+type: Advanced Technical Workshop
+meetup_group: Ethereum Vienna
+skill_level: Advanced
+year: 2017
+topic: Smart contract development, Ethereum programming, project development
+references: 
+- https://www.meetup.com/Ethereum-Vienna/events/238923032/
+---
+# [Ethereum] Advanced Workshop: From Idea to Contract
 
 ## Event Details
 
@@ -129,14 +146,12 @@ The workshop anticipated:
 
 The "From Idea to Contract" advanced workshop represented the maturation of Ethereum development education in Vienna, moving beyond basics to professional skill development and preparing local developers for serious work in the growing Ethereum ecosystem.
 
-## Tweet references\n- **2017-05-29** — @bitcoincloud — “#ethereum name service #ens burned already $348,394.97 - 0.1% of all the bids made. 
-https://
-etherscan.io/address/0x0000
-00000000000000000000000000000000dead
-…  (
-https://
-medium.com/the-ethereum-n
-ame-service/explaining-the-ethereum-namespace-auction-241bec6ef751
-…)”\n  - URL: https://x.com/bitcoincloud/status/869266324668768256\n  - Links: https://t.co/5bT18CIVQ5, https://t.co/9fqtdaCwJ0\n  - Media: _CACHE/twitter_media/869266324668768256_e554cd8116c2.jpg\n\n## Archive snapshots
+## Tweet references
+- **2017-05-29** — @bitcoincloud — “#ethereum name service #ens burned already $348,394.97 - 0.1% of all the bids made.”
+  - URL: https://x.com/bitcoincloud/status/869266324668768256
+  - Links: https://etherscan.io/address/0x000000000000000000000000000000000000dead, https://medium.com/the-ethereum-name-service/explaining-the-ethereum-namespace-auction-241bec6ef751
+  - Media: _CACHE/twitter_media/869266324668768256_e554cd8116c2.jpg
+
+## Archive snapshots
 - https://www.meetup.com/Ethereum-Vienna/events/238923032/
   - https://web.archive.org/web/20260224202607/https://www.meetup.com/Ethereum-Vienna/events/238923032/

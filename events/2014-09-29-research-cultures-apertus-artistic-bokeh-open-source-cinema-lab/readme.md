@@ -1,4 +1,17 @@
----\nstartdate: 2014-09-29\ncategory: residency\ntitle: [Research Cultures] Apertus & Artistic Bokeh: Open Source Cinema Lab\nsubtitle: Exhibition and opening event featuring the Apertus AXIOM alpha camera prototype\nlocation: Artistic Bokeh Showroom, Electronic Avenue, MuseumsQuartier Vienna\ncity: Vienna\ncountry: Austria\norganizer: Artistic Bokeh in cooperation with Apertus Open Source Cinema and Artistic Technology Research\ntype: Exhibition Opening\ntime: 19:00\nwebsite: https://www.mqw.at/programm/programmdetail/apertus-axiom-open-source-cinema-lab/\n---\n# [Research Cultures] Apertus & Artistic Bokeh: Open Source Cinema Lab
+---
+startdate: 2014-09-29
+category: residency
+title: [Research Cultures] Apertus & Artistic Bokeh: Open Source Cinema Lab
+subtitle: Exhibition and opening event featuring the Apertus AXIOM alpha camera prototype
+location: Artistic Bokeh Showroom, Electronic Avenue, MuseumsQuartier Vienna
+city: Vienna
+country: Austria
+organizer: Artistic Bokeh in cooperation with Apertus Open Source Cinema and Artistic Technology Research
+type: Exhibition Opening
+time: 19:00
+website: https://www.mqw.at/programm/programmdetail/apertus-axiom-open-source-cinema-lab/
+---
+# [Research Cultures] Apertus & Artistic Bokeh: Open Source Cinema Lab
 
 ## Event Details
 
@@ -73,23 +86,23 @@ This event represents Artistic Bokeh/RIAT's ongoing engagement with open source 
 **artisticbokeh.com icons preserved locally**:
 
 
-## Tweet references\n- **2014-10-07** — @artisticbokeh — “as well as Stretch Goal #2 (Active Canon EF Mount). Next will be the "AXIOM Beta Active Battery Mount" [2/2] 
-https://
-indiegogo.com/projects/axiom
--beta-the-first-open-digital-cinema-camera/x/5533847#activity
-…”\n  - URL: https://x.com/artisticbokeh/status/519541919810985984\n  - Links: https://t.co/cT4GYQNd9d\n- **2014-10-07** — @artisticbokeh — “#apertus reached the crowdfunding goal and even got Stretch Goal #1 (AXIOM Beta Remote Control with Real Buttons and Knobs) [1/2]”\n  - URL: https://x.com/artisticbokeh/status/519541856858677250\n- **2014-10-05** — @artisticbokeh — “#success! AXIOM Beta: The first open digital cinema camera - could raise €100,221EUR until now! 
-https://
-indiegogo.com/projects/axiom
--beta-the-first-open-digital-cinema-camera/x/5533847
-…”\n  - URL: https://x.com/artisticbokeh/status/518877443072221184\n  - Links: https://t.co/1f4DW0uEqT\n- **2014-10-04** — @artisticbokeh — “#Apertus #AXIOM Crowdfunding goal almost reached! €95,175EUR of 100.000EUR pledged! (95%) - see the stretch goals: 
-https://
-indiegogo.com/projects/axiom
--beta-the-first-open-digital-cinema-camera/x/5533847#activity
-…”\n  - URL: https://x.com/artisticbokeh/status/518530955947302912\n  - Links: https://t.co/4rYPM1pdIG\n- **2014-10-03** — @artisticbokeh — “almost done: 6 days left for #apertus #axiom campaign on #indiegogo with €86,993EUR already raised. 
-https://
-indiegogo.com/projects/axiom
--beta-the-first-open-digital-cinema-camera/x/5533847
-…”\n  - URL: https://x.com/artisticbokeh/status/517986853593837568\n  - Links: https://t.co/1f4DW0uEqT\n\n## Archive snapshots
+## Tweet references
+- **2014-10-07** — @artisticbokeh — “as well as Stretch Goal #2 (Active Canon EF Mount). Next will be the "AXIOM Beta Active Battery Mount" [2/2]”
+  - URL: https://x.com/artisticbokeh/status/519541919810985984
+  - Links: https://www.indiegogo.com/projects/axiom-beta-the-first-open-digital-cinema-camera/x/5533847#activity
+- **2014-10-07** — @artisticbokeh — “#apertus reached the crowdfunding goal and even got Stretch Goal #1 (AXIOM Beta Remote Control with Real Buttons and Knobs) [1/2]”
+  - URL: https://x.com/artisticbokeh/status/519541856858677250
+- **2014-10-05** — @artisticbokeh — “#success! AXIOM Beta: The first open digital cinema camera - could raise €100,221EUR until now!”
+  - URL: https://x.com/artisticbokeh/status/518877443072221184
+  - Links: https://www.indiegogo.com/projects/axiom-beta-the-first-open-digital-cinema-camera/x/5533847
+- **2014-10-04** — @artisticbokeh — “#Apertus #AXIOM Crowdfunding goal almost reached! €95,175EUR of 100.000EUR pledged! (95%) - see the stretch goals:”
+  - URL: https://x.com/artisticbokeh/status/518530955947302912
+  - Links: https://www.indiegogo.com/projects/axiom-beta-the-first-open-digital-cinema-camera/x/5533847#activity
+- **2014-10-03** — @artisticbokeh — “almost done: 6 days left for #apertus #axiom campaign on #indiegogo with €86,993EUR already raised.”
+  - URL: https://x.com/artisticbokeh/status/517986853593837568
+  - Links: https://www.indiegogo.com/projects/axiom-beta-the-first-open-digital-cinema-camera/x/5533847
+
+## Archive snapshots
 - https://www.mqw.at/programm/programmdetail/apertus-axiom-open-source-cinema-lab/
   - https://web.archive.org/web/20260224204206/https://www.mqw.at/programm/programmdetail/apertus-axiom-open-source-cinema-lab/
 

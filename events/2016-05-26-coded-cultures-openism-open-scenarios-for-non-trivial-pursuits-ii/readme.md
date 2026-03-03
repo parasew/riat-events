@@ -1,4 +1,15 @@
----\ntitle: Hyperconnected: Open Scenarios for Non-Trivial Pursuits Day II\ndate: 2016-05-26T14:00+02:00\ndraft: false\nlocation: Palais des Beaux Arts Wien\ncountry: Austria\nstartdate: 2016-05-26\nenddate: 2016-05-26\nimage: https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/13198489_1132766870108021_885759483497892107_o.jpg?_nc_cat=104&_nc_sid=b386c4&_nc_ohc=lmUkS9V25eUAX9XV5YR&_nc_ht=scontent-vie1-1.xx&tp=6&oh=be1b7cd71fb3a9c3e2596e0825eba3cf&oe=5F8E5E8E\ncategory: workshop\n---\n# [Coded Cultures Openism] Open Scenarios 2
+---
+title: Hyperconnected: Open Scenarios for Non-Trivial Pursuits Day II
+date: 2016-05-26T14:00+02:00
+draft: false
+location: Palais des Beaux Arts Wien
+country: Austria
+startdate: 2016-05-26
+enddate: 2016-05-26
+image: https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-0/p180x540/13198489_1132766870108021_885759483497892107_o.jpg?_nc_cat=104&_nc_sid=b386c4&_nc_ohc=lmUkS9V25eUAX9XV5YR&_nc_ht=scontent-vie1-1.xx&tp=6&oh=be1b7cd71fb3a9c3e2596e0825eba3cf&oe=5F8E5E8E
+category: workshop
+---
+# [Coded Cultures Openism] Open Scenarios 2
 
 Hyperconnected: Open Scenarios for Non-Trivial Pursuits Day 2.
 
@@ -26,11 +37,12 @@ Day III https://www.facebook.com/events/970599456391968/
 ## References
 * https://www.ots.at/a/OBS_20160517_OBS0003
 
-## Tweet references\n- **2016-05-26** — @bitcoincloud — “Still some tickets left for the Open Hardware Europe Summit this saturday, 28.May in MAK. Get tickets here: 
-https://
-eventbrite.com/e/open-hardwar
-e-europe-summit-tickets-25318639733?ref=estw
-…”\n  - URL: https://x.com/codedcultures/status/735829396024664064\n  - Links: https://www.eventbrite.com/e/open-hardware-europe-summit-tickets-25318639733?ref=estw\n\n## Archive snapshots
+## Tweet references
+- **2016-05-26** — @bitcoincloud — “Still some tickets left for the Open Hardware Europe Summit this saturday, 28.May in MAK. Get tickets here:”
+  - URL: https://x.com/codedcultures/status/735829396024664064
+  - Links: https://www.eventbrite.com/e/open-hardware-europe-summit-tickets-25318639733?ref=estw
+
+## Archive snapshots
 - https://www.ots.at/a/OBS_20160517_OBS0003
   - http://web.archive.org/web/20160519201227/http://www.ots.at:80/a/OBS_20160517_OBS0003
 - https://www.facebook.com/events/606668406160374/

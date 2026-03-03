@@ -29,16 +29,16 @@ Die Veranstaltung "Autonomies" untersuchte wahrscheinlich Themen wie Autonomie, 
 ### Tweet references
 - **2013-10-07** — @bitcoincloud — “bitcoincloud will be in t. Museum of Contemporary Art Vojvodina, Novi Sad / 01/06/2013 at the “Autonomies” Exhibition …”
   - URL: https://x.com/bitcoincloud/status/387296402084478976
-  - Links: http://t.co/J9VGTrRpN8
+  - Links: https://napon.org/
 - **2013-11-08** — @parasew — “@bitcoincloud at the “Autonomies” exhibition in Napon, Museum of Contemporary Art Vojvodina, Novi Sad …”
   - URL: https://x.com/parasew/status/398802277395603456
-  - Links: http://t.co/wecZREphN0
+  - Links: https://napon.org/autonomies-exhibition/
 - **2013-11-11** — @bitcoincloud — “#bitcoincloud is exhibited in Novi Sad – Napon – Institute for flexible cultures and technologies …”
   - URL: https://x.com/bitcoincloud/status/399941790255812608
-  - Links: http://t.co/mQZfdrG1tG
+  - Links: https://napon.org/autonomies-exhibition/
 - **2013-11-14** — @digicult (RT by @bitcoincloud) — ““Autonomies”, the new exhibition at Museum of Contemporary Art Vojvodina until 28/11/13 …”
   - URL: https://x.com/digicult/status/400941599380631554
-  - Links: http://t.co/HX9JXSUtWO
+  - Links: https://goo.gl/MKEB1a
 
 ### Archive snapshots
 - BitcoinCloud project site:

@@ -1,4 +1,20 @@
----\nstartdate: 2013-09-28\ncategory: meetup\ntitle: Faceless Part II\nsubtitle: Exhibition and event series exploring anonymity, privacy, and identity in digital culture\nlocation: MuseumsQuartier Vienna (likely Q21 or Electric Avenue)\ncity: Vienna\ncountry: Austria\norganizer: Artistic Bokeh / Artistic Technology Research\ntype: Exhibition / Event Series\nseries: Faceless\nyear: 2013\nreferences: \n- https: //web.archive.org/web/20130921113145/https://twitter.com/atechres/status/378209108455067648\ntheme: Anonymity, privacy, digital identity, surveillance, facelessness\n---\n# Faceless Part II
+---
+startdate: 2013-09-28
+category: meetup
+title: Faceless Part II
+subtitle: Exhibition and event series exploring anonymity, privacy, and identity in digital culture
+location: MuseumsQuartier Vienna (likely Q21 or Electric Avenue)
+city: Vienna
+country: Austria
+organizer: Artistic Bokeh / Artistic Technology Research
+type: Exhibition / Event Series
+series: Faceless
+year: 2013
+references: 
+- https://web.archive.org/web/20130921113145/https://twitter.com/atechres/status/378209108455067648
+theme: Anonymity, privacy, digital identity, surveillance, facelessness
+---
+# Faceless Part II
 
 ## Event Details
 
@@ -120,7 +136,7 @@ The exhibition represented important development in Artistic Bokeh's focus on di
 ## Tweet references
 - **2013-09-12** — @atechres — “Press release: Ausstellung "FACELESS part II" eröffnet im MuseumsQuartier Wien …”
   - URL: https://x.com/atechres/status/378209108455067648
-  - Links: http://t.co/TCGhHnRtQb
+  - Links: https://www.ots.at/presseaussendung/OTS_20130911_OTS0115/ausstellung-faceless-part-ii-eroeffnet-im-museumsquartier-wien-bild?utm_source=2013-09-11&utm_medium=email&utm_term=inline&utm_content=html&utm_campaign=mailaboeinzel
 
 ## Archive snapshots
 - https://www.mqw.at/en/program//programmdetail/faceless-part-ii-1/
