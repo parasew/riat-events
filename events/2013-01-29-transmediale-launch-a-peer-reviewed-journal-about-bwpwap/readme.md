@@ -9,12 +9,12 @@ title: "Launch: APRJA — A Peer-Reviewed Journal About #BWPWAP"
 Launch of **APRJA (A Peer‑Reviewed Journal About #BWPWAP)** at transmediale 2013. This launch is directly connected to the #BWPWAP workshop; the peer‑reviewed **newspaper** (Researching #BWPWAP) is fed by the journal’s contents.
 
 ## Connected events
-- Workshop context: transmediale #BWPWAP workshop (see related event entry for the workshop).
+- Workshop context: Researching BWPWAP (Back When Pluto Was a Planet) workshop — `../2012-11-22-researching-bwpwap-transmediale-workshop/readme.md`
 
 ## Sources
 - https://aprja.net/issue/view/8375
-- https://aprja.net/article/view/121120
-- https://aprja.net/article/view/121126
+- https://aprja.net/article/view/121120 (DOI: https://doi.org/10.7146/aprja.v2i1.121120)
+- https://aprja.net/article/view/121126 (DOI: https://doi.org/10.7146/aprja.v2i1.121126)
 - https://monoskop.org/File:A_Peer-Reviewed_Newspaper_Researching_BWPWAP_2013.pdf
 - https://manuelbuerger.com/bwpwapnewspaper
 

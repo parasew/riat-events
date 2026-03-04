@@ -7,11 +7,16 @@ city: Berlin
 country: Germany
 ---
 ### Description
-International Research Conference and PhD Workshop at Luphana University. Students and researchers met to present their activities and reflect on further networked research practices. The work culminated in a P2P‑reviewed newspaper presented in the framework of transmediale 2013.
+International Research Conference and PhD Workshop at Leuphana University (Lüneburg). Students and researchers met to present their activities and reflect on networked research practices. Outcomes fed into APRJA’s #BWPWAP issue and culminated in a P2P‑reviewed newspaper presented in the framework of transmediale 2013.
 
 ### References
 - https://transmediale.de/content/researching-bwpwap-programme-events
 - http://www.darc.imv.au.dk/worldofthenewspaper.pdf
+- https://aprja.net/issue/view/8375
+- https://aprja.net/article/view/121120
+
+## Connected events
+- APRJA launch at transmediale 2013 — `../2013-01-29-transmediale-launch-a-peer-reviewed-journal-about-bwpwap/readme.md`
 
 
 ## Tweet references
