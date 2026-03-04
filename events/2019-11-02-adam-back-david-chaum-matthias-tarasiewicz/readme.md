@@ -9,6 +9,10 @@ startdate: "2019-11-02"
 category: talk
 ---
 
+![Athens event photo](./images/2019-11-02_athens_adam-back_david-chaum_matthias-tarasiewicz.jpg)
+
+*Photo: Matthias Tarasiewicz (Athens, 2019-11-02).*
+
 Talk series / meetup appearance in Athens featuring:
 
 - Adam Back (Blockstream CEO) — topic listed as **Simplicity** (smart-contract language for Bitcoin/UTXO chains)

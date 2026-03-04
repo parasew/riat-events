@@ -8,10 +8,11 @@ startdate: "2019-10-04"
 category: meetup"
 ---
 
-Pop-up exhibition at HCPP Paralelní Polis featuring early cryptographic hardware prototypes and artefacts. The showcase presented the physical materiality of cryptographic systems, from early encryption devices to modern hardware wallets.
-Pop-up show featuring early crypto hardware prototypes and artefacts for cryptographic hardware at HCPP Paralelní Polis.
+Pop-up exhibition at HCPP Paralelní Polis featuring early cryptographic hardware prototypes and artefacts. The showcase presented the physical materiality of cryptographic systems, from early encryption devices to modern hardware wallets. It was part of RIAT’s **Open Hardware Dialogues** program within Open Hardware Month (2019).
 
 ## Resources
+- https://riat.at/open-hardware-dialogues/
+- https://ohm.oshwa.org/event/open-hardware-and-decentralized-communities/
 
 ## References
 * https://opt-out.hcpp.cz/schedule
