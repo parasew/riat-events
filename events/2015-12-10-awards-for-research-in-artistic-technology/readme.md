@@ -8,7 +8,7 @@ city: "Vienna"
 country: "Austria"
 organizer: "Research Institute for Arts and Technology (RIAT)"
 type: "Award Ceremony"
-website: "https://www.mqw.at/en/program/programmdetail/awards-for-research-in-artistic-technology-1/"
+website: "https://www.facebook.com/events/696164823852719/"
 ---
 
 # Awards for Research in Artistic Technology
@@ -20,11 +20,30 @@ website: "https://www.mqw.at/en/program/programmdetail/awards-for-research-in-ar
 - **Organizer**: Research Institute for Arts and Technology (RIAT)
 - **Type**: Award Ceremony
 - **Facebook Event**: [696164823852719](https://www.facebook.com/events/696164823852719/)
+- **Archive snapshot**: https://archive.ph/ggehi
 - **MQW Event Page**: [Awards for Research in Artistic Technology](https://www.mqw.at/en/program/programmdetail/awards-for-research-in-artistic-technology-1/)
 
 ## About the Event
 
 The **"Awards for Research in Artistic Technology"** ceremony recognized and celebrated outstanding research at the intersection of arts and technology. The event was organized by RIAT (Research Institute for Arts and Technology) at the historic Gartenbaukino cinema in Vienna.
+
+RIAT invited the public to the inaugural awards at **9:45pm on 10 December 2015**. The 2015 awardees were **Oswald Wiener, Mario de Vega, and Nicolas Maigret**, receiving a sculpture by Austrian artist **Niki Passath**. **Axel Stockburger** hosted and moderated a discussion with **Matthias Tarasiewicz**, **Sophie‑Carolin Wagner**, and Oswald Wiener. Program highlights included **Nicolas Maigret’s “Pirate Cinema”** and **Mario de Vega’s immersive sound performance**, plus music in the foyer (Chromolodic/Daniel Benedek, Pulsdoktor Yen, Michael Giebl, Raju Arara).
+
+### Beschreibung (DE)
+Das Research Institute for Arts & Technology (RIAT), freut sich, Sie am Donnerstag, den 10. Dezember 2015 ab 21:00h im wiener Gartenbaukino begrüßen zu dürfen. Im Rahmen dieser Veranstaltung wird zum ersten Mal der Recognition Award for Research in Artistic Technology vergeben. Dieser Anerkennungspreis wird jährlich an eine_n Pionier_in und zwei junge Positionen verliehen, die durch ihren Beitrag im Bereich der künstlerischen Technologie neue, wesentliche Denkansätze zwischen Kunst und Forschung eröffnet haben. Die Preisträger 2015 sind Oswald Wiener, Mario de Vega und Nicolas Maigret.
+
+Einleitende Worte werden von Axel Stockburger gesprochen. Er moderiert in weiterer Folge eine Gesprächsrunde mit Matthias Tarasiewicz, Sophie‑Carolin Wagner und dem Preisträger Oswald Wiener. Im Anschluss daran treten Nicolas Maigret mit seiner Live‑Torrent Collage Pirate Cinema und Mario de Vega mit einer Sound‑Performance auf. Die Award Skulptur wurde von dem österreichischen Künstler Niki Passath entworfen.
+
+Der mexikanische Künstler Mario de Vega und der aus Frankreich stammende Nicolas Maigret sind darüberhinaus die aktuellen Artists‑In‑Residence innerhalb des neu entwickelten RIAT Residency Programmes, das in Zusammenarbeit mit dem q21/Museumsquartier Wien realisiert wurde.
+
+Ebenso freuen wir uns die erste Ausgabe unseres als Open‑Access veröffentlichten Journal for Research Cultures präsentieren zu können. Darin widmen sich internationale Forscher_innen den Strategien künstlerischen und wissenschaftlichen Arbeitens. Issue #1 beinhaltet Texte von Armin Medosch, Tavi Meraud, Rosemary Lee, Gerald Nestler, Shintaro Miyazaki, Sara Morawetz, Josh Harle, Hans‑Jörg Rheinberger sowie Margarete Jahrmann.
+
+**Ablauf:**
+- 22:00 – Einlass ins Kino und Start des Abendprogramms
+- Gesprächsrunde mit Oswald Wiener
+- Nicolas Maigret: The Pirate Cinema
+- Mario de Vega: Live‑Performance
+- ab 00:00 – Ausklang im Foyer mit Musikprogramm (Chromolodic/Daniel Benedek, Pulsdoktor Yen, Michael Giebl, Raju Arara)
 
 ### Event Significance
 This award ceremony represented RIAT's commitment to promoting and recognizing innovative research that bridges artistic practice and technological innovation. It highlighted the institute's role in fostering interdisciplinary research communities.
