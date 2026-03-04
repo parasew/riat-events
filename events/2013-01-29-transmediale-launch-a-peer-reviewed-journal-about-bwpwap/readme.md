@@ -1,8 +1,23 @@
 ---
 startdate: 2013-01-29
 category: launch
-title: "Transmediale: Launch – A Peer-Reviewed Journal About #BWPWAP"
+title: "Launch: APRJA — A Peer-Reviewed Journal About #BWPWAP"
 ---
+# Launch: APRJA — A Peer-Reviewed Journal About #BWPWAP
+
+## Summary
+Launch of **APRJA (A Peer‑Reviewed Journal About #BWPWAP)** at transmediale 2013. This launch is directly connected to the #BWPWAP workshop; the peer‑reviewed **newspaper** (Researching #BWPWAP) is fed by the journal’s contents.
+
+## Connected events
+- Workshop context: transmediale #BWPWAP workshop (see related event entry for the workshop).
+
+## Sources
+- https://aprja.net/issue/view/8375
+- https://aprja.net/article/view/121120
+- https://aprja.net/article/view/121126
+- https://monoskop.org/File:A_Peer-Reviewed_Newspaper_Researching_BWPWAP_2013.pdf
+- https://manuelbuerger.com/bwpwapnewspaper
+
 ## Tweet references
 - **2013-02-02** — @codedcultures — “"the act of moving information without filtering just creates more information" #BWPWAP #tm13”
   - URL: https://x.com/parasew/status/297749308336386048
