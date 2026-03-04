@@ -1,23 +1,32 @@
 ---
-title: "Hardcore Cypherpunk Values"
-date: 2024-10-05T12:00:00+01:00
-draft: false
-location: "Paralelní Polis, Prague"
-country: "Czech Republic"
-startdate: "2024-10-05"
-category: meetup"
+title: "HCPP24: Hardcore Cypherpunk Values"
+date: 2024-10-05
+startdate: 2024-10-05
+category: meetup
 role: riat_talk
+location: "Paralelní Polis, Prague"
+city: Prague
+country: Czech Republic
 ---
+# HCPP24: Hardcore Cypherpunk Values
 
-### Description
-Matthias Tarasiewicz discusses "Hardcore Cypherpunk Values" at the Hackers Congress Paralelní Polis 2024 (HCPP24). The talk explores the fundamental principles of the cypherpunk movement, their evolution, and their necessity in the current digital landscape.
+## Summary
+Matthias Tarasiewicz (RIAT Institute) presented **Hardcore Cypherpunk Values** at Hackers Congress Paralelní Polis 2024 (HCPP24). The talk revisits cypherpunk principles, connects them to verifiable hardware and education, and argues that scaling technology must be matched by **scaling values**.
 
-### Beschreibung (DE)
-Matthias Tarasiewicz spricht auf dem Hackers Congress Paralelní Polis 2024 (HCPP24) über „Hardcore Cypherpunk Values“. Der Vortrag untersucht die grundlegenden Prinzipien der Cypherpunk-Bewegung, ihre Entwicklung und ihre Notwendigkeit in der heutigen digitalen Landschaft.
+## Key themes
+- Scaling technology vs. scaling values
+- Cypherpunk values and tactics
+- Verifiable hardware and sovereign computing practices
+- Education and capability-building (workshops, reverse engineering)
 
-### References
-- https://www.youtube.com/watch?v=PhO7TflQjpg
-- https://hcpp.cz/
+## Sources
+- Event site: https://hcpp.cz/
+- Talk video: https://www.youtube.com/watch?v=PhO7TflQjpg
+- RIAT: https://www.riat.at
+- OSHWA Open Hardware Month: https://ohm.oshwa.org/
+
+## Related documents (local)
+- Slides: `RIAT_INSTITUTE/PRESENTATIONS/2025-10-04_mt_parasew_dark_prague/slides/2024-10-06_HCPP_Hardcore.pdf`
 
 ## Archive snapshots
 - https://www.youtube.com/watch?v=PhO7TflQjpg
