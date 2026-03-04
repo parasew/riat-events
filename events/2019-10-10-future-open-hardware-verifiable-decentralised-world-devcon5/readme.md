@@ -1,40 +1,24 @@
 ---
-title: "Future of Open Hardware in a (Verifiable) Decentralised World"
-date: 2019-10-10T13:00:00+09:00
-draft: false
+title: "Devcon 5: Future of Open Hardware in a (Verifiable) Decentralised World"
+date: 2019-10-10
+startdate: 2019-10-10
+category: talk
+role: riat_talk
 location: "Ethereum Devcon 5"
 city: Osaka
 country: Japan
-startdate: "2019-10-10"
-category: talk
 ---
+# Devcon 5: Future of Open Hardware in a (Verifiable) Decentralised World
 
-RIAT archive lecture entry at Devcon 5 (Osaka), presented by Matthias Tarasiewicz.
+## Summary
+RIAT presented a talk at Ethereum Devcon 5 (Osaka) on open hardware as a foundation for verifiable, decentralized systems.
 
-## Validation notes
-- Date/time/location/title from RIAT archive index.
-- Talk title and speaker corroborated via EF Devcon data (`devcon-5` session metadata).
-
-## Resources
-- RIAT archive index:
-  - https://github.com/parasew/riat-events/blob/master/archive/README.md
-- Devcon session metadata (EF monorepo):
-  - https://raw.githubusercontent.com/efdevcon/monorepo/master/devcon-api/data/sessions/devcon-5/future-of-open-hardware-in-a-verifiable-decentralised-world.json
-- Video:
-  - https://www.youtube.com/watch?v=bAkYIyMJVaY
-- Andrew Newman context:
-  - https://www.andrewnewman.net/riat-at-open-hardware-summit-denver/
+## Sources
+- Devcon session metadata: https://raw.githubusercontent.com/efdevcon/monorepo/master/devcon-api/data/sessions/devcon-5/future-of-open-hardware-in-a-verifiable-decentralised-world.json
+- Video: https://www.youtube.com/watch?v=bAkYIyMJVaY
 
 ## Archive snapshots
-- YouTube (Wayback):
-  - https://web.archive.org/web/20220902122706/https://www.youtube.com/watch?v=bAkYIyMJVaY
-
-- https://github.com/parasew/riat-events/blob/master/archive/README.md
-- https://raw.githubusercontent.com/efdevcon/monorepo/master/devcon-api/data/sessions/devcon-5/future-of-open-hardware-in-a-verifiable-decentralised-world.json
 - https://www.youtube.com/watch?v=bAkYIyMJVaY
-- https://www.andrewnewman.net/riat-at-open-hardware-summit-denver/
-  - https://web.archive.org/web/20230323013907/https://www.andrewnewman.net/riat-at-open-hardware-summit-denver/
-## Archive submission attempts
-- Submitted:
-  - https://www.youtube.com/watch?v=bAkYIyMJVaY
-  - https://raw.githubusercontent.com/efdevcon/monorepo/master/devcon-api/data/sessions/devcon-5/future-of-open-hardware-in-a-verifiable-decentralised-world.json
+  - https://web.archive.org/web/20220902122706/https://www.youtube.com/watch?v=bAkYIyMJVaY
+- https://raw.githubusercontent.com/efdevcon/monorepo/master/devcon-api/data/sessions/devcon-5/future-of-open-hardware-in-a-verifiable-decentralised-world.json
+  - https://web.archive.org/web/20260227064000/https://raw.githubusercontent.com/efdevcon/monorepo/master/devcon-api/data/sessions/devcon-5/future-of-open-hardware-in-a-verifiable-decentralised-world.json

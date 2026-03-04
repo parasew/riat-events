@@ -1,19 +1,22 @@
 ---
 title: "Shielding Summit 2024: The Frontiers of Privacy Panel"
-date: 2024-07-10T12:00:00+01:00
-draft: false
-location: "Brussels, Belgium"
-country: "Belgium"
-startdate: "2024-07-10"
-category: panel"
+date: 2024-07-10
+startdate: 2024-07-10
+category: panel
 role: participation
+location: "Brussels"
+city: Brussels
+country: Belgium
 ---
+# Shielding Summit 2024: The Frontiers of Privacy Panel
 
-Panel discussion 'The Frontiers of Privacy' featuring Vitalik Buterin (Ethereum), Zooko (Zcash), Christopher Goes, Matthias Tarasiewicz (RIAT), and Alex G. The panel explored the future of privacy technologies and regulatory challenges.
-Panel discussion 'The Frontiers of Privacy' with Vitalik Buterin, Zooko, Christopher Goes, Matthias Tarasiewicz & Alex G at Shielding Summit 2024.
+## Summary
+Matthias Tarasiewicz participated in **The Frontiers of Privacy** panel at Shielding Summit 2024, alongside Vitalik Buterin, Zooko, Christopher Goes, and Alex G, discussing the future of privacy tech and regulation.
 
-## Resources
-* https://www.youtube.com/watch?v=dOHPG0nniuA&t=181s
+## Sources
+- Summit forum post: https://forum.zcashcommunity.com/t/shielding-summit-10-july-2024-download-links-inside/48225
+- Summit site: https://shieldingsummit.org/
+- Video: https://www.youtube.com/watch?v=dOHPG0nniuA&t=181s
 
 ## Archive snapshots
 - https://forum.zcashcommunity.com/t/shielding-summit-10-july-2024-download-links-inside/48225
