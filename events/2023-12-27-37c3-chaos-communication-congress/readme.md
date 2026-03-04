@@ -1,24 +1,28 @@
 ---
-title: "37C3 Chaos Communication Congress"
+title: "37C3: Critical Decentralisation Cluster"
 date: 2023-12-27
 startdate: 2023-12-27
-category: congress
-role: participation
+enddate: 2023-12-30
+category: cluster
+role: co_organized
 location: "CCH"
 city: Hamburg
 country: Germany
 ---
-# 37C3 Chaos Communication Congress
+# 37C3: Critical Decentralisation Cluster
 
 ## Summary
-RIAT participated in 37C3 at the Congress Center Hamburg, including the Critical Decentralization Cluster program listing.
+The Critical Decentralisation Cluster at 37C3 hosted workshops and a recorded talks session (Saal D), providing space for privacy‑focused and decentralised tech communities.
 
 ## Sources
-- Congress info: https://events.ccc.de/congress/2023/infos/index.html
-- CDC event listing: https://events.ccc.de/congress/2023/hub/en/event/cdc-critical-decentralization-cluster-cluster-reco/
+- CDC hub: https://decentral.community/37C3/
+- CDC assembly listing: https://events.ccc.de/congress/2023/hub/en/assembly/CDC/
+- Recorded session: https://events.ccc.de/congress/2023/hub/en/event/cdc-critical-decentralization-cluster-cluster-reco/
+- CDC CFP (frab): https://frab.riat.at/en/37c3/cfp
+- C3Nav location: https://37c3.c3nav.de/l/c:0:135.5:159.25/
 
 ## Archive snapshots
-- https://events.ccc.de/congress/2023/infos/index.html
-  - https://web.archive.org/web/20231130213703/https://events.ccc.de/congress/2023/infos/index.html
-- https://events.ccc.de/congress/2023/hub/en/event/cdc-critical-decentralization-cluster-cluster-reco/
-  - https://web.archive.org/web/20231230210525/https://events.ccc.de/congress/2023/hub/en/event/cdc-critical-decentralization-cluster-cluster-reco/
+- https://decentral.community/37C3/
+  - https://web.archive.org/web/20260227064000/https://decentral.community/37C3/
+- https://events.ccc.de/congress/2023/hub/en/assembly/CDC/
+  - https://web.archive.org/web/20260227064000/https://events.ccc.de/congress/2023/hub/en/assembly/CDC/

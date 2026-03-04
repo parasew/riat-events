@@ -11,7 +11,9 @@ country: Germany
 # PoW Summit 2024: Scaling Technology vs. Scaling Values
 
 ## Summary
-Matthias Tarasiewicz presented **“Scaling Technology vs. Scaling Values: The Cypherpunk Dilemma”** at PoW Summit 2024, examining how social values like privacy and decentralization resist simple scaling, even as technology accelerates.
+Matthias Tarasiewicz presented **“Scaling Technology vs. Scaling Values: The Cypherpunk Dilemma”** at PoW Summit 2024. The talk contrasts scalable tech with the social/political nature of values, asking whether cypherpunk ideals can survive as the tech they inspired centralizes.
+
+Additionally, Matthias participated in the **Proof of Human Rights Privacy Panel** alongside Jarrad Hope, Mykola, and Jameson Lopp.
 
 ## Sources
 - Speaker profile: https://cfp.powsummit.com/2024/speaker/QUBK9C/
