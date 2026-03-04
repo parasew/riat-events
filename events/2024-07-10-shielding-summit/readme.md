@@ -10,8 +10,15 @@ country: Belgium
 ---
 # Shielding Summit 2024: The Frontiers of Privacy Panel
 
+![Frontiers of Privacy panel](./images/1811047543821795611.jpg)
+
 ## Summary
 Matthias Tarasiewicz participated in **The Frontiers of Privacy** panel at Shielding Summit 2024, alongside Vitalik Buterin, Zooko, Christopher Goes, and Alex G, discussing the future of privacy tech and regulation.
+
+## Tweet references
+- **2024-07-10** — @BobSummerwill — “The Frontiers of Privacy at @ShieldingSummit with @zooko, @VitalikButerin, @cwgoes, @parasew, @gluk64 and @awasunyin.”
+  - URL: https://x.com/BobSummerwill/status/1811047543821795611
+  - Media: images/1811047543821795611.jpg
 
 ## Sources
 - Summit forum post: https://forum.zcashcommunity.com/t/shielding-summit-10-july-2024-download-links-inside/48225
