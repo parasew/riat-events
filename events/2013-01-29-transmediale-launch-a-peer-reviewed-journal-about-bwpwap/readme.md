@@ -1,7 +1,7 @@
 ---
 startdate: 2013-01-29
 category: launch
-title: Transmediale: Launch – A Peer-Reviewed Journal About #BWPWAP
+title: "Transmediale: Launch – A Peer-Reviewed Journal About #BWPWAP"
 ---
 ## Tweet references
 - **2013-02-02** — @codedcultures — “"the act of moving information without filtering just creates more information" #BWPWAP #tm13”
