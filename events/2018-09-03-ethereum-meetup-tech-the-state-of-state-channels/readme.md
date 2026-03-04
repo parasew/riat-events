@@ -9,3 +9,6 @@ title: [Ethereum Meetup] (Tech) The State of State Channels
   - Links: https://riat.at/academy/
 
 ## Archive snapshots
+- https://riat.at/academy/
+  - https://web.archive.org/web/20171111074306/https://riat.at/academy/
+
