@@ -12,4 +12,8 @@ title: [Research Cultures] Patricia J. Reis: Penetrating the Black Box
   - Links: https://x.com/codedcultures https://x.com/codedcultures/status/736540547641421824 https://x.com/dcuartielles https://www.youtube.com/watch?v=vpU4i29nGds
 
 ## Archive snapshots
+- https://x.com/parasew
+  - https://web.archive.org/web/20250219005528/https://x.com/parasew
+- https://www.youtube.com/watch?v=vpU4i29nGds
+  - https://web.archive.org/web/20191120042705/https://www.youtube.com/watch?v=vpU4i29nGds
 

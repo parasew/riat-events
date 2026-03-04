@@ -25,3 +25,12 @@ Faceless exhibition at Mediamatic (Amsterdam). Cooperation with Artistic Bokeh; 
   - Media: _CACHE/twitter_media/427112763572625408_2bf5accb53f0.jpg
 
 ## Archive snapshots
+- https://www.mediamatic.net/en/page/14429/faceless
+  - https://web.archive.org/web/20190220153849/https://www.mediamatic.net/en/page/14429/faceless
+- https://www.mediamatic.net/en/page/30044/faceless-opening
+  - https://web.archive.org/web/20190818030707/https://www.mediamatic.net/en/page/30044/faceless-opening
+- https://networkcultures.org/blog/2014/04/16/art-of-masks-faceless-at-mediamatic/
+  - https://web.archive.org/web/20140701092347/https://networkcultures.org/blog/2014/04/16/art-of-masks-faceless-at-mediamatic/
+- https://www.martinbackes.com/faceless-exhibition-amsterdam/
+  - https://web.archive.org/web/20140129234135/https://www.martinbackes.com/faceless-exhibition-amsterdam/
+

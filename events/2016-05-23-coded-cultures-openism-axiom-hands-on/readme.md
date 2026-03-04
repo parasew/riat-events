@@ -12,4 +12,6 @@ title: [Coded Cultures Openism] AXIOM Hands On
   - Links: https://x.com/codedcultures https://x.com/codedcultures/status/736540547641421824 https://x.com/dcuartielles https://www.youtube.com/watch?v=vpU4i29nGds
 
 ## Archive snapshots
+- https://www.youtube.com/watch?v=vpU4i29nGds
+  - https://web.archive.org/web/20191120042705/https://www.youtube.com/watch?v=vpU4i29nGds
 
