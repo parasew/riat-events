@@ -8,6 +8,14 @@ title: "Launch: APRJA — A Peer-Reviewed Journal About #BWPWAP"
 ## Summary
 Launch of **APRJA (A Peer‑Reviewed Journal About #BWPWAP)** at transmediale 2013. This launch is directly connected to the #BWPWAP workshop; the peer‑reviewed **newspaper** (Researching #BWPWAP) is fed by the journal’s contents.
 
+## Organizers / institutional context
+- Leuphana University of Lüneburg
+- Aarhus University
+- reSource transmedial culture / transmediale
+
+## Publication note
+- APRJA Vol. 2 No. 1 (#BWPWAP) — published 2013‑11‑29 (issue page)
+
 ## Connected events
 - Workshop context: Researching BWPWAP (Back When Pluto Was a Planet) workshop — `../2012-11-22-researching-bwpwap-transmediale-workshop/readme.md`
 
@@ -15,8 +23,10 @@ Launch of **APRJA (A Peer‑Reviewed Journal About #BWPWAP)** at transmediale 20
 - https://aprja.net/issue/view/8375
 - https://aprja.net/article/view/121120 (DOI: https://doi.org/10.7146/aprja.v2i1.121120)
 - https://aprja.net/article/view/121126 (DOI: https://doi.org/10.7146/aprja.v2i1.121126)
-- https://monoskop.org/File:A_Peer-Reviewed_Newspaper_Researching_BWPWAP_2013.pdf
-- https://manuelbuerger.com/bwpwapnewspaper
+
+## Related documents
+- Researching #BWPWAP peer‑reviewed newspaper (PDF): https://monoskop.org/File:A_Peer-Reviewed_Newspaper_Researching_BWPWAP_2013.pdf
+- Project page: https://manuelbuerger.com/bwpwapnewspaper
 
 ## Tweet references
 - **2013-02-02** — @codedcultures — “"the act of moving information without filtering just creates more information" #BWPWAP #tm13”

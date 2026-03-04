@@ -9,11 +9,20 @@ country: Germany
 ### Description
 International Research Conference and PhD Workshop at Leuphana University (Lüneburg). Students and researchers met to present their activities and reflect on networked research practices. Outcomes fed into APRJA’s #BWPWAP issue and culminated in a P2P‑reviewed newspaper presented in the framework of transmediale 2013.
 
+### Organizers / institutional context
+- Leuphana University of Lüneburg
+- Aarhus University
+- reSource transmedial culture / transmediale
+
 ### References
 - https://transmediale.de/content/researching-bwpwap-programme-events
 - http://www.darc.imv.au.dk/worldofthenewspaper.pdf
 - https://aprja.net/issue/view/8375
-- https://aprja.net/article/view/121120
+- https://aprja.net/article/view/121120 (DOI: https://doi.org/10.7146/aprja.v2i1.121120)
+
+## Related documents
+- Researching #BWPWAP peer‑reviewed newspaper (PDF): https://monoskop.org/File:A_Peer-Reviewed_Newspaper_Researching_BWPWAP_2013.pdf
+- Project page: https://manuelbuerger.com/bwpwapnewspaper
 
 ## Connected events
 - APRJA launch at transmediale 2013 — `../2013-01-29-transmediale-launch-a-peer-reviewed-journal-about-bwpwap/readme.md`
