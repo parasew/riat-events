@@ -11,6 +11,8 @@ country: Germany
 ---
 # 39C3: Critical Decentralisation Cluster
 
+![39C3 CDC](./images/PXL_20251227_065038537.jpg)
+
 ## Summary
 The Critical Decentralisation Cluster (CDC) returned to 39C3, bringing together assemblies and projects working on decentralised infrastructure, privacy, and open hardware. RIAT co‑organized the cluster with community partners.
 
