@@ -119,4 +119,4 @@ The workshop strengthened Vienna's position as:
 The "Workshop/Sweatshop" event exemplified the depth and seriousness of the Making Artistic Technology series, using hands-on making as a way to explore complex questions about labor, production, ethics, and technology's role in society.
 
 ## Archive snapshots
-- http://furtherfield.org/community/calendar/workshopsweatshop-vaporfolk-hollyvoodoo-sponsored-amazon-readymades
+

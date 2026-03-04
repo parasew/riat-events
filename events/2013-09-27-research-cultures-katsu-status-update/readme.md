@@ -37,7 +37,7 @@ website: https://www.mqw.at/en/program/programmdetail/katsu-status-update-1/
   - URL: https://x.com/parasew/status/398805164028878849
 - **2013-10-30** — @parasew — “Ars Electronica: #ironisch? "für SeniorInnen: Die Erde begreifen"”
   - URL: https://x.com/parasew/status/395539110896865280
-  - Links: https://ars.electronica.art/center/fur-seniorinnen-die-erde-begreifen-2/, https://twitpic.com/djbf8s
+  - Links: https://ars.electronica.art/center/fur-seniorinnen-die-erde-begreifen-2/ https://twitpic.com/djbf8s
 - **2013-10-29** — @parasew — “#FACELESS part 2 presents q/Talk with artist Adam Harvey TODAY Tue, Oct 29, 19:00 Location: Raum D / quartier21/MQ #quintessenz”
   - URL: https://x.com/parasew/status/395174552361521152
 - **2013-10-07** — @parasew — “bitcoincloud will be in t. Museum of Contemporary Art Vojvodina, Novi Sad / 01/06/2013 at the "Autonomies" Exhibition”
@@ -100,12 +100,8 @@ website: https://www.mqw.at/en/program/programmdetail/katsu-status-update-1/
 
 ## Archive snapshots
 - https://web.archive.org/web/20140913040141/http://artisticbokeh.com//post/katsu-status-update
-- https://en.wikipedia.org/wiki/KATSU
-  - https://web.archive.org/web/20260225054128/https://en.wikipedia.org/wiki/KATSU
+  - https://en.wikipedia.org/wiki/KATSU
 - https://web.archive.org/web/20140913040141/http://artisticbokeh.com//post/katsu-status-update
-
-- https://web.archive.org/web/20140913040141/http://artisticbokeh.com//post/katsu-status-update
-- https://www.mqw.at/en/program/programmdetail/katsu-status-update-1/
+  - https://www.mqw.at/en/program/programmdetail/katsu-status-update-1/
 - https://www.gizmodo.com/5993320/mark-zuckerberg-pummeled-and-posterized
-- https://web.archive.org/web/20140913040141/http://www.mqw.at/no_cache/ru/programm/?tx_mqprogramm_pi1%5Beventid%5D=10979&cHash=d60a25f9fa7294a1f65a5f0e5056f21a
-- https://web.archive.org/web/20140913040141/http://blog.artisticbokeh.com/wp-content/uploads/2014/02/Screenshot-2014-02-21-20.38.19.png
+  - https://web.archive.org/web/20140913040141/http://www.mqw.at/no_cache/ru/programm/?tx_mqprogramm_pi1%5Beventid%5D=10979&cHash=d60a25f9fa7294a1f65a5f0e5056f21a

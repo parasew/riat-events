@@ -11,7 +11,7 @@ category: conference
 ## Tweet references
 - **2020-03-13** — @parasew — “ BeagleBoard.org and open hardware community advance environmental testing for COVID-19 to help clean up schools and libraries as overheard at the Open Hardware Summit 2020 @ohsummit #OpenCovid19Initiative #ohs2020virtual”
   - URL: https://x.com/beagleboardorg/status/1238456278969696261
-  - Links: https://www.beagleboard.org/, https://old.beagle.cc/blog/2629
+  - Links: https://www.beagleboard.org/ https://old.beagle.cc/blog/2629
   - Media: _CACHE/twitter_media/1238456278969696261_d444244fafcf.jpg
 - **2020-03-12** — @parasew — “Today we launch the CERN Open Hardware Licence version 2! linkedin.com/posts/andrewjs katz_cern-launches-open-hardware-licence-v2-activity-6643870717114896384-y9op …”
   - URL: https://x.com/andrewjskatz/status/1238111966780063744
@@ -28,5 +28,3 @@ category: conference
   - https://web.archive.org/web/20260225053712/https://www.eventbrite.com/e/open-hardware-summit-2020-special-edition-10th-anniversary-tickets-65367109785
 - https://www.evilmadscientist.com/2020/open-hardware-summit-2020/
   - https://web.archive.org/web/20260225053712/https://www.evilmadscientist.com/2020/open-hardware-summit-2020/
-
-![Archive Image](./images/20201031_1.jpg)

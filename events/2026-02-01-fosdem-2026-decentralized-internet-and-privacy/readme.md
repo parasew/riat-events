@@ -18,7 +18,7 @@ The *Decentralized Internet and Privacy Devroom* at FOSDEM 2026 featured talks f
 ## Tweet references
 - **2026-01-31** — @riat_at — “RIAT &”
   - URL: https://x.com/parasew/status/2017630540480880745
-  - Links: https://decentral.community/, https://fosdem.org/2026/schedule/track/decentralized-internet-and-privacy/
+  - Links: https://decentral.community/ https://fosdem.org/2026/schedule/track/decentralized-internet-and-privacy/
 
 ## Archive snapshots
 - https://fosdem.org/2026/schedule/track/decentralized-internet-and-privacy/

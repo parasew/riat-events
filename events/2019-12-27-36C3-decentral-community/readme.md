@@ -13,7 +13,7 @@ category: meetup
   - Links: https://www.youtube.com/watch?v=Krftz3Y39sg
 - **2019-12-28** — @parasew — “The stream for day2 at”
   - URL: https://x.com/parasew/status/1210898510499000320
-  - Links: https://decentral.community/, https://www.youtube.com/watch?v=mc51zyflpa8
+  - Links: https://decentral.community/ https://www.youtube.com/watch?v=mc51zyflpa8
 - **2019-12-28** — @parasew — “Curious about the Truecrypt audit that @BSI_Bund kept secret for 9 years and that got revealed by a request through @fragdenstaat ? I'll give a talk at the decentralization cluster at #36c3 at 2pm”
   - URL: https://x.com/hanno/status/1210857399168487424
   - Links: https://frab.riat.at/en/36C3/public/events/121
@@ -32,7 +32,4 @@ category: meetup
 - https://live.staticflickr.com/8754/17300538715_718c57b25e_o_d.jpg
   - https://web.archive.org/web/20260225053710/https://live.staticflickr.com/8754/17300538715_718c57b25e_o_d.jpg
 - https://www.reddit.com/r/Monero/comments/eg9k6h/36c3_cdc_critical_decentralisation_cluster/
-- https://www.reddit.com/r/Monero/comments/efuoxq/monero_at_the_36c3_chaos_communication_congress/
-- https://podme.com/se/avsnitt/3502752/
-
-![Archive Image](./images/20191227_1.jpg)
+  - https://www.reddit.com/r/Monero/comments/efuoxq/monero_at_the_36c3_chaos_communication_congress/

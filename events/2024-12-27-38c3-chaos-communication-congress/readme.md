@@ -16,5 +16,4 @@ role: participation
 - https://events.ccc.de/congress/2024/hub/en/event/critical_decentralization_cluster/
 
 ## Archive snapshots
-- https://events.ccc.de/congress/2024/
-- https://events.ccc.de/congress/2024/hub/en/event/critical_decentralization_cluster/
+

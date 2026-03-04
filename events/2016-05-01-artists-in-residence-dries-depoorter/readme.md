@@ -10,4 +10,4 @@ title: "[Artists-in-residence] Dries Depoorter"
 * https://www.q21.at/artists-in-residence/
 
 ## Archive snapshots
-- https://www.q21.at/artists-in-residence/
+

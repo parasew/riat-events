@@ -17,7 +17,7 @@ website: https://www.mqw.at/no_cache/programm/?tx_mqprogramm_pi1%5Beventid%5D=99
   - URL: https://x.com/parasew/status/398805164028878849
 - **2013-10-30** — @parasew — “Ars Electronica: #ironisch? "für SeniorInnen: Die Erde begreifen"”
   - URL: https://x.com/parasew/status/395539110896865280
-  - Links: https://ars.electronica.art/center/fur-seniorinnen-die-erde-begreifen-2/, https://twitpic.com/djbf8s
+  - Links: https://ars.electronica.art/center/fur-seniorinnen-die-erde-begreifen-2/ https://twitpic.com/djbf8s
 - **2013-10-07** — @parasew — “bitcoincloud will be in t. Museum of Contemporary Art Vojvodina, Novi Sad / 01/06/2013 at the "Autonomies" Exhibition”
   - URL: https://x.com/bitcoincloud/status/387296402084478976
   - Links: https://napon.org/
@@ -50,13 +50,10 @@ website: https://www.mqw.at/no_cache/programm/?tx_mqprogramm_pi1%5Beventid%5D=99
 
 ## Archive snapshots
 - https://web.archive.org/web/20140913040141/http://artisticbokeh.com//
-- https://goo.gl/Q42a1
-  - https://web.archive.org/web/20260225054133/https://goo.gl/Q42a1
+  - https://goo.gl/Q42a1
 - https://twitter.com/artisticbokeh
   - https://web.archive.org/web/20260225054133/https://twitter.com/artisticbokeh
-
 - https://www.mqw.at/no_cache/programm/?tx_mqprogramm_pi1%5Beventid%5D=9977&cHash=671fe221a686a9fc4219d7eb9814e73b
-- https://www.flickr.com/photos/artisticbokeh/sets/72157634440642553/
+  - https://www.flickr.com/photos/artisticbokeh/sets/72157634440642553/
 - https://web.archive.org/web/20140913043249/http://www.mqw.at/no_cache/programm/?tx_mqprogramm_pi1%5Beventid%5D=9977&cHash=671fe221a686a9fc4219d7eb9814e73b
-- https://web.archive.org/web/20160304034444/http://artisticbokeh.com/
-- https://twitter.com/atechres
+  - https://web.archive.org/web/20160304034444/http://artisticbokeh.com/

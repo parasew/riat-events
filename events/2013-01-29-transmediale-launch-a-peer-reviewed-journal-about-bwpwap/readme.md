@@ -8,7 +8,7 @@ title: Transmediale: Launch – A Peer-Reviewed Journal About #BWPWAP
   - URL: https://x.com/parasew/status/297749308336386048
 - **2013-02-01** — @codedcultures — “Wolfgang Ernst and Jussi Parikka at #transmediale #bwpwap”
   - URL: https://x.com/artisticbokeh/status/297356203560943617
-  - Links: https://bit.ly/VsztXH, https://twitpic.com/c01g4i
+  - Links: https://bit.ly/VsztXH https://twitpic.com/c01g4i
 - **2013-02-01** — @codedcultures — “pic from yesterday: Mind the Volcano, "text-based, TV-performance with a typewriter logic" #c64 #teletext #bwpwap”
   - URL: https://x.com/artisticbokeh/status/297318524131635201
   - Links: https://twitpic.com/c000le
@@ -38,10 +38,10 @@ title: Transmediale: Launch – A Peer-Reviewed Journal About #BWPWAP
   - URL: https://x.com/joonian/status/297341378780884993
 - **2013-02-01** — @atechres — “Jussi Parikka "Digital Memory and the Archive & What is Media Archaeology" starting soon”
   - URL: https://x.com/artisticbokeh/status/297349409786707968
-  - Links: https://archive.transmediale.de/content/digital-memory-and-the-archive-what-is-media-archaeology, https://twitpic.com/c016he
+  - Links: https://archive.transmediale.de/content/digital-memory-and-the-archive-what-is-media-archaeology https://twitpic.com/c016he
 - **2013-02-01** — @atechres — “Geoff Cox at #transmediale #bwpwap SPEAKING CODE: CODING AS AESTHETIC AND POLITICAL EXPRESSION”
   - URL: https://x.com/artisticbokeh/status/297338775179235329
-  - Links: https://archive.transmediale.de/content/speaking-code-coding-as-aesthetic-and-political-expression, https://twitpic.com/c00rgv
+  - Links: https://archive.transmediale.de/content/speaking-code-coding-as-aesthetic-and-political-expression https://twitpic.com/c00rgv
 - **2013-01-30** — @atechres — “Big data is about finding patterns, not truth”
   - URL: https://x.com/atechres/status/296623045227991040
   - Links: https://www.wired.com/news/archive/2013-01/25/big-data-end-of-theory
@@ -66,7 +66,7 @@ title: Transmediale: Launch – A Peer-Reviewed Journal About #BWPWAP
   - Links: https://transmediale.de/en
 - **2013-01-30** — @parasew — “PNEUMAtic circUS @ OCTO // rohrpost system (Vittore Baroni)”
   - URL: https://x.com/artisticbokeh/status/296634407840784385
-  - Links: https://archive.transmediale.de/de/content/pneumatic-circus-octo, https://twitpic.com/bzj6xz
+  - Links: https://archive.transmediale.de/de/content/pneumatic-circus-octo https://twitpic.com/bzj6xz
 - **2013-01-30** — @parasew — ““paper is not revolutionary media” #bwpwap #transmediale”
   - URL: https://x.com/parasew/status/296625026986303489
 - **2013-01-30** — @artisticbokeh — “ReFunct Media#5 at #transmediale #bwpwap”
