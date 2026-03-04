@@ -7,10 +7,11 @@ city: Berlin
 country: Germany
 ---
 ### Description
-Workshop session titled **Researching BWPWAP (Back When Pluto Was a Planet)** listed in the Transmediale festival program (Berlin, 2012).
+International Research Conference and PhD Workshop at Luphana University. Students and researchers met to present their activities and reflect on further networked research practices. The work culminated in a P2P‑reviewed newspaper presented in the framework of transmediale 2013.
 
 ### References
 - https://transmediale.de/content/researching-bwpwap-programme-events
+- http://www.darc.imv.au.dk/worldofthenewspaper.pdf
 
 
 ## Tweet references
