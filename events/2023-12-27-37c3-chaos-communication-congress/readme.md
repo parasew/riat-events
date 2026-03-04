@@ -12,7 +12,7 @@ country: Germany
 # 37C3: Critical Decentralisation Cluster
 
 ## Summary
-The Critical Decentralisation Cluster at 37C3 hosted workshops and a recorded talks session (Saal D), providing space for privacy‑focused and decentralised tech communities.
+The Critical Decentralisation Cluster (CDC) at 37C3 hosted a dedicated hub for privacy‑focused and decentralised tech communities, including workshops and a recorded talks session. The decentral.community hub page links to the CDC assembly listing, the recorded session, and the CFP for additional program contributions.
 
 ## Organizers
 RIAT, Department of Decentralisation, FOSSASIA, Namecoin, Replicant, Social Dist0rtion Protocol, Swiss Cryptoeconomics.

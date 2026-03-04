@@ -15,7 +15,7 @@ country: Germany
 ![CDC layout sketch](./images/1863934408643748037.jpg)
 
 ## Summary
-At 38C3, the **Critical Decentralisation Cluster (CDC)** hosted talks and workshops on decentralisation, privacy, and open hardware. The cluster also contributed to the Community Stages program.
+At 38C3, the **Critical Decentralisation Cluster (CDC)** hosted a hub for decentralisation, privacy, and open‑hardware communities, with assemblies coordinated via decentral.community and a published pretalx schedule. The CDC location is listed as **I2‑K3, Hall H, Level 0** (CCH), with the Matrix room **#cdc:dod.ngo** for coordination.
 
 ## Participating assemblies (full list)
 - RIAT
