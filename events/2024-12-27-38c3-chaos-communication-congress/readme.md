@@ -14,15 +14,35 @@ country: Germany
 ## Summary
 At 38C3, the **Critical Decentralisation Cluster (CDC)** hosted talks and workshops on decentralisation, privacy, and open hardware. The cluster also contributed to the Community Stages program.
 
-## Participating assemblies (selection)
-RIAT, Monero, Replicant, Namecoin, GNU Boot, Social Dist0rtion Protocol, FOSSASIA, Swiss Cryptoeconomics, Department of Decentralisation, Ethereum Foundation, Reticulum, Radicle, Crypto Commons, Off‑Grid Messaging, and others.
+## Participating assemblies (full list)
+- RIAT
+- MoneroKon / Monero Community
+- Replicant
+- Namecoin
+- GNU Boot
+- Social Dist0rtion Protocol
+- FOSSASIA
+- Swiss Cryptoeconomics
+- Department of Decentralisation
+- Ethereum Foundation
+- Reticulum
+- Radicle
+- Crypto Commons
+- Off‑Grid Messaging
+- Sibermerdeka
+- HSBXL (Hackerspace Brussels / Squirrel)
+
+## Location & comms
+- Hall H, I2‑K3 (C3Nav): https://38c3.c3nav.de/l/cdc/@0,162.43,118.74,3.75
+- Matrix: #cdc:dod.ngo
+- Email: c3 at RIAT’s domain
 
 ## Sources
 - CDC hub: https://decentral.community/38C3/
 - CDC assembly listing: https://events.ccc.de/congress/2024/hub/en/assembly/cdc/
 - CDC schedule (pretalx): https://pretalx.riat.at/38c3/schedule
 - Community stages CFP: https://content.events.ccc.de/cfp/38c3-community-stages/index.en.html
-- C3Nav location: https://38c3.c3nav.de/l/cdc/@0,162.43,118.74,3.75
+- Namecoin 38C3 summary: https://www.namecoin.org/2025/03/30/38c3-summary.html
 
 ## Archive snapshots
 - https://decentral.community/38C3/
