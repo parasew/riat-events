@@ -14,4 +14,8 @@ RIAT participation listed within **Open Hardware Dialogues** program (Japan Bloc
 - https://www.blockchainweek.jp/
 
 ## Archive snapshots
+- https://riat.at/open-hardware-dialogues/
+  - https://web.archive.org/web/20191021100453/https://riat.at/open-hardware-dialogues/
 - https://www.blockchainweek.jp/
+  - https://web.archive.org/web/20190722210156/https://www.blockchainweek.jp/
+

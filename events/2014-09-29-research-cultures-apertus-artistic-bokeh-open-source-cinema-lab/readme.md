@@ -37,3 +37,8 @@ website: https://www.mqw.at/programm/programmdetail/apertus-axiom-open-source-ci
 - https://apertus.org
 - https://www.indiegogo.com/projects/axiom-beta-the-first-open-digital-cinema-camera
 - https://web.archive.org/web/20150324004605/http://www.mqw.at/programm/programmdetail/apertus-axiom-open-source-cinema-lab/
+
+
+## Facebook Images
+
+This event has been enhanced with 10 images from the Facebook album "Apertus Open Source Cinema Lab" (imported March 5, 2026).

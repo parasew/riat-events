@@ -19,3 +19,8 @@ category: workshop
   - http://web.archive.org/web/20160519201227/http://www.ots.at:80/a/OBS_20160517_OBS0003
 - https://www.facebook.com/events/606668406160374/
   - https://web.archive.org/web/20260224204500/https://www.facebook.com/events/606668406160374/
+
+## Facebook event capture (local)
+- Event URL: https://www.facebook.com/events/543785985808927/
+- Metadata: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/codedcultures/events/543785985808927/event_metadata.json
+- Cover image: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/codedcultures/events/543785985808927/cover.jpg

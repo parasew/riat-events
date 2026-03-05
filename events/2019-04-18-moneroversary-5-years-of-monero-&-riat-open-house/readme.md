@@ -38,3 +38,8 @@ Bring Monero-related artefacts from the past years!
   - https://web.archive.org/web/20260225053710/https://www.eventbrite.com/e/moneroversary-5-years-of-monero-riat-open-house-tickets-60462051624#
 - https://www.facebook.com/events/370653886870162/
   - https://web.archive.org/web/20260225053710/https://www.facebook.com/events/370653886870162/
+
+## Facebook event capture (local)
+- Event URL: https://www.facebook.com/events/370653886870162/
+- Metadata: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/riat.ac.at/events/370653886870162/event_metadata.json
+- Cover image: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/riat.ac.at/events/370653886870162/cover.jpg

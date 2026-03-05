@@ -41,3 +41,8 @@ David Kontra is the xo-founder of BINARIA, a platform founded in Mexico City in 
 ## Local Archive
 
 *Note: Critical Coded Cultures materials (programs, flyers, posters) are preserved in the local archive at `documents/codedcultures/`.*
+
+## Facebook event capture (local)
+- Event URL: https://www.facebook.com/events/253405355048727/
+- Metadata: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/codedcultures/events/253405355048727/event_metadata.json
+- Cover image: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/codedcultures/events/253405355048727/cover.jpg

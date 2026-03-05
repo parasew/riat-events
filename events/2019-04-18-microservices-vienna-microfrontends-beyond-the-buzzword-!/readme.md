@@ -43,3 +43,8 @@ Christoph, Hans and Martin.
   - https://web.archive.org/web/20260225054132/https://www.eventbrite.com/e/microservices-vienna-microfrontends-beyond-the-buzzword-tickets-59375635123#
 - https://www.facebook.com/events/686452968436693/
   - https://web.archive.org/web/20260225054132/https://www.facebook.com/events/686452968436693/
+
+## Facebook event capture (local)
+- Event URL: https://www.facebook.com/events/686452968436693/
+- Metadata: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/riat.ac.at/events/686452968436693/event_metadata.json
+- Cover image: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/riat.ac.at/events/686452968436693/cover.jpg

@@ -40,3 +40,8 @@ Student tickets also available - contact us at tm@riat.at for more information.
   - https://web.archive.org/web/20260225053710/https://www.eventbrite.com/e/smart-contract-development-with-ethereum-vienna-april-2019-tickets-56488119486#
 - https://www.facebook.com/events/1983523535284837/
   - https://web.archive.org/web/20260225053710/https://www.facebook.com/events/1983523535284837/
+
+## Facebook event capture (local)
+- Event URL: https://www.facebook.com/events/1983523535284837/
+- Metadata: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/riat.ac.at/events/1983523535284837/event_metadata.json
+- Cover image: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/riat.ac.at/events/1983523535284837/cover.jpg

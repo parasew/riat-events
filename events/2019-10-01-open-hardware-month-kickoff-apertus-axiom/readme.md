@@ -28,3 +28,8 @@ category: workshop
   - https://web.archive.org/web/20260225053710/https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/71178978_2610784328984187_6700465336166121472_o.jpg?_nc_cat=100&_nc_sid=b386c4&_nc_ohc=-m-E0FkXs_8AX-HQbVu&_nc_ht=scontent-vie1-1.xx&oh=033400823218ed9d328fe7527dd82a43&oe=5F834C36
 - https://www.facebook.com/events/388949381797827/
   - https://web.archive.org/web/20260225053710/https://www.facebook.com/events/388949381797827/
+
+## Facebook event capture (local)
+- Event URL: https://www.facebook.com/events/388949381797827/
+- Metadata: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/riat.ac.at/events/388949381797827/event_metadata.json
+- Cover image: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/riat.ac.at/events/388949381797827/cover.jpg

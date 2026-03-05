@@ -25,6 +25,11 @@ category: workshop
   - https://web.archive.org/web/20260225054135/https://www.eventbrite.com/e/open-hardware-europe-summit-tickets-25318639733#
 - https://www.facebook.com/events/828033510661894/
   - https://web.archive.org/web/20260225054135/https://www.facebook.com/events/828033510661894/
+
+## Facebook event capture (local)
+- Event URL: https://www.facebook.com/events/828033510661894/
+- Metadata: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/codedcultures/events/828033510661894/event_metadata.json
+- Cover image: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/codedcultures/events/828033510661894/cover.jpg
 - https://www.sfkb.at/books/openism/
   - https://web.archive.org/web/20260225081612/https://www.sfkb.at/books/openism/
 - https://monoskop.org/Open_hardware

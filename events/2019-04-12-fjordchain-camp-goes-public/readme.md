@@ -29,3 +29,8 @@ The results of the Fjordchain Camp 2018 will be presented and the theme and the 
   - https://web.archive.org/web/20260224204505/https://www.eventbrite.com/e/fjordchaincamp-meetup-tickets-59375571934#
 - https://www.facebook.com/events/2226827140867313/
   - https://web.archive.org/web/20200101000000/http://facebook.com
+
+## Facebook event capture (local)
+- Event URL: https://www.facebook.com/events/2226827140867313/
+- Metadata: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/riat.ac.at/events/2226827140867313/event_metadata.json
+- Cover image: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/riat.ac.at/events/2226827140867313/cover.jpg

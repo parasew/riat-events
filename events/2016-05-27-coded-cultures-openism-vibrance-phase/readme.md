@@ -50,3 +50,8 @@ Cost: Free
 ## Local Archive
 
 *Note: Critical Coded Cultures materials (programs, flyers, posters) are preserved in the local archive at `documents/codedcultures/`.*
+
+## Facebook event capture (local)
+- Event URL: https://www.facebook.com/events/553133171534218/
+- Metadata: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/codedcultures/events/553133171534218/event_metadata.json
+- Cover image: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/codedcultures/events/553133171534218/cover.jpg

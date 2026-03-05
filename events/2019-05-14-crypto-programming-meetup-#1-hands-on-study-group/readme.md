@@ -43,3 +43,8 @@ Afterwards feel free to chat with other cryptocurrency enthusiasts whatever else
   - https://web.archive.org/web/20260225054134/https://www.eventbrite.com/e/crypto-programming-meetup-1-hands-on-study-group-tickets-59375700318#
 - https://www.facebook.com/events/810211919345216/
   - https://web.archive.org/web/20260225054134/https://www.facebook.com/events/810211919345216/
+
+## Facebook event capture (local)
+- Event URL: https://www.facebook.com/events/810211919345216/
+- Metadata: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/riat.ac.at/events/810211919345216/event_metadata.json
+- Cover image: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/riat.ac.at/events/810211919345216/cover.jpg

@@ -16,4 +16,6 @@ Event listing for **“Yet Another Way of Sharing the Pie: An Afternoon with Alt
 - https://archive.ph/o/Mp54n/makinguse.artmuseum.pl/en/popoludnie-z-alternatywnymi-ekonomiami/
 
 ## Archive snapshots
-- https://archive.ph/o/Mp54n/makinguse.artmuseum.pl/en/popoludnie-z-alternatywnymi-ekonomiami/
+- https://makinguse.artmuseum.pl/en/popoludnie-z-alternatywnymi-ekonomiami/
+  - https://web.archive.org/web/20171006191725/https://makinguse.artmuseum.pl/en/popoludnie-z-alternatywnymi-ekonomiami/
+

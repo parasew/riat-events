@@ -15,4 +15,6 @@ category: meetup
   - Media: _CACHE/twitter_media/1056822235288166400_03d058cab70c.jpg
 
 ## Archive snapshots
+- https://riat.at/wp-content/uploads/2018/10/future-cryptoeconomics.jpg
+  - https://web.archive.org/web/20260304085104/https://riat.at/wp-content/uploads/2018/10/future-cryptoeconomics.jpg
 

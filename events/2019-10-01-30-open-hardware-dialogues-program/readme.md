@@ -16,4 +16,9 @@ Program overview entry for RIAT’s **Open Hardware Dialogues** within OSHWA Ope
 
 ## Archive snapshots
 - https://riat.at/open-hardware-dialogues/
+  - https://web.archive.org/web/20191021100453/https://riat.at/open-hardware-dialogues/
 - https://ohm.oshwa.org
+  - https://web.archive.org/web/20190729101908/https://ohm.oshwa.org
+- https://ohm.oshwa.org
+  - https://web.archive.org/web/20190729101908/https://ohm.oshwa.org
+

@@ -49,5 +49,10 @@ Meetup.com-Link:
 - https://www.meetup.com/de-DE/Tezos-Vienna/events/259790083/
 - https://www.facebook.com/events/2339416366120478/
   - https://web.archive.org/web/20200101000000/http://facebook.com
+
+## Facebook event capture (local)
+- Event URL: https://www.facebook.com/events/2339416366120478/
+- Metadata: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/riat.ac.at/events/2339416366120478/event_metadata.json
+- Cover image: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/riat.ac.at/events/2339416366120478/cover.jpg
 - https://www.meetup.com/de-DE/Tezos-Vienna/events/259790083/
 - https://www.eventbrite.com/e/tezos-vienna-meetup-1-tickets-59375465616

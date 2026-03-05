@@ -41,3 +41,8 @@ Vibrance brings together a selection of artists working with acoustic activity a
 ## Local Archive
 
 *Note: Critical Coded Cultures materials (programs, flyers, posters) are preserved in the local archive at `documents/codedcultures/`.*
+
+## Facebook event capture (local)
+- Event URL: https://www.facebook.com/events/1713919458896003/
+- Metadata: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/codedcultures/events/1713919458896003/event_metadata.json
+- Cover image: /home/parasew/.openclaw/workspace/riatlabs/RIAT_INSTITUTE/_facebook/codedcultures/events/1713919458896003/cover.jpg
