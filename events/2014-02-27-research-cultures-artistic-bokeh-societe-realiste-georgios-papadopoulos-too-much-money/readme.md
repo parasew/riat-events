@@ -90,18 +90,72 @@ This opening event launched a significant exhibition exploring the complex relat
 
 
 
-## Local Archive
+## Facebook Documentation
 
-**artisticbokeh.com icons preserved locally**:
+This event has been enhanced with **27 images** from the Facebook album documenting the exhibition opening (imported March 5, 2026 from riat.ac.at Facebook export).
 
+### Facebook Sources
+- **Facebook Event**: https://www.facebook.com/events/mq-museumsquartier-wien/artistic-bokeh-société-réaliste-georgios-papadopoulos-too-much-money-opening-272/619848824747223/
+  - Archive.org: https://web.archive.org/web/20200101000000/http://facebook.com
+- **Facebook Album**: https://m.facebook.com/media/set/?vanity=riat.ac.at&set=a.867841076611863
+  - Contains 27 exhibition photos documenting the opening event
 
-## Archive snapshots
-- https://www.esel.at/de/event/artistic-bokeh-societe-realiste-too-much-money--02vvBxhCsIkG1aawt7kgtQ
-  - https://web.archive.org/web/20260227062603/https://www.esel.at/de/event/artistic-bokeh-societe-realiste-too-much-money--02vvBxhCsIkG1aawt7kgtQ
-- https://www.mqw.at/en/institutions/q21/artists-in-residence/2014/georgios-papadopoulos
-  - https://web.archive.org/web/20191120062202/https://www.mqw.at/en/institutions/q21/artists-in-residence/2014/georgios-papadopoulos
+### Facebook Images
+![Exhibition setup](images/867841166611854.jpg)
+![Artwork detail](images/867841169945187.jpg)
+![Gallery view](images/867841296611841.jpg)
+![Opening crowd](images/867841303278507.jpg)
+![Artistic installation](images/867841346611836.jpg)
+![Exhibition space](images/867841803278457.jpg)
+![Visitors viewing](images/867841816611789.jpg)
+![Artwork close-up](images/867841856611785.jpg)
+![Gallery installation](images/867841903278447.jpg)
+![Exhibition details](images/867841966611774.jpg)
+![Opening reception](images/867841993278438.jpg)
+![Artistic display](images/867842056611765.jpg)
+![Gallery overview](images/867842079945096.jpg)
+![Exhibition pieces](images/867842106611760.jpg)
+![Artwork presentation](images/867842159945088.jpg)
+![Installation view](images/867842163278421.jpg)
+![Gallery space](images/867842306611740.jpg)
+![Exhibition setup](images/867842333278404.jpg)
+![Artistic details](images/867842359945068.jpg)
+![Gallery installation](images/867842383278399.jpg)
+![Exhibition view](images/867842409945063.jpg)
+![Artwork display](images/867842413278396.jpg)
+![Opening event](images/867842463278391.jpg)
+![Gallery presentation](images/867842519945052.jpg)
+![Exhibition space](images/867842553278382.jpg)
+![Artistic installation](images/867842569945047.jpg)
+![Final view](images/867842576611713.jpg)
+
+## Complete Source Documentation
+
+### Exhibition Pages
+- **Die Angewandte**: https://www.dieangewandte.at/ausstellungen/artistic_bokeh_societe_realiste__georgios_papadopoulos
+- **University of Applied Arts**: https://artscience.uni-ak.ac.at/activities/representing_sustainability__economic_discourse_and_artistic_practise
+
+### Interviews & Publications
+- **MQW Journal Interview**: https://www.mqw.at/mq-journal/2014/interview-mit-georgios-papadopoulus
+
+### Venue & Location
+- **eSeL.at Event**: https://www.esel.at/de/event/artistic-bokeh-societe-realiste-too-much-money--02vvBxhCsIkG1aawt7kgtQ
+- **eSeL.at Location**: https://www.esel.at/de/location/artistic-bokeh--02w3FIWoGuDaXlxIqHYCkY
+
+### Visual Documentation
+- **Flickr Photo**: https://www.flickr.com/photos/artisticbokeh/12816705944/
+- **Flickr Set**: https://www.flickr.com/photos/artisticbokeh/sets/72157641626930984/
+
+### Social Media
+- **Facebook Event**: https://www.facebook.com/events/mq-museumsquartier-wien/artistic-bokeh-société-réaliste-georgios-papadopoulos-too-much-money-opening-272/619848824747223/
+- **Facebook Album**: https://m.facebook.com/media/set/?vanity=riat.ac.at&set=a.867841076611863
+
+### Archive Snapshots
+- https://web.archive.org/web/20260227062603/https://www.esel.at/de/event/artistic-bokeh-societe-realiste-too-much-money--02vvBxhCsIkG1aawt7kgtQ
+- https://web.archive.org/web/20191120062202/https://www.mqw.at/en/institutions/q21/artists-in-residence/2014/georgios-papadopoulos
 - https://web.archive.org/web/20140913040141/http://artisticbokeh.com//post/artistic-bokeh-societe-realiste-georgios-papadopoulos-too-much-money-opening-27-2-2014
-
 - https://web.archive.org/web/20160304034444/http://artisticbokeh.com/
-- https://www.flickr.com/photos/artisticbokeh/sets/72157641626930984/
 - https://web.archive.org/web/20141016221021/http://artisticbokeh.com//post/artistic-bokeh-societe-realiste-georgios-papadopoulos-too-much-money-opening-27-2-2014
+
+## Local Archive Status
+All sources have been registered in the `sources_registry.db` database. Facebook images (27 photos) are preserved locally in the `images/` directory.
